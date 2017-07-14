@@ -1,6 +1,6 @@
 __author__ = 'dexter'
 
-import tsv.delim2cx as d2c
+import delim2cx as d2c
 import ndex.client as nc
 import ndex.beta.toolbox as toolbox
 import ndex.beta.layouts as layouts
