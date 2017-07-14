@@ -21,6 +21,6 @@
     "edge_plan": 
     {
         "default_predicate": "binds to",
-        "property_columns": ["EXPERIMENTAL_SYSTEM", "Greatness::float"]
+        "property_columns": ["EXPERIMENTAL_SYSTEM", "Float::float", "Boolean::boolean", "Char::char", "Integer::integer", "ListString::list_of_string", "ListFloat::list_of_float"]
     }
 }
