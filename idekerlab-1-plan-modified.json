@@ -1,8 +1,8 @@
 {
     "context": {
-            "genecards": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=",
-            "kegg" : "http://identifiers.org/keggpathway/",
-            "GO" : "http://www.ebi.ac.uk/QuickGO/GTerm?id=GO:"
+            "GeneCards": "http://identifiers.org/genecards/",
+            "KEGG Pathway" : "http://identifiers.org/keggpathway/",
+            "Gene Ontology" : "http://identifiers.org/go/"
         },
     "source_plan": 
     {
@@ -21,6 +21,6 @@
     "edge_plan": 
     {
         "default_predicate": "binds to",
-        "property_columns": ["EXPERIMENTAL_SYSTEM", "Float::float", "Boolean::boolean", "Char::char", "Integer::integer", "ListString::list_of_string", "ListFloat::list_of_float"]
+        "property_columns": ["EXPERIMENTAL_SYSTEM", "leastAppearances::float", "randBool::boolean", "firstLetters::char", "possibleSightings::integer", "favWords::list_of_string", "favFloat::list_of_float"]
     }
 }
