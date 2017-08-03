@@ -1,0 +1,1831 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500415863344,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500415789938,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":36,"idCounter":36,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":68,"idCounter":135,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":4,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":72,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":107,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":30,"idCounter":30,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":36,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"cyVisualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"ea2e9e3d-362d-11e5-8ac5-06603eb7f303","creationTime":1438200653502,"modificationTime":1500415863344,"visibility":"PUBLIC","published":false,"nodeCount":36,"edgeCount":68,"owner":"netpath","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":null,"creationEvent":null,"properties":[]}}]}, {"@context":[{
+  "cas" : "http://identifiers.org/cas/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "YWHAE"
+}, {
+  "@id" : 2,
+  "n" : "DHH"
+}, {
+  "@id" : 3,
+  "n" : "SDC2"
+}, {
+  "@id" : 4,
+  "n" : "HHIP"
+}, {
+  "@id" : 5,
+  "n" : "IHH"
+}, {
+  "@id" : 6,
+  "n" : "NR2E1"
+}, {
+  "@id" : 7,
+  "n" : "ARRB2"
+}, {
+  "@id" : 8,
+  "n" : "GLI1"
+}, {
+  "@id" : 9,
+  "n" : "GLI3"
+}, {
+  "@id" : 10,
+  "n" : "GLI2"
+}, {
+  "@id" : 11,
+  "n" : "MED12"
+}, {
+  "@id" : 12,
+  "n" : "SHH"
+}, {
+  "@id" : 13,
+  "n" : "HHAT"
+}, {
+  "@id" : 14,
+  "n" : "SIN3A"
+}, {
+  "@id" : 15,
+  "n" : "STK36"
+}, {
+  "@id" : 16,
+  "n" : "ADRBK1"
+}, {
+  "@id" : 17,
+  "n" : "SUFU"
+}, {
+  "@id" : 18,
+  "n" : "BOC"
+}, {
+  "@id" : 19,
+  "n" : "SAP18"
+}, {
+  "@id" : 20,
+  "n" : "PRKACA"
+}, {
+  "@id" : 21,
+  "n" : "CDON"
+}, {
+  "@id" : 22,
+  "n" : "MED1"
+}, {
+  "@id" : 23,
+  "n" : "SMAD1"
+}, {
+  "@id" : 24,
+  "n" : "CREBBP"
+}, {
+  "@id" : 25,
+  "n" : "PTCH1"
+}, {
+  "@id" : 26,
+  "n" : "PTCH2"
+}, {
+  "@id" : 27,
+  "n" : "DYRK1A"
+}, {
+  "@id" : 28,
+  "n" : "KIF7"
+}, {
+  "@id" : 29,
+  "n" : "MED6"
+}, {
+  "@id" : 30,
+  "n" : "KIF27"
+}, {
+  "@id" : 31,
+  "n" : "MED23"
+}, {
+  "@id" : 32,
+  "n" : "SKI"
+}, {
+  "@id" : 33,
+  "n" : "CDK8"
+}, {
+  "@id" : 34,
+  "n" : "SMO"
+}, {
+  "@id" : 35,
+  "n" : "GAS1"
+}, {
+  "@id" : 36,
+  "n" : "CTNNB1"
+}]}, {"edges":[{
+  "@id" : 28,
+  "s" : 2,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 30,
+  "s" : 2,
+  "t" : 26,
+  "i" : "interacts-with"
+}, {
+  "@id" : 26,
+  "s" : 2,
+  "t" : 4,
+  "i" : "interacts-with"
+}, {
+  "@id" : 129,
+  "s" : 3,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 88,
+  "s" : 4,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 86,
+  "s" : 4,
+  "t" : 5,
+  "i" : "interacts-with"
+}, {
+  "@id" : 90,
+  "s" : 5,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 92,
+  "s" : 5,
+  "t" : 26,
+  "i" : "interacts-with"
+}, {
+  "@id" : 108,
+  "s" : 6,
+  "t" : 23,
+  "i" : "interacts-with"
+}, {
+  "@id" : 6,
+  "s" : 7,
+  "t" : 34,
+  "i" : "interacts-with"
+}, {
+  "@id" : 47,
+  "s" : 8,
+  "t" : 1,
+  "i" : "interacts-with"
+}, {
+  "@id" : 41,
+  "s" : 8,
+  "t" : 14,
+  "i" : "interacts-with"
+}, {
+  "@id" : 43,
+  "s" : 8,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 45,
+  "s" : 8,
+  "t" : 17,
+  "i" : "interacts-with"
+}, {
+  "@id" : 39,
+  "s" : 8,
+  "t" : 19,
+  "i" : "interacts-with"
+}, {
+  "@id" : 76,
+  "s" : 9,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 82,
+  "s" : 9,
+  "t" : 1,
+  "i" : "interacts-with"
+}, {
+  "@id" : 67,
+  "s" : 9,
+  "t" : 11,
+  "i" : "interacts-with"
+}, {
+  "@id" : 78,
+  "s" : 9,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 80,
+  "s" : 9,
+  "t" : 17,
+  "i" : "interacts-with"
+}, {
+  "@id" : 69,
+  "s" : 9,
+  "t" : 22,
+  "i" : "interacts-with"
+}, {
+  "@id" : 65,
+  "s" : 9,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 73,
+  "s" : 9,
+  "t" : 29,
+  "i" : "interacts-with"
+}, {
+  "@id" : 63,
+  "s" : 9,
+  "t" : 30,
+  "i" : "interacts-with"
+}, {
+  "@id" : 71,
+  "s" : 9,
+  "t" : 31,
+  "i" : "interacts-with"
+}, {
+  "@id" : 53,
+  "s" : 10,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 61,
+  "s" : 10,
+  "t" : 1,
+  "i" : "interacts-with"
+}, {
+  "@id" : 51,
+  "s" : 10,
+  "t" : 6,
+  "i" : "interacts-with"
+}, {
+  "@id" : 57,
+  "s" : 10,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 59,
+  "s" : 10,
+  "t" : 17,
+  "i" : "interacts-with"
+}, {
+  "@id" : 55,
+  "s" : 10,
+  "t" : 23,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 49,
+  "s" : 10,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 98,
+  "s" : 11,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 96,
+  "s" : 11,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 131,
+  "s" : 12,
+  "t" : 34,
+  "i" : "interacts-with"
+}, {
+  "@id" : 84,
+  "s" : 13,
+  "t" : 12,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 133,
+  "s" : 14,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 135,
+  "s" : 15,
+  "t" : 17,
+  "i" : "interacts-with"
+}, {
+  "@id" : 1,
+  "s" : 16,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 3,
+  "s" : 16,
+  "t" : 34,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 8,
+  "s" : 18,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 126,
+  "s" : 19,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 127,
+  "s" : 19,
+  "t" : 17,
+  "i" : "interacts-with"
+}, {
+  "@id" : 124,
+  "s" : 19,
+  "t" : 14,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 110,
+  "s" : 20,
+  "t" : 8,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 112,
+  "s" : 20,
+  "t" : 9,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 20,
+  "s" : 21,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 100,
+  "s" : 22,
+  "t" : 11,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 104,
+  "s" : 22,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 102,
+  "s" : 22,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 22,
+  "s" : 24,
+  "t" : 9,
+  "i" : "interacts-with"
+}, {
+  "@id" : 117,
+  "s" : 25,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 118,
+  "s" : 25,
+  "t" : 34,
+  "i" : "interacts-with"
+}, {
+  "@id" : 114,
+  "s" : 25,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 115,
+  "s" : 25,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 122,
+  "s" : 26,
+  "t" : 34,
+  "i" : "interacts-with"
+}, {
+  "@id" : 120,
+  "s" : 26,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 32,
+  "s" : 27,
+  "t" : 8,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 34,
+  "s" : 27,
+  "t" : 8,
+  "i" : "interacts-with"
+}, {
+  "@id" : 94,
+  "s" : 30,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 106,
+  "s" : 31,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 10,
+  "s" : 33,
+  "t" : 9,
+  "i" : "interacts-with"
+}, {
+  "@id" : 12,
+  "s" : 33,
+  "t" : 11,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 18,
+  "s" : 33,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 14,
+  "s" : 33,
+  "t" : 22,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 16,
+  "s" : 33,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 36,
+  "s" : 35,
+  "t" : 12,
+  "i" : "interacts-with"
+}, {
+  "@id" : 24,
+  "s" : 36,
+  "t" : 8,
+  "i" : "interacts-with"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Hedgehog Signalling Pathway"
+}, {
+  "n" : "description",
+  "v" : "The Hedgehog proteins are a family of secreted ligands that include sonic hedgehog, Indian hedgehog and desert hedgehog in humans. Binding of Hedgehog ligands to their receptors, Patched 1 and 2, prevents inhibition of a 7 transmembrane receptor called Smoothened. This leads to activation of GLI family of transcription factors (GLI1-3). Signaling through the Hedgehog pathway is essential for development of many tissues and organs. This pathway is highly conserved among metazoans. Aberrant activation of this pathway has been associated with a number of human malignancies including carcinoma of lung, esophagus, pancreas and prostate."
+}, {
+  "n" : "version",
+  "v" : "JUN-2017"
+}, {
+  "n" : "reference",
+  "v" : "<div><i style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\">Kandasamy K. et al.  </i><b style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"><b></b><b><b>NetPath: a public resource of curated signal transduction pathways.</b></b></b><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><span style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);float: none;\">Genome Biol. 2010 Jan 12;11(1):R3</span><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><a href=\"http://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-1-r3\" target=\"\" style=\"color: rgb(66, 139, 202);background-color: rgb(255, 255, 255);\">doi: 10.1186/gb-2010-11-1-r3.</a><br/></div>"
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "HPRD:05457", "UniProt:P62258" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "HPRD:05664", "UniProt:O43323" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "HPRD:00803", "UniProt:P34741" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "HPRD:06937", "UniProt:Q96QV1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "HPRD:02839", "UniProt:Q14623" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "HPRD:07230", "UniProt:Q9Y466" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "HPRD:00147", "UniProt:P32121" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "HPRD:01311", "UniProt:P08151" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "HPRD:01313", "UniProt:P10071" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "HPRD:01312", "UniProt:P10070" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "HPRD:02176", "UniProt:Q93074" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "HPRD:02838", "UniProt:Q15465" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "HPRD:12041", "UniProt:Q5VTY9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "HPRD:09690", "UniProt:Q96ST3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "HPRD:09631", "UniProt:Q9NRP7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "HPRD:00182", "UniProt:P25098" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "HPRD:06124", "UniProt:Q9UMX1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "HPRD:12280", "UniProt:Q9BWV1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "HPRD:04256", "UniProt:O00422" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "HPRD:03382", "UniProt:P17612" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "HPRD:16372", "UniProt:Q4KMG0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "HPRD:05055", "UniProt:Q15648" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "HPRD:03356", "UniProt:Q15797" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "HPRD:02534", "UniProt:Q92793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "HPRD:03200", "UniProt:Q13635" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "HPRD:04722", "UniProt:Q9Y6C5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "HPRD:09018", "UniProt:Q13627" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "HPRD:14187", "UniProt:Q2M1P5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "HPRD:04284", "UniProt:O75586" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "HPRD:11179", "UniProt:Q86VH2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "HPRD:05436", "UniProt:Q9ULK4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "HPRD:01271", "UniProt:P12755" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "HPRD:04422", "UniProt:P49336" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "HPRD:03294", "UniProt:Q99835" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "HPRD:00747", "UniProt:P54826" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "HPRD:00286", "UniProt:P35222" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 28,
+  "n" : "pmid",
+  "v" : [ "8906787", "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8906787", "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "pmid",
+  "v" : [ "10050855", "11435703" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10050855", "pmid:11435703" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 129,
+  "n" : "pmid",
+  "v" : [ "11959830" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 129,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11959830" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "pmid",
+  "v" : [ "10050855", "11435703", "19561609" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10050855", "pmid:11435703", "pmid:19561609" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "pmid",
+  "v" : [ "10050855", "11435703" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10050855", "pmid:11435703" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 90,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 90,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "pmid",
+  "v" : [ "19505455" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19505455" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "pmid",
+  "v" : [ "15618519", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15618519", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "pmid",
+  "v" : [ "19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "pmid",
+  "v" : [ "11960000" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "pmid",
+  "v" : [ "10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "pmid",
+  "v" : [ "10559945", "10564661", "11960000", "12426310", "19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10559945", "pmid:10564661", "pmid:11960000", "pmid:12426310", "pmid:19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "pmid",
+  "v" : [ "11960000" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "pmid",
+  "v" : [ "12435627" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12435627" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "pmid",
+  "v" : [ "19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "pmid",
+  "v" : [ "17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "pmid",
+  "v" : [ "10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "pmid",
+  "v" : [ "10564661", "19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10564661", "pmid:19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "pmid",
+  "v" : [ "17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "pmid",
+  "v" : [ "19549984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19549984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "pmid",
+  "v" : [ "17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "pmid",
+  "v" : [ "19549984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19549984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "pmid",
+  "v" : [ "17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "pmid",
+  "v" : [ "12435627" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12435627" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 61,
+  "n" : "pmid",
+  "v" : [ "19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 61,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "pmid",
+  "v" : [ "19505455" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19505455" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "pmid",
+  "v" : [ "10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "pmid",
+  "v" : [ "10564661", "19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10564661", "pmid:19371734" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 49,
+  "n" : "pmid",
+  "v" : [ "19549984", "19592253", "19666503" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 49,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19549984", "pmid:19592253", "pmid:19666503" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 131,
+  "n" : "pmid",
+  "v" : [ "19561609", "8906787" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 131,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19561609", "pmid:8906787" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 84,
+  "n" : "pmid",
+  "v" : [ "18534984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:18534984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "pmid",
+  "v" : [ "10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "19502428" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19502428" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "15618519" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15618519" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "pmid",
+  "v" : [ "16647304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16647304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 127,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 127,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 110,
+  "n" : "pmid",
+  "v" : [ "19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 112,
+  "n" : "pmid",
+  "v" : [ "19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19996099" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "pmid",
+  "v" : [ "16647304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16647304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "pmid",
+  "v" : [ "10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "pmid",
+  "v" : [ "19561609", "8906787", "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19561609", "pmid:8906787", "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "pmid",
+  "v" : [ "9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9811851" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 32,
+  "n" : "pmid",
+  "v" : [ "12138125" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12138125" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "pmid",
+  "v" : [ "12138125" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12138125" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "pmid",
+  "v" : [ "17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17000779" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "pmid",
+  "v" : [ "11572986" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572986" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "pmid",
+  "v" : [ "19329935" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19329935" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19502428",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15618519",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16908539",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16647304",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17000779",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10075717",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19329935",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10050855",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11435703",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8906787",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9811851",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12138125",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11572986",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11960000",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10806483",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10559945",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10564661",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12426310",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19371734",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19996099",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19549984",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19592253",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19666503",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19505455",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12435627",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18534984",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19561609",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 28,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12123571",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 29,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14611647",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 30,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11959830",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 540.8101941137423,
+  "y" : 462.11335913220057
+}, {
+  "node" : 2,
+  "x" : 268.31588394025994,
+  "y" : 57.03087143975903
+}, {
+  "node" : 3,
+  "x" : 53.82232664286469,
+  "y" : 186.1874249834421
+}, {
+  "node" : 4,
+  "x" : 162.88160378652952,
+  "y" : -106.3876359689403
+}, {
+  "node" : 5,
+  "x" : 209.0762982968364,
+  "y" : -230.19602891074103
+}, {
+  "node" : 6,
+  "x" : 1082.668625323612,
+  "y" : 696.9540837033591
+}, {
+  "node" : 7,
+  "x" : 500.7143005139767,
+  "y" : 51.66879459044587
+}, {
+  "node" : 8,
+  "x" : 564.9744737266448,
+  "y" : 314.83779572822783
+}, {
+  "node" : 9,
+  "x" : 578.3898917733735,
+  "y" : 631.177905229036
+}, {
+  "node" : 10,
+  "x" : 882.6369163172,
+  "y" : 653.1848586639641
+}, {
+  "node" : 11,
+  "x" : 489.1599095471362,
+  "y" : 1129.0551764354689
+}, {
+  "node" : 12,
+  "x" : 204.5910083570075,
+  "y" : 149.17423096352883
+}, {
+  "node" : 13,
+  "x" : -21.756278548917706,
+  "y" : 290.4589973006068
+}, {
+  "node" : 14,
+  "x" : 815.653305953408,
+  "y" : 233.12673643522103
+}, {
+  "node" : 15,
+  "x" : 760.5054873713362,
+  "y" : 494.3429927154401
+}, {
+  "node" : 16,
+  "x" : 117.08882086681567,
+  "y" : 234.12829271647075
+}, {
+  "node" : 17,
+  "x" : 876.4069630184316,
+  "y" : 374.2239739851456
+}, {
+  "node" : 18,
+  "x" : 138.75076831643167,
+  "y" : 38.31770593343766
+}, {
+  "node" : 19,
+  "x" : 794.4899472283519,
+  "y" : 294.33668094033254
+}, {
+  "node" : 20,
+  "x" : 253.89852097172786,
+  "y" : 398.93909997022064
+}, {
+  "node" : 21,
+  "x" : 74.27314495689804,
+  "y" : 70.32032056173595
+}, {
+  "node" : 22,
+  "x" : 675.8327371491062,
+  "y" : 1228.085228483328
+}, {
+  "node" : 23,
+  "x" : 1052.3820240251403,
+  "y" : 766.2577163219473
+}, {
+  "node" : 24,
+  "x" : 504.39080069029126,
+  "y" : 741.069801566971
+}, {
+  "node" : 25,
+  "x" : 188.03814545722284,
+  "y" : -50.230552568726615
+}, {
+  "node" : 26,
+  "x" : 315.581146902318,
+  "y" : -65.963117763538
+}, {
+  "node" : 27,
+  "x" : 173.71248877532233,
+  "y" : 323.8842175345443
+}, {
+  "node" : 28,
+  "x" : 748.4285903723287,
+  "y" : 776.0084479597667
+}, {
+  "node" : 29,
+  "x" : 413.3843808516565,
+  "y" : 1199.1326590351996
+}, {
+  "node" : 30,
+  "x" : 643.7823981185405,
+  "y" : 805.1872515980726
+}, {
+  "node" : 31,
+  "x" : 538.4196146881028,
+  "y" : 1256.6060167977048
+}, {
+  "node" : 32,
+  "x" : 766.4311232239386,
+  "y" : 684.8236509704532
+}, {
+  "node" : 33,
+  "x" : 627.6632005042251,
+  "y" : 1141.2573651465916
+}, {
+  "node" : 34,
+  "x" : 438.4338883176715,
+  "y" : 174.53081336398998
+}, {
+  "node" : 35,
+  "x" : 35.297656273895804,
+  "y" : 123.86769995848942
+}, {
+  "node" : 36,
+  "x" : 654.2441814983373,
+  "y" : 229.70529758362122
+}]}, {"cyVisualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#EDEDF5",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true"
+  }
+}, {
+  "properties_of" : "nodes:default",
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "false"
+  },
+  "properties" : {
+    "NODE_FILL_COLOR" : "#FFFFFF",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_BORDER_WIDTH" : "2.0",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_LABEL_COLOR" : "#003366",
+    "NODE_SELECTED" : "false",
+    "NODE_WIDTH" : "60.0",
+    "NODE_SHAPE" : "ELLIPSE",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "0.0",
+    "NODE_SELECTED_PAINT" : "#FFFF00",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "0.0",
+    "NODE_BORDER_PAINT" : "#003366",
+    "NODE_LABEL_FONT_FACE" : "SansSerif.plain,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_HEIGHT" : "40.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_TRANSPARENCY" : "255",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  },
+  "mappings" : {
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    }
+  }
+}, {
+  "properties_of" : "edges:default",
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "properties" : {
+    "EDGE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_WIDTH" : "2.5",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_CURVED" : "true",
+    "EDGE_SELECTED" : "false",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "SansSerif.plain,plain,10",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_LINE_TYPE" : "SOLID"
+  },
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#00CC33,K=1=controls-state-change-of,V=1=#0000CC,K=2=controls-phosphorylation-of,V=2=#0066FF,K=3=in-complex-with,V=3=#006633,K=4=neighbor-of,V=4=#666666",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=ARROW",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=shared interaction,T=string,K=0=neighbor-of,V=0=EQUAL_DASH",
+      "type" : "DISCRETE"
+    }
+  }
+}]},{"status":[{"error":"","success":true}]}]

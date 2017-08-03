@@ -1,0 +1,2845 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075885697,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075885720,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":44,"idCounter":44,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":138,"idCounter":185,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":85,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":212,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":27,"idCounter":27,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":44,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"962c6b0e-6196-11e5-8ac5-06603eb7f303","creationTime":1442973509716,"modificationTime":1500075885697,"visibility":"PUBLIC","published":false,"nodeCount":44,"edgeCount":138,"owner":"nci-pid","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973509716,"endedAtTime":1442973509716,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Visual signal transduction Rods.sif"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1443031009561,"endedAtTime":1443031009561,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031142301,"endedAtTime":1443031142301,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031291940,"endedAtTime":1443031291940,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084574193,"endedAtTime":1482084574193,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1482084574168,"endedAtTime":1482084574168,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973509716,"endedAtTime":1442973509716,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Visual signal transduction Rods.sif"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1443031009561,"endedAtTime":1443031009561,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031142301,"endedAtTime":1443031142301,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031291940,"endedAtTime":1443031291940,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084574193,"endedAtTime":1482084574193,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1482084574168,"endedAtTime":1482084574168,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1497387477497,"endedAtTime":1497387477497,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973509716,"endedAtTime":1442973509716,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Visual signal transduction Rods.sif"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1443031009561,"endedAtTime":1443031009561,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031142301,"endedAtTime":1443031142301,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031291940,"endedAtTime":1443031291940,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084574193,"endedAtTime":1482084574193,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1482084574168,"endedAtTime":1482084574168,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973509716,"endedAtTime":1442973509716,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Visual signal transduction Rods.sif"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1443031009561,"endedAtTime":1443031009561,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031142301,"endedAtTime":1443031142301,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031291940,"endedAtTime":1443031291940,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/962c6b0e-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"202"},{"name":"node count","value":"46"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084574193,"endedAtTime":1482084574193,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1482084574168,"endedAtTime":1482084574168,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"}]}],"startedAtTime":1497387477497,"endedAtTime":1497387477497,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1497387608716,"endedAtTime":1497387608716,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"76"},{"name":"node count","value":"31"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499810687899,"endedAtTime":1499810687899,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499812525168,"endedAtTime":1499812525168,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499813418912,"endedAtTime":1499813418912,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499982004784,"endedAtTime":1499982004784,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499989500252,"endedAtTime":1499989500252,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1500075885698,"endedAtTime":1500075885698,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/962c6b0e-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"138"},{"name":"node count","value":"44"},{"name":"dc:title","value":"Visual signal transduction Rods"},{"name":"description","value":"<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}}]}, {"@context":[{
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "GTP"
+}, {
+  "@id" : 2,
+  "n" : "GNB1"
+}, {
+  "@id" : 3,
+  "n" : "Lecithin"
+}, {
+  "@id" : 4,
+  "n" : "RGS9"
+}, {
+  "@id" : 5,
+  "n" : "GRK1"
+}, {
+  "@id" : 6,
+  "n" : "RDH12"
+}, {
+  "@id" : 7,
+  "n" : "ADP"
+}, {
+  "@id" : 8,
+  "n" : "2-acylglycerophosphocholine"
+}, {
+  "@id" : 9,
+  "n" : "all-trans-retinal"
+}, {
+  "@id" : 10,
+  "n" : "11-cis-retinol"
+}, {
+  "@id" : 11,
+  "n" : "GUCA2B"
+}, {
+  "@id" : 12,
+  "n" : "phospho-opsin phosphatase"
+}, {
+  "@id" : 13,
+  "n" : "SAG"
+}, {
+  "@id" : 14,
+  "n" : "GUCA1A"
+}, {
+  "@id" : 15,
+  "n" : "GDP"
+}, {
+  "@id" : 16,
+  "n" : "all-trans-retinol"
+}, {
+  "@id" : 17,
+  "n" : "GUCY2F"
+}, {
+  "@id" : 18,
+  "n" : "11-cis-retinal"
+}, {
+  "@id" : 19,
+  "n" : "K +"
+}, {
+  "@id" : 20,
+  "n" : "GUCA1C"
+}, {
+  "@id" : 21,
+  "n" : "all-trans-retinylester"
+}, {
+  "@id" : 22,
+  "n" : "Ca ++"
+}, {
+  "@id" : 23,
+  "n" : "RPE65"
+}, {
+  "@id" : 24,
+  "n" : "calcium(2+)"
+}, {
+  "@id" : 25,
+  "n" : "GUCY2D"
+}, {
+  "@id" : 26,
+  "n" : "PDE6G"
+}, {
+  "@id" : 27,
+  "n" : "phosphate"
+}, {
+  "@id" : 28,
+  "n" : "-"
+}, {
+  "@id" : 29,
+  "n" : "PDE6B"
+}, {
+  "@id" : 30,
+  "n" : "LRAT"
+}, {
+  "@id" : 31,
+  "n" : "RHO"
+}, {
+  "@id" : 32,
+  "n" : "3',5'-cyclic GMP"
+}, {
+  "@id" : 33,
+  "n" : "GNGT1"
+}, {
+  "@id" : 34,
+  "n" : "PDE6A"
+}, {
+  "@id" : 35,
+  "n" : "CNGA1"
+}, {
+  "@id" : 36,
+  "n" : "CNGB1"
+}, {
+  "@id" : 37,
+  "n" : "GNAT1"
+}, {
+  "@id" : 38,
+  "n" : "Na +"
+}, {
+  "@id" : 39,
+  "n" : "SLC24A1"
+}, {
+  "@id" : 40,
+  "n" : "GUCA1B"
+}, {
+  "@id" : 41,
+  "n" : "RDH5"
+}, {
+  "@id" : 42,
+  "n" : "ATP"
+}, {
+  "@id" : 43,
+  "n" : "RGS9BP"
+}, {
+  "@id" : 44,
+  "n" : "GMP (4 units)"
+}]}, {"edges":[{
+  "@id" : 101,
+  "s" : 1,
+  "t" : 32,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 102,
+  "s" : 1,
+  "t" : 35,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 103,
+  "s" : 1,
+  "t" : 36,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 107,
+  "s" : 1,
+  "t" : 37,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 109,
+  "s" : 1,
+  "t" : 40,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 106,
+  "s" : 1,
+  "t" : 11,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 108,
+  "s" : 1,
+  "t" : 14,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 112,
+  "s" : 1,
+  "t" : 17,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 110,
+  "s" : 1,
+  "t" : 20,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 113,
+  "s" : 1,
+  "t" : 43,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 111,
+  "s" : 1,
+  "t" : 25,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 104,
+  "s" : 1,
+  "t" : 26,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 105,
+  "s" : 1,
+  "t" : 28,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 114,
+  "s" : 1,
+  "t" : 4,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 57,
+  "s" : 2,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 59,
+  "s" : 2,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 61,
+  "s" : 2,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 139,
+  "s" : 3,
+  "t" : 8,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 141,
+  "s" : 3,
+  "t" : 21,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 140,
+  "s" : 3,
+  "t" : 30,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 174,
+  "s" : 4,
+  "t" : 34,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 173,
+  "s" : 4,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 172,
+  "s" : 4,
+  "t" : 15,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 171,
+  "s" : 4,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 176,
+  "s" : 4,
+  "t" : 27,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 175,
+  "s" : 4,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 178,
+  "s" : 5,
+  "t" : 31,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 177,
+  "s" : 5,
+  "t" : 7,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 167,
+  "s" : 6,
+  "t" : 16,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 168,
+  "s" : 6,
+  "t" : 30,
+  "i" : "catalysis-precedes"
+}, {
+  "@id" : 23,
+  "s" : 9,
+  "t" : 33,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 22,
+  "s" : 9,
+  "t" : 2,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 24,
+  "s" : 9,
+  "t" : 37,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 26,
+  "s" : 9,
+  "t" : 6,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 20,
+  "s" : 9,
+  "t" : 13,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 21,
+  "s" : 9,
+  "t" : 16,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 25,
+  "s" : 9,
+  "t" : 31,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 8,
+  "s" : 10,
+  "t" : 41,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 7,
+  "s" : 10,
+  "t" : 18,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 80,
+  "s" : 11,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 82,
+  "s" : 11,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 81,
+  "s" : 11,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 86,
+  "s" : 11,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 83,
+  "s" : 11,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 84,
+  "s" : 11,
+  "t" : 25,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 184,
+  "s" : 12,
+  "t" : 13,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 185,
+  "s" : 12,
+  "t" : 31,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 1,
+  "s" : 13,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 115,
+  "s" : 14,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 116,
+  "s" : 14,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 117,
+  "s" : 14,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 120,
+  "s" : 14,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 118,
+  "s" : 14,
+  "t" : 25,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 89,
+  "s" : 15,
+  "t" : 33,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 88,
+  "s" : 15,
+  "t" : 2,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 90,
+  "s" : 15,
+  "t" : 37,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 91,
+  "s" : 15,
+  "t" : 31,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 16,
+  "s" : 16,
+  "t" : 8,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 18,
+  "s" : 16,
+  "t" : 3,
+  "i" : "reacts-with"
+}, {
+  "@id" : 19,
+  "s" : 16,
+  "t" : 21,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 17,
+  "s" : 16,
+  "t" : 30,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 135,
+  "s" : 17,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 6,
+  "s" : 18,
+  "t" : 31,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 128,
+  "s" : 20,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 129,
+  "s" : 20,
+  "t" : 25,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 131,
+  "s" : 20,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 182,
+  "s" : 21,
+  "t" : 10,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 183,
+  "s" : 21,
+  "t" : 23,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 55,
+  "s" : 22,
+  "t" : 40,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 53,
+  "s" : 22,
+  "t" : 11,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 56,
+  "s" : 22,
+  "t" : 20,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 54,
+  "s" : 22,
+  "t" : 14,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 181,
+  "s" : 23,
+  "t" : 41,
+  "i" : "catalysis-precedes"
+}, {
+  "@id" : 180,
+  "s" : 23,
+  "t" : 10,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 133,
+  "s" : 25,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 134,
+  "s" : 25,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 47,
+  "s" : 26,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 41,
+  "s" : 26,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 42,
+  "s" : 26,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 45,
+  "s" : 26,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 44,
+  "s" : 26,
+  "t" : 44,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 49,
+  "s" : 26,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 67,
+  "s" : 28,
+  "t" : 34,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 73,
+  "s" : 28,
+  "t" : 4,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 65,
+  "s" : 28,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 71,
+  "s" : 28,
+  "t" : 43,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 64,
+  "s" : 28,
+  "t" : 15,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 63,
+  "s" : 28,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 75,
+  "s" : 28,
+  "t" : 27,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 69,
+  "s" : 28,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 156,
+  "s" : 29,
+  "t" : 44,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 154,
+  "s" : 29,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 155,
+  "s" : 29,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 136,
+  "s" : 30,
+  "t" : 8,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 138,
+  "s" : 30,
+  "t" : 21,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 137,
+  "s" : 30,
+  "t" : 23,
+  "i" : "catalysis-precedes"
+}, {
+  "@id" : 14,
+  "s" : 32,
+  "t" : 34,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 9,
+  "s" : 32,
+  "t" : 35,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 10,
+  "s" : 32,
+  "t" : 36,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 13,
+  "s" : 32,
+  "t" : 37,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 12,
+  "s" : 32,
+  "t" : 44,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 11,
+  "s" : 32,
+  "t" : 26,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 15,
+  "s" : 32,
+  "t" : 29,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 76,
+  "s" : 33,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 78,
+  "s" : 33,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 147,
+  "s" : 34,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 148,
+  "s" : 34,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 149,
+  "s" : 34,
+  "t" : 44,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 150,
+  "s" : 34,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 28,
+  "s" : 35,
+  "t" : 36,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 32,
+  "s" : 35,
+  "t" : 38,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 27,
+  "s" : 35,
+  "t" : 24,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 38,
+  "s" : 36,
+  "t" : 38,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 35,
+  "s" : 36,
+  "t" : 24,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 97,
+  "s" : 37,
+  "t" : 34,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 92,
+  "s" : 37,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 93,
+  "s" : 37,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 94,
+  "s" : 37,
+  "t" : 44,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 98,
+  "s" : 37,
+  "t" : 29,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 95,
+  "s" : 37,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 142,
+  "s" : 39,
+  "t" : 24,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 143,
+  "s" : 39,
+  "t" : 19,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 144,
+  "s" : 39,
+  "t" : 38,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 122,
+  "s" : 40,
+  "t" : 32,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 124,
+  "s" : 40,
+  "t" : 25,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 123,
+  "s" : 40,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 126,
+  "s" : 40,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 169,
+  "s" : 41,
+  "t" : 18,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 170,
+  "s" : 41,
+  "t" : 31,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 5,
+  "s" : 42,
+  "t" : 5,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 4,
+  "s" : 42,
+  "t" : 7,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 162,
+  "s" : 43,
+  "t" : 34,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 164,
+  "s" : 43,
+  "t" : 4,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 161,
+  "s" : 43,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 160,
+  "s" : 43,
+  "t" : 15,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 159,
+  "s" : 43,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 166,
+  "s" : 43,
+  "t" : 27,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 163,
+  "s" : 43,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Visual signal transduction Rods"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Shiva Krupa"
+}, {
+  "n" : "reviewers",
+  "v" : "Wolfgang Baehr, King-Wai Yau, "
+}, {
+  "n" : "labels",
+  "v" : "rhodopsin_pathway"
+}, {
+  "n" : "version",
+  "v" : "27-Jul-2015"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}, {
+  "n" : "description",
+  "v" : "<i>Visual signal transduction Rods</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "cas:86-01-1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B1AJZ7", "uniprot knowledgebase:P04697", "uniprot knowledgebase:P04901", "uniprot knowledgebase:P62873", "uniprot knowledgebase:Q1RMY8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "cas:8002-43-5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K3C0", "uniprot knowledgebase:O75573", "uniprot knowledgebase:O75916", "uniprot knowledgebase:Q696R2", "uniprot knowledgebase:Q8TD64", "uniprot knowledgebase:Q8TD65", "uniprot knowledgebase:Q9HC32", "uniprot knowledgebase:Q9HC33" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q15835", "uniprot knowledgebase:Q53X14" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RDA2", "uniprot knowledgebase:Q8TAW6", "uniprot knowledgebase:Q96NR8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "cas:58-64-0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:11502" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:17898" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:16302" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A0FDN6", "uniprot knowledgebase:P10523", "uniprot knowledgebase:Q53SV3", "uniprot knowledgebase:Q99858" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KWT4", "uniprot knowledgebase:P43080", "uniprot knowledgebase:Q7Z6T1", "uniprot knowledgebase:Q9NU14" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "cas:146-91-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:17336" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P51841", "uniprot knowledgebase:Q9UJF1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:16066" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "cas:7440-09-7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O95843", "uniprot knowledgebase:O95844", "uniprot knowledgebase:Q9UNM0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "cas:7440-70-2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K1L0", "uniprot knowledgebase:Q16518", "uniprot knowledgebase:Q5T9U3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:29108" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q02846", "uniprot knowledgebase:Q6LEA7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P18545", "uniprot knowledgebase:Q3KP63", "uniprot knowledgebase:Q7Z3U8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "cas:14265-44-2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RBR5", "uniprot knowledgebase:O14775", "uniprot knowledgebase:Q9HAU9", "uniprot knowledgebase:Q9UFT3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B7Z9T9", "uniprot knowledgebase:E7ETT3", "uniprot knowledgebase:P35913", "uniprot knowledgebase:Q53XN5", "uniprot knowledgebase:Q9BWH5", "uniprot knowledgebase:Q9UD49" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K983", "uniprot knowledgebase:O95237", "uniprot knowledgebase:Q8N716" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P08100", "uniprot knowledgebase:Q16414", "uniprot knowledgebase:Q2M249" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:16356" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4D1H2", "uniprot knowledgebase:O43835", "uniprot knowledgebase:P63211", "uniprot knowledgebase:Q08447", "uniprot knowledgebase:Q16026", "uniprot knowledgebase:Q6LCP6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P16499", "uniprot knowledgebase:Q0P638" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K7K6", "uniprot knowledgebase:J3KPZ2", "uniprot knowledgebase:P29973", "uniprot knowledgebase:Q16279", "uniprot knowledgebase:Q16485", "uniprot knowledgebase:Q4W5E3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:H3BN09", "uniprot knowledgebase:O43636", "uniprot knowledgebase:Q13059", "uniprot knowledgebase:Q14028", "uniprot knowledgebase:Q14029", "uniprot knowledgebase:Q9UMG2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P11488", "uniprot knowledgebase:Q4VBN2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "alias",
+  "v" : [ "cas:7440-23-5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O43485", "uniprot knowledgebase:O60721", "uniprot knowledgebase:O75184", "uniprot knowledgebase:Q17RM9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q9NU15", "uniprot knowledgebase:Q9UMX6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 41,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O00179", "uniprot knowledgebase:Q8TAI2", "uniprot knowledgebase:Q92781" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 42,
+  "n" : "alias",
+  "v" : [ "cas:56-65-5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 43,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q6ZS82", "uniprot knowledgebase:Q6ZVJ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 44,
+  "n" : "alias",
+  "v" : [ "cas:5550-12-9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}]}, {"edgeAttributes":[{
+  "po" : 101,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 101,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 101,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 103,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 107,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 109,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 109,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 104,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 105,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 105,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 139,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 141,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 174,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 174,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 173,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 172,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 171,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 176,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 175,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 178,
+  "n" : "pmid",
+  "v" : [ "3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 177,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 177,
+  "n" : "pmid",
+  "v" : [ "3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 177,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 167,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 168,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 23,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 22,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 24,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 20,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 21,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 25,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 8,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 7,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 80,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 185,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 115,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 115,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 88,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 90,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 91,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 16,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 19,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 135,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 135,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 128,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 128,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 128,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 182,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 183,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 183,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 55,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 53,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 56,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 54,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 181,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 181,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 181,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 180,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 133,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 42,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 44,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 67,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 67,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 65,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 64,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 63,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 75,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 69,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 156,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 154,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 155,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 136,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 138,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 137,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 137,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 137,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 10,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 12,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 147,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 148,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 149,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 32,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 32,
+  "n" : "pmid",
+  "v" : [ "15790924" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15790924" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 27,
+  "n" : "pmid",
+  "v" : [ "10677043", "11287959", "11972023", "12361955", "12954628", "15326560", "15790924", "16582901", "16728719", "16733527", "16849481", "16921383", "17197445", "1883394", "8125934", "9846481" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10677043", "pmid:11287959", "pmid:11972023", "pmid:12361955", "pmid:12954628", "pmid:15326560", "pmid:15790924", "pmid:16582901", "pmid:16728719", "pmid:16733527", "pmid:16849481", "pmid:16921383", "pmid:17197445", "pmid:1883394", "pmid:8125934", "pmid:9846481" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 38,
+  "n" : "pmid",
+  "v" : [ "15790924" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15790924" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 35,
+  "n" : "pmid",
+  "v" : [ "10677043", "11287959", "11972023", "12361955", "12954628", "15326560", "15790924", "16582901", "16728719", "16733527", "16849481", "16921383", "17197445", "1883394", "8125934", "9846481" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10677043", "pmid:11287959", "pmid:11972023", "pmid:12361955", "pmid:12954628", "pmid:15326560", "pmid:15790924", "pmid:16582901", "pmid:16728719", "pmid:16733527", "pmid:16849481", "pmid:16921383", "pmid:17197445", "pmid:1883394", "pmid:8125934", "pmid:9846481" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "pmid",
+  "v" : [ "11601986", "11683629", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:11683629", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 93,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 94,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 98,
+  "n" : "pmid",
+  "v" : [ "11601986", "11683629", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:11683629", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 142,
+  "n" : "pmid",
+  "v" : [ "12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 143,
+  "n" : "pmid",
+  "v" : [ "12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 144,
+  "n" : "pmid",
+  "v" : [ "12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12600216" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 122,
+  "n" : "pmid",
+  "v" : [ "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 123,
+  "n" : "pmid",
+  "v" : [ "10407028", "12732716", "9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 123,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10407028", "pmid:12732716", "pmid:9571173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 169,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 169,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 169,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 170,
+  "n" : "pmid",
+  "v" : [ "15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15186777" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "pmid",
+  "v" : [ "3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 4,
+  "n" : "pmid",
+  "v" : [ "3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:3014340" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 162,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 161,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 160,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 160,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 160,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 159,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 166,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 166,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 166,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 163,
+  "n" : "pmid",
+  "v" : [ "11601986", "15488178" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11601986", "pmid:15488178" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7781061",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9169442",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:3014340",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15186777",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10677043",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11287959",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11972023",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12361955",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12954628",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15326560",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15790924",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16582901",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16728719",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16733527",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16849481",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16921383",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17197445",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1883394",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8125934",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9846481",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11601986",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15488178",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11683629",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9571173",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10407028",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12732716",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12600216",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : -22.741591355948177,
+  "y" : 57.30601200928828
+}, {
+  "node" : 2,
+  "x" : 602.7023296924884,
+  "y" : 462.70695567956784
+}, {
+  "node" : 3,
+  "x" : -9.616158420258436,
+  "y" : 806.0143122143616
+}, {
+  "node" : 4,
+  "x" : 247.2847919786663,
+  "y" : 61.44666442697558
+}, {
+  "node" : 5,
+  "x" : 245.68583641506737,
+  "y" : 395.8980896371831
+}, {
+  "node" : 6,
+  "x" : -138.93224558361803,
+  "y" : 680.4661866177564
+}, {
+  "node" : 7,
+  "x" : 471.6762118957176,
+  "y" : 359.69766999323286
+}, {
+  "node" : 8,
+  "x" : 349.9036767588051,
+  "y" : 758.6940433917675
+}, {
+  "node" : 9,
+  "x" : 217.72998847789924,
+  "y" : 549.9727587624284
+}, {
+  "node" : 10,
+  "x" : 344.435255510029,
+  "y" : 1211.0289760200424
+}, {
+  "node" : 11,
+  "x" : -341.8277620206852,
+  "y" : -70.39610200188605
+}, {
+  "node" : 12,
+  "x" : 146.1584387123323,
+  "y" : 433.1153817303256
+}, {
+  "node" : 13,
+  "x" : 395.0927046442484,
+  "y" : 487.53640210107255
+}, {
+  "node" : 14,
+  "x" : -402.53096375234657,
+  "y" : 94.85352245519881
+}, {
+  "node" : 15,
+  "x" : 475.3111532123607,
+  "y" : 283.6899434573322
+}, {
+  "node" : 16,
+  "x" : 16.874406771623605,
+  "y" : 981.0527893451874
+}, {
+  "node" : 17,
+  "x" : -274.44193048927036,
+  "y" : 189.15597995879938
+}, {
+  "node" : 18,
+  "x" : 432.96720499824517,
+  "y" : 989.2378768368985
+}, {
+  "node" : 19,
+  "x" : 735.4384217517168,
+  "y" : 327.29481336537725
+}, {
+  "node" : 20,
+  "x" : -436.57684509712794,
+  "y" : -69.77623839018928
+}, {
+  "node" : 21,
+  "x" : 133.13752950671545,
+  "y" : 1283.5009782857933
+}, {
+  "node" : 22,
+  "x" : -417.1755139960437,
+  "y" : 248.10446394739756
+}, {
+  "node" : 23,
+  "x" : 234.89228803155356,
+  "y" : 1262.4282026146593
+}, {
+  "node" : 24,
+  "x" : 816.1866020007832,
+  "y" : 117.08722171587249
+}, {
+  "node" : 25,
+  "x" : -236.57647568934533,
+  "y" : 120.1452502107038
+}, {
+  "node" : 26,
+  "x" : 204.7955370952854,
+  "y" : -168.81916658353487
+}, {
+  "node" : 27,
+  "x" : 574.8612309082113,
+  "y" : 146.16690026462663
+}, {
+  "node" : 28,
+  "x" : 203.46882547340516,
+  "y" : 133.26672969717748
+}, {
+  "node" : 29,
+  "x" : 271.773777217417,
+  "y" : -251.33277220686742
+}, {
+  "node" : 30,
+  "x" : 61.86723115016552,
+  "y" : 1128.6887892873895
+}, {
+  "node" : 31,
+  "x" : 407.02435898890286,
+  "y" : 674.8069272374512
+}, {
+  "node" : 32,
+  "x" : -2.207980466663884,
+  "y" : -118.59121341027735
+}, {
+  "node" : 33,
+  "x" : 680.032005006401,
+  "y" : 440.310628295471
+}, {
+  "node" : 34,
+  "x" : 308.27010884585474,
+  "y" : -185.75486027672292
+}, {
+  "node" : 35,
+  "x" : 455.8593715156422,
+  "y" : -212.91938492975146
+}, {
+  "node" : 36,
+  "x" : 445.7211498208746,
+  "y" : -142.2295414911662
+}, {
+  "node" : 37,
+  "x" : 354.68655437924997,
+  "y" : 122.7654362792604
+}, {
+  "node" : 38,
+  "x" : 815.8472714217423,
+  "y" : 33.5120068847222
+}, {
+  "node" : 39,
+  "x" : 569.5644984502073,
+  "y" : 275.41580753524937
+}, {
+  "node" : 40,
+  "x" : -329.46135057219374,
+  "y" : 41.321846383582184
+}, {
+  "node" : 41,
+  "x" : 369.74280732157865,
+  "y" : 1051.0245773672564
+}, {
+  "node" : 42,
+  "x" : 120.67058977443673,
+  "y" : 342.5939187578122
+}, {
+  "node" : 43,
+  "x" : 170.55233398811777,
+  "y" : 67.22845565613497
+}, {
+  "node" : 44,
+  "x" : 468.56698737957726,
+  "y" : -6.862496640758057
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "nodes:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_SELECTED" : "false",
+    "NODE_WIDTH" : "75.0",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SIZE" : "35.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "edges:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]

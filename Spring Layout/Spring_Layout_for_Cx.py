@@ -8,14 +8,20 @@ node_list = {}
 #{"source": "0", "target": "1"}
 edge_list = []
 
-natLength = 200
-ks = 0.3
+#200
+natLength = 30
+#0.3
+ks = 0.5
+#90
 kg = 90
-maxRepulsion = 300
-maxZ = 500
-ZDecreaser = 1
-maxLoops = 350
-cxFile = 'NetPath.cx'
+#300
+maxRepulsion = 700
+#500
+maxZ = 700
+ZDecreaser = 5
+iterBegin = 200
+maxLoops = 1000
+cxFile = 'Visual.cx'
 
 
 # for key, value in d.iteritems():
@@ -128,7 +134,7 @@ def loop():
     maxed = maxZ
     loader(cxFile)
     while True:
-        if numLoops > 240:
+        if numLoops > iterBegin:
             startedIter = True
         for node1, properties1 in node_list.iteritems():
             netForceX = 0
@@ -169,6 +175,7 @@ def loop():
         if maxLoops > 0 and numLoops > maxLoops:
             break
         numLoops = numLoops + 1
+
 
 loop()
 exportToNetwork(cxFile)

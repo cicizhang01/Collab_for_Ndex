@@ -1,0 +1,79 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1496104918189,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1496104919859,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":4,"idCounter":3,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":6,"idCounter":5,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":4,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":6,"name":"edgeAttributes","properties":[],"version":"1.0"}]},{"ndexStatus":[{"externalId":"c975663f-44d0-11e7-a6ff-0660b7976219","creationTime":1496104918189,"modificationTime":1496104918189,"visibility":"PRIVATE","published":false,"nodeCount":4,"edgeCount":6,"owner":"mikeyu_testacct","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://dev2.ndexbio.org/v2/network/c975663f-44d0-11e7-a6ff-0660b7976219/summary","creationEvent":{"endedAtTime":1496104918189,"eventType":"Program Upload in CX","startedAtTime":1496104918189,"inputs":null,"properties":[{"name":"user","value":"Michael Yu"},{"name":"user name","value":"mikeyu_testacct"}]},"properties":[{"name":"edge count","value":"6"},{"name":"node count","value":"4"},{"name":"dc:title","value":"FanGO supporting network for CLIXO:127"}]}}]}, {"nodes":[{
+  "@id" : 0,
+  "n" : "ENSG00000126215"
+}, {
+  "@id" : 1,
+  "n" : "ENSG00000108384"
+}, {
+  "@id" : 2,
+  "n" : "ENSG00000196584"
+}, {
+  "@id" : 3,
+  "n" : "ENSG00000051180"
+}]}, {"edges":[{
+  "@id" : 0,
+  "s" : 0,
+  "t" : 1
+}, {
+  "@id" : 1,
+  "s" : 0,
+  "t" : 2
+}, {
+  "@id" : 2,
+  "s" : 0,
+  "t" : 3
+}, {
+  "@id" : 3,
+  "s" : 1,
+  "t" : 2
+}, {
+  "@id" : 4,
+  "s" : 1,
+  "t" : 3
+}, {
+  "@id" : 5,
+  "s" : 2,
+  "t" : 3
+}]}, {"networkAttributes":[{
+  "n" : "weight max",
+  "v" : "4.18964262006"
+}, {
+  "n" : "name",
+  "v" : "FanGO supporting network for CLIXO:127"
+}, {
+  "n" : "weight min",
+  "v" : "-3.00286239388"
+}, {
+  "n" : "Description",
+  "v" : "FanGO supporting network for CLIXO:127"
+}]}, {"edgeAttributes":[{
+  "po" : 0,
+  "n" : "weight",
+  "v" : "3.9605593869784226",
+  "d" : "double"
+}, {
+  "po" : 1,
+  "n" : "weight",
+  "v" : "2.6876123495418582",
+  "d" : "double"
+}, {
+  "po" : 2,
+  "n" : "weight",
+  "v" : "3.0359605647958348",
+  "d" : "double"
+}, {
+  "po" : 3,
+  "n" : "weight",
+  "v" : "2.9910885913054917",
+  "d" : "double"
+}, {
+  "po" : 4,
+  "n" : "weight",
+  "v" : "3.522467224743761",
+  "d" : "double"
+}, {
+  "po" : 5,
+  "n" : "weight",
+  "v" : "3.0430456132416777",
+  "d" : "double"
+}]},{"status":[{"error":"","success":true}]}]
