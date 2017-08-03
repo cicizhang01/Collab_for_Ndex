@@ -1,0 +1,4385 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500415991292,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499370487299,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":34,"idCounter":318,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":89,"idCounter":319,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":7,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":204,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":534,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":34,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"cyVisualProperties","properties":[],"version":"1.0"},{"elementCount":1,"name":"@context","properties":[]}]},{"ndexStatus":[{"externalId":"7436ff20-627b-11e7-a03e-0ac135e8bacf","creationTime":1499366802835,"modificationTime":1500415991292,"visibility":"PUBLIC","published":false,"nodeCount":34,"edgeCount":89,"owner":"netpath","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":null,"creationEvent":null,"properties":[]}}]}, {"@context":[{ }]}, {"nodes":[{
+  "@id" : 63,
+  "n" : "Fibroblast Growth Factor-1 Signalling Pathway"
+}, {
+  "@id" : 62,
+  "n" : "Kit Receptor Signaling Pathway"
+}, {
+  "@id" : 95,
+  "n" : "Notch Signaling Pathway"
+}, {
+  "@id" : 94,
+  "n" : "TSH Signalling Pathway"
+}, {
+  "@id" : 93,
+  "n" : "Hedgehog Signalling Pathway"
+}, {
+  "@id" : 92,
+  "n" : "Prolactin Signalling Pathway"
+}, {
+  "@id" : 91,
+  "n" : "EGFR1 Signaling Pathway"
+}, {
+  "@id" : 90,
+  "n" : "IL-9 Signalling Pathway"
+}, {
+  "@id" : 89,
+  "n" : "RAGE Signaling Pathway"
+}, {
+  "@id" : 88,
+  "n" : "FSH Signalling Pathway"
+}, {
+  "@id" : 87,
+  "n" : "Ghrelin Signalling Pathway"
+}, {
+  "@id" : 86,
+  "n" : "BDNF Signaling Pathway"
+}, {
+  "@id" : 85,
+  "n" : "IL-7 Signalling Pathway"
+}, {
+  "@id" : 84,
+  "n" : "IL-11 Signalling Pathway"
+}, {
+  "@id" : 83,
+  "n" : "TCR Signaling Pathway"
+}, {
+  "@id" : 82,
+  "n" : "Alpha6-Beta4 Integrin Signalling Pathway"
+}, {
+  "@id" : 81,
+  "n" : "IL-4 Signalling Pathway"
+}, {
+  "@id" : 80,
+  "n" : "IL-2 Signalling Pathway"
+}, {
+  "@id" : 79,
+  "n" : "IL-3 Signalling Pathway"
+}, {
+  "@id" : 78,
+  "n" : "RANKL Signalling Pathway"
+}, {
+  "@id" : 77,
+  "n" : "IL-6 Signalling Pathway"
+}, {
+  "@id" : 76,
+  "n" : "ID Signalling Pathway"
+}, {
+  "@id" : 75,
+  "n" : "IL-5 Signalling Pathway"
+}, {
+  "@id" : 74,
+  "n" : "Leptin Signalling Pathway"
+}, {
+  "@id" : 73,
+  "n" : "TWEAK Signalling Pathway"
+}, {
+  "@id" : 72,
+  "n" : "IL-1 Signaling Pathway"
+}, {
+  "@id" : 71,
+  "n" : "Gastrin Signalling Pathway"
+}, {
+  "@id" : 70,
+  "n" : "Oncostatin-M Signalling Pathway"
+}, {
+  "@id" : 69,
+  "n" : "TGF-beta Receptor Signaling Pathway"
+}, {
+  "@id" : 68,
+  "n" : "WNT Signalling Pathway"
+}, {
+  "@id" : 67,
+  "n" : "TNF-alpha Signalling Pathway"
+}, {
+  "@id" : 66,
+  "n" : "TSLP Signalling Pathway"
+}, {
+  "@id" : 65,
+  "n" : "CRH Signalling Pathway"
+}, {
+  "@id" : 64,
+  "n" : "BCR Signaling Pathway"
+}]}, {"edges":[{
+  "@id" : 117,
+  "s" : 63,
+  "t" : 69,
+  "i" : "shares genes with"
+}, {
+  "@id" : 127,
+  "s" : 90,
+  "t" : 74,
+  "i" : "shares genes with"
+}, {
+  "@id" : 120,
+  "s" : 90,
+  "t" : 71,
+  "i" : "shares genes with"
+}, {
+  "@id" : 180,
+  "s" : 90,
+  "t" : 94,
+  "i" : "shares genes with"
+}, {
+  "@id" : 170,
+  "s" : 90,
+  "t" : 84,
+  "i" : "shares genes with"
+}, {
+  "@id" : 169,
+  "s" : 90,
+  "t" : 70,
+  "i" : "shares genes with"
+}, {
+  "@id" : 168,
+  "s" : 90,
+  "t" : 85,
+  "i" : "shares genes with"
+}, {
+  "@id" : 167,
+  "s" : 90,
+  "t" : 89,
+  "i" : "shares genes with"
+}, {
+  "@id" : 161,
+  "s" : 90,
+  "t" : 87,
+  "i" : "shares genes with"
+}, {
+  "@id" : 143,
+  "s" : 90,
+  "t" : 81,
+  "i" : "shares genes with"
+}, {
+  "@id" : 141,
+  "s" : 90,
+  "t" : 80,
+  "i" : "shares genes with"
+}, {
+  "@id" : 135,
+  "s" : 90,
+  "t" : 77,
+  "i" : "shares genes with"
+}, {
+  "@id" : 116,
+  "s" : 89,
+  "t" : 69,
+  "i" : "shares genes with"
+}, {
+  "@id" : 101,
+  "s" : 89,
+  "t" : 63,
+  "i" : "shares genes with"
+}, {
+  "@id" : 166,
+  "s" : 89,
+  "t" : 70,
+  "i" : "shares genes with"
+}, {
+  "@id" : 165,
+  "s" : 89,
+  "t" : 71,
+  "i" : "shares genes with"
+}, {
+  "@id" : 148,
+  "s" : 89,
+  "t" : 82,
+  "i" : "shares genes with"
+}, {
+  "@id" : 114,
+  "s" : 88,
+  "t" : 68,
+  "i" : "shares genes with"
+}, {
+  "@id" : 112,
+  "s" : 88,
+  "t" : 67,
+  "i" : "shares genes with"
+}, {
+  "@id" : 164,
+  "s" : 88,
+  "t" : 87,
+  "i" : "shares genes with"
+}, {
+  "@id" : 163,
+  "s" : 88,
+  "t" : 93,
+  "i" : "shares genes with"
+}, {
+  "@id" : 162,
+  "s" : 88,
+  "t" : 65,
+  "i" : "shares genes with"
+}, {
+  "@id" : 158,
+  "s" : 87,
+  "t" : 86,
+  "i" : "shares genes with"
+}, {
+  "@id" : 118,
+  "s" : 85,
+  "t" : 70,
+  "i" : "shares genes with"
+}, {
+  "@id" : 113,
+  "s" : 85,
+  "t" : 68,
+  "i" : "shares genes with"
+}, {
+  "@id" : 111,
+  "s" : 85,
+  "t" : 67,
+  "i" : "shares genes with"
+}, {
+  "@id" : 104,
+  "s" : 85,
+  "t" : 64,
+  "i" : "shares genes with"
+}, {
+  "@id" : 98,
+  "s" : 85,
+  "t" : 62,
+  "i" : "shares genes with"
+}, {
+  "@id" : 183,
+  "s" : 85,
+  "t" : 95,
+  "i" : "shares genes with"
+}, {
+  "@id" : 159,
+  "s" : 85,
+  "t" : 87,
+  "i" : "shares genes with"
+}, {
+  "@id" : 157,
+  "s" : 85,
+  "t" : 86,
+  "i" : "shares genes with"
+}, {
+  "@id" : 155,
+  "s" : 85,
+  "t" : 74,
+  "i" : "shares genes with"
+}, {
+  "@id" : 151,
+  "s" : 85,
+  "t" : 83,
+  "i" : "shares genes with"
+}, {
+  "@id" : 145,
+  "s" : 85,
+  "t" : 81,
+  "i" : "shares genes with"
+}, {
+  "@id" : 140,
+  "s" : 85,
+  "t" : 80,
+  "i" : "shares genes with"
+}, {
+  "@id" : 129,
+  "s" : 85,
+  "t" : 75,
+  "i" : "shares genes with"
+}, {
+  "@id" : 121,
+  "s" : 84,
+  "t" : 72,
+  "i" : "shares genes with"
+}, {
+  "@id" : 100,
+  "s" : 84,
+  "t" : 63,
+  "i" : "shares genes with"
+}, {
+  "@id" : 96,
+  "s" : 84,
+  "t" : 62,
+  "i" : "shares genes with"
+}, {
+  "@id" : 182,
+  "s" : 84,
+  "t" : 95,
+  "i" : "shares genes with"
+}, {
+  "@id" : 179,
+  "s" : 84,
+  "t" : 94,
+  "i" : "shares genes with"
+}, {
+  "@id" : 174,
+  "s" : 84,
+  "t" : 92,
+  "i" : "shares genes with"
+}, {
+  "@id" : 160,
+  "s" : 84,
+  "t" : 87,
+  "i" : "shares genes with"
+}, {
+  "@id" : 156,
+  "s" : 84,
+  "t" : 86,
+  "i" : "shares genes with"
+}, {
+  "@id" : 154,
+  "s" : 84,
+  "t" : 75,
+  "i" : "shares genes with"
+}, {
+  "@id" : 153,
+  "s" : 84,
+  "t" : 71,
+  "i" : "shares genes with"
+}, {
+  "@id" : 152,
+  "s" : 84,
+  "t" : 70,
+  "i" : "shares genes with"
+}, {
+  "@id" : 146,
+  "s" : 84,
+  "t" : 82,
+  "i" : "shares genes with"
+}, {
+  "@id" : 138,
+  "s" : 84,
+  "t" : 79,
+  "i" : "shares genes with"
+}, {
+  "@id" : 134,
+  "s" : 84,
+  "t" : 77,
+  "i" : "shares genes with"
+}, {
+  "@id" : 128,
+  "s" : 84,
+  "t" : 74,
+  "i" : "shares genes with"
+}, {
+  "@id" : 103,
+  "s" : 79,
+  "t" : 64,
+  "i" : "shares genes with"
+}, {
+  "@id" : 136,
+  "s" : 78,
+  "t" : 81,
+  "i" : "shares genes with"
+}, {
+  "@id" : 184,
+  "s" : 77,
+  "t" : 95,
+  "i" : "shares genes with"
+}, {
+  "@id" : 132,
+  "s" : 76,
+  "t" : 69,
+  "i" : "shares genes with"
+}, {
+  "@id" : 131,
+  "s" : 76,
+  "t" : 68,
+  "i" : "shares genes with"
+}, {
+  "@id" : 130,
+  "s" : 76,
+  "t" : 67,
+  "i" : "shares genes with"
+}, {
+  "@id" : 150,
+  "s" : 75,
+  "t" : 83,
+  "i" : "shares genes with"
+}, {
+  "@id" : 137,
+  "s" : 75,
+  "t" : 79,
+  "i" : "shares genes with"
+}, {
+  "@id" : 126,
+  "s" : 73,
+  "t" : 77,
+  "i" : "shares genes with"
+}, {
+  "@id" : 125,
+  "s" : 73,
+  "t" : 65,
+  "i" : "shares genes with"
+}, {
+  "@id" : 124,
+  "s" : 73,
+  "t" : 78,
+  "i" : "shares genes with"
+}, {
+  "@id" : 123,
+  "s" : 72,
+  "t" : 74,
+  "i" : "shares genes with"
+}, {
+  "@id" : 122,
+  "s" : 72,
+  "t" : 78,
+  "i" : "shares genes with"
+}, {
+  "@id" : 119,
+  "s" : 71,
+  "t" : 70,
+  "i" : "shares genes with"
+}, {
+  "@id" : 115,
+  "s" : 71,
+  "t" : 69,
+  "i" : "shares genes with"
+}, {
+  "@id" : 106,
+  "s" : 71,
+  "t" : 65,
+  "i" : "shares genes with"
+}, {
+  "@id" : 102,
+  "s" : 71,
+  "t" : 64,
+  "i" : "shares genes with"
+}, {
+  "@id" : 99,
+  "s" : 71,
+  "t" : 63,
+  "i" : "shares genes with"
+}, {
+  "@id" : 178,
+  "s" : 71,
+  "t" : 93,
+  "i" : "shares genes with"
+}, {
+  "@id" : 175,
+  "s" : 71,
+  "t" : 92,
+  "i" : "shares genes with"
+}, {
+  "@id" : 172,
+  "s" : 71,
+  "t" : 91,
+  "i" : "shares genes with"
+}, {
+  "@id" : 149,
+  "s" : 71,
+  "t" : 83,
+  "i" : "shares genes with"
+}, {
+  "@id" : 147,
+  "s" : 71,
+  "t" : 82,
+  "i" : "shares genes with"
+}, {
+  "@id" : 144,
+  "s" : 71,
+  "t" : 81,
+  "i" : "shares genes with"
+}, {
+  "@id" : 171,
+  "s" : 70,
+  "t" : 91,
+  "i" : "shares genes with"
+}, {
+  "@id" : 133,
+  "s" : 70,
+  "t" : 77,
+  "i" : "shares genes with"
+}, {
+  "@id" : 110,
+  "s" : 67,
+  "t" : 68,
+  "i" : "shares genes with"
+}, {
+  "@id" : 109,
+  "s" : 66,
+  "t" : 84,
+  "i" : "shares genes with"
+}, {
+  "@id" : 108,
+  "s" : 66,
+  "t" : 75,
+  "i" : "shares genes with"
+}, {
+  "@id" : 107,
+  "s" : 66,
+  "t" : 85,
+  "i" : "shares genes with"
+}, {
+  "@id" : 97,
+  "s" : 66,
+  "t" : 62,
+  "i" : "shares genes with"
+}, {
+  "@id" : 181,
+  "s" : 66,
+  "t" : 94,
+  "i" : "shares genes with"
+}, {
+  "@id" : 176,
+  "s" : 66,
+  "t" : 92,
+  "i" : "shares genes with"
+}, {
+  "@id" : 173,
+  "s" : 66,
+  "t" : 91,
+  "i" : "shares genes with"
+}, {
+  "@id" : 142,
+  "s" : 66,
+  "t" : 80,
+  "i" : "shares genes with"
+}, {
+  "@id" : 139,
+  "s" : 66,
+  "t" : 79,
+  "i" : "shares genes with"
+}, {
+  "@id" : 105,
+  "s" : 65,
+  "t" : 94,
+  "i" : "shares genes with"
+}, {
+  "@id" : 177,
+  "s" : 65,
+  "t" : 93,
+  "i" : "shares genes with"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "NetPath Similarity Map"
+}, {
+  "n" : "description",
+  "v" : "<h5><b>This similarity map is a convenient way to organize and display the NetPath pathway content.</b></h5><p><span>Each<b> node</b> corresponds to an individual pathway, the node size reflects the calculated &#34;width&#34; parameter, while the label size is proportional to the &#34;gene count&#34; parameter.</span><br/></p><p><b>Edges</b> are represented as dashed or solid lines based on their &#34;strength&#34; parameter while the &#34;edge function&#34; value is used to determine their thickness.</p><p>Click a node to view the relative pathway or access other download options.</p>"
+}, {
+  "n" : "version",
+  "v" : "JUN-2017"
+}, {
+  "n" : "author",
+  "v" : "Aaron Gary, Rudolf T. Pillich"
+}, {
+  "n" : "labels",
+  "v" : "www.netpath.org"
+}, {
+  "n" : "networkType",
+  "v" : "Similarity Map"
+}, {
+  "n" : "reference",
+  "v" : "<div><i style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\">Kandasamy K. et al.  </i><b style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"><b>NetPath: a public resource of curated signal transduction pathways.</b></b><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><span style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);float: none;\">Genome Biol. 2010 Jan 12;11(1):R3</span><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><a href=\"http://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-1-r3\" target=\"\" style=\"color: rgb(66, 139, 202);background-color: rgb(255, 255, 255);\">doi: 10.1186/gb-2010-11-1-r3.</a><br/></div>"
+}]}, {"nodeAttributes":[{
+  "po" : 63,
+  "n" : "gene count",
+  "v" : "46.0",
+  "d" : "double"
+}, {
+  "po" : 63,
+  "n" : "genes",
+  "v" : [ "PPP2R1A", "SPHK1", "RAN", "CDKN1A", "GAB1", "MAPK14", "SPRY2", "MAP2K1", "PRKCSH", "CTNND2", "ASS1P10", "YES1", "XPO1", "NCOA3", "B2M", "S1PR3", "CEACAM1", "MAPK3", "MAPK1", "CST2", "ANXA13", "HSPA9", "CNR1", "ITGB3", "PRSS12", "SHC1", "MUC1", "NR4A1", "LAMP2", "FGFR4", "LRRC59", "FGFR2", "CTNNB1", "BDKRB2", "SOS1", "CXCL6", "PPP2CA", "CNN2", "PLCG1", "CBL", "CDK1", "CDK2", "GRB2", "HSP90AA1", "CSNK2B", "AMY1B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "width",
+  "v" : "6.782329983125268",
+  "d" : "double"
+}, {
+  "po" : 63,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Fibroblast%20Growth%20Factor-1%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Fibroblast%20Growth%20Factor-1%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/84b1e0eb-019a-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 63,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](84b1e0eb-019a-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 62,
+  "n" : "gene count",
+  "v" : "74.0",
+  "d" : "double"
+}, {
+  "po" : 62,
+  "n" : "genes",
+  "v" : [ "CSF2RB", "IL7R", "HSPA7", "GRAP2", "CRKL", "HRAS", "SPRED1", "SPRED2", "DRD3", "FOXO3", "P2RX1", "PLCG1", "FGR", "PKD2L1", "MITF", "CRK", "FRA6G", "YES1", "RAB3IL1", "UXT", "HRH2", "PIK3CA", "LNX1", "FYN", "GNG4", "APOH", "PTPN6", "MAPK3", "DOK1", "JAK2", "JAK3", "PIK3R1", "CST2", "FLII", "MYRF", "GNAQP1", "SH3KBP1", "PIK3R2", "EPOR", "SHC1", "NCOA3", "PRKCA", "PRKCB", "ABL1", "COL4A5", "CNGA3", "SH2B2", "SH2B3", "HCK", "KITLG", "EP300", "LYN", "SOCS5", "RPS6KA1", "PTPRU", "SOCS6", "SOCS1", "SOS1", "CNN2", "VAV1", "GRB10", "TNFRSF10A", "GSK3A", "LAMP5", "CBL", "STAT5B", "STAT5A", "GRB2", "MAPK1", "WIPF1", "MMAB", "MATK", "BTK" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "width",
+  "v" : "8.602325267042627",
+  "d" : "double"
+}, {
+  "po" : 62,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Kit%20Receptor%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Kit%20Receptor%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/684b0e51-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 62,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](684b0e51-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 95,
+  "n" : "gene count",
+  "v" : "74.0",
+  "d" : "double"
+}, {
+  "po" : 95,
+  "n" : "genes",
+  "v" : [ "HDAC1", "HDAC2", "YY1", "MRX25", "RCAN1", "STK11", "NEB", "HPX", "SMAD3", "ADAM10", "HES5", "LIMS1", "NOTCH2", "MFNG", "PSENEN", "MAGEA1", "NOTCH3", "DTX1", "ZNF17", "MAML2", "MAML3", "MAML1", "SCD", "RBPJ", "STAT3", "WDR12", "MAPK3", "MAPK1", "JAK2", "PIK3R2", "PIK3R1", "VIM2P", "JAG2", "NR3C1P1", "JAG1", "GRM1", "SIN3A", "PRKCI", "ACTN1", "ASCL1", "SNW1", "RBM15", "TCF3", "CTSC", "BMP5", "CA11", "DLL1", "CNGA3", "HTR2A", "NFKB1", "SKP2", "EP300", "HEY2", "STAU1", "SAP30", "NPY4R", "CCL16", "CCL17", "F8", "APP", "SKP1", "RING1", "GSK3B", "MEF2C", "NOTCH4", "CNTN1", "DLL3", "RAD51", "PSEN2", "COL6A1", "NUMBL", "LCK", "HES6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 95,
+  "n" : "width",
+  "v" : "8.602325267042627",
+  "d" : "double"
+}, {
+  "po" : 95,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Notch%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Notch%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/585d7318-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 95,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 95,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](585d7318-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 94,
+  "n" : "gene count",
+  "v" : "48.0",
+  "d" : "double"
+}, {
+  "po" : 94,
+  "n" : "genes",
+  "v" : [ "NFKBIB", "CDKN1B", "HRAS", "HSPA8", "MAPK14", "RPS6", "TSHR", "ASS1P10", "CANX", "GNAI1", "STAT3", "PIK3CA", "RPS6KB1", "CDK2", "CA5AP1", "JAK2", "PIK3R2", "PIK3R1", "CHGA", "LINC00441", "PRKACA", "BSG", "PGK2", "AF8T", "IGF1R", "NFKBIA", "SHC1", "JAK1", "GYS2", "TNC", "PCDH8", "GNAO1", "SOCS1", "SOCS3", "GNAS", "SLC16A1", "CCND3", "CNN2", "CA6", "SCRIB", "GPX3", "GNA12", "ATP1A1", "GNA11", "TSHB", "ASS1P2", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 94,
+  "n" : "width",
+  "v" : "6.928203230275509",
+  "d" : "double"
+}, {
+  "po" : 94,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TSH%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TSH%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/8158bd07-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 94,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 94,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](8158bd07-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 93,
+  "n" : "gene count",
+  "v" : "36.0",
+  "d" : "double"
+}, {
+  "po" : 93,
+  "n" : "genes",
+  "v" : [ "MED23", "CTNNB1", "ARRB2", "BOC", "SKI", "CDK8", "SMOX", "GRK2", "IHH", "GLI2", "GLI3", "MED12", "GLI1", "HTR2A", "SAP18", "DYRK1A", "ZNF277", "SIN3A", "HHAT", "DHH", "KIF7", "GAS1", "POU4F1", "NR2E1", "SUFU", "SHH", "SDC2", "MBD4", "CDON", "PRKACA", "STK36", "PTCH2", "MED6", "PTCH1", "CREBBP", "HHIP" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "width",
+  "v" : "6.0",
+  "d" : "double"
+}, {
+  "po" : 93,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Hedgehog%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Hedgehog%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/ea2e9e3d-362d-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 93,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](ea2e9e3d-362d-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 92,
+  "n" : "gene count",
+  "v" : "66.0",
+  "d" : "double"
+}, {
+  "po" : 92,
+  "n" : "genes",
+  "v" : [ "ERBB2", "FBXW11", "HMGN2", "FYN", "DNM2", "HLA-G", "MAP2K1", "PSMA6", "L1CAM", "CRYGA", "PTPN1", "CENPJ", "YWHAZ", "RAB3IL1", "STAT5A", "STAT5B", "PRLR", "PIK3CA", "THRB", "VAV1", "PTPN6", "GNG4", "JAK2", "PIK3R2", "PIK3R1", "GLP1R", "CST2", "TNFRSF8", "MYB", "YWHAG", "ITGB1", "SHC1", "SIRPA", "NCOA3", "SOCS2", "RPS6KB1", "PLAU", "SLC25A4", "GIF", "SH2B1", "LCP2", "FADS3", "EP300", "CTNNA1", "SOCS4", "SOCS1", "SOCS3", "SOS1", "CNN2", "HEXA", "METTL1", "BTRC", "CBL", "PTP4A2P1", "PIAS3", "GPX3", "GRB2", "EIF4EBP1", "CREBBP", "GNA11", "FLNA", "HLTF", "ODCP", "PPIB", "PPIA", "PPP2CA" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "width",
+  "v" : "8.12403840463596",
+  "d" : "double"
+}, {
+  "po" : 92,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Prolactin%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Prolactin%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/a920744b-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 92,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](a920744b-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 91,
+  "n" : "gene count",
+  "v" : "228.0",
+  "d" : "double"
+}, {
+  "po" : 91,
+  "n" : "genes",
+  "v" : [ "HSPA7", "CRKL", "SLC6A4", "MCF2", "HSPA9", "PPP2R3A", "KRT35", "PCSK5", "SH3BGRL", "PTK2B", "MLVI2", "MAP3K2", "PSG1", "CAV2", "EGF", "CAV1", "EPPK1", "COL11A2", "IL12RB1", "MAP3K3", "MAP3K1", "GRK2", "MAPK8", "NDUFA13", "JAK2", "RELA", "ERBB2", "IL18", "RAB5A", "LHB", "SNCA", "WNK1", "CYP2A7", "CAMK2A", "CREB1", "GIF", "TNIP1", "STK4", "SMAD2", "CXCL11", "CXCL10", "MAPK14", "SOCS1", "SNRPD2", "SOCS3", "CXCL6", "GRB10", "FZR1", "RBBP7", "GRB2", "PSMC6", "UBB", "PTPN12", "ASS1P4", "MMAB", "HIST3H3", "SHC1", "MTIF2", "ACTA2", "HLA-C", "HRAS", "KHDRBS1", "HLA-F", "GAB1", "CC2D1A", "CENPCP1", "CRK", "CTBP1-AS2", "AP2B1", "ATP5C1", "PIAS3", "PVT1", "CEACAM1", "PIK3R3", "PIK3R2", "PIK3R1", "JAK1", "KSR1", "CEBPB", "NR4A1", "RNF8", "CSK", "FOS", "EPN1", "PTPN23", "MMACHC", "PLEC", "BLVRB", "PTPN1", "BCAR1", "PTPN6", "PTPN5", "CEBPA", "DRD5P1", "GJA1", "IDDM4", "PLSCR1", "VAV1", "ZPR1", "GNAQP1", "ASAP1", "KRT17", "ITM2B", "CNGA3", "GIT1", "FLOT2", "PIK3CA", "GABRD", "IL17RD", "ATXN2", "RALB", "KRT18", "HDAC1", "ERBB3", "SH2D3C", "MAP2K1", "NEB", "HAT1", "VAPA", "SMAD3", "STXBP1", "SPRY2", "KRT7", "CTNND2", "CTNND1", "KRT9", "KRT8", "KCNA2", "PEBP1", "NCOA3", "GREB1", "STAT3", "RACGAP1", "TNK2", "ST6GALNAC2", "MAPK3", "ICAM5", "MAPK1", "SOS1", "CST2", "NFKB1", "MOBP", "GALT", "RGS16", "RPS6KA1", "HLA-G", "RABIF", "APPL1", "RPS6KA3", "PRKAR1A", "FADS3", "MC5R", "TAF1C", "RIPK1", "SOS2", "KCNJ5", "METTL1", "GRIK4", "PLCG1", "LEP", "STAT5B", "STAT5A", "DNM1", "PRKD1", "CDC42", "MAP4K1", "PTK2", "CDH16", "EEF1A1", "CD59", "EGFR", "JUND", "MAP2K3", "MPRIP", "PDE9A", "WASL", "MAP2K5", "CYP1B1", "TRR-CCG2-1", "ZNF17", "IQGAP1", "FRA6E", "YWHAZ", "RAB3IL1", "KLF11", "NEDD4L", "CDKN3", "STAM2", "FRA6G", "DOK2", "CBL", "MYRF", "YWHAB", "EYA4", "USP6NL", "SH3KBP1", "GAA", "FLOT1", "PRKCI", "RFXANK", "EPS15", "PRKCA", "PRKCB", "HGS", "PRKCG", "PRKCZ", "AP2A1", "GPC5", "TNC", "PDPK1", "LCP2", "MLX", "PGA5", "IFNA11P", "PTPRR", "NCK2", "PIK3C2B", "MAP3K14", "CASP9", "PTPRF", "PURA", "EBP", "BRAF", "GLP1R", "CNN2", "ATF1", "TGIF1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 91,
+  "n" : "width",
+  "v" : "15.0996688705415",
+  "d" : "double"
+}, {
+  "po" : 91,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/EGFR1%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/EGFR1%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/5ac3c4c0-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 91,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 91,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](5ac3c4c0-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 90,
+  "n" : "gene count",
+  "v" : "13.0",
+  "d" : "double"
+}, {
+  "po" : 90,
+  "n" : "genes",
+  "v" : [ "EPHX1", "VCPKMT", "STAT3", "IL2RG", "KAT5", "GNAQP1", "GPX3", "GRB2", "TNFRSF8", "JAK3", "PIK3R1", "JAK1", "CD1B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 90,
+  "n" : "width",
+  "v" : "3.605551275463989",
+  "d" : "double"
+}, {
+  "po" : 90,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-9%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-9%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/50dc79f4-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 90,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 90,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](50dc79f4-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 89,
+  "n" : "gene count",
+  "v" : "23.0",
+  "d" : "double"
+}, {
+  "po" : 89,
+  "n" : "genes",
+  "v" : [ "MMP14", "STT3A", "CDKN1B", "EGFR", "MSN", "RNPEP", "CTNND2", "ASS1P10", "RHOA", "NCOA3", "TNFRSF8", "ISL1", "SHC1", "RAB5C", "PRKCA", "PRKCZ", "AP2A1", "IDDM15", "CCND1", "GABRP", "PIP5K1C", "CDK2", "GRB2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "width",
+  "v" : "4.795831523312719",
+  "d" : "double"
+}, {
+  "po" : 89,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/RAGE%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/RAGE%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/7e2577d7-4185-11e7-a6ff-0660b7976219?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 89,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](7e2577d7-4185-11e7-a6ff-0660b7976219)"
+}, {
+  "po" : 88,
+  "n" : "gene count",
+  "v" : "19.0",
+  "d" : "double"
+}, {
+  "po" : 88,
+  "n" : "genes",
+  "v" : [ "RARA", "GJA1", "TGM2", "PLCD1", "GRK6", "CHGA", "FPR2", "FSHR", "GRK2", "CCKAR", "APPL1", "AKT2", "ARRB2", "PRKAR1A", "ARRB1", "PRKACA", "BLVRA", "HIST3H3", "GRK4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "width",
+  "v" : "4.358898943540674",
+  "d" : "double"
+}, {
+  "po" : 88,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/FSH%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/FSH%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/981f4639-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 88,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](981f4639-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 87,
+  "n" : "gene count",
+  "v" : "38.0",
+  "d" : "double"
+}, {
+  "po" : 87,
+  "n" : "genes",
+  "v" : [ "GHRL", "RPS6KB1", "PRKAA2", "RPS6", "ARRB2", "CTNND2", "ARRB1", "ATP7A", "NCOA3", "BSX", "MAPK3", "FYN", "AP2M1", "CA5AP1", "MAPK1", "TNFRSF8", "HTR2C", "GPR83", "PIK3R1", "MC3R", "DFFB", "HLA-F", "PPARG", "LAMP5", "CNGA3", "CREB1", "MAGEB4", "BLVRB", "GHSR", "PTPN6", "CNN2", "GRB2", "NANOS3", "GSK3A", "GSK3B", "CAMKK2", "GYS2", "DOK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 87,
+  "n" : "width",
+  "v" : "6.164414002968976",
+  "d" : "double"
+}, {
+  "po" : 87,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Ghrelin%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Ghrelin%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/829d0aa9-019a-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 87,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 87,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](829d0aa9-019a-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 86,
+  "n" : "gene count",
+  "v" : "71.0",
+  "d" : "double"
+}, {
+  "po" : 86,
+  "n" : "genes",
+  "v" : [ "RANBP9", "SORT1", "GK2", "GRIA2", "DOCK3", "NEB", "HLA-F", "AMPD3", "CRTC1", "RPS6", "PLCG1", "SHC2", "KCNA3", "NCOA2", "TRAF6", "LINGO1", "MAPK3", "CDKL5", "SHC3", "FYN", "NSF", "NCAM1", "TIAM1", "CTNNB1", "MAPK1", "TNFRSF8", "PIK3R2", "PIK3R1", "GLP1R", "GRIA3", "KSR1", "CDH2", "PSMC6", "DLG1", "NTF3", "SHC1", "SIRPA", "SQSTM1", "CLK2P1", "FRA10C", "RPS6KB1", "CREB1", "RACK1", "GIF", "LAMP5", "CNGA3", "STK4", "CAMK2B", "CXCL11", "CXCL10", "GABRB3", "SH2B2", "E2F2", "RPS6KA1", "RPS6KA3", "E2F1", "NCK2", "CXCL6", "PPP2CA", "CST2", "PTPRF", "GPX3", "GRB2", "EIF4EBP1", "DOK5", "BDNF-AS", "PDPK1", "ASS1P4", "YBX1", "BTK" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "width",
+  "v" : "8.426149773176359",
+  "d" : "double"
+}, {
+  "po" : 86,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/BDNF%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/BDNF%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/807d8396-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 86,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](807d8396-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 85,
+  "n" : "gene count",
+  "v" : "18.0",
+  "d" : "double"
+}, {
+  "po" : 85,
+  "n" : "genes",
+  "v" : [ "IL7R", "CNGA3", "STAT3", "SHC1", "IL2RG", "FYN", "JAK1", "GSK3A", "GPX3", "GSK3B", "STAT5B", "STAT5A", "PTK2B", "TNFRSF8", "JAK3", "PIK3R1", "IL7", "MMAB" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 85,
+  "n" : "width",
+  "v" : "4.242640687119285",
+  "d" : "double"
+}, {
+  "po" : 85,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-7%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-7%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/49936503-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 85,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 85,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](49936503-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 84,
+  "n" : "gene count",
+  "v" : "13.0",
+  "d" : "double"
+}, {
+  "po" : 84,
+  "n" : "genes",
+  "v" : [ "PTPA", "IL11", "HRAS", "CNN2", "FYN", "CST2", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "GPM6B", "IL11RA", "YES1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "width",
+  "v" : "3.605551275463989",
+  "d" : "double"
+}, {
+  "po" : 84,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-11%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-11%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/449e7c8d-3632-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 84,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](449e7c8d-3632-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 83,
+  "n" : "gene count",
+  "v" : "150.0",
+  "d" : "double"
+}, {
+  "po" : 83,
+  "n" : "genes",
+  "v" : [ "CRKL", "IKBKB", "PTK2B", "RAPGEF1", "PKD2L1", "L1CAM", "PDE9A", "DLG1", "MAP3K8", "COL11A2", "ARHGEF6", "ARHGEF7", "MAP3K1", "GRAP2", "FLII", "GLP1R", "LYN", "JAK3", "CD28", "SHC1", "MUC1", "CREB1", "MUC4", "SOS2", "CD4", "CD5", "SYK", "PTPN12", "NEDD9", "PLCG1", "CD2AP", "GRB2", "MMAB", "CD3D", "CD3E", "RASGRP2", "NFATC1", "NFATC2", "CD2", "SKAP2", "SLC7A7", "ENAH", "SKAP1", "KHDRBS1", "DNM2", "CRK", "ICOSLG", "CABIN1", "EGR1", "TFRC", "PIK3R2", "PIK3R1", "DLX2", "CTLA4", "FOS", "TRA", "CHUK", "SHB", "CNGA3", "PTPN3", "PTPN6", "RELA", "VAV1", "DNAJC5", "CBL", "STK39", "LCK", "CREBBP", "PAG1", "MAPK14", "CTNNA1", "SH3BP2", "TUBA4A", "ABL1", "PSTPIP1", "NCOA3", "STAT4", "CYP1B1", "CD80", "SLA2", "TBC1D5", "USP19", "CD86", "DOCK2", "MAPK1", "DUSP9", "CST2", "MOBP", "MAPK9", "DUSP3", "NFKBIA", "NTF4", "SH2B3", "CD8A", "IDDM16", "FADS3", "MYRF", "LIME1", "SOS1", "CCKAR", "TAPBP", "STAT5B", "STAT5A", "PRKD2", "CDC42", "MAP4K1", "PTK2", "DTX1", "TTF1", "CTNNB1", "MAP2K1", "CD247", "SH2D3C", "ZNF17", "PTPN22", "RAB3IL1", "CEBPA", "TXK", "WIPF1", "UNC119", "TRAT1", "FYN", "DOK2", "DOK1", "ARHGDIB", "PSMC6", "YWHAZ", "TRAF6", "CEBPB", "CARD11", "HCRT", "SLN", "PRKCQ", "LCP2", "UCP3", "BCL10", "CCNB2", "SLC6A20", "FYB", "WASF2", "NFAM1", "MAP3K14", "PPP3CB", "ATF2", "PTPRH" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "width",
+  "v" : "12.24744871391589",
+  "d" : "double"
+}, {
+  "po" : 83,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TCR%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TCR%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 83,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](72008f63-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 82,
+  "n" : "gene count",
+  "v" : "66.0",
+  "d" : "double"
+}, {
+  "po" : 82,
+  "n" : "genes",
+  "v" : [ "GNS", "PTK2", "LAMA1", "FYN", "CD33", "HLA-G", "HLA-F", "CD151", "REXO2", "CTNND2", "ABL1", "LAMB3", "LAMB2", "YES1", "FADS3", "CLCA2", "LAMA5", "YWHAZ", "NCOA3", "PIK3CA", "CDR1", "EPHB2", "GRB2", "YWHAH", "KHK", "TNFRSF8", "PIK3R2", "PIK3R1", "YWHAB", "PIK3R3", "NPPC", "RNMT", "CDKN2B", "ALDH3B2", "LAMA2", "LAMA4", "ITGB4", "PRKCA", "EGFR", "MYLK3", "DSP", "MEN1", "POU4F1", "LAMP5", "CNGA3", "PLEC", "ALDH9A1", "LAMC2", "CXCL10", "RHOA", "VIM", "MC5R", "NTN1", "EIF4E3", "ERBB2", "METTL1", "LAMB1", "MST1R", "CCKAR", "TP73", "CST2", "GPX3", "AR", "EIF4EBP1", "ERBIN", "SHC1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "width",
+  "v" : "8.12403840463596",
+  "d" : "double"
+}, {
+  "po" : 82,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Alpha6-Beta4%20Integrin%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Alpha6-Beta4%20Integrin%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/bb5360e9-362d-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 82,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](bb5360e9-362d-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 81,
+  "n" : "gene count",
+  "v" : "57.0",
+  "d" : "double"
+}, {
+  "po" : 81,
+  "n" : "genes",
+  "v" : [ "BCL2L1", "AGL", "MAPK14", "PLCG2", "PLCG1", "PTK2", "PKD2L1", "AGT", "FRA6G", "CDC6", "NCOA3", "CEBPA", "PIK3CA", "RPS6KB1", "IL4", "PTPN6", "DOK2", "ETS1", "TNFRSF8", "JAK3", "PIK3R1", "JAK1", "CST2", "JAK2", "MYRF", "PIK3R2", "CEBPB", "SHC1", "RAB3IL1", "CXCR4", "STAT6", "LAMP5", "CNGA3", "HIST2H3C", "SND1", "NFKB1", "EP300", "MC5R", "SOCS5", "IL13RA1", "RELA", "SOCS1", "SOCS3", "SOS1", "IL2RG", "SYK", "GRB2", "IL13", "DRD3", "CBL", "MEF2C", "GPX3", "PRKCZ", "MAPK1", "HIST3H3", "CREBBP", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "width",
+  "v" : "7.54983443527075",
+  "d" : "double"
+}, {
+  "po" : 81,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-4%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-4%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/18d7a7f0-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 81,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](18d7a7f0-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 80,
+  "n" : "gene count",
+  "v" : "67.0",
+  "d" : "double"
+}, {
+  "po" : 80,
+  "n" : "genes",
+  "v" : [ "ITM2B", "CRKL", "RPS6KB1", "CDX2", "HLA-G", "HLA-F", "FOXO3", "RPS6", "PTK2B", "PIK3R3", "GNAQP1", "L1CAM", "CRK", "STAM", "ASS1P10", "FRA6G", "RAB3IL1", "STAT3", "COL11A2", "STAT5B", "PIK3CA", "STAM2", "FYN", "STAT5A", "PTPN6", "ETS2", "MAPK3", "VIL1", "ETS1", "TNFRSF8", "JAK3", "PIK3R1", "JAK1", "CST2", "JAK2", "MAPK8", "TERT", "CDK2", "PIK3R2", "PLCB1", "NR3C1", "LYN", "SHC1", "GRB2", "AURKC", "SHB", "CNGA3", "MC5R", "IL2RA", "IL2RB", "SOCS1", "SOCS3", "SOS1", "CNN2", "SYK", "METTL1", "IL2RG", "IL15", "CBL", "MAPK1", "GPX3", "PRKCZ", "IL2", "HSP90AA1", "NMI", "LCK", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "width",
+  "v" : "8.18535277187245",
+  "d" : "double"
+}, {
+  "po" : 80,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-2%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-2%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/f28356ce-362d-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 80,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](f28356ce-362d-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 79,
+  "n" : "gene count",
+  "v" : "70.0",
+  "d" : "double"
+}, {
+  "po" : 79,
+  "n" : "genes",
+  "v" : [ "CSF2RB", "BCL2L1", "PTK2", "CRKL", "HRAS", "CDX2", "BAX", "GAB1", "CTNNB1", "MAP2K1", "DNM1", "RAPGEF1", "PKD2L1", "L1CAM", "CRK", "YWHAZ", "RAB3IL1", "FCER1G", "STAT3", "STAT5B", "FYN", "GNG4", "PTPN6", "MAPK3", "DOK1", "JAK2", "PIK3R2", "PIK3R1", "JAK1", "YWHAB", "NMB", "MAPK8", "RACK1", "MAPK1", "RARA", "LCP2", "LYN", "SHC1", "NCOA3", "VCL", "RXRA", "CREB1", "CST2", "LAMP5", "CNGA3", "IL3RA", "HCK", "FADS3", "GATA2", "MC5R", "GATA1", "STAG3L5P-PVRIG2P-PILRB", "FOXO3", "SOCS3", "SOS1", "CNN2", "SYK", "PPP2CA", "SOCS2", "CCKAR", "CBL", "VAV1", "STAT5A", "GRB2", "PRKACA", "LRBA", "PPP3CA", "CEBPA", "DRD3", "LCK" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 79,
+  "n" : "width",
+  "v" : "8.366600265340756",
+  "d" : "double"
+}, {
+  "po" : 79,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-3%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-3%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/06919dcf-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 79,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 79,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](06919dcf-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 78,
+  "n" : "gene count",
+  "v" : "57.0",
+  "d" : "double"
+}, {
+  "po" : 78,
+  "n" : "genes",
+  "v" : [ "NFATC1", "TNFSF11", "COL11A2", "IGLC3", "FCGR3A", "FCGR3B", "IKBKB", "PLCG2", "MAP2K1", "MLVI2", "IKBKG", "TREM2", "MITF", "SMARCA4", "MAPK14", "RAB3IL1", "MAP3K8", "SPI1", "TYROBP", "OSCAR", "MAP3K7", "PTPN6", "FHL2", "PILRA", "PIK3R2", "PIK3R1", "BTF3P11", "MAPK8", "MAPK9", "PSMC6", "FCAR", "TRAF1", "TRAF2", "HSPA8", "NFKBIA", "TRAF6", "NCOA3", "MAP2K6", "TAB2", "ALS3", "ABL1", "TNFRSF11A", "LYN", "SQSTM1", "BSG", "SYK", "PSMD14", "TAB1", "ATP6V1E1", "CBL", "KIF25", "RUNX1", "POLE2", "SIRPB1", "HSP90AA1", "MMAB", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "width",
+  "v" : "7.54983443527075",
+  "d" : "double"
+}, {
+  "po" : 78,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/RANKL%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/RANKL%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/5683ecd5-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 78,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](5683ecd5-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 77,
+  "n" : "gene count",
+  "v" : "53.0",
+  "d" : "double"
+}, {
+  "po" : 77,
+  "n" : "genes",
+  "v" : [ "HDAC1", "COL11A2", "ERBB3", "HRAS", "GPM6B", "HNF1A", "GAB1", "RAB3IL1", "PTK2B", "CTNND2", "MAP2K4", "TYK2", "GPI", "DAXX", "NCOA1", "STAT3", "CEBPD", "CHRNB3", "MAP3K7", "MAPK3", "MAPK1", "JAK2", "PIK3R2", "CXCL10", "JAK1", "CST2", "NFKB1", "LYN", "PIK3R1", "ERBB2", "CEBPB", "SHC1", "SIRPA", "FOS", "IL6R", "GNAQP1", "AR", "CDK9", "HCK", "EP300", "SOCS3", "SOS1", "VAV1", "DRD3", "CBL", "PIAS3", "GNG4", "GRB2", "CREBBP", "HSP90AA1", "ASS1P4", "BTK", "MAP2K6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 77,
+  "n" : "width",
+  "v" : "7.280109889280518",
+  "d" : "double"
+}, {
+  "po" : 77,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-6%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-6%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/3585e152-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 77,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 77,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](3585e152-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 76,
+  "n" : "gene count",
+  "v" : "33.0",
+  "d" : "double"
+}, {
+  "po" : 76,
+  "n" : "genes",
+  "v" : [ "MYF5", "MYF6", "PSMD4", "SMAD3", "UBE2L4", "FRA6G", "FHL2", "SMURF2", "MYOD1", "CLA3", "ETS2", "LINC00441", "ANXA13", "COX5BP1", "GALT", "RBL2", "ID3", "TCF3", "CD69", "PAX5", "CA11", "KCNN1", "GDI1", "PAX8", "UBE2N", "ID4", "KCNH8", "TCF7L2", "ID1", "CDK2", "SREBF1", "TCF12", "ATF3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "width",
+  "v" : "5.744562646538029",
+  "d" : "double"
+}, {
+  "po" : 76,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/ID%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/ID%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/c7e1f2ab-362d-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 76,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](c7e1f2ab-362d-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 75,
+  "n" : "gene count",
+  "v" : "30.0",
+  "d" : "double"
+}, {
+  "po" : 75,
+  "n" : "genes",
+  "v" : [ "CSF2RB", "CRKL", "HRAS", "HLA-G", "SPRED1", "SDCBP", "CTNNB1", "PTK2B", "RAPGEF1", "DNM2", "RAF1", "SOX4", "YWHAZ", "UNC119", "GRB2", "JAK2", "JAK1", "CST2", "LYN", "SHC1", "HCK", "RACK1", "SOCS1", "SOS1", "CNN2", "SYK", "STAT5B", "STAT5A", "IL5", "CDC42" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "width",
+  "v" : "5.477225575051661",
+  "d" : "double"
+}, {
+  "po" : 75,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-5%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-5%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/28a90891-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 75,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](28a90891-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 74,
+  "n" : "gene count",
+  "v" : "54.0",
+  "d" : "double"
+}, {
+  "po" : 74,
+  "n" : "genes",
+  "v" : [ "MMP14", "PDE3A", "SH2B1", "KHDRBS1", "HLA-F", "IKBKB", "MAP2K1", "CTNND2", "L1CAM", "PTENP1", "MAPK14", "NCOA3", "NCOA1", "STAT3", "FYN", "STAT5A", "MAPK3", "TNFRSF8", "JAK3", "PIK3R1", "CST2", "JAK2", "RELA", "PIK3R2", "ERBB2", "IGF1R", "SHC1", "CD44", "PDIA3", "CHUK", "LEPR", "CNGA3", "PPIAP10", "IKBKG", "BLVRB", "EP300", "SOCS4", "SOCS3", "SOCS2", "IRS4", "SCARB1", "ESR1", "PLCG1", "GNAQP1", "GSK3B", "RUNX2", "STAT5B", "GPX3", "GRB2", "ASS1P4", "PSG1", "ATF1", "AMY1B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "width",
+  "v" : "7.3484692283495345",
+  "d" : "double"
+}, {
+  "po" : 74,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Leptin%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Leptin%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/698e0a46-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 74,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](698e0a46-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 73,
+  "n" : "gene count",
+  "v" : "17.0",
+  "d" : "double"
+}, {
+  "po" : 73,
+  "n" : "genes",
+  "v" : [ "HDAC1", "TNFSF12", "TRAF2", "PTPRR", "TRAF1", "KIF25", "CD163", "FADD", "BIRC2", "DEFB119", "RIPK1", "IFNGR1", "TNFRSF25", "IGLC3", "CXCL10", "RELA", "NFKB2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "width",
+  "v" : "4.123105625617661",
+  "d" : "double"
+}, {
+  "po" : 73,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TWEAK%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TWEAK%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/a13b1f5a-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 73,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](a13b1f5a-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 72,
+  "n" : "gene count",
+  "v" : "45.0",
+  "d" : "double"
+}, {
+  "po" : 72,
+  "n" : "genes",
+  "v" : [ "NFKBIB", "NFKBIA", "SERINC3", "IKBKB", "RNPEP", "MLVI2", "IKBKG", "MAP2K4", "EYCL1", "IL1B", "IL1R2", "PELI1", "TRAF6", "PELI2", "MAP3K2", "MAP3K3", "MAP3K7", "DOK1", "PIK3R2", "PIK3R1", "IRAK2", "IRAK3", "RELA", "IRAK1", "NF1", "SIRPA", "SQSTM1", "CDC25B", "CHUK", "CST2", "PRKCZ", "ECSIT", "IL1RAP", "UBE2V1", "STT3A", "IL1A", "IL1RN", "TOLLIP", "TAB3", "TAB2", "TAB1", "MAP3K14", "NDUFS5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "width",
+  "v" : "6.708203932499369",
+  "d" : "double"
+}, {
+  "po" : 72,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/IL-1%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/IL-1%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/7e1201d5-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 72,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](7e1201d5-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 71,
+  "n" : "gene count",
+  "v" : "24.0",
+  "d" : "double"
+}, {
+  "po" : 71,
+  "n" : "genes",
+  "v" : [ "PTK2", "BPI", "MAPK14", "PLCG1", "CENPCP1", "CRK", "CCKBR", "NCOA3", "JAK2", "PIK3R1", "CST2", "TNFRSF8", "ITGB1", "SHC1", "PRKCA", "GYS2", "KCNN1", "LCP2", "FADS3", "BCAR1", "CTNNB1", "SOS1", "GRB2", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "width",
+  "v" : "4.898979485566356",
+  "d" : "double"
+}, {
+  "po" : 71,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Gastrin%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Gastrin%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/4ceb45df-3632-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 71,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](4ceb45df-3632-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 70,
+  "n" : "gene count",
+  "v" : "37.0",
+  "d" : "double"
+}, {
+  "po" : 70,
+  "n" : "genes",
+  "v" : [ "CDKN1B", "HRAS", "JUND", "PTK2B", "OSM", "GPM6B", "TYK2", "CEBPB", "STAT3", "EGR1", "GRB2", "JAK2", "PIK3R1", "JAK1", "CST2", "TNFRSF8", "RELA", "IFNA10", "FOS", "ERBB2", "ERBB3", "SHC1", "NCOA3", "HLA-F", "CNGA3", "LCP2", "EP300", "RNASEH2A", "SOS1", "SOCS3", "CNN2", "GNAQP1", "MEF2C", "PIAS3", "CDK2", "CEACAM5", "EBP" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 70,
+  "n" : "width",
+  "v" : "6.082762530298219",
+  "d" : "double"
+}, {
+  "po" : 70,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/Oncostatin-M%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/Oncostatin-M%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/298031f7-3632-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 70,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 70,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](298031f7-3632-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 69,
+  "n" : "gene count",
+  "v" : "205.0",
+  "d" : "double"
+}, {
+  "po" : 69,
+  "n" : "genes",
+  "v" : [ "NFYC", "COL11A2", "SUMO1", "STK11", "ZFYVE9", "DAB2", "KIR3DL1", "CAV1", "EIF3I", "DLG3", "PIK3CA", "ANAPC10", "PARD6A", "STRAP", "SMAD4", "ANXA2P3", "IRF2BP1", "RNF111", "NUP214", "SMAD6", "CTAG1B", "CYP27B1", "HSPA8", "FNTA", "CAMK2D", "CTSC", "PPP2R2A", "CAMK2A", "CAMK2B", "CSNK1G2", "DVL1P1", "STK4", "SMAD2", "KCNN1", "GIPC1", "FOXH1", "PRKAR2A", "ORM2", "PPP2CA", "FZR1", "RUNX2", "RUNX3", "GRB2", "EID2", "PJA1", "ASS1P2", "PSG1", "SNX2", "SNX1", "SNX6", "SNX4", "FOXG1-AS1", "ITGA1", "CDKN1A", "UBE2D2", "UBE2D3", "UBE2D1", "UBE2L4", "DCP1A", "CRK", "SKI", "AP2B1", "XPO1", "DAXX", "HPRT1P3", "CDC16", "XPO4", "PPM1A", "TRAP1", "ENG", "VPS39", "CTNNB1", "RUNX1", "PIK3R2", "PIK3R1", "DDX5", "LINC00441", "ANXA13", "ACVRL1", "FOS", "MAGEB3", "MAP2K3", "ANAPC1", "BLVRB", "RHOA", "ANAPC2", "ANAPC5", "ANAPC4", "ANAPC7", "ZEB2", "UBE2I", "RNASEH2A", "ESR1", "CDC27", "ERBIN", "SDC2", "BRCA1P1", "HNF4A", "MEF2C", "MEF2A", "CCND1", "CREBBP", "HDAC1", "MAP4K1", "TGFB1", "SNIP1", "FOSB", "SMAD7", "PVT1", "MAP3K7", "TRPC2", "TGFB3", "ARRB2", "LAMC3", "MAPK14", "NCOA3", "NCOA1", "SIK1", "GPR143", "BCAR1", "E2F4", "TRIM33", "SPARC", "CITED1", "TGFBR3", "TGFBR2", "TGFBR1", "DPAGT1", "RBL2", "MAPK8", "DYRK1A", "PARD3", "UCHL5", "IDDM15", "EP300", "PRAM1", "LINC01228", "NKS1", "STAU1", "ITGB8", "SOS1", "WWTR1", "PPP1R15A", "TP73", "PIAS2", "CDK1", "CDK2", "PIAS1", "CDK6", "OXTR", "STAMBPL1", "RPS13", "PPP2R1A", "TGFB2", "PTK2", "MRX25", "JUND", "FOXO3", "NFYB", "NFYA", "SOX9", "MAP2K6", "ZNF17", "ASS1P10", "SPTBN1", "SHC1", "NUP153", "KLF10", "CASQ1", "DYNC1I1", "KCNK6", "TFDP1", "ETS1", "MED15", "EYA4", "DYNLRB1", "ITGB1", "SMURF1", "ITGB3", "SMURF2", "TRAF6", "CD44", "CHRM3", "HGS", "SMAD3", "AR", "SKIL", "LCP2", "COPS5", "CCNB2", "E2F5", "SNW1", "PPP1CC", "TAB1", "BTRC", "NEDD4L", "TGIF1", "PDPK1", "EWSR1", "ATF3", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "width",
+  "v" : "14.317821063276353",
+  "d" : "double"
+}, {
+  "po" : 69,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TGF-beta%20Receptor%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TGF-beta%20Receptor%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/6b968fd2-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 69,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](6b968fd2-02a4-11e6-b550-06603eb7f303)"
+}, {
+  "po" : 68,
+  "n" : "gene count",
+  "v" : "106.0",
+  "d" : "double"
+}, {
+  "po" : 68,
+  "n" : "genes",
+  "v" : [ "RYK", "KRT35", "RNU6-664P", "PGK1P2", "DAB2", "PR@", "ARHGEF4", "MAP3K1", "CSNK1D", "CSNK1E", "CDH2", "SETDB1", "HTC1", "GPI", "DAAM1", "CTSC", "KCNN1", "CXCL10", "MAN1A1", "ROR1", "RSPO3", "RSPO2", "RSPO1", "CCND1", "PPP2CA", "FZR1", "GSK3A", "TCF7L2", "GSK3B", "DVL1P1", "APOBEC1", "DIXDC1", "CTBP2", "WNT7B", "UGCG", "PI4K2A", "FZD10", "WNT4", "CTBP1-AS2", "PPP1R1B", "JUP", "HTR2A", "TCF3", "FRZB", "PPARG", "TNPO1", "RHOA", "CSNK1A1", "GPR143", "FRAT1", "FRAT2", "CNGA3", "PDZD2", "WNT5B", "WNT5A", "PROC", "WNT3A", "NFATC2", "ARRB2", "ARRB1", "FZD1", "FZD2", "FZD3", "FZD6", "FZD7", "FZD8", "FZD9", "MARK2", "MAPK8", "ERN2", "PFDN4", "SFRP2", "SFRP1", "LRP5", "WNT3", "WNT2", "WNT1", "KL", "PRKACA", "CDK6", "MYF5", "CTNNB1", "MAP2K4", "SOX1", "KREMEN1", "NEFM", "SLC9A3R1", "DVL2", "DVL3", "YWHAB", "COX5BP1", "C1D", "ARHGAP35", "KLRC2", "PRKCA", "PRKCB", "PRKCG", "GPC3", "LMNA", "MESD", "NKS1", "PPP1CA", "BTRC", "DKK1", "WNT9B", "WNT9A" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "width",
+  "v" : "10.295630140987",
+  "d" : "double"
+}, {
+  "po" : 68,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/WNT%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/WNT%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/cfab341c-362d-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 68,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](cfab341c-362d-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 67,
+  "n" : "gene count",
+  "v" : "106.0",
+  "d" : "double"
+}, {
+  "po" : 67,
+  "n" : "genes",
+  "v" : [ "RYK", "KRT35", "RNU6-664P", "PGK1P2", "DAB2", "PR@", "ARHGEF4", "MAP3K1", "CSNK1D", "CSNK1E", "CDH2", "SETDB1", "HTC1", "GPI", "DAAM1", "CTSC", "KCNN1", "CXCL10", "MAN1A1", "ROR1", "RSPO3", "RSPO2", "RSPO1", "CCND1", "PPP2CA", "FZR1", "GSK3A", "TCF7L2", "GSK3B", "DVL1P1", "APOBEC1", "DIXDC1", "CTBP2", "WNT7B", "UGCG", "PI4K2A", "FZD10", "WNT4", "CTBP1-AS2", "PPP1R1B", "JUP", "HTR2A", "TCF3", "FRZB", "PPARG", "TNPO1", "RHOA", "CSNK1A1", "GPR143", "FRAT1", "FRAT2", "CNGA3", "PDZD2", "WNT5B", "WNT5A", "PROC", "WNT3A", "NFATC2", "ARRB2", "ARRB1", "FZD1", "FZD2", "FZD3", "FZD6", "FZD7", "FZD8", "FZD9", "MARK2", "MAPK8", "ERN2", "PFDN4", "SFRP2", "SFRP1", "LRP5", "WNT3", "WNT2", "WNT1", "KL", "PRKACA", "CDK6", "MYF5", "CTNNB1", "MAP2K4", "SOX1", "KREMEN1", "NEFM", "SLC9A3R1", "DVL2", "DVL3", "YWHAB", "COX5BP1", "C1D", "ARHGAP35", "KLRC2", "PRKCA", "PRKCB", "PRKCG", "GPC3", "LMNA", "MESD", "NKS1", "PPP1CA", "BTRC", "DKK1", "WNT9B", "WNT9A" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "width",
+  "v" : "10.295630140987",
+  "d" : "double"
+}, {
+  "po" : 67,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TNF-alpha%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TNF-alpha%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/ef2a4b4b-615c-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 67,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](ef2a4b4b-615c-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 66,
+  "n" : "gene count",
+  "v" : "7.0",
+  "d" : "double"
+}, {
+  "po" : 66,
+  "n" : "genes",
+  "v" : [ "IL7R", "CRLF2", "JAK1", "STAT5B", "STAT5A", "JAK2", "TSLP" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "width",
+  "v" : "2.6457513110645907",
+  "d" : "double"
+}, {
+  "po" : 66,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/TSLP%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/TSLP%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/9171fc18-362e-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 66,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](9171fc18-362e-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 65,
+  "n" : "gene count",
+  "v" : "25.0",
+  "d" : "double"
+}, {
+  "po" : 65,
+  "n" : "genes",
+  "v" : [ "GNAO1", "CTNNB1", "ARRB2", "ECE1", "AGT", "GNAI1", "NCOA2", "GRK6", "PFKP", "CA5AP1", "NFKB1", "RELA", "GNB5", "NR4A1", "GNB3", "GNB2", "KCNN1", "HIST1H2BO", "IFNA8", "GNAS", "CA7", "GNA11", "CRHR2", "CRHR1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "width",
+  "v" : "5.0",
+  "d" : "double"
+}, {
+  "po" : 65,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/CRH%20Signalling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/CRH%20Signalling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/374324fa-3632-11e5-8ac5-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 65,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](374324fa-3632-11e5-8ac5-06603eb7f303)"
+}, {
+  "po" : 64,
+  "n" : "gene count",
+  "v" : "135.0",
+  "d" : "double"
+}, {
+  "po" : 64,
+  "n" : "genes",
+  "v" : [ "CMTM3", "CRKL", "CDX2", "IKBKB", "PTK2B", "IKBKG", "PKD2L1", "ADD1", "UXT", "COL11A2", "MAP3K7", "ATP2B4", "STAP1", "GLP1R", "LYN", "PIP4K2A", "PIP4K2B", "IFITM1", "SHC1", "CD22", "CREB1", "GIF", "KLK3", "MAN1A1", "SOS2", "PTPN18", "CD5", "SYK", "CCND3", "CCND2", "GSK3A", "GSK3B", "GNG4", "GRB2", "MMAB", "ASS1P2", "RAPGEF1", "RASGRP3", "CD1D", "NFKBIA", "GAB1", "DNM2", "CRK", "MAPKAPK2", "PIK3R2", "PIK3R1", "LINC00441", "GTF2I", "DLX2", "CSK", "FOS", "CHUK", "CNGA3", "BLK", "ITPR2", "BLVRB", "BCAR1", "PTPN6", "CR2", "RPS6KA1", "RNASEH2A", "VAV1", "CBL", "LCK", "BTK", "CD19", "RPS6KB1", "FOSB", "MAPK14", "RPS6", "SH3BP2", "HCK", "CD79A", "NEDD9", "CD81", "SLA2", "CTNNA1", "MAPK3", "MAPK1", "CST2", "MAPK8", "RRAS2", "CD8A", "MC5R", "LIME1", "SOS1", "PIP5K1C", "PIP5K1A", "DAPP1", "TAPBP", "CDK2", "NMB", "CDK6", "CDK7", "PRKD1", "MAP4K1", "PTK2", "BANK1", "CTNNB1", "PLCG2", "PLCG1", "RAP2A", "ASS1P10", "FRA6G", "RAB3IL1", "CEBPA", "SNORD22", "CCNA2", "PDE1B", "FYN", "DOK3", "DOK1", "HCLS1", "PRLHR", "CARD11", "PRKCB", "FCGR2B", "SLN", "MYRF", "PRKCQ", "LCP2", "CTNS", "BCL10", "CASP7", "TCL1A", "CHST15", "SELE", "CASP9", "BRAF", "PDPK1", "BCL6", "SDHD", "CD5L", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "width",
+  "v" : "11.61895003862225",
+  "d" : "double"
+}, {
+  "po" : 64,
+  "n" : "ndex:externalLink",
+  "v" : [ "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;BioPAX3 file (.owl)<br />](ftp://ftp.ndexbio.org/NetPath_BIOPAX_2017-05-24/BCR%20Signaling%20Pathway.owl.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;GSEA gene set (.grp)<br />](ftp://ftp.ndexbio.org/NetPath_GSEA_2017-05-24/BCR%20Signaling%20Pathway.grp.gz)", "[<i class='fa fa-download' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;CX file (.cx)](http://dev2.ndexbio.org/v2/network/78ca6234-02a4-11e6-b550-06603eb7f303?download=true)" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "type",
+  "v" : "Other"
+}, {
+  "po" : 64,
+  "n" : "ndex:internalLink",
+  "v" : "[<i class='fa fa-eye' aria-hidden='true'></i>&nbsp;&nbsp;&nbsp;View network<br />](78ca6234-02a4-11e6-b550-06603eb7f303)"
+}]}, {"edgeAttributes":[{
+  "po" : 117,
+  "n" : "overlap metric",
+  "v" : "0.32608695652173914",
+  "d" : "double"
+}, {
+  "po" : 117,
+  "n" : "overlap",
+  "v" : [ "XPO1", "PPP2R1A", "ITGB3", "SHC1", "SOS1", "NCOA3", "PPP2CA", "CDKN1A", "CDK2", "MAPK14", "CDK1", "CTNNB1", "GRB2", "ANXA13", "ASS1P10" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 117,
+  "n" : "overlap_size",
+  "v" : "15",
+  "d" : "integer"
+}, {
+  "po" : 117,
+  "n" : "edge function",
+  "v" : "0.0635593220338983",
+  "d" : "double"
+}, {
+  "po" : 117,
+  "n" : "subsumes",
+  "v" : "0.32608695652173914",
+  "d" : "double"
+}, {
+  "po" : 127,
+  "n" : "overlap metric",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 127,
+  "n" : "overlap",
+  "v" : [ "STAT3", "GNAQP1", "GPX3", "GRB2", "TNFRSF8", "JAK3", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 127,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 127,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 127,
+  "n" : "edge function",
+  "v" : "0.11666666666666667",
+  "d" : "double"
+}, {
+  "po" : 127,
+  "n" : "subsumes",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 120,
+  "n" : "overlap metric",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 120,
+  "n" : "overlap",
+  "v" : [ "GRB2", "TNFRSF8", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 120,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 120,
+  "n" : "edge function",
+  "v" : "0.08823529411764706",
+  "d" : "double"
+}, {
+  "po" : 120,
+  "n" : "subsumes",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 180,
+  "n" : "overlap metric",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 180,
+  "n" : "overlap",
+  "v" : [ "GPX3", "STAT3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 180,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 180,
+  "n" : "edge function",
+  "v" : "0.07017543859649122",
+  "d" : "double"
+}, {
+  "po" : 180,
+  "n" : "subsumes",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 170,
+  "n" : "overlap metric",
+  "v" : "0.15384615384615385",
+  "d" : "double"
+}, {
+  "po" : 170,
+  "n" : "overlap",
+  "v" : [ "GRB2", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 170,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 170,
+  "n" : "edge function",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 170,
+  "n" : "subsumes",
+  "v" : "0.15384615384615385",
+  "d" : "double"
+}, {
+  "po" : 169,
+  "n" : "overlap metric",
+  "v" : "0.16216216216216217",
+  "d" : "double"
+}, {
+  "po" : 169,
+  "n" : "overlap",
+  "v" : [ "STAT3", "GNAQP1", "GRB2", "TNFRSF8", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 169,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 169,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 169,
+  "n" : "edge function",
+  "v" : "0.13636363636363635",
+  "d" : "double"
+}, {
+  "po" : 169,
+  "n" : "subsumes",
+  "v" : "0.16216216216216217",
+  "d" : "double"
+}, {
+  "po" : 168,
+  "n" : "overlap metric",
+  "v" : "0.3888888888888889",
+  "d" : "double"
+}, {
+  "po" : 168,
+  "n" : "overlap",
+  "v" : [ "STAT3", "IL2RG", "GPX3", "TNFRSF8", "JAK3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 168,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 168,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 168,
+  "n" : "edge function",
+  "v" : "0.2916666666666667",
+  "d" : "double"
+}, {
+  "po" : 168,
+  "n" : "subsumes",
+  "v" : "0.3888888888888889",
+  "d" : "double"
+}, {
+  "po" : 167,
+  "n" : "overlap metric",
+  "v" : "0.15384615384615385",
+  "d" : "double"
+}, {
+  "po" : 167,
+  "n" : "overlap",
+  "v" : [ "GRB2", "TNFRSF8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 167,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 167,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 167,
+  "n" : "edge function",
+  "v" : "0.058823529411764705",
+  "d" : "double"
+}, {
+  "po" : 167,
+  "n" : "subsumes",
+  "v" : "0.15384615384615385",
+  "d" : "double"
+}, {
+  "po" : 161,
+  "n" : "overlap metric",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 161,
+  "n" : "overlap",
+  "v" : [ "GRB2", "TNFRSF8", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 161,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 161,
+  "n" : "edge function",
+  "v" : "0.0625",
+  "d" : "double"
+}, {
+  "po" : 161,
+  "n" : "subsumes",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 143,
+  "n" : "overlap metric",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 143,
+  "n" : "overlap",
+  "v" : [ "IL2RG", "GPX3", "GRB2", "TNFRSF8", "JAK3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 143,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 143,
+  "n" : "edge function",
+  "v" : "0.1111111111111111",
+  "d" : "double"
+}, {
+  "po" : 143,
+  "n" : "subsumes",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 141,
+  "n" : "overlap metric",
+  "v" : "0.6923076923076923",
+  "d" : "double"
+}, {
+  "po" : 141,
+  "n" : "overlap",
+  "v" : [ "STAT3", "IL2RG", "GNAQP1", "GPX3", "GRB2", "TNFRSF8", "JAK3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 141,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 141,
+  "n" : "edge function",
+  "v" : "0.1267605633802817",
+  "d" : "double"
+}, {
+  "po" : 141,
+  "n" : "subsumes",
+  "v" : "0.6923076923076923",
+  "d" : "double"
+}, {
+  "po" : 135,
+  "n" : "overlap metric",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 135,
+  "n" : "overlap",
+  "v" : [ "GRB2", "STAT3", "PIK3R1", "GNAQP1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 135,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 135,
+  "n" : "edge function",
+  "v" : "0.08196721311475409",
+  "d" : "double"
+}, {
+  "po" : 135,
+  "n" : "subsumes",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 116,
+  "n" : "overlap metric",
+  "v" : "0.34782608695652173",
+  "d" : "double"
+}, {
+  "po" : 116,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "CCND1", "CDK2", "GRB2", "RHOA", "ASS1P10", "IDDM15" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 116,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 116,
+  "n" : "edge function",
+  "v" : "0.03636363636363636",
+  "d" : "double"
+}, {
+  "po" : 116,
+  "n" : "subsumes",
+  "v" : "0.34782608695652173",
+  "d" : "double"
+}, {
+  "po" : 101,
+  "n" : "overlap metric",
+  "v" : "0.2608695652173913",
+  "d" : "double"
+}, {
+  "po" : 101,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "CDK2", "GRB2", "CTNND2", "ASS1P10" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 101,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 101,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 101,
+  "n" : "edge function",
+  "v" : "0.09523809523809523",
+  "d" : "double"
+}, {
+  "po" : 101,
+  "n" : "subsumes",
+  "v" : "0.2608695652173913",
+  "d" : "double"
+}, {
+  "po" : 166,
+  "n" : "overlap metric",
+  "v" : "0.16216216216216217",
+  "d" : "double"
+}, {
+  "po" : 166,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "CDKN1B", "CDK2", "GRB2", "TNFRSF8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 166,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 166,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 166,
+  "n" : "edge function",
+  "v" : "0.1111111111111111",
+  "d" : "double"
+}, {
+  "po" : 166,
+  "n" : "subsumes",
+  "v" : "0.16216216216216217",
+  "d" : "double"
+}, {
+  "po" : 165,
+  "n" : "overlap metric",
+  "v" : "0.20833333333333334",
+  "d" : "double"
+}, {
+  "po" : 165,
+  "n" : "overlap",
+  "v" : [ "PRKCA", "NCOA3", "GRB2", "TNFRSF8", "SHC1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 165,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 165,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 165,
+  "n" : "edge function",
+  "v" : "0.11904761904761904",
+  "d" : "double"
+}, {
+  "po" : 165,
+  "n" : "subsumes",
+  "v" : "0.20833333333333334",
+  "d" : "double"
+}, {
+  "po" : 148,
+  "n" : "overlap metric",
+  "v" : "0.34782608695652173",
+  "d" : "double"
+}, {
+  "po" : 148,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "PRKCA", "EGFR", "GRB2", "TNFRSF8", "CTNND2", "RHOA" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 148,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 148,
+  "n" : "edge function",
+  "v" : "0.09876543209876543",
+  "d" : "double"
+}, {
+  "po" : 148,
+  "n" : "subsumes",
+  "v" : "0.34782608695652173",
+  "d" : "double"
+}, {
+  "po" : 114,
+  "n" : "overlap metric",
+  "v" : "0.15789473684210525",
+  "d" : "double"
+}, {
+  "po" : 114,
+  "n" : "overlap",
+  "v" : [ "PRKACA", "ARRB2", "ARRB1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 114,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 114,
+  "n" : "edge function",
+  "v" : "0.02459016393442623",
+  "d" : "double"
+}, {
+  "po" : 114,
+  "n" : "subsumes",
+  "v" : "0.15789473684210525",
+  "d" : "double"
+}, {
+  "po" : 112,
+  "n" : "overlap metric",
+  "v" : "0.15789473684210525",
+  "d" : "double"
+}, {
+  "po" : 112,
+  "n" : "overlap",
+  "v" : [ "PRKACA", "ARRB2", "ARRB1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 112,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 112,
+  "n" : "edge function",
+  "v" : "0.02459016393442623",
+  "d" : "double"
+}, {
+  "po" : 112,
+  "n" : "subsumes",
+  "v" : "0.15789473684210525",
+  "d" : "double"
+}, {
+  "po" : 164,
+  "n" : "overlap metric",
+  "v" : "0.05263157894736842",
+  "d" : "double"
+}, {
+  "po" : 164,
+  "n" : "overlap",
+  "v" : [ "ARRB2", "ARRB1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 164,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 164,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 164,
+  "n" : "edge function",
+  "v" : "0.03636363636363636",
+  "d" : "double"
+}, {
+  "po" : 164,
+  "n" : "subsumes",
+  "v" : "0.05263157894736842",
+  "d" : "double"
+}, {
+  "po" : 163,
+  "n" : "overlap metric",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 163,
+  "n" : "overlap",
+  "v" : [ "ARRB2", "GRK2", "PRKACA" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 163,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 163,
+  "n" : "edge function",
+  "v" : "0.057692307692307696",
+  "d" : "double"
+}, {
+  "po" : 163,
+  "n" : "subsumes",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 162,
+  "n" : "overlap metric",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 162,
+  "n" : "overlap",
+  "v" : [ "GRK6", "ARRB2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 162,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 162,
+  "n" : "edge function",
+  "v" : "0.047619047619047616",
+  "d" : "double"
+}, {
+  "po" : 162,
+  "n" : "subsumes",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 158,
+  "n" : "overlap metric",
+  "v" : "0.3157894736842105",
+  "d" : "double"
+}, {
+  "po" : 158,
+  "n" : "overlap",
+  "v" : [ "CNGA3", "MAPK3", "RPS6KB1", "FYN", "HLA-F", "CREB1", "GRB2", "RPS6", "LAMP5", "MAPK1", "TNFRSF8", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 158,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 158,
+  "n" : "overlap_size",
+  "v" : "12",
+  "d" : "integer"
+}, {
+  "po" : 158,
+  "n" : "edge function",
+  "v" : "0.12371134020618557",
+  "d" : "double"
+}, {
+  "po" : 158,
+  "n" : "subsumes",
+  "v" : "0.3157894736842105",
+  "d" : "double"
+}, {
+  "po" : 118,
+  "n" : "overlap metric",
+  "v" : "0.3888888888888889",
+  "d" : "double"
+}, {
+  "po" : 118,
+  "n" : "overlap",
+  "v" : [ "STAT3", "SHC1", "PTK2B", "CNGA3", "TNFRSF8", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 118,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 118,
+  "n" : "edge function",
+  "v" : "0.14583333333333334",
+  "d" : "double"
+}, {
+  "po" : 118,
+  "n" : "subsumes",
+  "v" : "0.3888888888888889",
+  "d" : "double"
+}, {
+  "po" : 113,
+  "n" : "overlap metric",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 113,
+  "n" : "overlap",
+  "v" : [ "CNGA3", "GSK3A", "GSK3B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 113,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 113,
+  "n" : "edge function",
+  "v" : "0.024793388429752067",
+  "d" : "double"
+}, {
+  "po" : 113,
+  "n" : "subsumes",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 111,
+  "n" : "overlap metric",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 111,
+  "n" : "overlap",
+  "v" : [ "CNGA3", "GSK3A", "GSK3B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 111,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 111,
+  "n" : "edge function",
+  "v" : "0.024793388429752067",
+  "d" : "double"
+}, {
+  "po" : 111,
+  "n" : "subsumes",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 104,
+  "n" : "overlap metric",
+  "v" : "0.4444444444444444",
+  "d" : "double"
+}, {
+  "po" : 104,
+  "n" : "overlap",
+  "v" : [ "SHC1", "FYN", "GSK3A", "GSK3B", "PTK2B", "CNGA3", "PIK3R1", "MMAB" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 104,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 104,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 104,
+  "n" : "edge function",
+  "v" : "0.05517241379310345",
+  "d" : "double"
+}, {
+  "po" : 104,
+  "n" : "subsumes",
+  "v" : "0.4444444444444444",
+  "d" : "double"
+}, {
+  "po" : 98,
+  "n" : "overlap metric",
+  "v" : "0.5555555555555556",
+  "d" : "double"
+}, {
+  "po" : 98,
+  "n" : "overlap",
+  "v" : [ "IL7R", "SHC1", "FYN", "GSK3A", "STAT5B", "STAT5A", "CNGA3", "JAK3", "PIK3R1", "MMAB" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 98,
+  "n" : "overlap_size",
+  "v" : "10",
+  "d" : "integer"
+}, {
+  "po" : 98,
+  "n" : "edge function",
+  "v" : "0.12195121951219512",
+  "d" : "double"
+}, {
+  "po" : 98,
+  "n" : "subsumes",
+  "v" : "0.5555555555555556",
+  "d" : "double"
+}, {
+  "po" : 183,
+  "n" : "overlap metric",
+  "v" : "0.2222222222222222",
+  "d" : "double"
+}, {
+  "po" : 183,
+  "n" : "overlap",
+  "v" : [ "CNGA3", "STAT3", "PIK3R1", "GSK3B" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 183,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 183,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 183,
+  "n" : "edge function",
+  "v" : "0.045454545454545456",
+  "d" : "double"
+}, {
+  "po" : 183,
+  "n" : "subsumes",
+  "v" : "0.2222222222222222",
+  "d" : "double"
+}, {
+  "po" : 159,
+  "n" : "overlap metric",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 159,
+  "n" : "overlap",
+  "v" : [ "FYN", "GSK3A", "GSK3B", "CNGA3", "TNFRSF8", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 159,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 159,
+  "n" : "edge function",
+  "v" : "0.12",
+  "d" : "double"
+}, {
+  "po" : 159,
+  "n" : "subsumes",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 157,
+  "n" : "overlap metric",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 157,
+  "n" : "overlap",
+  "v" : [ "SHC1", "FYN", "GPX3", "CNGA3", "TNFRSF8", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 157,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 157,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 157,
+  "n" : "edge function",
+  "v" : "0.07228915662650602",
+  "d" : "double"
+}, {
+  "po" : 157,
+  "n" : "subsumes",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 155,
+  "n" : "overlap metric",
+  "v" : "0.20754716981132076",
+  "d" : "double"
+}, {
+  "po" : 155,
+  "n" : "overlap",
+  "v" : [ "STAT3", "SHC1", "FYN", "STAT5A", "GSK3B", "STAT5B", "GPX3", "CNGA3", "TNFRSF8", "JAK3", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 155,
+  "n" : "overlap_size",
+  "v" : "11",
+  "d" : "integer"
+}, {
+  "po" : 155,
+  "n" : "edge function",
+  "v" : "0.18032786885245902",
+  "d" : "double"
+}, {
+  "po" : 155,
+  "n" : "subsumes",
+  "v" : "0.20754716981132076",
+  "d" : "double"
+}, {
+  "po" : 151,
+  "n" : "overlap metric",
+  "v" : "0.5",
+  "d" : "double"
+}, {
+  "po" : 151,
+  "n" : "overlap",
+  "v" : [ "SHC1", "FYN", "PTK2B", "STAT5B", "STAT5A", "CNGA3", "JAK3", "PIK3R1", "MMAB" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 151,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 151,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 151,
+  "n" : "edge function",
+  "v" : "0.05660377358490566",
+  "d" : "double"
+}, {
+  "po" : 151,
+  "n" : "subsumes",
+  "v" : "0.5",
+  "d" : "double"
+}, {
+  "po" : 145,
+  "n" : "overlap metric",
+  "v" : "0.4444444444444444",
+  "d" : "double"
+}, {
+  "po" : 145,
+  "n" : "overlap",
+  "v" : [ "SHC1", "IL2RG", "GPX3", "CNGA3", "TNFRSF8", "JAK3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 145,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 145,
+  "n" : "edge function",
+  "v" : "0.11940298507462686",
+  "d" : "double"
+}, {
+  "po" : 145,
+  "n" : "subsumes",
+  "v" : "0.4444444444444444",
+  "d" : "double"
+}, {
+  "po" : 140,
+  "n" : "overlap metric",
+  "v" : "0.7222222222222222",
+  "d" : "double"
+}, {
+  "po" : 140,
+  "n" : "overlap",
+  "v" : [ "STAT3", "SHC1", "IL2RG", "FYN", "STAT5A", "PTK2B", "STAT5B", "GPX3", "CNGA3", "TNFRSF8", "JAK3", "PIK3R1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 140,
+  "n" : "overlap_size",
+  "v" : "13",
+  "d" : "integer"
+}, {
+  "po" : 140,
+  "n" : "edge function",
+  "v" : "0.18055555555555555",
+  "d" : "double"
+}, {
+  "po" : 140,
+  "n" : "subsumes",
+  "v" : "0.7222222222222222",
+  "d" : "double"
+}, {
+  "po" : 129,
+  "n" : "overlap metric",
+  "v" : "0.2777777777777778",
+  "d" : "double"
+}, {
+  "po" : 129,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "PTK2B", "SHC1", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 129,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 129,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 129,
+  "n" : "edge function",
+  "v" : "0.11627906976744186",
+  "d" : "double"
+}, {
+  "po" : 129,
+  "n" : "subsumes",
+  "v" : "0.2777777777777778",
+  "d" : "double"
+}, {
+  "po" : 121,
+  "n" : "overlap metric",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 121,
+  "n" : "overlap",
+  "v" : [ "CST2", "PIK3R2", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 121,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 121,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 121,
+  "n" : "edge function",
+  "v" : "0.05454545454545454",
+  "d" : "double"
+}, {
+  "po" : 121,
+  "n" : "subsumes",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 100,
+  "n" : "overlap metric",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 100,
+  "n" : "overlap",
+  "v" : [ "CST2", "GRB2", "YES1", "CNN2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 100,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 100,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 100,
+  "n" : "edge function",
+  "v" : "0.07272727272727272",
+  "d" : "double"
+}, {
+  "po" : 100,
+  "n" : "subsumes",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 96,
+  "n" : "overlap metric",
+  "v" : "0.6923076923076923",
+  "d" : "double"
+}, {
+  "po" : 96,
+  "n" : "overlap",
+  "v" : [ "CNN2", "HRAS", "FYN", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "CST2", "YES1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 96,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 96,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 96,
+  "n" : "edge function",
+  "v" : "0.11538461538461539",
+  "d" : "double"
+}, {
+  "po" : 96,
+  "n" : "subsumes",
+  "v" : "0.6923076923076923",
+  "d" : "double"
+}, {
+  "po" : 182,
+  "n" : "overlap metric",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 182,
+  "n" : "overlap",
+  "v" : [ "JAK2", "PIK3R2", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 182,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 182,
+  "n" : "edge function",
+  "v" : "0.03571428571428571",
+  "d" : "double"
+}, {
+  "po" : 182,
+  "n" : "subsumes",
+  "v" : "0.23076923076923078",
+  "d" : "double"
+}, {
+  "po" : 179,
+  "n" : "overlap metric",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 179,
+  "n" : "overlap",
+  "v" : [ "HRAS", "JAK2", "PIK3R2", "PIK3R1", "CNN2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 179,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 179,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 179,
+  "n" : "edge function",
+  "v" : "0.08928571428571429",
+  "d" : "double"
+}, {
+  "po" : 179,
+  "n" : "subsumes",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 174,
+  "n" : "overlap metric",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 174,
+  "n" : "overlap",
+  "v" : [ "CNN2", "FYN", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 174,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 174,
+  "n" : "edge function",
+  "v" : "0.09722222222222222",
+  "d" : "double"
+}, {
+  "po" : 174,
+  "n" : "subsumes",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 160,
+  "n" : "overlap metric",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 160,
+  "n" : "overlap",
+  "v" : [ "GRB2", "FYN", "PIK3R1", "CNN2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 160,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 160,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 160,
+  "n" : "edge function",
+  "v" : "0.0851063829787234",
+  "d" : "double"
+}, {
+  "po" : 160,
+  "n" : "subsumes",
+  "v" : "0.3076923076923077",
+  "d" : "double"
+}, {
+  "po" : 156,
+  "n" : "overlap metric",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 156,
+  "n" : "overlap",
+  "v" : [ "CST2", "GRB2", "FYN", "PIK3R2", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 156,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 156,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 156,
+  "n" : "edge function",
+  "v" : "0.06329113924050633",
+  "d" : "double"
+}, {
+  "po" : 156,
+  "n" : "subsumes",
+  "v" : "0.38461538461538464",
+  "d" : "double"
+}, {
+  "po" : 154,
+  "n" : "overlap metric",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 154,
+  "n" : "overlap",
+  "v" : [ "CST2", "HRAS", "GRB2", "JAK2", "CNN2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 154,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 154,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 154,
+  "n" : "edge function",
+  "v" : "0.13157894736842105",
+  "d" : "double"
+}, {
+  "po" : 154,
+  "n" : "subsumes",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 153,
+  "n" : "overlap metric",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 153,
+  "n" : "overlap",
+  "v" : [ "CST2", "GRB2", "JAK2", "PIK3R1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 153,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 153,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 153,
+  "n" : "edge function",
+  "v" : "0.12121212121212122",
+  "d" : "double"
+}, {
+  "po" : 153,
+  "n" : "subsumes",
+  "v" : "0.16666666666666666",
+  "d" : "double"
+}, {
+  "po" : 152,
+  "n" : "overlap metric",
+  "v" : "0.1891891891891892",
+  "d" : "double"
+}, {
+  "po" : 152,
+  "n" : "overlap",
+  "v" : [ "CNN2", "HRAS", "GRB2", "JAK2", "PIK3R1", "GPM6B", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 152,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 152,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 152,
+  "n" : "edge function",
+  "v" : "0.16279069767441862",
+  "d" : "double"
+}, {
+  "po" : 152,
+  "n" : "subsumes",
+  "v" : "0.1891891891891892",
+  "d" : "double"
+}, {
+  "po" : 146,
+  "n" : "overlap metric",
+  "v" : "0.46153846153846156",
+  "d" : "double"
+}, {
+  "po" : 146,
+  "n" : "overlap",
+  "v" : [ "FYN", "GRB2", "PIK3R2", "PIK3R1", "CST2", "YES1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 146,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 146,
+  "n" : "edge function",
+  "v" : "0.0821917808219178",
+  "d" : "double"
+}, {
+  "po" : 146,
+  "n" : "subsumes",
+  "v" : "0.46153846153846156",
+  "d" : "double"
+}, {
+  "po" : 138,
+  "n" : "overlap metric",
+  "v" : "0.6153846153846154",
+  "d" : "double"
+}, {
+  "po" : 138,
+  "n" : "overlap",
+  "v" : [ "CNN2", "HRAS", "FYN", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 138,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 138,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 138,
+  "n" : "edge function",
+  "v" : "0.10666666666666667",
+  "d" : "double"
+}, {
+  "po" : 138,
+  "n" : "subsumes",
+  "v" : "0.6153846153846154",
+  "d" : "double"
+}, {
+  "po" : 134,
+  "n" : "overlap metric",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 134,
+  "n" : "overlap",
+  "v" : [ "HRAS", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "GPM6B", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 134,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 134,
+  "n" : "edge function",
+  "v" : "0.11864406779661017",
+  "d" : "double"
+}, {
+  "po" : 134,
+  "n" : "subsumes",
+  "v" : "0.5384615384615384",
+  "d" : "double"
+}, {
+  "po" : 128,
+  "n" : "overlap metric",
+  "v" : "0.46153846153846156",
+  "d" : "double"
+}, {
+  "po" : 128,
+  "n" : "overlap",
+  "v" : [ "FYN", "GRB2", "JAK2", "PIK3R2", "PIK3R1", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 128,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 128,
+  "n" : "overlap_size",
+  "v" : "6",
+  "d" : "integer"
+}, {
+  "po" : 128,
+  "n" : "edge function",
+  "v" : "0.09836065573770492",
+  "d" : "double"
+}, {
+  "po" : 128,
+  "n" : "subsumes",
+  "v" : "0.46153846153846156",
+  "d" : "double"
+}, {
+  "po" : 103,
+  "n" : "overlap metric",
+  "v" : "0.4857142857142857",
+  "d" : "double"
+}, {
+  "po" : 103,
+  "n" : "overlap",
+  "v" : [ "PTK2", "CRKL", "CDX2", "GAB1", "CTNNB1", "RAPGEF1", "PKD2L1", "HCK", "CRK", "RAB3IL1", "CEBPA", "FYN", "PTPN6", "MAPK3", "DOK1", "PIK3R2", "PIK3R1", "CST2", "MAPK8", "SHC1", "MC5R", "CREB1", "CNGA3", "LCP2", "LYN", "SOS1", "SYK", "CBL", "VAV1", "GNG4", "GRB2", "NMB", "MAPK1", "LCK" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 103,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 103,
+  "n" : "overlap_size",
+  "v" : "34",
+  "d" : "integer"
+}, {
+  "po" : 103,
+  "n" : "edge function",
+  "v" : "0.19883040935672514",
+  "d" : "double"
+}, {
+  "po" : 103,
+  "n" : "subsumes",
+  "v" : "0.4857142857142857",
+  "d" : "double"
+}, {
+  "po" : 136,
+  "n" : "overlap metric",
+  "v" : "0.17543859649122806",
+  "d" : "double"
+}, {
+  "po" : 136,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "RAB3IL1", "SYK", "CBL", "MAPK14", "PLCG2", "PIK3R2", "PIK3R1", "PTPN6", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 136,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 136,
+  "n" : "overlap_size",
+  "v" : "10",
+  "d" : "integer"
+}, {
+  "po" : 136,
+  "n" : "edge function",
+  "v" : "0.09615384615384616",
+  "d" : "double"
+}, {
+  "po" : 136,
+  "n" : "subsumes",
+  "v" : "0.17543859649122806",
+  "d" : "double"
+}, {
+  "po" : 184,
+  "n" : "overlap metric",
+  "v" : "0.16981132075471697",
+  "d" : "double"
+}, {
+  "po" : 184,
+  "n" : "overlap",
+  "v" : [ "HDAC1", "STAT3", "MAPK3", "MAPK1", "JAK2", "PIK3R2", "PIK3R1", "NFKB1", "EP300" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 184,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 184,
+  "n" : "edge function",
+  "v" : "0.07627118644067797",
+  "d" : "double"
+}, {
+  "po" : 184,
+  "n" : "subsumes",
+  "v" : "0.16981132075471697",
+  "d" : "double"
+}, {
+  "po" : 132,
+  "n" : "overlap metric",
+  "v" : "0.04477611940298507",
+  "d" : "double"
+}, {
+  "po" : 132,
+  "n" : "overlap",
+  "v" : [ "SMURF2", "RBL2", "CDK2", "SMAD3", "UBE2L4", "KCNN1", "LINC00441", "ANXA13", "ATF3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 132,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 132,
+  "n" : "edge function",
+  "v" : "0.039301310043668124",
+  "d" : "double"
+}, {
+  "po" : 132,
+  "n" : "subsumes",
+  "v" : "0.04477611940298507",
+  "d" : "double"
+}, {
+  "po" : 131,
+  "n" : "overlap metric",
+  "v" : "0.04716981132075472",
+  "d" : "double"
+}, {
+  "po" : 131,
+  "n" : "overlap",
+  "v" : [ "TCF7L2", "KCNN1", "MYF5", "TCF3", "COX5BP1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 131,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 131,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 131,
+  "n" : "edge function",
+  "v" : "0.03731343283582089",
+  "d" : "double"
+}, {
+  "po" : 131,
+  "n" : "subsumes",
+  "v" : "0.04716981132075472",
+  "d" : "double"
+}, {
+  "po" : 130,
+  "n" : "overlap metric",
+  "v" : "0.04716981132075472",
+  "d" : "double"
+}, {
+  "po" : 130,
+  "n" : "overlap",
+  "v" : [ "TCF7L2", "KCNN1", "MYF5", "TCF3", "COX5BP1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 130,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 130,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 130,
+  "n" : "edge function",
+  "v" : "0.03731343283582089",
+  "d" : "double"
+}, {
+  "po" : 130,
+  "n" : "subsumes",
+  "v" : "0.04716981132075472",
+  "d" : "double"
+}, {
+  "po" : 150,
+  "n" : "overlap metric",
+  "v" : "0.5333333333333333",
+  "d" : "double"
+}, {
+  "po" : 150,
+  "n" : "overlap",
+  "v" : [ "YWHAZ", "SHC1", "CRKL", "SYK", "UNC119", "STAT5A", "CTNNB1", "STAT5B", "PTK2B", "GRB2", "RAPGEF1", "DNM2", "CST2", "LYN", "CDC42", "SOS1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 150,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 150,
+  "n" : "overlap_size",
+  "v" : "16",
+  "d" : "integer"
+}, {
+  "po" : 150,
+  "n" : "edge function",
+  "v" : "0.0975609756097561",
+  "d" : "double"
+}, {
+  "po" : 150,
+  "n" : "subsumes",
+  "v" : "0.5333333333333333",
+  "d" : "double"
+}, {
+  "po" : 137,
+  "n" : "overlap metric",
+  "v" : "0.6333333333333333",
+  "d" : "double"
+}, {
+  "po" : 137,
+  "n" : "overlap",
+  "v" : [ "CSF2RB", "YWHAZ", "SHC1", "CRKL", "CNN2", "SYK", "HRAS", "SOS1", "CTNNB1", "STAT5B", "STAT5A", "GRB2", "JAK2", "RAPGEF1", "JAK1", "CST2", "HCK", "LYN", "RACK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 137,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 137,
+  "n" : "overlap_size",
+  "v" : "19",
+  "d" : "integer"
+}, {
+  "po" : 137,
+  "n" : "edge function",
+  "v" : "0.2345679012345679",
+  "d" : "double"
+}, {
+  "po" : 137,
+  "n" : "subsumes",
+  "v" : "0.6333333333333333",
+  "d" : "double"
+}, {
+  "po" : 126,
+  "n" : "overlap metric",
+  "v" : "0.03773584905660377",
+  "d" : "double"
+}, {
+  "po" : 126,
+  "n" : "overlap",
+  "v" : [ "HDAC1", "CXCL10" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 126,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 126,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 126,
+  "n" : "edge function",
+  "v" : "0.029411764705882353",
+  "d" : "double"
+}, {
+  "po" : 126,
+  "n" : "subsumes",
+  "v" : "0.03773584905660377",
+  "d" : "double"
+}, {
+  "po" : 125,
+  "n" : "overlap metric",
+  "v" : "0.041666666666666664",
+  "d" : "double"
+}, {
+  "po" : 125,
+  "n" : "overlap",
+  "v" : [ "RELA" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 125,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 125,
+  "n" : "overlap_size",
+  "v" : "1",
+  "d" : "integer"
+}, {
+  "po" : 125,
+  "n" : "edge function",
+  "v" : "0.024390243902439025",
+  "d" : "double"
+}, {
+  "po" : 125,
+  "n" : "subsumes",
+  "v" : "0.041666666666666664",
+  "d" : "double"
+}, {
+  "po" : 124,
+  "n" : "overlap metric",
+  "v" : "0.07017543859649122",
+  "d" : "double"
+}, {
+  "po" : 124,
+  "n" : "overlap",
+  "v" : [ "KIF25", "TRAF1", "TRAF2", "IGLC3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 124,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 124,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 124,
+  "n" : "edge function",
+  "v" : "0.05714285714285714",
+  "d" : "double"
+}, {
+  "po" : 124,
+  "n" : "subsumes",
+  "v" : "0.07017543859649122",
+  "d" : "double"
+}, {
+  "po" : 123,
+  "n" : "overlap metric",
+  "v" : "0.1320754716981132",
+  "d" : "double"
+}, {
+  "po" : 123,
+  "n" : "overlap",
+  "v" : [ "CHUK", "IKBKB", "IKBKG", "PIK3R1", "CST2", "RELA", "PIK3R2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 123,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 123,
+  "n" : "overlap_size",
+  "v" : "7",
+  "d" : "integer"
+}, {
+  "po" : 123,
+  "n" : "edge function",
+  "v" : "0.07608695652173914",
+  "d" : "double"
+}, {
+  "po" : 123,
+  "n" : "subsumes",
+  "v" : "0.1320754716981132",
+  "d" : "double"
+}, {
+  "po" : 122,
+  "n" : "overlap metric",
+  "v" : "0.19298245614035087",
+  "d" : "double"
+}, {
+  "po" : 122,
+  "n" : "overlap",
+  "v" : [ "SQSTM1", "TRAF6", "TAB2", "TAB1", "NFKBIA", "MAP3K7", "IKBKB", "MLVI2", "IKBKG", "PIK3R1", "PIK3R2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 122,
+  "n" : "overlap_size",
+  "v" : "11",
+  "d" : "integer"
+}, {
+  "po" : 122,
+  "n" : "edge function",
+  "v" : "0.12087912087912088",
+  "d" : "double"
+}, {
+  "po" : 122,
+  "n" : "subsumes",
+  "v" : "0.19298245614035087",
+  "d" : "double"
+}, {
+  "po" : 119,
+  "n" : "overlap metric",
+  "v" : "0.24324324324324326",
+  "d" : "double"
+}, {
+  "po" : 119,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "SOS1", "GRB2", "TNFRSF8", "PIK3R1", "LCP2", "CST2", "JAK2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 119,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 119,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 119,
+  "n" : "edge function",
+  "v" : "0.17307692307692307",
+  "d" : "double"
+}, {
+  "po" : 119,
+  "n" : "subsumes",
+  "v" : "0.24324324324324326",
+  "d" : "double"
+}, {
+  "po" : 115,
+  "n" : "overlap metric",
+  "v" : "0.5833333333333334",
+  "d" : "double"
+}, {
+  "po" : 115,
+  "n" : "overlap",
+  "v" : [ "ITGB1", "NCOA3", "PTK2", "SHC1", "SOS1", "KCNN1", "MAPK14", "CTNNB1", "GRB2", "PIK3R1", "LCP2", "CRK", "BCAR1", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 115,
+  "n" : "overlap_size",
+  "v" : "14",
+  "d" : "integer"
+}, {
+  "po" : 115,
+  "n" : "edge function",
+  "v" : "0.06511627906976744",
+  "d" : "double"
+}, {
+  "po" : 115,
+  "n" : "subsumes",
+  "v" : "0.5833333333333334",
+  "d" : "double"
+}, {
+  "po" : 106,
+  "n" : "overlap metric",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 106,
+  "n" : "overlap",
+  "v" : [ "CTNNB1", "KCNN1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 106,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 106,
+  "n" : "edge function",
+  "v" : "0.0425531914893617",
+  "d" : "double"
+}, {
+  "po" : 106,
+  "n" : "subsumes",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 102,
+  "n" : "overlap metric",
+  "v" : "0.5416666666666666",
+  "d" : "double"
+}, {
+  "po" : 102,
+  "n" : "overlap",
+  "v" : [ "CTNNB1", "PTK2", "SHC1", "SOS1", "MAPK14", "PLCG1", "GRB2", "PIK3R1", "LCP2", "CST2", "CRK", "BCAR1", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 102,
+  "n" : "overlap_size",
+  "v" : "13",
+  "d" : "integer"
+}, {
+  "po" : 102,
+  "n" : "edge function",
+  "v" : "0.08904109589041095",
+  "d" : "double"
+}, {
+  "po" : 102,
+  "n" : "subsumes",
+  "v" : "0.5416666666666666",
+  "d" : "double"
+}, {
+  "po" : 99,
+  "n" : "overlap metric",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 99,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "SHC1", "SOS1", "CTNNB1", "MAPK14", "PLCG1", "GRB2", "CST2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 99,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 99,
+  "n" : "overlap_size",
+  "v" : "8",
+  "d" : "integer"
+}, {
+  "po" : 99,
+  "n" : "edge function",
+  "v" : "0.12903225806451613",
+  "d" : "double"
+}, {
+  "po" : 99,
+  "n" : "subsumes",
+  "v" : "0.3333333333333333",
+  "d" : "double"
+}, {
+  "po" : 178,
+  "n" : "overlap metric",
+  "v" : "0.041666666666666664",
+  "d" : "double"
+}, {
+  "po" : 178,
+  "n" : "overlap",
+  "v" : [ "CTNNB1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 178,
+  "n" : "overlap_size",
+  "v" : "1",
+  "d" : "integer"
+}, {
+  "po" : 178,
+  "n" : "edge function",
+  "v" : "0.01694915254237288",
+  "d" : "double"
+}, {
+  "po" : 178,
+  "n" : "subsumes",
+  "v" : "0.041666666666666664",
+  "d" : "double"
+}, {
+  "po" : 175,
+  "n" : "overlap metric",
+  "v" : "0.4583333333333333",
+  "d" : "double"
+}, {
+  "po" : 175,
+  "n" : "overlap",
+  "v" : [ "ITGB1", "NCOA3", "SHC1", "SOS1", "GRB2", "TNFRSF8", "PIK3R1", "LCP2", "CST2", "JAK2", "FADS3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 175,
+  "n" : "overlap_size",
+  "v" : "11",
+  "d" : "integer"
+}, {
+  "po" : 175,
+  "n" : "edge function",
+  "v" : "0.13924050632911392",
+  "d" : "double"
+}, {
+  "po" : 175,
+  "n" : "subsumes",
+  "v" : "0.4583333333333333",
+  "d" : "double"
+}, {
+  "po" : 172,
+  "n" : "overlap metric",
+  "v" : "0.6666666666666666",
+  "d" : "double"
+}, {
+  "po" : 172,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "LCP2", "PTK2", "SHC1", "SOS1", "PRKCA", "MAPK14", "PLCG1", "GRB2", "JAK2", "PIK3R1", "CENPCP1", "CST2", "CRK", "FADS3", "BCAR1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 172,
+  "n" : "overlap_size",
+  "v" : "16",
+  "d" : "integer"
+}, {
+  "po" : 172,
+  "n" : "edge function",
+  "v" : "0.06779661016949153",
+  "d" : "double"
+}, {
+  "po" : 172,
+  "n" : "subsumes",
+  "v" : "0.6666666666666666",
+  "d" : "double"
+}, {
+  "po" : 149,
+  "n" : "overlap metric",
+  "v" : "0.5833333333333334",
+  "d" : "double"
+}, {
+  "po" : 149,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "PTK2", "SHC1", "SOS1", "CTNNB1", "MAPK14", "PLCG1", "GRB2", "PIK3R1", "LCP2", "CST2", "CRK", "FADS3", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 149,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 149,
+  "n" : "overlap_size",
+  "v" : "14",
+  "d" : "integer"
+}, {
+  "po" : 149,
+  "n" : "edge function",
+  "v" : "0.0875",
+  "d" : "double"
+}, {
+  "po" : 149,
+  "n" : "subsumes",
+  "v" : "0.5833333333333334",
+  "d" : "double"
+}, {
+  "po" : 147,
+  "n" : "overlap metric",
+  "v" : "0.375",
+  "d" : "double"
+}, {
+  "po" : 147,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "PTK2", "SHC1", "PRKCA", "GRB2", "TNFRSF8", "PIK3R1", "CST2", "FADS3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 147,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 147,
+  "n" : "overlap_size",
+  "v" : "9",
+  "d" : "integer"
+}, {
+  "po" : 147,
+  "n" : "edge function",
+  "v" : "0.1111111111111111",
+  "d" : "double"
+}, {
+  "po" : 147,
+  "n" : "subsumes",
+  "v" : "0.375",
+  "d" : "double"
+}, {
+  "po" : 144,
+  "n" : "overlap metric",
+  "v" : "0.5",
+  "d" : "double"
+}, {
+  "po" : 144,
+  "n" : "overlap",
+  "v" : [ "NCOA3", "PTK2", "SHC1", "SOS1", "MAPK14", "PLCG1", "GRB2", "JAK2", "PIK3R1", "CST2", "TNFRSF8", "ATF2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 144,
+  "n" : "overlap_size",
+  "v" : "12",
+  "d" : "integer"
+}, {
+  "po" : 144,
+  "n" : "edge function",
+  "v" : "0.17391304347826086",
+  "d" : "double"
+}, {
+  "po" : 144,
+  "n" : "subsumes",
+  "v" : "0.5",
+  "d" : "double"
+}, {
+  "po" : 171,
+  "n" : "overlap metric",
+  "v" : "0.6756756756756757",
+  "d" : "double"
+}, {
+  "po" : 171,
+  "n" : "overlap",
+  "v" : [ "HRAS", "JUND", "PTK2B", "CEBPB", "STAT3", "NCOA3", "JAK2", "PIK3R1", "JAK1", "CST2", "RELA", "ERBB2", "ERBB3", "SHC1", "FOS", "HLA-F", "CNGA3", "LCP2", "SOS1", "SOCS3", "CNN2", "GNAQP1", "PIAS3", "GRB2", "EBP" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 171,
+  "n" : "overlap_size",
+  "v" : "25",
+  "d" : "integer"
+}, {
+  "po" : 171,
+  "n" : "edge function",
+  "v" : "0.10416666666666667",
+  "d" : "double"
+}, {
+  "po" : 171,
+  "n" : "subsumes",
+  "v" : "0.6756756756756757",
+  "d" : "double"
+}, {
+  "po" : 133,
+  "n" : "overlap metric",
+  "v" : "0.5405405405405406",
+  "d" : "double"
+}, {
+  "po" : 133,
+  "n" : "overlap",
+  "v" : [ "ERBB2", "CEBPB", "STAT3", "SHC1", "ERBB3", "FOS", "HRAS", "JAK1", "SOCS3", "GNAQP1", "PIAS3", "PTK2B", "GRB2", "JAK2", "SOS1", "PIK3R1", "GPM6B", "CST2", "TYK2", "EP300" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 133,
+  "n" : "overlap_size",
+  "v" : "20",
+  "d" : "integer"
+}, {
+  "po" : 133,
+  "n" : "edge function",
+  "v" : "0.2857142857142857",
+  "d" : "double"
+}, {
+  "po" : 133,
+  "n" : "subsumes",
+  "v" : "0.5405405405405406",
+  "d" : "double"
+}, {
+  "po" : 110,
+  "n" : "overlap metric",
+  "v" : "1.0",
+  "d" : "double"
+}, {
+  "po" : 110,
+  "n" : "overlap",
+  "v" : [ "RYK", "KRT35", "RNU6-664P", "PI4K2A", "DAB2", "PR@", "ARHGEF4", "MAP3K1", "CSNK1D", "CSNK1E", "CDH2", "SETDB1", "HTC1", "GPI", "DAAM1", "CTSC", "KCNN1", "CXCL10", "MAN1A1", "ROR1", "RSPO3", "RSPO2", "RSPO1", "CCND1", "PPP2CA", "FZR1", "GSK3A", "TCF7L2", "GSK3B", "DVL1P1", "APOBEC1", "DIXDC1", "CTBP2", "WNT7B", "UGCG", "PGK1P2", "FZD10", "KL", "CTBP1-AS2", "PPP1R1B", "JUP", "HTR2A", "TCF3", "FRZB", "PPARG", "TNPO1", "RHOA", "CSNK1A1", "FZD7", "FRAT1", "FRAT2", "CNGA3", "PDZD2", "WNT5B", "WNT5A", "PROC", "WNT3A", "NFATC2", "ARRB2", "ARRB1", "FZD1", "FZD2", "FZD3", "FZD6", "GPR143", "FZD8", "FZD9", "MARK2", "MAPK8", "ERN2", "PFDN4", "SFRP2", "SFRP1", "LRP5", "WNT3", "WNT2", "WNT1", "WNT4", "PRKACA", "CDK6", "MYF5", "CTNNB1", "MAP2K4", "SOX1", "KREMEN1", "NEFM", "SLC9A3R1", "DVL2", "DVL3", "YWHAB", "COX5BP1", "WNT9B", "KLRC2", "PRKCA", "PRKCB", "PRKCG", "GPC3", "DKK1", "LMNA", "MESD", "NKS1", "PPP1CA", "BTRC", "C1D", "ARHGAP35", "WNT9A" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 110,
+  "n" : "overlap_size",
+  "v" : "106",
+  "d" : "integer"
+}, {
+  "po" : 110,
+  "n" : "edge function",
+  "v" : "1.0",
+  "d" : "double"
+}, {
+  "po" : 110,
+  "n" : "subsumes",
+  "v" : "1.0",
+  "d" : "double"
+}, {
+  "po" : 109,
+  "n" : "overlap metric",
+  "v" : "0.07692307692307693",
+  "d" : "double"
+}, {
+  "po" : 109,
+  "n" : "overlap",
+  "v" : [ "JAK2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 109,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 109,
+  "n" : "overlap_size",
+  "v" : "1",
+  "d" : "integer"
+}, {
+  "po" : 109,
+  "n" : "edge function",
+  "v" : "0.05263157894736842",
+  "d" : "double"
+}, {
+  "po" : 109,
+  "n" : "subsumes",
+  "v" : "0.07692307692307693",
+  "d" : "double"
+}, {
+  "po" : 108,
+  "n" : "overlap metric",
+  "v" : "0.13333333333333333",
+  "d" : "double"
+}, {
+  "po" : 108,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "JAK2", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 108,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 108,
+  "n" : "edge function",
+  "v" : "0.12121212121212122",
+  "d" : "double"
+}, {
+  "po" : 108,
+  "n" : "subsumes",
+  "v" : "0.13333333333333333",
+  "d" : "double"
+}, {
+  "po" : 107,
+  "n" : "overlap metric",
+  "v" : "0.2222222222222222",
+  "d" : "double"
+}, {
+  "po" : 107,
+  "n" : "overlap",
+  "v" : [ "IL7R", "STAT5B", "STAT5A", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 107,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 107,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 107,
+  "n" : "edge function",
+  "v" : "0.19047619047619047",
+  "d" : "double"
+}, {
+  "po" : 107,
+  "n" : "subsumes",
+  "v" : "0.2222222222222222",
+  "d" : "double"
+}, {
+  "po" : 97,
+  "n" : "overlap metric",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 97,
+  "n" : "overlap",
+  "v" : [ "IL7R", "STAT5B", "STAT5A", "JAK2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 97,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 97,
+  "n" : "edge function",
+  "v" : "0.05194805194805195",
+  "d" : "double"
+}, {
+  "po" : 97,
+  "n" : "subsumes",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 181,
+  "n" : "overlap metric",
+  "v" : "0.2857142857142857",
+  "d" : "double"
+}, {
+  "po" : 181,
+  "n" : "overlap",
+  "v" : [ "JAK2", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 181,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 181,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 181,
+  "n" : "edge function",
+  "v" : "0.03773584905660377",
+  "d" : "double"
+}, {
+  "po" : 181,
+  "n" : "subsumes",
+  "v" : "0.2857142857142857",
+  "d" : "double"
+}, {
+  "po" : 176,
+  "n" : "overlap metric",
+  "v" : "0.42857142857142855",
+  "d" : "double"
+}, {
+  "po" : 176,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "JAK2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 176,
+  "n" : "overlap_size",
+  "v" : "3",
+  "d" : "integer"
+}, {
+  "po" : 176,
+  "n" : "edge function",
+  "v" : "0.04285714285714286",
+  "d" : "double"
+}, {
+  "po" : 176,
+  "n" : "subsumes",
+  "v" : "0.42857142857142855",
+  "d" : "double"
+}, {
+  "po" : 173,
+  "n" : "overlap metric",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 173,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "JAK2", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 173,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 173,
+  "n" : "edge function",
+  "v" : "0.017316017316017316",
+  "d" : "double"
+}, {
+  "po" : 173,
+  "n" : "subsumes",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 142,
+  "n" : "overlap metric",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 142,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "JAK2", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 142,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 142,
+  "n" : "edge function",
+  "v" : "0.05714285714285714",
+  "d" : "double"
+}, {
+  "po" : 142,
+  "n" : "subsumes",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 139,
+  "n" : "overlap metric",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 139,
+  "n" : "overlap",
+  "v" : [ "STAT5B", "STAT5A", "JAK2", "JAK1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 139,
+  "n" : "strength",
+  "v" : "high"
+}, {
+  "po" : 139,
+  "n" : "overlap_size",
+  "v" : "4",
+  "d" : "integer"
+}, {
+  "po" : 139,
+  "n" : "edge function",
+  "v" : "0.0547945205479452",
+  "d" : "double"
+}, {
+  "po" : 139,
+  "n" : "subsumes",
+  "v" : "0.5714285714285714",
+  "d" : "double"
+}, {
+  "po" : 105,
+  "n" : "overlap metric",
+  "v" : "0.10638297872340426",
+  "d" : "double"
+}, {
+  "po" : 105,
+  "n" : "overlap",
+  "v" : [ "GNAO1", "GNAS", "GNA11", "CA5AP1", "GNAI1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 105,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 105,
+  "n" : "overlap_size",
+  "v" : "5",
+  "d" : "integer"
+}, {
+  "po" : 105,
+  "n" : "edge function",
+  "v" : "0.07352941176470588",
+  "d" : "double"
+}, {
+  "po" : 105,
+  "n" : "subsumes",
+  "v" : "0.10638297872340426",
+  "d" : "double"
+}, {
+  "po" : 177,
+  "n" : "overlap metric",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}, {
+  "po" : 177,
+  "n" : "overlap",
+  "v" : [ "CTNNB1", "ARRB2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 177,
+  "n" : "strength",
+  "v" : "low"
+}, {
+  "po" : 177,
+  "n" : "overlap_size",
+  "v" : "2",
+  "d" : "integer"
+}, {
+  "po" : 177,
+  "n" : "edge function",
+  "v" : "0.03389830508474576",
+  "d" : "double"
+}, {
+  "po" : 177,
+  "n" : "subsumes",
+  "v" : "0.08333333333333333",
+  "d" : "double"
+}]}, {"cartesianLayout":[{
+  "node" : 63,
+  "x" : -101.90842066960825,
+  "y" : 813.0405883789062
+}, {
+  "node" : 62,
+  "x" : 519.9656832202747,
+  "y" : 179.91529098906162
+}, {
+  "node" : 95,
+  "x" : 300.63698295644593,
+  "y" : 501.3820762433881
+}, {
+  "node" : 94,
+  "x" : 450.8971936583175,
+  "y" : 307.76316029005216
+}, {
+  "node" : 93,
+  "x" : 586.9974777064958,
+  "y" : 797.0404572979834
+}, {
+  "node" : 92,
+  "x" : 598.6083252141461,
+  "y" : 328.5952846148953
+}, {
+  "node" : 91,
+  "x" : 372.55741212440614,
+  "y" : 144.98386708608686
+}, {
+  "node" : 90,
+  "x" : 257.30514580810984,
+  "y" : 176.88838828031015
+}, {
+  "node" : 89,
+  "x" : 14.759936711469543,
+  "y" : 705.42620892854
+}, {
+  "node" : 88,
+  "x" : 738.8147870285508,
+  "y" : 936.4056550823692
+}, {
+  "node" : 87,
+  "x" : 772.6283535879447,
+  "y" : 136.6610097467169
+}, {
+  "node" : 86,
+  "x" : 560.6034427347612,
+  "y" : 93.22329349492799
+}, {
+  "node" : 85,
+  "x" : 486.33392112043293,
+  "y" : 424.7786625580406
+}, {
+  "node" : 84,
+  "x" : 352.7640000750171,
+  "y" : 327.0628662109375
+}, {
+  "node" : 83,
+  "x" : 759.4428375927373,
+  "y" : 540.082204185788
+}, {
+  "node" : 82,
+  "x" : 172.21258003711054,
+  "y" : 593.1745623347409
+}, {
+  "node" : 81,
+  "x" : 90.14359492952735,
+  "y" : 365.569689520936
+}, {
+  "node" : 80,
+  "x" : 439.66339190679446,
+  "y" : 31.068162532824097
+}, {
+  "node" : 79,
+  "x" : 793.7450384192991,
+  "y" : 286.4875847389503
+}, {
+  "node" : 78,
+  "x" : -195.7594133954521,
+  "y" : 381.19347320820265
+}, {
+  "node" : 77,
+  "x" : 176.56551968674106,
+  "y" : 457.12630207435114
+}, {
+  "node" : 76,
+  "x" : 401.17000655982923,
+  "y" : 1151.7949565676565
+}, {
+  "node" : 75,
+  "x" : 959.8720800964766,
+  "y" : 392.5306377523956
+}, {
+  "node" : 74,
+  "x" : 131.47345716936317,
+  "y" : 216.16121113753726
+}, {
+  "node" : 73,
+  "x" : 34.598699419596244,
+  "y" : 538.6727812971042
+}, {
+  "node" : 72,
+  "x" : -51.57997791372287,
+  "y" : 228.07741615393755
+}, {
+  "node" : 71,
+  "x" : 420.52165870128493,
+  "y" : 536.755595702402
+}, {
+  "node" : 70,
+  "x" : 150.93226298684863,
+  "y" : 80.02874300174825
+}, {
+  "node" : 69,
+  "x" : 222.38919234999156,
+  "y" : 937.4570763163978
+}, {
+  "node" : 68,
+  "x" : 497.42444433483524,
+  "y" : 934.624969288819
+}, {
+  "node" : 67,
+  "x" : 576.2530466542419,
+  "y" : 957.9871335139671
+}, {
+  "node" : 66,
+  "x" : 625.6353581343501,
+  "y" : 133.07792343231228
+}, {
+  "node" : 65,
+  "x" : 377.4958005653611,
+  "y" : 677.0006103515625
+}, {
+  "node" : 64,
+  "x" : 703.962646484375,
+  "y" : 461.5406874249829
+}]}, {"cyVisualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_BACKGROUND_PAINT" : "#EDEDF5",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_SIZE" : "550.0",
+    "NETWORK_WIDTH" : "550.0"
+  }
+}, {
+  "properties_of" : "nodes:default",
+  "properties" : {
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_BORDER_PAINT" : "#003399",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_BORDER_WIDTH" : "3.0",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "0.0",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_DEPTH" : "0.0",
+    "NODE_FILL_COLOR" : "#FFFFFF",
+    "NODE_HEIGHT" : "40.0",
+    "NODE_LABEL_COLOR" : "#003366",
+    "NODE_LABEL_FONT_FACE" : "SansSerif.plain,plain,12",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_LABEL_WIDTH" : "50.0",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_SELECTED" : "false",
+    "NODE_SELECTED_PAINT" : "#FFFF00",
+    "NODE_SHAPE" : "ELLIPSE",
+    "NODE_SIZE" : "35.0",
+    "NODE_TRANSPARENCY" : "255",
+    "NODE_VISIBLE" : "true",
+    "NODE_WIDTH" : "60.0",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_Z_LOCATION" : "0.0"
+  },
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "mappings" : {
+    "NODE_LABEL" : {
+      "type" : "PASSTHROUGH",
+      "definition" : "COL=name,T=string"
+    },
+    "NODE_LABEL_FONT_SIZE" : {
+      "type" : "CONTINUOUS",
+      "definition" : "COL=gene count,T=double,L=0=1,E=0=7,G=0=7,OV=0=7.0,L=1=30,E=1=30,G=1=1,OV=1=228.0"
+    },
+    "NODE_SIZE" : {
+      "type" : "CONTINUOUS",
+      "definition" : "COL=width,T=double,L=0=1.0,E=0=50.0,G=0=50.0,OV=0=2.6457513110645907,L=1=150.0,E=1=150.0,G=1=1.0,OV=1=15.0996688705415"
+    }
+  }
+}, {
+  "properties_of" : "edges:default",
+  "properties" : {
+    "EDGE_CURVED" : "true",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_LABEL_FONT_FACE" : "SansSerif.plain,plain,10",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_LINE_TYPE" : "SOLID",
+    "EDGE_PAINT" : "#323232",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_UNSELECTED_PAINT" : "#003399",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_WIDTH" : "4.0"
+  },
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "mappings" : {
+    "EDGE_LINE_TYPE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=strength,T=string,K=0=high,V=0=SOLID,K=1=low,V=1=LONG_DASH"
+    },
+    "EDGE_STROKE_UNSELECTED_PAINT" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#005500,K=1=chemical-affects,V=1=#F09000,K=2=controls-state-change-of,V=2=#0000C0,K=3=controls-transport-of,V=3=#700000,K=4=consumption-controled-by,V=4=#FF3300,K=5=reacts-with,V=5=#00FF00,K=6=neighbor-of,V=6=#00AA00,K=7=controls-expression-of,V=7=#00A0A0,K=8=controls-phosphorylation-of,V=8=#0000FF,K=9=controls-transport-of-chemical,V=9=#A00000,K=10=used-to-produce,V=10=#F75500,K=11=in-complex-with,V=11=#F000A0,K=12=controls-production-of,V=12=#00CCF0,K=13=catalysis-precedes,V=13=#7000A0"
+    },
+    "EDGE_TRANSPARENCY" : {
+      "type" : "CONTINUOUS",
+      "definition" : "COL=edge function,T=double,L=0=1,E=0=254,G=0=254,OV=0=0.01694915254237288,L=1=2,E=1=2,G=1=1,OV=1=1.0"
+    },
+    "EDGE_WIDTH" : {
+      "type" : "CONTINUOUS",
+      "definition" : "COL=edge function,T=double,L=0=1.0,E=0=0.975609756097561,G=0=0.975609756097561,OV=0=0.01694915254237288,L=1=30.489787590212938,E=1=30.489787590212938,G=1=1.0,OV=1=1.0"
+    }
+  }
+}]},{"status":[{"error":"","success":true}]}]

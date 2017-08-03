@@ -1,0 +1,465 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1445459257360,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1445459257360,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":27,"idCounter":86177802,"lastUpdate":1445459257360,"name":"citations","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":7,"lastUpdate":1445459257360,"name":"edgeCitations","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":10,"idCounter":86177823,"lastUpdate":1445459257360,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":7,"lastUpdate":1445459257360,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":20,"lastUpdate":1445459257360,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":11,"idCounter":86177813,"lastUpdate":1445459257360,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":0,"lastUpdate":1445459257360,"name":"provenanceHistory","properties":[],"version":"1.0"}]},{"ndexStatus":[{"externalId":"791c5a59-7831-11e5-b435-06603eb7f303","creationTime":1445458958530,"modificationTime":1445459257360,"visibility":"PUBLIC","published":false,"nodeCount":11,"edgeCount":10,"owner":"aarongary","ndexServerURI":"http://54.214.226.184","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1445458958530,"endedAtTime":1445458958530,"eventType":"Program Upload","properties":[{"name":"user","value":"Aaron Gary"},{"name":"account name","value":"aarongary"}]},"uri":"http://public.ndexbio.org/network/791c5a59-7831-11e5-b435-06603eb7f303","properties":[{"name":"edge count","value":"10"},{"name":"node count","value":"11"},{"name":"dc:title","value":"Metabolism of RNA"},{"name":"description","value":"*** This network is used for tutorial purpose only and will not be updated. ***"}]}],"startedAtTime":1445459257359,"endedAtTime":1445459257359,"eventType":"Update Network Profile","properties":[{"name":"user","value":"Aaron Gary"},{"name":"account name","value":"aarongary"},{"name":"dc:title","value":"Renamed Network"},{"name":"description","value":"New Description"},{"name":"version","value":"2.0"}]},"uri":"http://public.ndexbio.org/network/791c5a59-7831-11e5-b435-06603eb7f303","properties":[{"name":"edge count","value":"10"},{"name":"node count","value":"11"},{"name":"dc:title","value":"Renamed Network"},{"name":"description","value":"New Description"},{"name":"version","value":"2.0"}]}}]}, {"@context":[{
+  "RefSeq" : "http://identifiers.org/refseq/",
+  "UniProt" : "http://identifiers.org/uniprot/",
+  "InChIKey" : "http://identifiers.org/inchikey/",
+  "HGNC" : "http://identifiers.org/hgnc/",
+  "CHEBI" : "http://identifiers.org/chebi/",
+  "omim" : "http://identifiers.org/omim/",
+  "ChEBI" : "http://uri.ndexbio.org/ns/9ed0cd55-9ac0-11e4-9499-000c29202374/ChEBI/",
+  "Ensembl" : "http://ndex.org/Ensembl/",
+  "pubchem-substance" : "http://identifiers.org/pubchem.substance/",
+  "Reactome" : "http://identifiers.org/reactome/",
+  "pubchem" : "http://identifiers.org/pubchem.compound/"
+}]}, {"citations":[{
+  "@id" : 86177776,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16556936",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177777,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10205060",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177778,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16141059",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177779,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18573886",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177780,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12944492",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177781,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12515382",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177782,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16299471",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177783,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19279404",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177784,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14749774",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177785,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15231747",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177786,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11283721",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177787,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19239894",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177788,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17245413",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177789,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16051491",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177790,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10559216",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177791,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15475613",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177792,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15711010",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177793,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14976220",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177794,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18240226",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177795,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9346902",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177796,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8246982",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177797,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12819195",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177798,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19074427",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177799,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17486099",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177800,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15257295",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177801,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12819194",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86177802,
+  "dc:title" : "",
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11124962",
+  "dc:type" : "URI",
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"edgeCitations":[{
+  "po" : [ 86177814 ],
+  "citations" : [ 86177779, 86177776, 86177777, 86177797 ]
+}, {
+  "po" : [ 86177815 ],
+  "citations" : [ 86177779, 86177776, 86177777, 86177797 ]
+}, {
+  "po" : [ 86177816 ],
+  "citations" : [ 86177779, 86177776, 86177777, 86177797 ]
+}, {
+  "po" : [ 86177817 ],
+  "citations" : [ 86177778, 86177782, 86177781, 86177786, 86177787, 86177784, 86177791, 86177788 ]
+}, {
+  "po" : [ 86177818 ],
+  "citations" : [ 86177778, 86177782, 86177781, 86177786, 86177787, 86177784, 86177791, 86177788 ]
+}, {
+  "po" : [ 86177819 ],
+  "citations" : [ 86177778, 86177792, 86177782, 86177783, 86177781, 86177786, 86177787, 86177784, 86177785, 86177791, 86177788, 86177789 ]
+}, {
+  "po" : [ 86177823 ],
+  "citations" : [ 86177794, 86177795, 86177793, 86177798, 86177799, 86177796, 86177797, 86177802, 86177800, 86177801, 86177779, 86177780, 86177790 ]
+}]}, {"edges":[{
+  "@id" : 86177814,
+  "s" : 86177810,
+  "t" : 86177811,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177815,
+  "s" : 86177810,
+  "t" : 86177804,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177816,
+  "s" : 86177810,
+  "t" : 86177813,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177817,
+  "s" : 86177812,
+  "t" : 86177806,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177818,
+  "s" : 86177812,
+  "t" : 86177809,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177819,
+  "s" : 86177812,
+  "t" : 86177803,
+  "i" : "REACTS_WITH"
+}, {
+  "@id" : 86177820,
+  "s" : 86177812,
+  "t" : 86177803,
+  "i" : "COMPONENT_OF"
+}, {
+  "@id" : 86177821,
+  "s" : 86177807,
+  "t" : 86177808,
+  "i" : "COMPONENT_OF"
+}, {
+  "@id" : 86177822,
+  "s" : 86177810,
+  "t" : 86177811,
+  "i" : "COMPONENT_OF"
+}, {
+  "@id" : 86177823,
+  "s" : 86177810,
+  "t" : 86177805,
+  "i" : "REACTS_WITH"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Renamed Network"
+}, {
+  "n" : "description",
+  "v" : "New Description"
+}, {
+  "n" : "version",
+  "v" : "2.0"
+}, {
+  "n" : "ndex:sourceFormat",
+  "v" : "SIF"
+}, {
+  "n" : "ORGANISM",
+  "v" : "http://identifiers.org/taxonomy/9606"
+}, {
+  "n" : "URI",
+  "v" : "http://purl.org/pc2/4/Pathway_098d5b97ab0d39bfcf905771f06d18a5"
+}, {
+  "n" : "Source",
+  "v" : "http://purl.org/pc2/4/reactome46_human"
+}]}, {"nodeAttributes":[{
+  "po" : 86177803,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177803,
+  "n" : "relatedTo",
+  "v" : [ "Reactome Database ID Release 46:429996", "Reactome:REACT_21085" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177804,
+  "n" : "alias",
+  "v" : [ "UniProt:Q5JQI4", "UniProt:Q9UQL9", "UniProt:Q9UQM0", "UniProt:Q5SP17", "UniProt:B4E3B6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177804,
+  "n" : "relatedTo",
+  "v" : [ "Ensembl:ENSP00000364802", "HGNC Symbol:HSPA1B", "Ensembl:ENST00000400040", "RefSeq:NP_005337", "Ensembl:ENSG00000212866", "HGNC:HSPA1B", "Ensembl:ENSP00000403530", "Ensembl:ENST00000391548", "Ensembl:ENST00000375650", "HGNC Symbol:HSPA1A", "Ensembl:ENST00000430065", "HGNC:HSPA1A", "Ensembl:ENSG00000204389", "Ensembl:ENSP00000406359", "RefSeq:NP_005336", "Ensembl:ENSG00000215328", "PANTHER Family:PTHR19375:SF1", "Ensembl:ENSP00000364801", "Ensembl:ENSG00000204388", "Ensembl:ENSG00000231555", "Ensembl:ENSP00000408907", "RefSeq:NM_005345", "Ensembl:ENSG00000237724", "Ensembl:ENSP00000375391", "omim:140550", "Ensembl:ENST00000391555", "HGNC:HGNC:5232", "Ensembl:ENSG00000235941", "Ensembl:ENSP00000404524", "Ensembl:ENSP00000393087", "RefSeq:NM_005346", "NCBI Gene:3304", "Ensembl:ENSP00000382915", "Ensembl:ENST00000433487", "Ensembl:ENSG00000234475", "HGNC:HGNC:5233", "Ensembl:ENSG00000224501", "NCBI Gene:3303", "Ensembl:ENST00000445736", "PROTEIN DATA BANK:1HJO", "Ensembl:ENST00000441618", "Ensembl:ENST00000375651", "Ensembl:ENST00000450744", "Ensembl:ENSP00000375399", "Ensembl:ENSG00000232804" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177805,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177805,
+  "n" : "relatedTo",
+  "v" : [ "Reactome:REACT_25445", "Reactome Database ID Release 46:450391" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177806,
+  "n" : "alias",
+  "v" : [ "ChEBI:CHEBI:42647", "ChEBI:CHEBI:5228", "ChEBI:CHEBI:40119", "ChEBI:CHEBI:42979", "ChEBI:CHEBI:24450", "ChEBI:CHEBI:24449", "pubchem:8145524", "ChEBI:CHEBI:42615", "ChEBI:CHEBI:42887", "ChEBI:CHEBI:42892", "ChEBI:CHEBI:14381", "ChEBI:CHEBI:29058", "pubchem-substance:8145524", "ChEBI:CHEBI:42831", "InChIKey:RQFCJASXJCIDSX-UUOKFMHZSA-N", "ChEBI:CHEBI:13341", "ChEBI:CHEBI:47450", "ChEBI:CHEBI:17345" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177807,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177807,
+  "n" : "relatedTo",
+  "v" : [ "Reactome:REACT_5094", "Reactome Database ID Release 46:72392" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177808,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177808,
+  "n" : "relatedTo",
+  "v" : [ "Reactome:REACT_4330", "Reactome Database ID Release 46:72500" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177809,
+  "n" : "alias",
+  "v" : [ "ChEBI:CHEBI:9849", "ChEBI:CHEBI:46362", "ChEBI:CHEBI:27231", "ChEBI:CHEBI:13508", "pubchem-substance:8145531", "pubchem:8145531", "ChEBI:CHEBI:46385", "ChEBI:CHEBI:46382", "ChEBI:CHEBI:13509", "ChEBI:CHEBI:16695", "InChIKey:DJJCXFVJDGTHFX-XVFCMESISA-N", "ChEBI:CHEBI:47721" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177810,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177810,
+  "n" : "relatedTo",
+  "v" : [ "Reactome Database ID Release 46:450598", "Reactome:REACT_26524" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177811,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177811,
+  "n" : "relatedTo",
+  "v" : [ "Reactome Database ID Release 46:450623", "Reactome:REACT_25605" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177812,
+  "n" : "alias",
+  "v" : [ "" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177812,
+  "n" : "relatedTo",
+  "v" : [ "Reactome:REACT_21014", "Reactome Database ID Release 46:430001" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177813,
+  "n" : "alias",
+  "v" : [ "UniProt:Q9H3R6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86177813,
+  "n" : "relatedTo",
+  "v" : [ "Ensembl:ENST00000227378", "Ensembl:ENST00000453788", "NCBI Gene:3312", "omim:600816", "Ensembl:ENSP00000404372", "HGNC:HGNC:5241", "PROTEIN DATA BANK:3ESK", "RefSeq:NM_006597", "Ensembl:ENST00000532636", "HGNC:HSPA8", "Ensembl:ENSP00000437125", "Ensembl:ENSP00000227378", "RefSeq:NP_694881", "Ensembl:ENSP00000432083", "Ensembl:ENST00000534624", "RefSeq:NP_006588", "RefSeq:NM_153201", "Ensembl:ENSG00000109971", "PANTHER Family:PTHR19375:SF1", "HGNC Symbol:HSPA8" ],
+  "d" : "list_of_string"
+}]}, {"nodes":[{
+  "@id" : 86177803,
+  "n" : "Decapped mRNA:LSM1-7 Complex",
+  "r" : "http://biopax.org/generated/group/-5324023"
+}, {
+  "@id" : 86177804,
+  "n" : "HSP71",
+  "r" : "UniProt:P08107"
+}, {
+  "@id" : 86177805,
+  "n" : "AUF1 Dimer (isoform p37 or p40)",
+  "r" : "http://biopax.org/generated/group/-3390842"
+}, {
+  "@id" : 86177806,
+  "n" : "GMP",
+  "r" : "CHEBI:CHEBI:17345"
+}, {
+  "@id" : 86177807,
+  "n" : "40S ribosomal complex",
+  "r" : "http://biopax.org/generated/group/-122568972"
+}, {
+  "@id" : 86177808,
+  "n" : "80S ribosome",
+  "r" : "http://biopax.org/generated/group/-3362831"
+}, {
+  "@id" : 86177809,
+  "n" : "UMP",
+  "r" : "CHEBI:CHEBI:16695"
+}, {
+  "@id" : 86177810,
+  "n" : "AUF1 Tetramer: Destabilized mRNA Complex",
+  "r" : "http://biopax.org/generated/group/-147408"
+}, {
+  "@id" : 86177811,
+  "n" : "AUF1 Complexed with Translation and Heat Shock Proteins",
+  "r" : "http://biopax.org/generated/group/108429839"
+}, {
+  "@id" : 86177812,
+  "n" : "Lsm1-7 Complex",
+  "r" : "http://biopax.org/generated/group/-122452985"
+}, {
+  "@id" : 86177813,
+  "n" : "HSP7C",
+  "r" : "UniProt:P11142"
+}]},{"status":[{"error":"","success":true}]}]

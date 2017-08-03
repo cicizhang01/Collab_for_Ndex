@@ -1,0 +1,267 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500053770569,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500053824164,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":22,"idCounter":22,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":20,"idCounter":20,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":20,"name":"edgeAttributes","properties":[],"version":"1.0"}]},{"ndexStatus":[{"externalId":"ece3d7e7-68ba-11e7-8ac9-0660b7976219","creationTime":1500053770569,"modificationTime":1500053770569,"visibility":"PRIVATE","published":false,"nodeCount":22,"edgeCount":20,"owner":"janedoe","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":null,"startedAtTime":1500053770569,"endedAtTime":1500053770569,"eventType":"Program Upload in CX","properties":[{"name":"user","value":"Jane Doe"},{"name":"user name","value":"janedoe"}]},"uri":"http://dev2.ndexbio.org/v2/network/ece3d7e7-68ba-11e7-8ac9-0660b7976219/summary","properties":[{"name":"edge count","value":"20"},{"name":"node count","value":"22"}]}}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "CREM"
+}, {
+  "@id" : 2,
+  "n" : "KAT5"
+}, {
+  "@id" : 3,
+  "n" : "ZAP70"
+}, {
+  "@id" : 4,
+  "n" : "CCNA2"
+}, {
+  "@id" : 5,
+  "n" : "CCNA1"
+}, {
+  "@id" : 6,
+  "n" : "TBP"
+}, {
+  "@id" : 7,
+  "n" : "ACE"
+}, {
+  "@id" : 8,
+  "n" : "ACR"
+}, {
+  "@id" : 9,
+  "n" : "TAF4"
+}, {
+  "@id" : 10,
+  "n" : "G6PD"
+}, {
+  "@id" : 11,
+  "n" : "IL2"
+}, {
+  "@id" : 12,
+  "n" : "SLC5A5"
+}, {
+  "@id" : 13,
+  "n" : "TH"
+}, {
+  "@id" : 14,
+  "n" : "CCL4"
+}, {
+  "@id" : 15,
+  "n" : "FOS"
+}, {
+  "@id" : 16,
+  "n" : "IL5RA"
+}, {
+  "@id" : 17,
+  "n" : "FASLG"
+}, {
+  "@id" : 18,
+  "n" : "MC2R"
+}, {
+  "@id" : 19,
+  "n" : "GPX4"
+}, {
+  "@id" : 20,
+  "n" : "E2F6"
+}, {
+  "@id" : 21,
+  "n" : "HDC"
+}, {
+  "@id" : 22,
+  "n" : "RAD21"
+}]}, {"edges":[{
+  "@id" : 1,
+  "s" : 1,
+  "t" : 3,
+  "i" : "interacts_with"
+}, {
+  "@id" : 2,
+  "s" : 1,
+  "t" : 4,
+  "i" : "interacts_with"
+}, {
+  "@id" : 3,
+  "s" : 1,
+  "t" : 5,
+  "i" : "interacts_with"
+}, {
+  "@id" : 4,
+  "s" : 1,
+  "t" : 6,
+  "i" : "interacts_with"
+}, {
+  "@id" : 5,
+  "s" : 1,
+  "t" : 7,
+  "i" : "interacts_with"
+}, {
+  "@id" : 6,
+  "s" : 1,
+  "t" : 8,
+  "i" : "interacts_with"
+}, {
+  "@id" : 7,
+  "s" : 1,
+  "t" : 9,
+  "i" : "interacts_with"
+}, {
+  "@id" : 8,
+  "s" : 1,
+  "t" : 10,
+  "i" : "interacts_with"
+}, {
+  "@id" : 9,
+  "s" : 1,
+  "t" : 11,
+  "i" : "interacts_with"
+}, {
+  "@id" : 10,
+  "s" : 1,
+  "t" : 12,
+  "i" : "interacts_with"
+}, {
+  "@id" : 11,
+  "s" : 1,
+  "t" : 13,
+  "i" : "interacts_with"
+}, {
+  "@id" : 12,
+  "s" : 1,
+  "t" : 14,
+  "i" : "interacts_with"
+}, {
+  "@id" : 13,
+  "s" : 1,
+  "t" : 15,
+  "i" : "interacts_with"
+}, {
+  "@id" : 14,
+  "s" : 1,
+  "t" : 16,
+  "i" : "interacts_with"
+}, {
+  "@id" : 15,
+  "s" : 1,
+  "t" : 17,
+  "i" : "interacts_with"
+}, {
+  "@id" : 16,
+  "s" : 1,
+  "t" : 18,
+  "i" : "interacts_with"
+}, {
+  "@id" : 17,
+  "s" : 1,
+  "t" : 19,
+  "i" : "interacts_with"
+}, {
+  "@id" : 18,
+  "s" : 2,
+  "t" : 20,
+  "i" : "interacts_with"
+}, {
+  "@id" : 19,
+  "s" : 2,
+  "t" : 21,
+  "i" : "interacts_with"
+}, {
+  "@id" : 20,
+  "s" : 2,
+  "t" : 22,
+  "i" : "interacts_with"
+}]}, {"edgeAttributes":[{
+  "po" : 1,
+  "n" : "strength",
+  "v" : "-0.37040301975999995",
+  "d" : "double"
+}, {
+  "po" : 2,
+  "n" : "strength",
+  "v" : "-0.17496355421",
+  "d" : "double"
+}, {
+  "po" : 3,
+  "n" : "strength",
+  "v" : "0.5542321666510001",
+  "d" : "double"
+}, {
+  "po" : 4,
+  "n" : "strength",
+  "v" : "-0.265943196526",
+  "d" : "double"
+}, {
+  "po" : 5,
+  "n" : "strength",
+  "v" : "0.6957109857870001",
+  "d" : "double"
+}, {
+  "po" : 6,
+  "n" : "strength",
+  "v" : "1.13920183687",
+  "d" : "double"
+}, {
+  "po" : 7,
+  "n" : "strength",
+  "v" : "-0.859300837898",
+  "d" : "double"
+}, {
+  "po" : 8,
+  "n" : "strength",
+  "v" : "0.8609999722059999",
+  "d" : "double"
+}, {
+  "po" : 9,
+  "n" : "strength",
+  "v" : "0.260140346049",
+  "d" : "double"
+}, {
+  "po" : 10,
+  "n" : "strength",
+  "v" : "0.10790524946499999",
+  "d" : "double"
+}, {
+  "po" : 11,
+  "n" : "strength",
+  "v" : "0.225371693268",
+  "d" : "double"
+}, {
+  "po" : 12,
+  "n" : "strength",
+  "v" : "-0.131681869916",
+  "d" : "double"
+}, {
+  "po" : 13,
+  "n" : "strength",
+  "v" : "0.123023055677",
+  "d" : "double"
+}, {
+  "po" : 14,
+  "n" : "strength",
+  "v" : "0.6080897676479999",
+  "d" : "double"
+}, {
+  "po" : 15,
+  "n" : "strength",
+  "v" : "-0.28380247942",
+  "d" : "double"
+}, {
+  "po" : 16,
+  "n" : "strength",
+  "v" : "0.216722438426",
+  "d" : "double"
+}, {
+  "po" : 17,
+  "n" : "strength",
+  "v" : "1.1099598825",
+  "d" : "double"
+}, {
+  "po" : 18,
+  "n" : "strength",
+  "v" : "0.266582098612",
+  "d" : "double"
+}, {
+  "po" : 19,
+  "n" : "strength",
+  "v" : "1.85870008491",
+  "d" : "double"
+}, {
+  "po" : 20,
+  "n" : "strength",
+  "v" : "-0.190262435583",
+  "d" : "double"
+}]},{"status":[{"error":"","success":true}]}]
