@@ -1,0 +1,6813 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371116641,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371116642,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":56,"idCounter":56,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":377,"idCounter":535,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":108,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":700,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":45,"idCounter":45,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":56,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"153b6970-6193-11e5-8ac5-06603eb7f303","creationTime":1442972004897,"modificationTime":1499371116641,"visibility":"PUBLIC","published":false,"nodeCount":56,"edgeCount":377,"owner":"nci-pid","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442972004897,"endedAtTime":1442972004897,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Hedgehog signaling events mediated by Gli proteins.sif"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]}],"startedAtTime":1443031022307,"endedAtTime":1443031022307,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031129476,"endedAtTime":1443031129476,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031305081,"endedAtTime":1443031305081,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281934845,"endedAtTime":1482281934845,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]}],"startedAtTime":1482281934870,"endedAtTime":1482281934870,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"139"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]},{"uri":"http://public.ndexbio.org/v2/network/153b6970-6193-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/153b6970-6193-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442972004897,"endedAtTime":1442972004897,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Hedgehog signaling events mediated by Gli proteins.sif"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]}],"startedAtTime":1443031022307,"endedAtTime":1443031022307,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031129476,"endedAtTime":1443031129476,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031305081,"endedAtTime":1443031305081,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"310"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281934845,"endedAtTime":1482281934845,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]}],"startedAtTime":1482281934870,"endedAtTime":1482281934870,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"139"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"}]}],"startedAtTime":1497388086540,"endedAtTime":1497388086540,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"139"},{"name":"node count","value":"50"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1497567231007,"endedAtTime":1497567231007,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"377"},{"name":"node count","value":"56"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1498849541351,"endedAtTime":1498849541351,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"377"},{"name":"node count","value":"56"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499115838083,"endedAtTime":1499115838083,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"377"},{"name":"node count","value":"56"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499371116638,"endedAtTime":1499371116638,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"},{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]},"properties":[{"name":"dc:title","value":"Hedgehog signaling events mediated by Gli proteins"},{"name":"description","value":"<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]}}]}, {"@context":[{
+  "KEGG REACTION" : "http://identifiers.org/kegg.reaction/",
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "PROTEIN DATA BANK" : "http://identifiers.org/pdb/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "GLI3"
+}, {
+  "@id" : 2,
+  "n" : "KAPCA"
+}, {
+  "@id" : 3,
+  "n" : "GTP"
+}, {
+  "@id" : 4,
+  "n" : "GBB1"
+}, {
+  "@id" : 5,
+  "n" : "GNAI2"
+}, {
+  "@id" : 6,
+  "n" : "GNAO"
+}, {
+  "@id" : 7,
+  "n" : "KC1G2"
+}, {
+  "@id" : 8,
+  "n" : "GDP"
+}, {
+  "@id" : 9,
+  "n" : "SIN3B"
+}, {
+  "@id" : 10,
+  "n" : "KIF3A"
+}, {
+  "@id" : 11,
+  "n" : "LEG3"
+}, {
+  "@id" : 12,
+  "n" : "FOXA2"
+}, {
+  "@id" : 13,
+  "n" : "RAB23"
+}, {
+  "@id" : 14,
+  "n" : "MP2K1"
+}, {
+  "@id" : 15,
+  "n" : "SAP30"
+}, {
+  "@id" : 16,
+  "n" : "KC1A"
+}, {
+  "@id" : 17,
+  "n" : "KC1G1"
+}, {
+  "@id" : 18,
+  "n" : "PIAS1"
+}, {
+  "@id" : 19,
+  "n" : "XPO1"
+}, {
+  "@id" : 20,
+  "n" : "RBBP7"
+}, {
+  "@id" : 21,
+  "n" : "IF172"
+}, {
+  "@id" : 22,
+  "n" : "CK1 family"
+}, {
+  "@id" : 23,
+  "n" : "GSK3B"
+}, {
+  "@id" : 24,
+  "n" : "GLI2"
+}, {
+  "@id" : 25,
+  "n" : "KPCD"
+}, {
+  "@id" : 26,
+  "n" : "GNAI3"
+}, {
+  "@id" : 27,
+  "n" : "KC1D"
+}, {
+  "@id" : 28,
+  "n" : "SMO"
+}, {
+  "@id" : 29,
+  "n" : "AKT1"
+}, {
+  "@id" : 30,
+  "n" : "RBBP4"
+}, {
+  "@id" : 31,
+  "n" : "cholesterol"
+}, {
+  "@id" : 32,
+  "n" : "HDAC2"
+}, {
+  "@id" : 33,
+  "n" : "SUFU"
+}, {
+  "@id" : 34,
+  "n" : "MTSS1"
+}, {
+  "@id" : 35,
+  "n" : "ARRB2"
+}, {
+  "@id" : 36,
+  "n" : "CBP"
+}, {
+  "@id" : 37,
+  "n" : "PTC1"
+}, {
+  "@id" : 38,
+  "n" : "GLI family"
+}, {
+  "@id" : 39,
+  "n" : "SIN3A"
+}, {
+  "@id" : 40,
+  "n" : "SCF"
+}, {
+  "@id" : 41,
+  "n" : "STK36"
+}, {
+  "@id" : 42,
+  "n" : "GLI1"
+}, {
+  "@id" : 43,
+  "n" : "HDAC1"
+}, {
+  "@id" : 44,
+  "n" : "SPOP"
+}, {
+  "@id" : 45,
+  "n" : "KC1E"
+}, {
+  "@id" : 46,
+  "n" : "FBW1A"
+}, {
+  "@id" : 47,
+  "n" : "GBG2"
+}, {
+  "@id" : 48,
+  "n" : "GLI family-active"
+}, {
+  "@id" : 49,
+  "n" : "GNAI1"
+}, {
+  "@id" : 50,
+  "n" : "SHH"
+}, {
+  "@id" : 51,
+  "n" : "SAP18"
+}, {
+  "@id" : 52,
+  "n" : "KC1G3"
+}, {
+  "@id" : 53,
+  "n" : "FBW1B"
+}, {
+  "@id" : 54,
+  "n" : "Gi family"
+}, {
+  "@id" : 55,
+  "n" : "IFT88"
+}, {
+  "@id" : 56,
+  "n" : "GNAZ"
+}]}, {"edges":[{
+  "@id" : 175,
+  "s" : 1,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 177,
+  "s" : 1,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 176,
+  "s" : 1,
+  "t" : 26,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 198,
+  "s" : 1,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 172,
+  "s" : 1,
+  "t" : 42,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 196,
+  "s" : 1,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 174,
+  "s" : 1,
+  "t" : 49,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 180,
+  "s" : 1,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 178,
+  "s" : 1,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 369,
+  "s" : 2,
+  "t" : 1,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 375,
+  "s" : 2,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 373,
+  "s" : 2,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 371,
+  "s" : 2,
+  "t" : 16,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 374,
+  "s" : 2,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 376,
+  "s" : 2,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 367,
+  "s" : 2,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 372,
+  "s" : 2,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 377,
+  "s" : 2,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 276,
+  "s" : 3,
+  "t" : 5,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 278,
+  "s" : 3,
+  "t" : 6,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 274,
+  "s" : 3,
+  "t" : 42,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 275,
+  "s" : 3,
+  "t" : 49,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 280,
+  "s" : 3,
+  "t" : 54,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 279,
+  "s" : 3,
+  "t" : 56,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 277,
+  "s" : 3,
+  "t" : 26,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 78,
+  "s" : 4,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 82,
+  "s" : 4,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 74,
+  "s" : 4,
+  "t" : 47,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 76,
+  "s" : 4,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 86,
+  "s" : 4,
+  "t" : 54,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 84,
+  "s" : 4,
+  "t" : 56,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 80,
+  "s" : 4,
+  "t" : 26,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 222,
+  "s" : 5,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 230,
+  "s" : 5,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 218,
+  "s" : 5,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 227,
+  "s" : 5,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 228,
+  "s" : 5,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 216,
+  "s" : 5,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 221,
+  "s" : 5,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 226,
+  "s" : 5,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 225,
+  "s" : 5,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 224,
+  "s" : 5,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 220,
+  "s" : 5,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 219,
+  "s" : 5,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 217,
+  "s" : 5,
+  "t" : 26,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 223,
+  "s" : 5,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 249,
+  "s" : 6,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 257,
+  "s" : 6,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 254,
+  "s" : 6,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 255,
+  "s" : 6,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 245,
+  "s" : 6,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 248,
+  "s" : 6,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 253,
+  "s" : 6,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 252,
+  "s" : 6,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 251,
+  "s" : 6,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 247,
+  "s" : 6,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 246,
+  "s" : 6,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 250,
+  "s" : 6,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 400,
+  "s" : 7,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 402,
+  "s" : 7,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 102,
+  "s" : 8,
+  "t" : 4,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 105,
+  "s" : 8,
+  "t" : 5,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 107,
+  "s" : 8,
+  "t" : 6,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 103,
+  "s" : 8,
+  "t" : 47,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 104,
+  "s" : 8,
+  "t" : 49,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 109,
+  "s" : 8,
+  "t" : 54,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 108,
+  "s" : 8,
+  "t" : 56,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 106,
+  "s" : 8,
+  "t" : 26,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 507,
+  "s" : 9,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 506,
+  "s" : 9,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 508,
+  "s" : 9,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 509,
+  "s" : 9,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 407,
+  "s" : 10,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 418,
+  "s" : 10,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 415,
+  "s" : 10,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 416,
+  "s" : 10,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 410,
+  "s" : 10,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 409,
+  "s" : 10,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 414,
+  "s" : 10,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 413,
+  "s" : 10,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 412,
+  "s" : 10,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 406,
+  "s" : 10,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 408,
+  "s" : 10,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 417,
+  "s" : 10,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 411,
+  "s" : 10,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 425,
+  "s" : 11,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 72,
+  "s" : 12,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 71,
+  "s" : 12,
+  "t" : 42,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 73,
+  "s" : 12,
+  "t" : 34,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 437,
+  "s" : 13,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 445,
+  "s" : 13,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 442,
+  "s" : 13,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 443,
+  "s" : 13,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 441,
+  "s" : 13,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 440,
+  "s" : 13,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 439,
+  "s" : 13,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 436,
+  "s" : 13,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 444,
+  "s" : 13,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 438,
+  "s" : 13,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 428,
+  "s" : 14,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 431,
+  "s" : 14,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 429,
+  "s" : 14,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 486,
+  "s" : 15,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 492,
+  "s" : 15,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 489,
+  "s" : 15,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 485,
+  "s" : 15,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 487,
+  "s" : 15,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 491,
+  "s" : 15,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 383,
+  "s" : 16,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 381,
+  "s" : 16,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 382,
+  "s" : 16,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 384,
+  "s" : 16,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 378,
+  "s" : 16,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 380,
+  "s" : 16,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 396,
+  "s" : 17,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 399,
+  "s" : 17,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 398,
+  "s" : 17,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 433,
+  "s" : 18,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 535,
+  "s" : 19,
+  "t" : 42,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 462,
+  "s" : 20,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 472,
+  "s" : 20,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 467,
+  "s" : 20,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 469,
+  "s" : 20,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 461,
+  "s" : 20,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 465,
+  "s" : 20,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 463,
+  "s" : 20,
+  "t" : 51,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 471,
+  "s" : 20,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 338,
+  "s" : 21,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 351,
+  "s" : 21,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 348,
+  "s" : 21,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 349,
+  "s" : 21,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 340,
+  "s" : 21,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 343,
+  "s" : 21,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 342,
+  "s" : 21,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 347,
+  "s" : 21,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 346,
+  "s" : 21,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 345,
+  "s" : 21,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 339,
+  "s" : 21,
+  "t" : 55,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 337,
+  "s" : 21,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 341,
+  "s" : 21,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 350,
+  "s" : 21,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 344,
+  "s" : 21,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 56,
+  "s" : 22,
+  "t" : 2,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 61,
+  "s" : 22,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 59,
+  "s" : 22,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 57,
+  "s" : 22,
+  "t" : 16,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 60,
+  "s" : 22,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 62,
+  "s" : 22,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 53,
+  "s" : 22,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 58,
+  "s" : 22,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 270,
+  "s" : 23,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 272,
+  "s" : 23,
+  "t" : 1,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 147,
+  "s" : 24,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 145,
+  "s" : 24,
+  "t" : 12,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 170,
+  "s" : 24,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 161,
+  "s" : 24,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 163,
+  "s" : 24,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 164,
+  "s" : 24,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 146,
+  "s" : 24,
+  "t" : 42,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 167,
+  "s" : 24,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 420,
+  "s" : 25,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 424,
+  "s" : 25,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 422,
+  "s" : 25,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 421,
+  "s" : 25,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 236,
+  "s" : 26,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 244,
+  "s" : 26,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 232,
+  "s" : 26,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 241,
+  "s" : 26,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 242,
+  "s" : 26,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 231,
+  "s" : 26,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 235,
+  "s" : 26,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 240,
+  "s" : 26,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 239,
+  "s" : 26,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 238,
+  "s" : 26,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 234,
+  "s" : 26,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 233,
+  "s" : 26,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 237,
+  "s" : 26,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 385,
+  "s" : 27,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 388,
+  "s" : 27,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 390,
+  "s" : 27,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 387,
+  "s" : 27,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 389,
+  "s" : 27,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 516,
+  "s" : 28,
+  "t" : 1,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 518,
+  "s" : 28,
+  "t" : 1,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 511,
+  "s" : 28,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 520,
+  "s" : 28,
+  "t" : 5,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 522,
+  "s" : 28,
+  "t" : 6,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 526,
+  "s" : 28,
+  "t" : 33,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 525,
+  "s" : 28,
+  "t" : 41,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 513,
+  "s" : 28,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 512,
+  "s" : 28,
+  "t" : 47,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 519,
+  "s" : 28,
+  "t" : 49,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 524,
+  "s" : 28,
+  "t" : 54,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 523,
+  "s" : 28,
+  "t" : 56,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 515,
+  "s" : 28,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 521,
+  "s" : 28,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 1,
+  "s" : 29,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 7,
+  "s" : 29,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 10,
+  "s" : 29,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 9,
+  "s" : 29,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 5,
+  "s" : 29,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 6,
+  "s" : 29,
+  "t" : 55,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 3,
+  "s" : 29,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 8,
+  "s" : 29,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 11,
+  "s" : 29,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 447,
+  "s" : 30,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 459,
+  "s" : 30,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 454,
+  "s" : 30,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 456,
+  "s" : 30,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 446,
+  "s" : 30,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 452,
+  "s" : 30,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 450,
+  "s" : 30,
+  "t" : 51,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 448,
+  "s" : 30,
+  "t" : 20,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 458,
+  "s" : 30,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 50,
+  "s" : 31,
+  "t" : 25,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 52,
+  "s" : 31,
+  "t" : 50,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 51,
+  "s" : 31,
+  "t" : 14,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 316,
+  "s" : 32,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 334,
+  "s" : 32,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 329,
+  "s" : 32,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 331,
+  "s" : 32,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 315,
+  "s" : 32,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 320,
+  "s" : 32,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 327,
+  "s" : 32,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 325,
+  "s" : 32,
+  "t" : 51,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 323,
+  "s" : 32,
+  "t" : 20,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 317,
+  "s" : 32,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 318,
+  "s" : 32,
+  "t" : 55,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 333,
+  "s" : 32,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 319,
+  "s" : 32,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 321,
+  "s" : 32,
+  "t" : 30,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 533,
+  "s" : 33,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 532,
+  "s" : 33,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 432,
+  "s" : 34,
+  "t" : 12,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 19,
+  "s" : 35,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 22,
+  "s" : 35,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 24,
+  "s" : 35,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 40,
+  "s" : 35,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 31,
+  "s" : 35,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 34,
+  "s" : 35,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 33,
+  "s" : 35,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 38,
+  "s" : 35,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 36,
+  "s" : 35,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 29,
+  "s" : 35,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 17,
+  "s" : 35,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 32,
+  "s" : 35,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 23,
+  "s" : 35,
+  "t" : 26,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 41,
+  "s" : 35,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 35,
+  "s" : 35,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 28,
+  "s" : 35,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 44,
+  "s" : 35,
+  "t" : 33,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 13,
+  "s" : 35,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 39,
+  "s" : 35,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 43,
+  "s" : 35,
+  "t" : 41,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 14,
+  "s" : 35,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 27,
+  "s" : 35,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 12,
+  "s" : 35,
+  "t" : 48,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 21,
+  "s" : 35,
+  "t" : 49,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 37,
+  "s" : 35,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 26,
+  "s" : 35,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 30,
+  "s" : 35,
+  "t" : 55,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 25,
+  "s" : 35,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 48,
+  "s" : 36,
+  "t" : 1,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 46,
+  "s" : 36,
+  "t" : 42,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 47,
+  "s" : 36,
+  "t" : 42,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 114,
+  "s" : 38,
+  "t" : 48,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 116,
+  "s" : 38,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 115,
+  "s" : 38,
+  "t" : 42,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 118,
+  "s" : 38,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 117,
+  "s" : 38,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 500,
+  "s" : 39,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 499,
+  "s" : 39,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 503,
+  "s" : 39,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 504,
+  "s" : 39,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 501,
+  "s" : 39,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 494,
+  "s" : 40,
+  "t" : 1,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 529,
+  "s" : 41,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 530,
+  "s" : 41,
+  "t" : 33,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 528,
+  "s" : 41,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 119,
+  "s" : 42,
+  "t" : 12,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 120,
+  "s" : 42,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 142,
+  "s" : 42,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 130,
+  "s" : 42,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 132,
+  "s" : 42,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 133,
+  "s" : 42,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 294,
+  "s" : 43,
+  "t" : 32,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 293,
+  "s" : 43,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 313,
+  "s" : 43,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 308,
+  "s" : 43,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 310,
+  "s" : 43,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 292,
+  "s" : 43,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 299,
+  "s" : 43,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 306,
+  "s" : 43,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 304,
+  "s" : 43,
+  "t" : 51,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 302,
+  "s" : 43,
+  "t" : 20,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 296,
+  "s" : 43,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 297,
+  "s" : 43,
+  "t" : 55,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 312,
+  "s" : 43,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 298,
+  "s" : 43,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 300,
+  "s" : 43,
+  "t" : 30,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 391,
+  "s" : 45,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 393,
+  "s" : 45,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 395,
+  "s" : 45,
+  "t" : 52,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 394,
+  "s" : 45,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 63,
+  "s" : 46,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 91,
+  "s" : 47,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 95,
+  "s" : 47,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 89,
+  "s" : 47,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 99,
+  "s" : 47,
+  "t" : 54,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 97,
+  "s" : 47,
+  "t" : 56,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 93,
+  "s" : 47,
+  "t" : 26,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 111,
+  "s" : 48,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 112,
+  "s" : 48,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 110,
+  "s" : 48,
+  "t" : 42,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 113,
+  "s" : 48,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 207,
+  "s" : 49,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 215,
+  "s" : 49,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 201,
+  "s" : 49,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 203,
+  "s" : 49,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 212,
+  "s" : 49,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 213,
+  "s" : 49,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 200,
+  "s" : 49,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 206,
+  "s" : 49,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 211,
+  "s" : 49,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 210,
+  "s" : 49,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 209,
+  "s" : 49,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 205,
+  "s" : 49,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 204,
+  "s" : 49,
+  "t" : 56,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 202,
+  "s" : 49,
+  "t" : 26,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 208,
+  "s" : 49,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 496,
+  "s" : 50,
+  "t" : 25,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 497,
+  "s" : 50,
+  "t" : 14,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 475,
+  "s" : 51,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 483,
+  "s" : 51,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 478,
+  "s" : 51,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 480,
+  "s" : 51,
+  "t" : 9,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 474,
+  "s" : 51,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 476,
+  "s" : 51,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 482,
+  "s" : 51,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 403,
+  "s" : 52,
+  "t" : 24,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 69,
+  "s" : 53,
+  "t" : 40,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 66,
+  "s" : 53,
+  "t" : 1,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 283,
+  "s" : 54,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 291,
+  "s" : 54,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 288,
+  "s" : 54,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 289,
+  "s" : 54,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 281,
+  "s" : 54,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 282,
+  "s" : 54,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 287,
+  "s" : 54,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 286,
+  "s" : 54,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 285,
+  "s" : 54,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 284,
+  "s" : 54,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 354,
+  "s" : 55,
+  "t" : 1,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 366,
+  "s" : 55,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 363,
+  "s" : 55,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 364,
+  "s" : 55,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 355,
+  "s" : 55,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 358,
+  "s" : 55,
+  "t" : 13,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 357,
+  "s" : 55,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 362,
+  "s" : 55,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 361,
+  "s" : 55,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 360,
+  "s" : 55,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 353,
+  "s" : 55,
+  "t" : 24,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 356,
+  "s" : 55,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 365,
+  "s" : 55,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 359,
+  "s" : 55,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 261,
+  "s" : 56,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 269,
+  "s" : 56,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 266,
+  "s" : 56,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 267,
+  "s" : 56,
+  "t" : 9,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 258,
+  "s" : 56,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 260,
+  "s" : 56,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 265,
+  "s" : 56,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 264,
+  "s" : 56,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 263,
+  "s" : 56,
+  "t" : 20,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 259,
+  "s" : 56,
+  "t" : 54,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 262,
+  "s" : 56,
+  "t" : 30,
+  "i" : "neighbor-of"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Hedgehog signaling events mediated by Gli proteins"
+}, {
+  "n" : "description",
+  "v" : "<i>Hedgehog signaling events mediated by Gli proteins</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}, {
+  "n" : "version",
+  "v" : "APR-2017"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Kira Anthony"
+}, {
+  "n" : "reviewers",
+  "v" : "Alexandra L. Joyner, Sandra Blaess"
+}, {
+  "n" : "labels",
+  "v" : "Hedgehog_GliPathway"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4D1W1", "uniprot knowledgebase:O75219", "uniprot knowledgebase:P10071", "uniprot knowledgebase:Q17RW4", "uniprot knowledgebase:Q75MT0", "uniprot knowledgebase:Q75MU9", "uniprot knowledgebase:Q9UDT5", "uniprot knowledgebase:Q9UJ39" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P17612", "uniprot knowledgebase:Q32P54", "uniprot knowledgebase:Q9H2Y0", "uniprot knowledgebase:Q9NRB4", "uniprot knowledgebase:Q9NRH9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "cas:86-01-1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B1AJZ7", "uniprot knowledgebase:P04697", "uniprot knowledgebase:P04901", "uniprot knowledgebase:P62873", "uniprot knowledgebase:Q1RMY8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KTZ0", "uniprot knowledgebase:B4DYA0", "uniprot knowledgebase:B4E2X5", "uniprot knowledgebase:P04899", "uniprot knowledgebase:Q6B6N3", "uniprot knowledgebase:Q8IZ71" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P09471", "uniprot knowledgebase:P29777", "uniprot knowledgebase:Q8TD72", "uniprot knowledgebase:Q9UMV4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5BU42", "uniprot knowledgebase:O00704", "uniprot knowledgebase:P78368", "uniprot knowledgebase:Q8WUB1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "cas:146-91-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O75182", "uniprot knowledgebase:Q2NL91", "uniprot knowledgebase:Q68GC2", "uniprot knowledgebase:Q6P4B8", "uniprot knowledgebase:Q8TB34", "uniprot knowledgebase:Q9BSC8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8MSW9", "uniprot knowledgebase:Q59EN1", "uniprot knowledgebase:Q86XE9", "uniprot knowledgebase:Q9Y496", "uniprot knowledgebase:Q9Y6V4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RC38", "uniprot knowledgebase:P17931", "uniprot knowledgebase:Q16005", "uniprot knowledgebase:Q6IBA7", "uniprot knowledgebase:Q96J47" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q8WUW4", "uniprot knowledgebase:Q96DF7", "uniprot knowledgebase:Q9Y261" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R9I5", "uniprot knowledgebase:Q68DJ6", "uniprot knowledgebase:Q8NI06", "uniprot knowledgebase:Q9P023", "uniprot knowledgebase:Q9ULC3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q02750" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DP38", "uniprot knowledgebase:O75446" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DQG0", "uniprot knowledgebase:D3DQG1", "uniprot knowledgebase:P48729", "uniprot knowledgebase:Q4JJA0", "uniprot knowledgebase:Q5U046", "uniprot knowledgebase:Q5U047", "uniprot knowledgebase:Q6FGA2", "uniprot knowledgebase:Q71TU5", "uniprot knowledgebase:Q96HD2", "uniprot knowledgebase:Q9UDK3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q5JPH1", "uniprot knowledgebase:Q96AE9", "uniprot knowledgebase:Q9HCP0", "uniprot knowledgebase:Q9HCP1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RB67", "uniprot knowledgebase:B3KSY9", "uniprot knowledgebase:C5J4B4", "uniprot knowledgebase:O75925", "uniprot knowledgebase:Q147X4", "uniprot knowledgebase:Q99751", "uniprot knowledgebase:Q9UN02" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NL14", "uniprot knowledgebase:A8K1K5", "uniprot knowledgebase:D6W5E2", "uniprot knowledgebase:O14980", "uniprot knowledgebase:Q63HP8", "uniprot knowledgebase:Q68CP3", "uniprot knowledgebase:Q99433" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q16576", "uniprot knowledgebase:Q5JP00" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A5PKZ0", "uniprot knowledgebase:B2RNU5", "uniprot knowledgebase:Q86X44", "uniprot knowledgebase:Q96HW4", "uniprot knowledgebase:Q9UFJ9", "uniprot knowledgebase:Q9UG01", "uniprot knowledgebase:Q9ULP1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DN89", "uniprot knowledgebase:P49841", "uniprot knowledgebase:Q9BWH3", "uniprot knowledgebase:Q9UL47" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O60252", "uniprot knowledgebase:O60253", "uniprot knowledgebase:O60254", "uniprot knowledgebase:O60255", "uniprot knowledgebase:P10070", "uniprot knowledgebase:Q15590", "uniprot knowledgebase:Q15591", "uniprot knowledgebase:Q4JHT4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B0KZ81", "uniprot knowledgebase:B2R834", "uniprot knowledgebase:Q05655", "uniprot knowledgebase:Q15144", "uniprot knowledgebase:Q86XJ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P08754", "uniprot knowledgebase:P17539", "uniprot knowledgebase:Q5TZX1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A2I2P2", "uniprot knowledgebase:P48730", "uniprot knowledgebase:Q96KZ6", "uniprot knowledgebase:Q9BTN5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4D1K5", "uniprot knowledgebase:Q99835" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RAM5", "uniprot knowledgebase:B7Z5R1", "uniprot knowledgebase:P31749", "uniprot knowledgebase:Q9BWB6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R6G9", "uniprot knowledgebase:B4DRH0", "uniprot knowledgebase:D3DPQ3", "uniprot knowledgebase:P31149", "uniprot knowledgebase:Q09028", "uniprot knowledgebase:Q53H02", "uniprot knowledgebase:Q96BV9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:16113" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KRS5", "uniprot knowledgebase:B4DL58", "uniprot knowledgebase:E1P561", "uniprot knowledgebase:Q5SRI8", "uniprot knowledgebase:Q5SZ86", "uniprot knowledgebase:Q8NEH4", "uniprot knowledgebase:Q92769" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q7LCP7", "uniprot knowledgebase:Q9NT90", "uniprot knowledgebase:Q9NZ07", "uniprot knowledgebase:Q9UHK2", "uniprot knowledgebase:Q9UHM8", "uniprot knowledgebase:Q9UMX1", "uniprot knowledgebase:Q9UMY0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:J3KNK6", "uniprot knowledgebase:O43312", "uniprot knowledgebase:Q8TCA2", "uniprot knowledgebase:Q96RX2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DLW0", "uniprot knowledgebase:B5B0C0", "uniprot knowledgebase:B7WPL3", "uniprot knowledgebase:D3DTK2", "uniprot knowledgebase:H0Y688", "uniprot knowledgebase:P32121", "uniprot knowledgebase:Q0Z8D3", "uniprot knowledgebase:Q2PP19", "uniprot knowledgebase:Q6ICT3", "uniprot knowledgebase:Q8N7Y2", "uniprot knowledgebase:Q9UEQ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DUC9", "uniprot knowledgebase:O00147", "uniprot knowledgebase:Q16376", "uniprot knowledgebase:Q4LE28", "uniprot knowledgebase:Q92793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A3KBI9", "uniprot knowledgebase:E9PEJ8", "uniprot knowledgebase:Q13463", "uniprot knowledgebase:Q13635", "uniprot knowledgebase:Q5R1U7", "uniprot knowledgebase:Q5R1U9", "uniprot knowledgebase:Q5R1V0", "uniprot knowledgebase:Q5VZC0", "uniprot knowledgebase:Q5VZC2", "uniprot knowledgebase:Q86XG7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RNS5", "uniprot knowledgebase:Q8N8N4", "uniprot knowledgebase:Q8NC83", "uniprot knowledgebase:Q8WV18", "uniprot knowledgebase:Q96L98", "uniprot knowledgebase:Q96ST3", "uniprot knowledgebase:Q9UFQ1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A0AV09", "uniprot knowledgebase:A8K2Q4", "uniprot knowledgebase:B7ZLM4", "uniprot knowledgebase:P21583", "uniprot knowledgebase:Q16487", "uniprot knowledgebase:Q68DZ2", "uniprot knowledgebase:Q7M4N8", "uniprot knowledgebase:Q9UQK7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 41,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B7WPM3", "uniprot knowledgebase:Q8TC32", "uniprot knowledgebase:Q9H9N9", "uniprot knowledgebase:Q9NRP7", "uniprot knowledgebase:Q9UF35", "uniprot knowledgebase:Q9ULE2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 42,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D0EUY3", "uniprot knowledgebase:E9PQQ9", "uniprot knowledgebase:F5H6H8", "uniprot knowledgebase:P08151", "uniprot knowledgebase:Q8TDN9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 43,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q13547", "uniprot knowledgebase:Q92534" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 44,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R6S3", "uniprot knowledgebase:D3DTW7", "uniprot knowledgebase:O43791", "uniprot knowledgebase:Q53HJ1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 45,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P49674" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 46,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5MD49", "uniprot knowledgebase:Q5W141", "uniprot knowledgebase:Q5W142", "uniprot knowledgebase:Q9Y213", "uniprot knowledgebase:Q9Y297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 47,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P59768", "uniprot knowledgebase:Q5JPE2", "uniprot knowledgebase:Q6P9A9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 48,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 49,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8KA88", "uniprot knowledgebase:B4E2V1", "uniprot knowledgebase:C9J3A4", "uniprot knowledgebase:P04898", "uniprot knowledgebase:P11015", "uniprot knowledgebase:P31871", "uniprot knowledgebase:P63096", "uniprot knowledgebase:Q5U074", "uniprot knowledgebase:Q8TAN5", "uniprot knowledgebase:Q9UGA4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 49,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 50,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4D247", "uniprot knowledgebase:Q15465", "uniprot knowledgebase:Q75MC9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 51,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R494", "uniprot knowledgebase:O00422", "uniprot knowledgebase:Q2TTR4", "uniprot knowledgebase:Q6IAW9", "uniprot knowledgebase:Q8N606", "uniprot knowledgebase:Q9UF14" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 52,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K040", "uniprot knowledgebase:B4DSH2", "uniprot knowledgebase:B7Z9Q4", "uniprot knowledgebase:E7EVD0", "uniprot knowledgebase:Q86WZ7", "uniprot knowledgebase:Q9Y6M3", "uniprot knowledgebase:Q9Y6M4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 52,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 53,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RC98", "uniprot knowledgebase:Q9P2S8", "uniprot knowledgebase:Q9P2S9", "uniprot knowledgebase:Q9UKB1", "uniprot knowledgebase:Q9Y4C6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 54,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 55,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A2A491", "uniprot knowledgebase:B4DUS2", "uniprot knowledgebase:Q13099", "uniprot knowledgebase:Q5SZJ6", "uniprot knowledgebase:Q8N719" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 55,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 56,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R6C1", "uniprot knowledgebase:P19086", "uniprot knowledgebase:Q4QRJ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 175,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 177,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 177,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 172,
+  "n" : "pmid",
+  "v" : [ "10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 369,
+  "n" : "pmid",
+  "v" : [ "10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 374,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 374,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 376,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 376,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 367,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 372,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 372,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 377,
+  "n" : "pmid",
+  "v" : [ "10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 377,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 276,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 278,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 274,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 274,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 274,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 275,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 280,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 279,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 277,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 222,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 222,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 230,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 230,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 227,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 227,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 228,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 228,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 216,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 226,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 226,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 224,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 224,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 220,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 220,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 217,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 217,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 249,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 249,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 255,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 255,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 245,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 248,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 248,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 253,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 253,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 251,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 251,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 246,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 246,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 400,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 400,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 400,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 402,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 402,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 105,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 107,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 103,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 104,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 109,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 108,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 106,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 507,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 507,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 507,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 506,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 506,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 506,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 508,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 508,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 407,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 407,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 407,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 418,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 418,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 415,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 415,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 416,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 416,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 409,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 409,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 414,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 414,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 413,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 413,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 412,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 412,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 406,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 406,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 406,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 408,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 408,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 417,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 417,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 411,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 411,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 437,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 437,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 437,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 445,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 445,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 442,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 442,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 443,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 443,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 441,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 441,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 440,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 440,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 436,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 436,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 436,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 438,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 438,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 428,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 428,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 428,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 431,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 431,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 429,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 429,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 486,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 486,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 486,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 485,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 485,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 485,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 491,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 491,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 383,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 383,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 381,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 381,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 382,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 382,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 384,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 384,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 378,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 396,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 396,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 396,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 399,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 399,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 398,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 398,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 535,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 535,
+  "n" : "pmid",
+  "v" : [ "10559945" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 535,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10559945" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 462,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 462,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 462,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 461,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 461,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 461,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 338,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 348,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 348,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 349,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 349,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 343,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 343,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 342,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 342,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 346,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 346,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 339,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 339,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 337,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 337,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 337,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 341,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 341,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 350,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 350,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 344,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 344,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 61,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 61,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 60,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 60,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 53,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 58,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 58,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 270,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 270,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 270,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 272,
+  "n" : "pmid",
+  "v" : [ "16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 147,
+  "n" : "pmid",
+  "v" : [ "11748151", "12812795", "14723851", "15215207", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 147,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:12812795", "pmid:14723851", "pmid:15215207", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 145,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 163,
+  "n" : "pmid",
+  "v" : [ "11748151", "15087129", "15930098", "16424016", "9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:15087129", "pmid:15930098", "pmid:16424016", "pmid:9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 164,
+  "n" : "pmid",
+  "v" : [ "11748151", "15087129", "15930098", "16424016", "9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 164,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:15087129", "pmid:15930098", "pmid:16424016", "pmid:9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 146,
+  "n" : "pmid",
+  "v" : [ "11748151", "15930098", "16424016", "9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:15930098", "pmid:16424016", "pmid:9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 420,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 424,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 424,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 422,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 422,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 421,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 421,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 236,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 236,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 244,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 244,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 232,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 232,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 241,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 241,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 242,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 242,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 231,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 240,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 240,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 239,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 239,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 238,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 238,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 234,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 234,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 237,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 237,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 385,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 385,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 385,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 388,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 388,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 390,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 390,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 387,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 387,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 389,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 389,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 516,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 516,
+  "n" : "pmid",
+  "v" : [ "10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 516,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10693759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 518,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 518,
+  "n" : "pmid",
+  "v" : [ "16061793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 518,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16061793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 511,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 511,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 511,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 520,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 520,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 520,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 522,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 522,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 522,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 526,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 526,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 526,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 525,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 525,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 513,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 513,
+  "n" : "pmid",
+  "v" : [ "10806483", "11960000", "14611647", "16254602", "16885213", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 513,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 512,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 512,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 512,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 519,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 519,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 519,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 524,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 524,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 524,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 523,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 523,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 523,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 515,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 515,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 515,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 521,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 521,
+  "n" : "pmid",
+  "v" : [ "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 521,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 447,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 447,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 447,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 446,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 446,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 446,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 458,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 458,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 50,
+  "n" : "pmid",
+  "v" : [ "16424016" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16424016" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 52,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 51,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 51,
+  "n" : "pmid",
+  "v" : [ "10976102", "12925710", "1330321", "14970219", "16135787", "16407412", "16424016", "16508002", "17563371", "18567582", "19541618", "7731720", "7992057", "8248196", "8503013", "9032297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10976102", "pmid:12925710", "pmid:1330321", "pmid:14970219", "pmid:16135787", "pmid:16407412", "pmid:16424016", "pmid:16508002", "pmid:17563371", "pmid:18567582", "pmid:19541618", "pmid:7731720", "pmid:7992057", "pmid:8248196", "pmid:8503013", "pmid:9032297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 316,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 315,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 315,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 315,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 320,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 320,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 317,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 317,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 333,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 333,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 319,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 319,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 533,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 533,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 533,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 532,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 532,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 532,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 432,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 19,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 17,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 44,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 14,
+  "n" : "pmid",
+  "v" : [ "10806483", "11960000", "14611647", "16254602", "16885213", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 46,
+  "n" : "pmid",
+  "v" : [ "10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "pmid",
+  "v" : [ "10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10075717" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 500,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 499,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 499,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 499,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 503,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 503,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 494,
+  "n" : "pmid",
+  "v" : [ "16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 529,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 529,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 529,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 530,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 530,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 530,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 528,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 528,
+  "n" : "pmid",
+  "v" : [ "10806483", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 528,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10806483", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 119,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 119,
+  "n" : "pmid",
+  "v" : [ "15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 119,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15545630" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "pmid",
+  "v" : [ "11748151", "12812795", "14723851", "15215207", "15930098", "16424016", "16908539", "9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:12812795", "pmid:14723851", "pmid:15215207", "pmid:15930098", "pmid:16424016", "pmid:16908539", "pmid:9636069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 132,
+  "n" : "pmid",
+  "v" : [ "15087129", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15087129", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "pmid",
+  "v" : [ "15087129", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15087129", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 293,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 293,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 293,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 292,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 292,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 292,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 299,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 299,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 297,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 297,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 312,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 312,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 298,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 298,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 391,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 395,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 395,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 394,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 394,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 63,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "pmid",
+  "v" : [ "11748151", "12812795", "14723851", "15215207", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:12812795", "pmid:14723851", "pmid:15215207", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "pmid",
+  "v" : [ "11748151", "12812795", "14723851", "15215207", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:12812795", "pmid:14723851", "pmid:15215207", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "pmid",
+  "v" : [ "11748151", "12812795", "14723851", "15215207", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11748151", "pmid:12812795", "pmid:14723851", "pmid:15215207", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "pmid",
+  "v" : [ "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 207,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 207,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 201,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 201,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 213,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 213,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 200,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 200,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 200,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 206,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 206,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 211,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 211,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 209,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 209,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 205,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 205,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 204,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 204,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 202,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 202,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 496,
+  "n" : "pmid",
+  "v" : [ "16424016" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16424016" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 497,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 497,
+  "n" : "pmid",
+  "v" : [ "10976102", "12925710", "1330321", "14970219", "16135787", "16407412", "16424016", "16508002", "17563371", "18567582", "19541618", "7731720", "7992057", "8248196", "8503013", "9032297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 497,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10976102", "pmid:12925710", "pmid:1330321", "pmid:14970219", "pmid:16135787", "pmid:16407412", "pmid:16424016", "pmid:16508002", "pmid:17563371", "pmid:18567582", "pmid:19541618", "pmid:7731720", "pmid:7992057", "pmid:8248196", "pmid:8503013", "pmid:9032297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 475,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 474,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 474,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 474,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 482,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 482,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 403,
+  "n" : "pmid",
+  "v" : [ "16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16611981" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 66,
+  "n" : "pmid",
+  "v" : [ "16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16705181" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 283,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 283,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 291,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 291,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 288,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 288,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 289,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 289,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 281,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 281,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 281,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 282,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 282,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 287,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 287,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 286,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 286,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 285,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 285,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 354,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 354,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 354,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 366,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 366,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 364,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 364,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 355,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 355,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 358,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "14603322", "15930098", "16061793", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 358,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:14603322", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 357,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 357,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 362,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 362,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 361,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 361,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 360,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 360,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 353,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 356,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 356,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 365,
+  "n" : "pmid",
+  "v" : [ "11449277", "14603322", "15930098", "16254602", "16364285", "16424016", "16537363", "16647304", "16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 365,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:14603322", "pmid:15930098", "pmid:16254602", "pmid:16364285", "pmid:16424016", "pmid:16537363", "pmid:16647304", "pmid:16908539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 359,
+  "n" : "pmid",
+  "v" : [ "11449277", "11960000", "15930098", "16061793", "16254602", "16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 359,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11449277", "pmid:11960000", "pmid:15930098", "pmid:16061793", "pmid:16254602", "pmid:16364285" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 269,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 269,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 267,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 267,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 258,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 265,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 265,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 264,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 264,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 262,
+  "n" : "pmid",
+  "v" : [ "11960000", "14611647", "16254602", "16885213" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 262,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11960000", "pmid:14611647", "pmid:16254602", "pmid:16885213" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11449277",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14603322",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15930098",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16254602",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16364285",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16424016",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16537363",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16647304",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16908539",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10806483",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11960000",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14611647",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16885213",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10075717",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10976102",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12925710",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1330321",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14970219",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16135787",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16407412",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16508002",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17563371",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18567582",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19541618",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7731720",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7992057",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8248196",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 28,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8503013",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 29,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9032297",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 30,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16611981",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 31,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16705181",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 32,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15545630",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 33,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11748151",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 34,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12812795",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 35,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14723851",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 36,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15215207",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 37,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9636069",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 38,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15087129",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 39,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10531011",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 40,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10564661",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 41,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16459297",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 42,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10559945",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 43,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16740475",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 44,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16061793",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 45,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10693759",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 149.3515342519385,
+  "y" : 389.50147301175
+}, {
+  "node" : 2,
+  "x" : -244.69583218977084,
+  "y" : 360.0892444861117
+}, {
+  "node" : 3,
+  "x" : 337.4472624496311,
+  "y" : 84.42594874897561
+}, {
+  "node" : 4,
+  "x" : 784.6522353282919,
+  "y" : 377.4502965277846
+}, {
+  "node" : 5,
+  "x" : 544.8344733403889,
+  "y" : 351.15395632326755
+}, {
+  "node" : 6,
+  "x" : 491.2335449007782,
+  "y" : 317.2370961388875
+}, {
+  "node" : 7,
+  "x" : -369.3482542942274,
+  "y" : 346.51941910636936
+}, {
+  "node" : 8,
+  "x" : 519.4464615404831,
+  "y" : 121.45662363365349
+}, {
+  "node" : 9,
+  "x" : 334.45622505510255,
+  "y" : 413.73000982413686
+}, {
+  "node" : 10,
+  "x" : 121.45868449908396,
+  "y" : 574.841336626591
+}, {
+  "node" : 11,
+  "x" : 652.859563480007,
+  "y" : 756.8694893604852
+}, {
+  "node" : 12,
+  "x" : 714.770495483271,
+  "y" : 337.9629385471272
+}, {
+  "node" : 13,
+  "x" : 170.37205383212176,
+  "y" : 602.4941054079114
+}, {
+  "node" : 14,
+  "x" : 28.039702002954797,
+  "y" : 879.8804499984042
+}, {
+  "node" : 15,
+  "x" : 372.83807579242136,
+  "y" : 521.4542038896982
+}, {
+  "node" : 16,
+  "x" : -376.66133749287053,
+  "y" : 450.9451194901246
+}, {
+  "node" : 17,
+  "x" : -422.31736632143736,
+  "y" : 240.6419407112732
+}, {
+  "node" : 18,
+  "x" : 714.9373761467185,
+  "y" : 675.1567910628412
+}, {
+  "node" : 19,
+  "x" : 48.36602276234348,
+  "y" : 340.4836396743453
+}, {
+  "node" : 20,
+  "x" : 259.3598937370416,
+  "y" : 369.7221103815079
+}, {
+  "node" : 21,
+  "x" : 150.34418022518602,
+  "y" : 530.1232245965615
+}, {
+  "node" : 22,
+  "x" : -334.1030503697701,
+  "y" : 256.06393338384623
+}, {
+  "node" : 23,
+  "x" : -35.6926913407247,
+  "y" : 347.79444665950587
+}, {
+  "node" : 24,
+  "x" : 68.23842327881587,
+  "y" : 433.1707868346527
+}, {
+  "node" : 25,
+  "x" : -31.389323826562542,
+  "y" : 845.7038797990621
+}, {
+  "node" : 26,
+  "x" : 522.6542332460821,
+  "y" : 415.3822322613546
+}, {
+  "node" : 27,
+  "x" : -442.09161659406135,
+  "y" : 411.67070477547173
+}, {
+  "node" : 28,
+  "x" : 285.7363521949913,
+  "y" : 482.73935941816546
+}, {
+  "node" : 29,
+  "x" : -52.92251285551156,
+  "y" : 635.765254565323
+}, {
+  "node" : 30,
+  "x" : 389.9618814742552,
+  "y" : 474.74648080818173
+}, {
+  "node" : 31,
+  "x" : -250.53752852917125,
+  "y" : 829.3481880958511
+}, {
+  "node" : 32,
+  "x" : 386.2199095626475,
+  "y" : 414.7223107105908
+}, {
+  "node" : 33,
+  "x" : 534.1699192650631,
+  "y" : 604.3306130203483
+}, {
+  "node" : 34,
+  "x" : 180.93323040760225,
+  "y" : 74.2318546345362
+}, {
+  "node" : 35,
+  "x" : 277.0079581281663,
+  "y" : 528.779810286095
+}, {
+  "node" : 36,
+  "x" : 43.72943240450233,
+  "y" : 285.21199379549637
+}, {
+  "node" : 37,
+  "x" : 581.1887164874881,
+  "y" : 397.760375480839
+}, {
+  "node" : 38,
+  "x" : 410.16212643181956,
+  "y" : 695.8416312427535
+}, {
+  "node" : 39,
+  "x" : 260.0070881805648,
+  "y" : 312.9389370487959
+}, {
+  "node" : 40,
+  "x" : -83.14029302609157,
+  "y" : 310.5037896983403
+}, {
+  "node" : 41,
+  "x" : 196.9460297756131,
+  "y" : 713.3022389501118
+}, {
+  "node" : 42,
+  "x" : 314.062496616696,
+  "y" : 300.8899706312185
+}, {
+  "node" : 43,
+  "x" : 342.4931681104373,
+  "y" : 350.1911708237804
+}, {
+  "node" : 44,
+  "x" : -37.984526137081545,
+  "y" : 503.0428381659649
+}, {
+  "node" : 45,
+  "x" : -453.60212269785546,
+  "y" : 325.32459998262
+}, {
+  "node" : 46,
+  "x" : -108.30880905919356,
+  "y" : 368.2644677219635
+}, {
+  "node" : 47,
+  "x" : 790.0687567058507,
+  "y" : 328.8602557665037
+}, {
+  "node" : 48,
+  "x" : 380.5565672023947,
+  "y" : 146.08013180679887
+}, {
+  "node" : 49,
+  "x" : 526.6155092420584,
+  "y" : 253.97082996148873
+}, {
+  "node" : 50,
+  "x" : -151.86877657282054,
+  "y" : 1003.0719582955805
+}, {
+  "node" : 51,
+  "x" : 280.0919591396759,
+  "y" : 418.6668175457743
+}, {
+  "node" : 52,
+  "x" : -342.9355752094215,
+  "y" : 179.6362098572734
+}, {
+  "node" : 53,
+  "x" : -76.37698005589338,
+  "y" : 396.8511200443007
+}, {
+  "node" : 54,
+  "x" : 470.3557114325543,
+  "y" : 247.80443206694574
+}, {
+  "node" : 55,
+  "x" : 222.11394578402872,
+  "y" : 619.7647725982193
+}, {
+  "node" : 56,
+  "x" : 562.6969270608339,
+  "y" : 297.5392565233068
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "properties_of" : "nodes:default",
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SELECTED" : "false",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_SIZE" : "35.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_WIDTH" : "75.0",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "properties_of" : "edges:default",
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=shared interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]

@@ -1,0 +1,8733 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1482126114150,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1482126114516,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":75,"idCounter":7675,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":98,"idCounter":7675,"name":"edges","properties":[],"version":"1.0"},{"elementCount":12,"name":"networkAttributes","properties":[]},{"elementCount":1,"name":"hiddenAttributes","properties":[]},{"elementCount":732,"name":"nodeAttributes","properties":[]},{"elementCount":607,"name":"edgeAttributes","properties":[]},{"elementCount":75,"name":"cartesianLayout","properties":[]},{"elementCount":3,"name":"visualProperties","properties":[]},{"elementCount":1,"name":"subNetworks","properties":[]},{"elementCount":1,"name":"cyViews","properties":[]},{"elementCount":2,"name":"networkRelations","properties":[]},{"elementCount":33,"name":"cyTableColumn","properties":[]}]},{"ndexStatus":[{"externalId":"d8f7a125-c5ad-11e6-b48c-0660b7976219","creationTime":1482126114150,"modificationTime":1482126114150,"visibility":"PRIVATE","published":false,"nodeCount":75,"edgeCount":98,"owner":"rudipillich","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://dev2.ndexbio.org/v2/network/d8f7a125-c5ad-11e6-b48c-0660b7976219/summary","creationEvent":{"inputs":null,"startedAtTime":1482126114150,"endedAtTime":1482126114150,"eventType":"Program Upload in CX","properties":[{"name":"user","value":"Rudi Pillich"},{"name":"user name","value":"rudipillich"}]},"properties":[{"name":"edge count","value":"98"},{"name":"node count","value":"75"},{"name":"dc:title","value":"Epigenetics-2.0-Hs - JGF"}]}}]}, {"nodes":[{
+  "@id" : 136,
+  "n" : "p(HGNC:PRMT9)"
+}, {
+  "@id" : 135,
+  "n" : "p(HGNC:CARM1)"
+}, {
+  "@id" : 134,
+  "n" : "p(HGNC:PRMT6)"
+}, {
+  "@id" : 133,
+  "n" : "p(HGNC:PRMT5)"
+}, {
+  "@id" : 132,
+  "n" : "bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "@id" : 131,
+  "n" : "p(HGNC:GLI1)"
+}, {
+  "@id" : 130,
+  "n" : "p(SFAM:\"WNT Family\")"
+}, {
+  "@id" : 129,
+  "n" : "p(HGNC:VEGFA)"
+}, {
+  "@id" : 128,
+  "n" : "tscript(p(HGNC:GLI1))"
+}, {
+  "@id" : 127,
+  "n" : "p(HGNC:CDKN2A)"
+}, {
+  "@id" : 126,
+  "n" : "tscript(p(HGNC:E2F4))"
+}, {
+  "@id" : 125,
+  "n" : "a(CHEBI:\"EC 3.5.1.98 (histone deacetylase) inhibitor\")"
+}, {
+  "@id" : 124,
+  "n" : "tscript(p(HGNC:CTNNB1))"
+}, {
+  "@id" : 123,
+  "n" : "p(HGNC:WNT5A)"
+}, {
+  "@id" : 122,
+  "n" : "cat(p(HGNC:CHFR))"
+}, {
+  "@id" : 121,
+  "n" : "p(HGNC:E2F4)"
+}, {
+  "@id" : 120,
+  "n" : "p(HGNC:PLK1)"
+}, {
+  "@id" : 119,
+  "n" : "p(HGNC:CHFR)"
+}, {
+  "@id" : 118,
+  "n" : "p(HGNC:RASSF1)"
+}, {
+  "@id" : 117,
+  "n" : "p(HGNC:DKK1)"
+}, {
+  "@id" : 116,
+  "n" : "p(HGNC:DNMT1)"
+}, {
+  "@id" : 115,
+  "n" : "p(HGNC:CCND1)"
+}, {
+  "@id" : 114,
+  "n" : "p(HGNC:EGR1)"
+}, {
+  "@id" : 113,
+  "n" : "tscript(p(HGNC:EGR1))"
+}, {
+  "@id" : 112,
+  "n" : "p(HGNC:CTNNB1)"
+}, {
+  "@id" : 111,
+  "n" : "p(HGNC:CCNB1)"
+}, {
+  "@id" : 110,
+  "n" : "p(HGNC:RB1)"
+}, {
+  "@id" : 109,
+  "n" : "complex(GOCC:\"PRC1 complex\")"
+}, {
+  "@id" : 108,
+  "n" : "p(SFAM:\"HDAC Family\")"
+}, {
+  "@id" : 107,
+  "n" : "kin(p(HGNC:CDK1))"
+}, {
+  "@id" : 106,
+  "n" : "g(HGNC:GATA4)"
+}, {
+  "@id" : 105,
+  "n" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "@id" : 104,
+  "n" : "bp(GOBP:\"DNA methylation\")"
+}, {
+  "@id" : 103,
+  "n" : "a(SCHEM:\"Smoke, cigarette\")"
+}, {
+  "@id" : 102,
+  "n" : "g(HGNC:AHRR)"
+}, {
+  "@id" : 101,
+  "n" : "bp(GOBP:\"histone modification\")"
+}, {
+  "@id" : 100,
+  "n" : "complex(GOCC:\"ESC/E(Z) complex\")"
+}, {
+  "@id" : 99,
+  "n" : "p(HGNC:EED)"
+}, {
+  "@id" : 98,
+  "n" : "p(HGNC:EZH2)"
+}, {
+  "@id" : 97,
+  "n" : "p(HGNC:SUZ12)"
+}, {
+  "@id" : 96,
+  "n" : "a(CHEBI:\"hydrogen peroxide\")"
+}, {
+  "@id" : 95,
+  "n" : "g(HGNC:F2RL3)"
+}, {
+  "@id" : 94,
+  "n" : "bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "@id" : 93,
+  "n" : "p(HGNC:HDAC1)"
+}, {
+  "@id" : 92,
+  "n" : "bp(GOBP:\"histone methylation\")"
+}, {
+  "@id" : 91,
+  "n" : "bp(GOBP:\"histone acetylation\")"
+}, {
+  "@id" : 90,
+  "n" : "bp(GOBP:\"response to oxidative stress\")"
+}, {
+  "@id" : 89,
+  "n" : "cat(p(HGNC:DNMT1))"
+}, {
+  "@id" : 88,
+  "n" : "g(HGNC:SERPINA1)"
+}, {
+  "@id" : 87,
+  "n" : "g(HGNC:FUT7)"
+}, {
+  "@id" : 86,
+  "n" : "p(HGNC:DEFB1)"
+}, {
+  "@id" : 85,
+  "n" : "bp(GOBP:\"cellular response to DNA damage stimulus\")"
+}, {
+  "@id" : 84,
+  "n" : "deg(p(HGNC:HDAC2))"
+}, {
+  "@id" : 83,
+  "n" : "a(CHEBI:corticosteroid)"
+}, {
+  "@id" : 82,
+  "n" : "bp(GOBP:\"inflammatory response\")"
+}, {
+  "@id" : 81,
+  "n" : "bp(GOBP:\"chromatin remodeling\")"
+}, {
+  "@id" : 80,
+  "n" : "p(HGNC:HDAC2)"
+}, {
+  "@id" : 79,
+  "n" : "r(HGNC:HDAC5)"
+}, {
+  "@id" : 78,
+  "n" : "r(HGNC:HDAC8)"
+}, {
+  "@id" : 77,
+  "n" : "cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "@id" : 76,
+  "n" : "p(HGNC:HDAC3)"
+}, {
+  "@id" : 75,
+  "n" : "p(HGNC:GDF11)"
+}, {
+  "@id" : 74,
+  "n" : "p(HGNC:KMT2A)"
+}, {
+  "@id" : 73,
+  "n" : "r(HGNC:KMT2A)"
+}, {
+  "@id" : 72,
+  "n" : "r(HGNC:HDAC10)"
+}, {
+  "@id" : 71,
+  "n" : "r(HGNC:CARM1)"
+}, {
+  "@id" : 70,
+  "n" : "r(HGNC:PRMT5)"
+}, {
+  "@id" : 69,
+  "n" : "r(HGNC:PRMT6)"
+}, {
+  "@id" : 68,
+  "n" : "r(HGNC:PRMT9)"
+}, {
+  "@id" : 67,
+  "n" : "a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "@id" : 66,
+  "n" : "a(SCHEM:\"Diesel exhaust particles\")"
+}, {
+  "@id" : 65,
+  "n" : "p(HGNC:HDAC5)"
+}, {
+  "@id" : 64,
+  "n" : "p(HGNC:HDAC8)"
+}, {
+  "@id" : 63,
+  "n" : "p(HGNC:HDAC10)"
+}, {
+  "@id" : 62,
+  "n" : "bp(GPBP:\"histone deacetylation\")"
+}]}, {"edges":[{
+  "@id" : 234,
+  "s" : 136,
+  "t" : 132,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 233,
+  "s" : 135,
+  "t" : 132,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 232,
+  "s" : 134,
+  "t" : 132,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 231,
+  "s" : 133,
+  "t" : 132,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 230,
+  "s" : 132,
+  "t" : 67,
+  "i" : "increases"
+}, {
+  "@id" : 229,
+  "s" : 131,
+  "t" : 128,
+  "i" : "actsIn"
+}, {
+  "@id" : 228,
+  "s" : 126,
+  "t" : 115,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 227,
+  "s" : 125,
+  "t" : 77,
+  "i" : "directlyDecreases"
+}, {
+  "@id" : 226,
+  "s" : 124,
+  "t" : 115,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 225,
+  "s" : 122,
+  "t" : 111,
+  "i" : "decreases"
+}, {
+  "@id" : 224,
+  "s" : 122,
+  "t" : 120,
+  "i" : "decreases"
+}, {
+  "@id" : 223,
+  "s" : 121,
+  "t" : 126,
+  "i" : "actsIn"
+}, {
+  "@id" : 222,
+  "s" : 119,
+  "t" : 111,
+  "i" : "decreases"
+}, {
+  "@id" : 221,
+  "s" : 119,
+  "t" : 120,
+  "i" : "directlyDecreases"
+}, {
+  "@id" : 220,
+  "s" : 119,
+  "t" : 107,
+  "i" : "decreases"
+}, {
+  "@id" : 219,
+  "s" : 119,
+  "t" : 122,
+  "i" : "actsIn"
+}, {
+  "@id" : 218,
+  "s" : 118,
+  "t" : 115,
+  "i" : "decreases"
+}, {
+  "@id" : 217,
+  "s" : 117,
+  "t" : 123,
+  "i" : "decreases"
+}, {
+  "@id" : 216,
+  "s" : 117,
+  "t" : 130,
+  "i" : "decreases"
+}, {
+  "@id" : 215,
+  "s" : 116,
+  "t" : 89,
+  "i" : "actsIn"
+}, {
+  "@id" : 214,
+  "s" : 116,
+  "t" : 129,
+  "i" : "increases"
+}, {
+  "@id" : 213,
+  "s" : 116,
+  "t" : 110,
+  "i" : "decreases"
+}, {
+  "@id" : 212,
+  "s" : 116,
+  "t" : 127,
+  "i" : "decreases"
+}, {
+  "@id" : 211,
+  "s" : 114,
+  "t" : 121,
+  "i" : "association"
+}, {
+  "@id" : 210,
+  "s" : 114,
+  "t" : 113,
+  "i" : "actsIn"
+}, {
+  "@id" : 209,
+  "s" : 112,
+  "t" : 124,
+  "i" : "actsIn"
+}, {
+  "@id" : 208,
+  "s" : 109,
+  "t" : 117,
+  "i" : "decreases"
+}, {
+  "@id" : 207,
+  "s" : 109,
+  "t" : 100,
+  "i" : "decreases"
+}, {
+  "@id" : 206,
+  "s" : 108,
+  "t" : 121,
+  "i" : "decreases"
+}, {
+  "@id" : 205,
+  "s" : 108,
+  "t" : 93,
+  "i" : "hasMember"
+}, {
+  "@id" : 204,
+  "s" : 108,
+  "t" : 80,
+  "i" : "hasMember"
+}, {
+  "@id" : 203,
+  "s" : 108,
+  "t" : 76,
+  "i" : "hasMember"
+}, {
+  "@id" : 202,
+  "s" : 108,
+  "t" : 77,
+  "i" : "actsIn"
+}, {
+  "@id" : 201,
+  "s" : 108,
+  "t" : 64,
+  "i" : "hasMember"
+}, {
+  "@id" : 200,
+  "s" : 108,
+  "t" : 63,
+  "i" : "hasMember"
+}, {
+  "@id" : 199,
+  "s" : 108,
+  "t" : 65,
+  "i" : "hasMember"
+}, {
+  "@id" : 198,
+  "s" : 106,
+  "t" : 105,
+  "i" : "association"
+}, {
+  "@id" : 197,
+  "s" : 105,
+  "t" : 104,
+  "i" : "association"
+}, {
+  "@id" : 196,
+  "s" : 105,
+  "t" : 127,
+  "i" : "association"
+}, {
+  "@id" : 195,
+  "s" : 105,
+  "t" : 80,
+  "i" : "decreases"
+}, {
+  "@id" : 194,
+  "s" : 105,
+  "t" : 78,
+  "i" : "negativeCorrelation"
+}, {
+  "@id" : 193,
+  "s" : 105,
+  "t" : 72,
+  "i" : "negativeCorrelation"
+}, {
+  "@id" : 192,
+  "s" : 105,
+  "t" : 79,
+  "i" : "negativeCorrelation"
+}, {
+  "@id" : 191,
+  "s" : 105,
+  "t" : 77,
+  "i" : "negativeCorrelation"
+}, {
+  "@id" : 190,
+  "s" : 105,
+  "t" : 73,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 189,
+  "s" : 105,
+  "t" : 71,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 188,
+  "s" : 105,
+  "t" : 69,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 187,
+  "s" : 105,
+  "t" : 68,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 186,
+  "s" : 105,
+  "t" : 70,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 185,
+  "s" : 105,
+  "t" : 92,
+  "i" : "association"
+}, {
+  "@id" : 184,
+  "s" : 103,
+  "t" : 102,
+  "i" : "association"
+}, {
+  "@id" : 183,
+  "s" : 103,
+  "t" : 80,
+  "i" : "decreases"
+}, {
+  "@id" : 182,
+  "s" : 103,
+  "t" : 104,
+  "i" : "increases"
+}, {
+  "@id" : 181,
+  "s" : 103,
+  "t" : 101,
+  "i" : "association"
+}, {
+  "@id" : 180,
+  "s" : 103,
+  "t" : 84,
+  "i" : "increases"
+}, {
+  "@id" : 179,
+  "s" : 103,
+  "t" : 93,
+  "i" : "decreases"
+}, {
+  "@id" : 178,
+  "s" : 103,
+  "t" : 77,
+  "i" : "decreases"
+}, {
+  "@id" : 177,
+  "s" : 103,
+  "t" : 76,
+  "i" : "decreases"
+}, {
+  "@id" : 176,
+  "s" : 103,
+  "t" : 67,
+  "i" : "association"
+}, {
+  "@id" : 175,
+  "s" : 103,
+  "t" : 95,
+  "i" : "association"
+}, {
+  "@id" : 174,
+  "s" : 100,
+  "t" : 97,
+  "i" : "hasComponent"
+}, {
+  "@id" : 173,
+  "s" : 100,
+  "t" : 98,
+  "i" : "hasComponent"
+}, {
+  "@id" : 172,
+  "s" : 100,
+  "t" : 99,
+  "i" : "hasComponent"
+}, {
+  "@id" : 171,
+  "s" : 100,
+  "t" : 104,
+  "i" : "association"
+}, {
+  "@id" : 170,
+  "s" : 98,
+  "t" : 92,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 169,
+  "s" : 96,
+  "t" : 80,
+  "i" : "decreases"
+}, {
+  "@id" : 168,
+  "s" : 95,
+  "t" : 94,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 167,
+  "s" : 94,
+  "t" : 88,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 166,
+  "s" : 93,
+  "t" : 86,
+  "i" : "decreases"
+}, {
+  "@id" : 165,
+  "s" : 92,
+  "t" : 101,
+  "i" : "isA"
+}, {
+  "@id" : 164,
+  "s" : 91,
+  "t" : 101,
+  "i" : "isA"
+}, {
+  "@id" : 163,
+  "s" : 90,
+  "t" : 89,
+  "i" : "increases"
+}, {
+  "@id" : 162,
+  "s" : 89,
+  "t" : 104,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 161,
+  "s" : 88,
+  "t" : 105,
+  "i" : "association"
+}, {
+  "@id" : 160,
+  "s" : 87,
+  "t" : 94,
+  "i" : "positiveCorrelation"
+}, {
+  "@id" : 159,
+  "s" : 87,
+  "t" : 105,
+  "i" : "association"
+}, {
+  "@id" : 158,
+  "s" : 84,
+  "t" : 80,
+  "i" : "directlyDecreases"
+}, {
+  "@id" : 157,
+  "s" : 83,
+  "t" : 82,
+  "i" : "decreases"
+}, {
+  "@id" : 156,
+  "s" : 83,
+  "t" : 101,
+  "i" : "decreases"
+}, {
+  "@id" : 155,
+  "s" : 83,
+  "t" : 81,
+  "i" : "decreases"
+}, {
+  "@id" : 154,
+  "s" : 80,
+  "t" : 85,
+  "i" : "association"
+}, {
+  "@id" : 153,
+  "s" : 79,
+  "t" : 65,
+  "i" : "translatedTo"
+}, {
+  "@id" : 152,
+  "s" : 78,
+  "t" : 64,
+  "i" : "translatedTo"
+}, {
+  "@id" : 151,
+  "s" : 77,
+  "t" : 113,
+  "i" : "increases"
+}, {
+  "@id" : 150,
+  "s" : 77,
+  "t" : 128,
+  "i" : "decreases"
+}, {
+  "@id" : 149,
+  "s" : 77,
+  "t" : 126,
+  "i" : "increases"
+}, {
+  "@id" : 148,
+  "s" : 77,
+  "t" : 111,
+  "i" : "decreases"
+}, {
+  "@id" : 147,
+  "s" : 77,
+  "t" : 62,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 146,
+  "s" : 76,
+  "t" : 75,
+  "i" : "decreases"
+}, {
+  "@id" : 145,
+  "s" : 74,
+  "t" : 92,
+  "i" : "directlyIncreases"
+}, {
+  "@id" : 144,
+  "s" : 73,
+  "t" : 74,
+  "i" : "translatedTo"
+}, {
+  "@id" : 143,
+  "s" : 72,
+  "t" : 63,
+  "i" : "translatedTo"
+}, {
+  "@id" : 142,
+  "s" : 71,
+  "t" : 135,
+  "i" : "translatedTo"
+}, {
+  "@id" : 141,
+  "s" : 70,
+  "t" : 133,
+  "i" : "translatedTo"
+}, {
+  "@id" : 140,
+  "s" : 69,
+  "t" : 134,
+  "i" : "translatedTo"
+}, {
+  "@id" : 139,
+  "s" : 68,
+  "t" : 136,
+  "i" : "translatedTo"
+}, {
+  "@id" : 138,
+  "s" : 66,
+  "t" : 105,
+  "i" : "increases"
+}, {
+  "@id" : 137,
+  "s" : 62,
+  "t" : 101,
+  "i" : "isA"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Epigenetics-2.0-Hs - JGF"
+}, {
+  "s" : 52,
+  "n" : "organism",
+  "v" : "human"
+}, {
+  "s" : 52,
+  "n" : "BELJGF Version",
+  "v" : "2.0"
+}, {
+  "s" : 52,
+  "n" : "species_common_name",
+  "v" : "Human"
+}, {
+  "s" : 52,
+  "n" : "boundary_conditions",
+  "v" : "The human model sets were built to represent healthy processes and were then enhanced with COPD data to represent early COPD (GOLD stage I and II) processes. If supporting literature from early COPD studies were not available, stage-independent COPD studies were used. For a mechanism predicted from COPD data it was incorporated into a network with an edge based on COPD studies if available, and if not healthy context was used to incorporate these COPD mechanisms. Literature describing processes active in acute exacerbation in COPD patients was excluded from supporting edges of the network models. We prioritized data collected from studies of lung and COPD-relevant cell types, but excluded literature related to asthma or bronchitis. We excluded cancer, idiopathic pulmonary fibrosis, cystic fibrosis, all virus infections, all bacterial infections, septic pneumonitis, acute respiratory distress syndrome (ARDS), allergic responses/asthma, pneumoconiosis, and COPD exacerbations. We also excluded animal inhalation studies with solid particles (titanium dioxide, quartz, asbestos, carbon black, diesel exhaust etc). For the in vitro-specific exclusion criteria we excluded tumor-derived cell lines, immortalized cell lines, neuronal cells, and cell types that cannot be found in the respiratory/vascular system. There were some exceptions where we included immortalized cell lines and non-lung cell types for canonical mechanisms where there was evidence that the relationship was not tissue-specific but could also take place in the lung. Human-specific connections were preferred, but rat and mouse were also included where human data was not available."
+}, {
+  "s" : 52,
+  "n" : "selected",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "n" : "author",
+  "v" : "anselmo"
+}, {
+  "s" : 52,
+  "n" : "labels",
+  "v" : "PMI"
+}, {
+  "s" : 52,
+  "n" : "name",
+  "v" : "Epigenetics-2.0-Hs - JGF"
+}, {
+  "s" : 52,
+  "n" : "reference",
+  "v" : "<div>xzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx</div>"
+}, {
+  "s" : 52,
+  "n" : "description",
+  "v" : "<div>hdiwhdkjadhflshdlgkhsldhgjpw;oejhgip</div>"
+}, {
+  "s" : 52,
+  "n" : "version",
+  "v" : "234"
+}]}, {"hiddenAttributes":[{
+  "s" : 52,
+  "n" : "layoutAlgorithm",
+  "v" : "Hierarchical Layout"
+}]}, {"nodeAttributes":[{
+  "s" : 52,
+  "po" : 136,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "coordinate",
+  "v" : [ "0.7923611111111111", "0.12252252252252253", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "x coordinate",
+  "v" : "0.7923611111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "y coordinate",
+  "v" : "0.12252252252252253",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 136,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "coordinate",
+  "v" : [ "0.8319444444444444", "0.11171171171171172", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "x coordinate",
+  "v" : "0.8319444444444444",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "y coordinate",
+  "v" : "0.11171171171171172",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "name",
+  "v" : "p(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 135,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "coordinate",
+  "v" : [ "0.7340277777777778", "0.13513513513513514", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "x coordinate",
+  "v" : "0.7340277777777778",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "y coordinate",
+  "v" : "0.13513513513513514",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 134,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "coordinate",
+  "v" : [ "0.6784722222222223", "0.14684684684684685", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "x coordinate",
+  "v" : "0.6784722222222223",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "y coordinate",
+  "v" : "0.14684684684684685",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 133,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "coordinate",
+  "v" : [ "0.7312500000000001", "0.04864864864864865", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "x coordinate",
+  "v" : "0.7312500000000001",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "y coordinate",
+  "v" : "0.04864864864864865",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "name",
+  "v" : "bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 132,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "coordinate",
+  "v" : [ "0.3902777777777778", "0.7306306306306306", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "x coordinate",
+  "v" : "0.3902777777777778",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "y coordinate",
+  "v" : "0.7306306306306306",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "name",
+  "v" : "p(HGNC:GLI1)"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405198d"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 131,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "coordinate",
+  "v" : [ "1.3880656637813171", "0.3475860481085456", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "x coordinate",
+  "v" : "1.3880656637813171",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "y coordinate",
+  "v" : "0.3475860481085456",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "name",
+  "v" : "p(SFAM:\"WNT Family\")"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051990"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 130,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "coordinate",
+  "v" : [ "1.1551983414107942", "0.5940409879314668", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "x coordinate",
+  "v" : "1.1551983414107942",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "y coordinate",
+  "v" : "0.5940409879314668",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "name",
+  "v" : "p(HGNC:VEGFA)"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051992"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 129,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "bel_function_type",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "coordinate",
+  "v" : [ "0.46875", "0.6009009009009009", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "x coordinate",
+  "v" : "0.46875",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "y coordinate",
+  "v" : "0.6009009009009009",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:GLI1))"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051993"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 128,
+  "n" : "bel.function",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "coordinate",
+  "v" : [ "0.9604166666666667", "0.5531531531531532", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "x coordinate",
+  "v" : "0.9604166666666667",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "y coordinate",
+  "v" : "0.5531531531531532",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "name",
+  "v" : "p(HGNC:CDKN2A)"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "nodeId",
+  "v" : "5529224a89e3620d90b1b3bf"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 127,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "bel_function_type",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "coordinate",
+  "v" : [ "0.3875", "0.5657657657657658", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "x coordinate",
+  "v" : "0.3875",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "y coordinate",
+  "v" : "0.5657657657657658",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:E2F4))"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051996"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 126,
+  "n" : "bel.function",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "coordinate",
+  "v" : [ "0.47430555555555554", "0.3954954954954955", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "x coordinate",
+  "v" : "0.47430555555555554",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "y coordinate",
+  "v" : "0.3954954954954955",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "name",
+  "v" : "a(CHEBI:\"EC 3.5.1.98 (histone deacetylase) inhibitor\")"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051998"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 125,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "bel_function_type",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "coordinate",
+  "v" : [ "0.09722222222222222", "0.6738738738738738", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "x coordinate",
+  "v" : "0.09722222222222222",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "y coordinate",
+  "v" : "0.6738738738738738",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:CTNNB1))"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c34051999"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 124,
+  "n" : "bel.function",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "coordinate",
+  "v" : [ "1.3718475801601988", "0.2448629238692215", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "x coordinate",
+  "v" : "1.3718475801601988",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "y coordinate",
+  "v" : "0.2448629238692215",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "name",
+  "v" : "p(HGNC:WNT5A)"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405199a"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 123,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "bel_function_type",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "coordinate",
+  "v" : [ "0.30416666666666664", "0.1945945945945946", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "x coordinate",
+  "v" : "0.30416666666666664",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "y coordinate",
+  "v" : "0.1945945945945946",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "name",
+  "v" : "cat(p(HGNC:CHFR))"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405199c"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 122,
+  "n" : "bel.function",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "coordinate",
+  "v" : [ "0.44375000000000003", "0.7036036036036036", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "x coordinate",
+  "v" : "0.44375000000000003",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "y coordinate",
+  "v" : "0.7036036036036036",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "name",
+  "v" : "p(HGNC:E2F4)"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405199d"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 121,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "coordinate",
+  "v" : [ "0.2138888888888889", "0.14864864864864866", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "x coordinate",
+  "v" : "0.2138888888888889",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "y coordinate",
+  "v" : "0.14864864864864866",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "name",
+  "v" : "p(HGNC:PLK1)"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405199e"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 120,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "coordinate",
+  "v" : [ "0.2392361111111111", "0.24864864864864866", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "x coordinate",
+  "v" : "0.2392361111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "y coordinate",
+  "v" : "0.24864864864864866",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "name",
+  "v" : "p(HGNC:CHFR)"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c3405199f"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 119,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "coordinate",
+  "v" : [ "0.14444444444444446", "0.7234234234234234", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "x coordinate",
+  "v" : "0.14444444444444446",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "y coordinate",
+  "v" : "0.7234234234234234",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "name",
+  "v" : "p(HGNC:RASSF1)"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a0"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 118,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "coordinate",
+  "v" : [ "1.3403654178368518", "0.30674432401339263", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "x coordinate",
+  "v" : "1.3403654178368518",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "y coordinate",
+  "v" : "0.30674432401339263",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "name",
+  "v" : "p(HGNC:DKK1)"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a1"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 117,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "coordinate",
+  "v" : [ "1.1024305555555556", "0.6225225225225225", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "x coordinate",
+  "v" : "1.1024305555555556",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "y coordinate",
+  "v" : "0.6225225225225225",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "name",
+  "v" : "p(HGNC:DNMT1)"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a2"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 116,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "coordinate",
+  "v" : [ "0.225", "0.636936936936937", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "x coordinate",
+  "v" : "0.225",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "y coordinate",
+  "v" : "0.636936936936937",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "name",
+  "v" : "p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a4"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 115,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "coordinate",
+  "v" : [ "0.36944444444444446", "0.6387387387387388", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "x coordinate",
+  "v" : "0.36944444444444446",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "y coordinate",
+  "v" : "0.6387387387387388",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "name",
+  "v" : "p(HGNC:EGR1)"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a6"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "selected",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 114,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "bel_function_type",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "coordinate",
+  "v" : [ "0.4458333333333333", "0.527927927927928", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "x coordinate",
+  "v" : "0.4458333333333333",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "y coordinate",
+  "v" : "0.527927927927928",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:EGR1))"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a7"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 113,
+  "n" : "bel.function",
+  "v" : "transcriptionalActivity"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "coordinate",
+  "v" : [ "0.0", "0.7162162162162162", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "x coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "y coordinate",
+  "v" : "0.7162162162162162",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "name",
+  "v" : "p(HGNC:CTNNB1)"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a8"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 112,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "coordinate",
+  "v" : [ "0.4069444444444445", "0.31981981981981983", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "x coordinate",
+  "v" : "0.4069444444444445",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "y coordinate",
+  "v" : "0.31981981981981983",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "name",
+  "v" : "p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519a9"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 111,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "coordinate",
+  "v" : [ "1.0498563658012943", "0.6516003520269579", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "x coordinate",
+  "v" : "1.0498563658012943",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "y coordinate",
+  "v" : "0.6516003520269579",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "name",
+  "v" : "p(HGNC:RB1)"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519aa"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 110,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "bel_function_type",
+  "v" : "complexAbundance"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "coordinate",
+  "v" : [ "1.284375", "0.3216216216216216", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "x coordinate",
+  "v" : "1.284375",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "y coordinate",
+  "v" : "0.3216216216216216",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "name",
+  "v" : "complex(GOCC:\"PRC1 complex\")"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519ad"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 109,
+  "n" : "bel.function",
+  "v" : "complexAbundance"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "coordinate",
+  "v" : [ "0.5784722222222222", "0.6675675675675676", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "x coordinate",
+  "v" : "0.5784722222222222",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "y coordinate",
+  "v" : "0.6675675675675676",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\")"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "nodeId",
+  "v" : "524b3517d3fbfd4c340519ae"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 108,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "bel_function_type",
+  "v" : "kinaseActivity"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "coordinate",
+  "v" : [ "0.2025484698138044", "0.3055001326010717", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "createdBy",
+  "v" : "alejandroferreiromorales.cr"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "x coordinate",
+  "v" : "0.2025484698138044",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "y coordinate",
+  "v" : "0.3055001326010717",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "name",
+  "v" : "kin(p(HGNC:CDK1))"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "nodeId",
+  "v" : "547651ae89e3620868759713"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 107,
+  "n" : "bel.function",
+  "v" : "kinaseActivity"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "bel_function_type",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "coordinate",
+  "v" : [ "0.9055555555555556", "0.5315315315315315", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "x coordinate",
+  "v" : "0.9055555555555556",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "y coordinate",
+  "v" : "0.5315315315315315",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "name",
+  "v" : "g(HGNC:GATA4)"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "nodeId",
+  "v" : "547edebb89e36213f01591fb"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 106,
+  "n" : "bel.function",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "bel_function_type",
+  "v" : "pathology"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "coordinate",
+  "v" : [ "0.8118055555555556", "0.47297297297297297", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "createdBy",
+  "v" : "ganna.androsova"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "x coordinate",
+  "v" : "0.8118055555555556",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "y coordinate",
+  "v" : "0.47297297297297297",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "nodeId",
+  "v" : "5538c38589e362097c004aef"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 105,
+  "n" : "bel.function",
+  "v" : "pathology"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "coordinate",
+  "v" : [ "0.9763888888888889", "0.45765765765765765", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "x coordinate",
+  "v" : "0.9763888888888889",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "y coordinate",
+  "v" : "0.45765765765765765",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "name",
+  "v" : "bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "nodeId",
+  "v" : "547ee11d89e36213f015981b"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 104,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "coordinate",
+  "v" : [ "0.7302083333333332", "0.445045045045045", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "x coordinate",
+  "v" : "0.7302083333333332",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "y coordinate",
+  "v" : "0.445045045045045",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\")"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "nodeId",
+  "v" : "547eeb5589e3620d84a19a94"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 103,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "bel_function_type",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "coordinate",
+  "v" : [ "0.7673695929425675", "0.3887136418436894", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "x coordinate",
+  "v" : "0.7673695929425675",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "y coordinate",
+  "v" : "0.3887136418436894",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "name",
+  "v" : "g(HGNC:AHRR)"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "nodeId",
+  "v" : "547eeb5589e3620d84a19a96"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 102,
+  "n" : "bel.function",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "coordinate",
+  "v" : [ "0.8152777777777778", "0.22432432432432434", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "x coordinate",
+  "v" : "0.8152777777777778",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "y coordinate",
+  "v" : "0.22432432432432434",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "name",
+  "v" : "bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "nodeId",
+  "v" : "547eeed489e3620d84a1ba53"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 101,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "bel_function_type",
+  "v" : "complexAbundance"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "coordinate",
+  "v" : [ "1.1600694444444444", "0.3675675675675676", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "x coordinate",
+  "v" : "1.1600694444444444",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "y coordinate",
+  "v" : "0.3675675675675676",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\")"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "nodeId",
+  "v" : "5500895289e3621814f3c6a0"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 100,
+  "n" : "bel.function",
+  "v" : "complexAbundance"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "coordinate",
+  "v" : [ "1.1276081778790552", "0.42859166823413947", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "x coordinate",
+  "v" : "1.1276081778790552",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "y coordinate",
+  "v" : "0.42859166823413947",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "name",
+  "v" : "p(HGNC:EED)"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "nodeId",
+  "v" : "550085d489e3621814f3b75c"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 99,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "coordinate",
+  "v" : [ "1.0687499999999999", "0.2756756756756757", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "x coordinate",
+  "v" : "1.0687499999999999",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "y coordinate",
+  "v" : "0.2756756756756757",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "name",
+  "v" : "p(HGNC:EZH2)"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "nodeId",
+  "v" : "5500868789e3621814f3bbbb"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 98,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "coordinate",
+  "v" : [ "1.1929399660735773", "0.3069132816187944", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "x coordinate",
+  "v" : "1.1929399660735773",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "y coordinate",
+  "v" : "0.3069132816187944",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "name",
+  "v" : "p(HGNC:SUZ12)"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "nodeId",
+  "v" : "5502e64d89e36209cc4e1bcc"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 97,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "coordinate",
+  "v" : [ "0.75", "0.845945945945946", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "createdBy",
+  "v" : "pirxtrurl"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "x coordinate",
+  "v" : "0.75",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "y coordinate",
+  "v" : "0.845945945945946",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "name",
+  "v" : "a(CHEBI:\"hydrogen peroxide\")"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "nodeId",
+  "v" : "550743f089e3620b944ee668"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 96,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "bel_function_type",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "coordinate",
+  "v" : [ "0.8541666666666666", "0.6225225225225225", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "x coordinate",
+  "v" : "0.8541666666666666",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "y coordinate",
+  "v" : "0.6225225225225225",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "name",
+  "v" : "g(HGNC:F2RL3)"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "nodeId",
+  "v" : "55114c8889e3620b9c5b2621"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 95,
+  "n" : "bel.function",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "coordinate",
+  "v" : [ "0.9451388888888889", "0.7441441441441441", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "x coordinate",
+  "v" : "0.9451388888888889",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "y coordinate",
+  "v" : "0.7441441441441441",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "name",
+  "v" : "bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "nodeId",
+  "v" : "55114c8889e3620b9c5b2623"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 94,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "coordinate",
+  "v" : [ "0.6184027777777777", "0.5720720720720721", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "x coordinate",
+  "v" : "0.6184027777777777",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "y coordinate",
+  "v" : "0.5720720720720721",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC1)"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "nodeId",
+  "v" : "551fd8e889e36205507d4773"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 93,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "coordinate",
+  "v" : [ "0.9333333333333332", "0.3117117117117117", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "x coordinate",
+  "v" : "0.9333333333333332",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "y coordinate",
+  "v" : "0.3117117117117117",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "name",
+  "v" : "bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "nodeId",
+  "v" : "5522e68189e36208f8fe7b15"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 92,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "coordinate",
+  "v" : [ "0.8972222222222223", "0.09099099099099099", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "x coordinate",
+  "v" : "0.8972222222222223",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "y coordinate",
+  "v" : "0.09099099099099099",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "name",
+  "v" : "bp(GOBP:\"histone acetylation\")"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "nodeId",
+  "v" : "5529391989e3620d90bef8a1"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 91,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "coordinate",
+  "v" : [ "1.253472222222222", "0.5621621621621622", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "x coordinate",
+  "v" : "1.253472222222222",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "y coordinate",
+  "v" : "0.5621621621621622",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "name",
+  "v" : "bp(GOBP:\"response to oxidative stress\")"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "nodeId",
+  "v" : "5525548589e36205c48cf0bf"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 90,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "bel_function_type",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "coordinate",
+  "v" : [ "1.1381944444444445", "0.518018018018018", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "x coordinate",
+  "v" : "1.1381944444444445",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "y coordinate",
+  "v" : "0.518018018018018",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "name",
+  "v" : "cat(p(HGNC:DNMT1))"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "nodeId",
+  "v" : "5525548589e36205c48cf0c1"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 89,
+  "n" : "bel.function",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "bel_function_type",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "coordinate",
+  "v" : [ "0.8888888888888888", "0.6378378378378379", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "x coordinate",
+  "v" : "0.8888888888888888",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "y coordinate",
+  "v" : "0.6378378378378379",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "name",
+  "v" : "g(HGNC:SERPINA1)"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "nodeId",
+  "v" : "55257b0b89e36205c49dc26a"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 88,
+  "n" : "bel.function",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "bel_function_type",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "coordinate",
+  "v" : [ "0.9125", "0.6135135135135136", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "x coordinate",
+  "v" : "0.9125",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "y coordinate",
+  "v" : "0.6135135135135136",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "name",
+  "v" : "g(HGNC:FUT7)"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "nodeId",
+  "v" : "55257cb989e36205c49e417f"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 87,
+  "n" : "bel.function",
+  "v" : "geneAbundance"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "coordinate",
+  "v" : [ "0.6610997054610691", "0.6213593377505203", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "x coordinate",
+  "v" : "0.6610997054610691",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "y coordinate",
+  "v" : "0.6213593377505203",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "name",
+  "v" : "p(HGNC:DEFB1)"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "nodeId",
+  "v" : "5525872089e36205c4a24f82"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 86,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "coordinate",
+  "v" : [ "0.7068104152145777", "0.7303317861348521", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "x coordinate",
+  "v" : "0.7068104152145777",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "y coordinate",
+  "v" : "0.7303317861348521",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "name",
+  "v" : "bp(GOBP:\"cellular response to DNA damage stimulus\")"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "nodeId",
+  "v" : "5526fe9189e36201cca7ccf5"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 85,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "bel_function_type",
+  "v" : "degradation"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "coordinate",
+  "v" : [ "0.7152777777777778", "0.5423423423423424", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "x coordinate",
+  "v" : "0.7152777777777778",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "y coordinate",
+  "v" : "0.5423423423423424",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "name",
+  "v" : "deg(p(HGNC:HDAC2))"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "nodeId",
+  "v" : "55284ccb89e362084468e3d2"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 84,
+  "n" : "bel.function",
+  "v" : "degradation"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "coordinate",
+  "v" : [ "0.8517361111111111", "0.01711711711711712", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "x coordinate",
+  "v" : "0.8517361111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "y coordinate",
+  "v" : "0.01711711711711712",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "name",
+  "v" : "a(CHEBI:corticosteroid)"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "nodeId",
+  "v" : "552910a689e3620d90a89187"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 83,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "coordinate",
+  "v" : [ "0.7960993967429726", "1.5295098295771759E-4", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "x coordinate",
+  "v" : "0.7960993967429726",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "y coordinate",
+  "v" : "1.5295098295771759E-4",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "name",
+  "v" : "bp(GOBP:\"inflammatory response\")"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "nodeId",
+  "v" : "552910a689e3620d90a892b7"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 82,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "coordinate",
+  "v" : [ "0.9074848199354154", "0.033450779020745565", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "x coordinate",
+  "v" : "0.9074848199354154",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "y coordinate",
+  "v" : "0.033450779020745565",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "name",
+  "v" : "bp(GOBP:\"chromatin remodeling\")"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "nodeId",
+  "v" : "55291c3489e3620d90ae0c24"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 81,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "coordinate",
+  "v" : [ "0.6954861111111111", "0.6576576576576577", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "x coordinate",
+  "v" : "0.6954861111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "y coordinate",
+  "v" : "0.6576576576576577",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "nodeId",
+  "v" : "552931c889e3620d90b9f271"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 80,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "coordinate",
+  "v" : [ "0.71875", "0.6126126126126127", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "x coordinate",
+  "v" : "0.71875",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "y coordinate",
+  "v" : "0.6126126126126127",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "nodeId",
+  "v" : "552932a889e3620d90ba4492"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 79,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "coordinate",
+  "v" : [ "0.7763888888888889", "0.6657657657657657", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "x coordinate",
+  "v" : "0.7763888888888889",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "y coordinate",
+  "v" : "0.6657657657657657",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "nodeId",
+  "v" : "5529332a89e3620d90ba825c"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 78,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "bel_function_type",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "coordinate",
+  "v" : [ "0.5680555555555555", "0.46396396396396394", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "x coordinate",
+  "v" : "0.5680555555555555",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "y coordinate",
+  "v" : "0.46396396396396394",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "nodeId",
+  "v" : "5529355989e3620d90bb874f"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 77,
+  "n" : "bel.function",
+  "v" : "catalyticActivity"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "coordinate",
+  "v" : [ "0.5961805555555556", "0.5297297297297298", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "x coordinate",
+  "v" : "0.5961805555555556",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "y coordinate",
+  "v" : "0.5297297297297298",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC3)"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "nodeId",
+  "v" : "55293bd689e3620d90c11893"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 76,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "coordinate",
+  "v" : [ "0.5529915511140674", "0.4811693791050551", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "x coordinate",
+  "v" : "0.5529915511140674",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "y coordinate",
+  "v" : "0.4811693791050551",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "name",
+  "v" : "p(HGNC:GDF11)"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "nodeId",
+  "v" : "55293dac89e3620d90c1d3a9"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 75,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "coordinate",
+  "v" : [ "1.0145833333333334", "0.29099099099099096", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "x coordinate",
+  "v" : "1.0145833333333334",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "y coordinate",
+  "v" : "0.29099099099099096",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "name",
+  "v" : "p(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "nodeId",
+  "v" : "552ad49389e3620a30dd9013"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 74,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "coordinate",
+  "v" : [ "0.9326388888888889", "0.3855855855855856", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "x coordinate",
+  "v" : "0.9326388888888889",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "y coordinate",
+  "v" : "0.3855855855855856",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "name",
+  "v" : "r(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "nodeId",
+  "v" : "552ad59189e3620a30dd999c"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 73,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "coordinate",
+  "v" : [ "0.7673611111111112", "0.6207207207207207", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "x coordinate",
+  "v" : "0.7673611111111112",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "y coordinate",
+  "v" : "0.6207207207207207",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "nodeId",
+  "v" : "552ad73989e3620a30dda6fb"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 72,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "coordinate",
+  "v" : [ "0.8548611111111111", "0.2855855855855856", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "x coordinate",
+  "v" : "0.8548611111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "y coordinate",
+  "v" : "0.2855855855855856",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "name",
+  "v" : "r(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "nodeId",
+  "v" : "552c260c89e36208d47c9db0"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 71,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "coordinate",
+  "v" : [ "0.7298611111111111", "0.3099099099099099", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "x coordinate",
+  "v" : "0.7298611111111111",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "y coordinate",
+  "v" : "0.3099099099099099",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "nodeId",
+  "v" : "552c28c889e36208d47d3ca8"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 70,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "coordinate",
+  "v" : [ "0.7722222222222223", "0.2981981981981982", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "x coordinate",
+  "v" : "0.7722222222222223",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "y coordinate",
+  "v" : "0.2981981981981982",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "nodeId",
+  "v" : "552c2a9189e36208d47d7438"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 69,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "bel_function_type",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "coordinate",
+  "v" : [ "0.8166666666666668", "0.2891891891891892", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "x coordinate",
+  "v" : "0.8166666666666668",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "y coordinate",
+  "v" : "0.2891891891891892",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "nodeId",
+  "v" : "552c2c3d89e36208d47dfb07"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 68,
+  "n" : "bel.function",
+  "v" : "rnaAbundance"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "coordinate",
+  "v" : [ "0.725", "0.22072072072072071", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "createdBy",
+  "v" : "pranjul.shah_1"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "x coordinate",
+  "v" : "0.725",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "y coordinate",
+  "v" : "0.22072072072072071",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "name",
+  "v" : "a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "nodeId",
+  "v" : "552c307589e36208d47f9944"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 67,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "bel_function_type",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "coordinate",
+  "v" : [ "0.9131944444444445", "0.45765765765765765", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "createdBy",
+  "v" : "pranjul.shah_1"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "x coordinate",
+  "v" : "0.9131944444444445",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "y coordinate",
+  "v" : "0.45765765765765765",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Diesel exhaust particles\")"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "nodeId",
+  "v" : "552c363489e36208d4857c30"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 66,
+  "n" : "bel.function",
+  "v" : "abundance"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "coordinate",
+  "v" : [ "0.63125", "0.7342342342342342", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "x coordinate",
+  "v" : "0.63125",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "y coordinate",
+  "v" : "0.7342342342342342",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 65,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "coordinate",
+  "v" : [ "0.6777777777777777", "0.7720720720720721", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "x coordinate",
+  "v" : "0.6777777777777777",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "y coordinate",
+  "v" : "0.7720720720720721",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 64,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "bel_function_type",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "coordinate",
+  "v" : [ "0.6743055555555556", "0.7207207207207208", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "x coordinate",
+  "v" : "0.6743055555555556",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "y coordinate",
+  "v" : "0.7207207207207208",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 63,
+  "n" : "bel.function",
+  "v" : "proteinAbundance"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "bel_function_type",
+  "v" : "biologicalProcess"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "coordinate",
+  "v" : [ "0.6715277777777778", "0.31981981981981983", "0.0" ],
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "z coordinate",
+  "v" : "0.0",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "x coordinate",
+  "v" : "0.6715277777777778",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "y coordinate",
+  "v" : "0.31981981981981983",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "name",
+  "v" : "bp(GPBP:\"histone deacetylation\")"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 62,
+  "n" : "bel.function",
+  "v" : "biologicalProcess"
+}]}, {"edgeAttributes":[{
+  "s" : 52,
+  "po" : 234,
+  "n" : "shared name",
+  "v" : "p(HGNC:PRMT9) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 234,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT9) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 234,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 234,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 233,
+  "n" : "shared name",
+  "v" : "p(HGNC:CARM1) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 233,
+  "n" : "name",
+  "v" : "p(HGNC:CARM1) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 233,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 233,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 232,
+  "n" : "shared name",
+  "v" : "p(HGNC:PRMT6) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 232,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT6) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 232,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 232,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 231,
+  "n" : "shared name",
+  "v" : "p(HGNC:PRMT5) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 231,
+  "n" : "name",
+  "v" : "p(HGNC:PRMT5) directlyIncreases bp(GOBP:\"peptidyl-arginine methylation\")"
+}, {
+  "s" : 52,
+  "po" : 231,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 231,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 230,
+  "n" : "shared name",
+  "v" : "bp(GOBP:\"peptidyl-arginine methylation\") increases a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "s" : 52,
+  "po" : 230,
+  "n" : "name",
+  "v" : "bp(GOBP:\"peptidyl-arginine methylation\") increases a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "s" : 52,
+  "po" : 230,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 230,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "shared name",
+  "v" : "p(HGNC:GLI1) actsIn tscript(p(HGNC:GLI1))"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405196c"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "name",
+  "v" : "p(HGNC:GLI1) actsIn tscript(p(HGNC:GLI1))"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 229,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "shared name",
+  "v" : "tscript(p(HGNC:E2F4)) directlyIncreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405197b"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:E2F4)) directlyIncreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 228,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "shared name",
+  "v" : "a(CHEBI:\"EC 3.5.1.98 (histone deacetylase) inhibitor\") directlyDecreases cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051978"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "name",
+  "v" : "a(CHEBI:\"EC 3.5.1.98 (histone deacetylase) inhibitor\") directlyDecreases cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "interaction",
+  "v" : "directlyDecreases"
+}, {
+  "s" : 52,
+  "po" : 227,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "shared name",
+  "v" : "tscript(p(HGNC:CTNNB1)) directlyIncreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051979"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "name",
+  "v" : "tscript(p(HGNC:CTNNB1)) directlyIncreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 226,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "shared name",
+  "v" : "cat(p(HGNC:CHFR)) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405197d"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "name",
+  "v" : "cat(p(HGNC:CHFR)) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 225,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "shared name",
+  "v" : "cat(p(HGNC:CHFR)) decreases p(HGNC:PLK1)"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405197e"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "name",
+  "v" : "cat(p(HGNC:CHFR)) decreases p(HGNC:PLK1)"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 224,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "shared name",
+  "v" : "p(HGNC:E2F4) actsIn tscript(p(HGNC:E2F4))"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405197c"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "name",
+  "v" : "p(HGNC:E2F4) actsIn tscript(p(HGNC:E2F4))"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 223,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "shared name",
+  "v" : "p(HGNC:CHFR) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "edgeId",
+  "v" : "54764d4b89e362086873c11a"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "createdBy",
+  "v" : "alejandroferreiromorales.cr"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "name",
+  "v" : "p(HGNC:CHFR) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 222,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "shared name",
+  "v" : "p(HGNC:CHFR) directlyDecreases p(HGNC:PLK1)"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "edgeId",
+  "v" : "5476501b89e3620868759245"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "createdBy",
+  "v" : "alejandroferreiromorales.cr"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "name",
+  "v" : "p(HGNC:CHFR) directlyDecreases p(HGNC:PLK1)"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "interaction",
+  "v" : "directlyDecreases"
+}, {
+  "s" : 52,
+  "po" : 221,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "shared name",
+  "v" : "p(HGNC:CHFR) decreases kin(p(HGNC:CDK1))"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "edgeId",
+  "v" : "547651ae89e3620868759715"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "createdBy",
+  "v" : "alejandroferreiromorales.cr"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "name",
+  "v" : "p(HGNC:CHFR) decreases kin(p(HGNC:CDK1))"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 220,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "shared name",
+  "v" : "p(HGNC:CHFR) actsIn cat(p(HGNC:CHFR))"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051970"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "name",
+  "v" : "p(HGNC:CHFR) actsIn cat(p(HGNC:CHFR))"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 219,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "shared name",
+  "v" : "p(HGNC:RASSF1) decreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405198a"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "name",
+  "v" : "p(HGNC:RASSF1) decreases p(HGNC:CCND1)"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 218,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "shared name",
+  "v" : "p(HGNC:DKK1) decreases p(HGNC:WNT5A)"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051972"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "name",
+  "v" : "p(HGNC:DKK1) decreases p(HGNC:WNT5A)"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 217,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "shared name",
+  "v" : "p(HGNC:DKK1) decreases p(SFAM:\"WNT Family\")"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051971"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "name",
+  "v" : "p(HGNC:DKK1) decreases p(SFAM:\"WNT Family\")"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 216,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 215,
+  "n" : "shared name",
+  "v" : "p(HGNC:DNMT1) actsIn cat(p(HGNC:DNMT1))"
+}, {
+  "s" : 52,
+  "po" : 215,
+  "n" : "name",
+  "v" : "p(HGNC:DNMT1) actsIn cat(p(HGNC:DNMT1))"
+}, {
+  "s" : 52,
+  "po" : 215,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 215,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "shared name",
+  "v" : "p(HGNC:DNMT1) increases p(HGNC:VEGFA)"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051981"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "name",
+  "v" : "p(HGNC:DNMT1) increases p(HGNC:VEGFA)"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 214,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "shared name",
+  "v" : "p(HGNC:DNMT1) decreases p(HGNC:RB1)"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051983"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "name",
+  "v" : "p(HGNC:DNMT1) decreases p(HGNC:RB1)"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 213,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "shared name",
+  "v" : "p(HGNC:DNMT1) decreases p(HGNC:CDKN2A)"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051982"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "name",
+  "v" : "p(HGNC:DNMT1) decreases p(HGNC:CDKN2A)"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 212,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "shared name",
+  "v" : "p(HGNC:EGR1) association p(HGNC:E2F4)"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "edgeId",
+  "v" : "5525711889e36205c497337b"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "name",
+  "v" : "p(HGNC:EGR1) association p(HGNC:E2F4)"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 211,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "shared name",
+  "v" : "p(HGNC:EGR1) actsIn tscript(p(HGNC:EGR1))"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405196d"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "name",
+  "v" : "p(HGNC:EGR1) actsIn tscript(p(HGNC:EGR1))"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 210,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "shared name",
+  "v" : "p(HGNC:CTNNB1) actsIn tscript(p(HGNC:CTNNB1))"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405197a"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "name",
+  "v" : "p(HGNC:CTNNB1) actsIn tscript(p(HGNC:CTNNB1))"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 209,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"PRC1 complex\") decreases p(HGNC:DKK1)"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051973"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "name",
+  "v" : "complex(GOCC:\"PRC1 complex\") decreases p(HGNC:DKK1)"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 208,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"PRC1 complex\") decreases complex(GOCC:\"ESC/E(Z) complex\")"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "edgeId",
+  "v" : "550084fa89e3621814f3b2d6"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "name",
+  "v" : "complex(GOCC:\"PRC1 complex\") decreases complex(GOCC:\"ESC/E(Z) complex\")"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 207,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") decreases p(HGNC:E2F4)"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "edgeId",
+  "v" : "551fdc4089e36205507f4386"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") decreases p(HGNC:E2F4)"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 206,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC1)"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "edgeId",
+  "v" : "551fd8e889e36205507d4775"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC1)"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 205,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "edgeId",
+  "v" : "5526dcaf89e36201cc9a4c67"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 204,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC3)"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "edgeId",
+  "v" : "55293bd689e3620d90c11895"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC3)"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 203,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") actsIn cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c3405196b"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") actsIn cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "interaction",
+  "v" : "actsIn"
+}, {
+  "s" : 52,
+  "po" : 202,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 201,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 201,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 201,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 201,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 200,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 200,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 200,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 200,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 199,
+  "n" : "shared name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 199,
+  "n" : "name",
+  "v" : "p(SFAM:\"HDAC Family\") hasMember p(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 199,
+  "n" : "interaction",
+  "v" : "hasMember"
+}, {
+  "s" : 52,
+  "po" : 199,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 198,
+  "n" : "shared name",
+  "v" : "g(HGNC:GATA4) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 198,
+  "n" : "name",
+  "v" : "g(HGNC:GATA4) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 198,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 198,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "edgeId",
+  "v" : "547ee11d89e36213f015981d"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 197,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association p(HGNC:CDKN2A)"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "edgeId",
+  "v" : "5529224a89e3620d90b1b3c1"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association p(HGNC:CDKN2A)"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 196,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "edgeId",
+  "v" : "552933d189e3620d90bab124"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 195,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "edgeId",
+  "v" : "5529332a89e3620d90ba825e"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "interaction",
+  "v" : "negativeCorrelation"
+}, {
+  "s" : 52,
+  "po" : 194,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "edgeId",
+  "v" : "552ad73989e3620a30dda6fd"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "interaction",
+  "v" : "negativeCorrelation"
+}, {
+  "s" : 52,
+  "po" : 193,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "edgeId",
+  "v" : "552932a889e3620d90ba4494"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation r(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "interaction",
+  "v" : "negativeCorrelation"
+}, {
+  "s" : 52,
+  "po" : 192,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "edgeId",
+  "v" : "5529355989e3620d90bb8751"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "createdBy",
+  "v" : "dheeraj.bobbili"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") negativeCorrelation cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "interaction",
+  "v" : "negativeCorrelation"
+}, {
+  "s" : 52,
+  "po" : 191,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "edgeId",
+  "v" : "552ad59189e3620a30dd999e"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 190,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "edgeId",
+  "v" : "552c260c89e36208d47c9db2"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 189,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "edgeId",
+  "v" : "552c2a9189e36208d47d743a"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 188,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "edgeId",
+  "v" : "552c2c3d89e36208d47dfb09"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 187,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "edgeId",
+  "v" : "552c28c889e36208d47d3caa"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "createdBy",
+  "v" : "shaman.qn"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") positiveCorrelation r(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 186,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "shared name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "edgeId",
+  "v" : "552c4ebf89e36208d49ba63e"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "createdBy",
+  "v" : "sean.sapcariu"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "name",
+  "v" : "path(MESHD:\"Pulmonary Disease, Chronic Obstructive\") association bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 185,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association g(HGNC:AHRR)"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "edgeId",
+  "v" : "547eeb5589e3620d84a19a98"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association g(HGNC:AHRR)"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 184,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "edgeId",
+  "v" : "54fe0d2889e3621524a8d9e9"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 183,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") increases bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "edgeId",
+  "v" : "5524178b89e36205c45da90e"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") increases bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 182,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "edgeId",
+  "v" : "547eeed489e3620d84a1ba55"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "createdBy",
+  "v" : "swapna30"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 181,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") increases deg(p(HGNC:HDAC2))"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "edgeId",
+  "v" : "55284ccb89e362084468e3d4"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") increases deg(p(HGNC:HDAC2))"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 180,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC1)"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "edgeId",
+  "v" : "55299d3f89e3620d90eadd2c"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC1)"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 179,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "edgeId",
+  "v" : "5529918889e3620d90e5fd08"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases cat(p(SFAM:\"HDAC Family\"))"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 178,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC3)"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "edgeId",
+  "v" : "55299e6f89e3620d90eb7253"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") decreases p(HGNC:HDAC3)"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 177,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "edgeId",
+  "v" : "552c307589e36208d47f9946"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "createdBy",
+  "v" : "pranjul.shah_1"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association a(CHEBI:\"N(omega),N'(omega)-dimethyl-L-arginine\")"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 176,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 175,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association g(HGNC:F2RL3)"
+}, {
+  "s" : 52,
+  "po" : 175,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Smoke, cigarette\") association g(HGNC:F2RL3)"
+}, {
+  "s" : 52,
+  "po" : 175,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 175,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:SUZ12)"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "edgeId",
+  "v" : "5502e64d89e36209cc4e1bce"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:SUZ12)"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "interaction",
+  "v" : "hasComponent"
+}, {
+  "s" : 52,
+  "po" : 174,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:EZH2)"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "edgeId",
+  "v" : "5500868789e3621814f3bbbd"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:EZH2)"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "interaction",
+  "v" : "hasComponent"
+}, {
+  "s" : 52,
+  "po" : 173,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:EED)"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "edgeId",
+  "v" : "550085d489e3621814f3b75e"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") hasComponent p(HGNC:EED)"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "interaction",
+  "v" : "hasComponent"
+}, {
+  "s" : 52,
+  "po" : 172,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "shared name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") association bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "edgeId",
+  "v" : "5500895289e3621814f3c6a2"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "name",
+  "v" : "complex(GOCC:\"ESC/E(Z) complex\") association bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 171,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "shared name",
+  "v" : "p(HGNC:EZH2) directlyIncreases bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "edgeId",
+  "v" : "5522e68189e36208f8fe7b17"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "name",
+  "v" : "p(HGNC:EZH2) directlyIncreases bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 170,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "shared name",
+  "v" : "a(CHEBI:\"hydrogen peroxide\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "edgeId",
+  "v" : "550743f089e3620b944ee66a"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "createdBy",
+  "v" : "pirxtrurl"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "name",
+  "v" : "a(CHEBI:\"hydrogen peroxide\") decreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 169,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "shared name",
+  "v" : "g(HGNC:F2RL3) positiveCorrelation bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "edgeId",
+  "v" : "55114c8889e3620b9c5b2625"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "name",
+  "v" : "g(HGNC:F2RL3) positiveCorrelation bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 168,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "shared name",
+  "v" : "bp(GOBP:\"hypomethylation of CpG island\") positiveCorrelation g(HGNC:SERPINA1)"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "edgeId",
+  "v" : "55257b0b89e36205c49dc26c"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "name",
+  "v" : "bp(GOBP:\"hypomethylation of CpG island\") positiveCorrelation g(HGNC:SERPINA1)"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 167,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "shared name",
+  "v" : "p(HGNC:HDAC1) decreases p(HGNC:DEFB1)"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "edgeId",
+  "v" : "55258f4989e36205c4a4a393"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC1) decreases p(HGNC:DEFB1)"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 166,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 165,
+  "n" : "shared name",
+  "v" : "bp(GOBP:\"histone methylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 165,
+  "n" : "name",
+  "v" : "bp(GOBP:\"histone methylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 165,
+  "n" : "interaction",
+  "v" : "isA"
+}, {
+  "s" : 52,
+  "po" : 165,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 164,
+  "n" : "shared name",
+  "v" : "bp(GOBP:\"histone acetylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 164,
+  "n" : "name",
+  "v" : "bp(GOBP:\"histone acetylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 164,
+  "n" : "interaction",
+  "v" : "isA"
+}, {
+  "s" : 52,
+  "po" : 164,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "shared name",
+  "v" : "bp(GOBP:\"response to oxidative stress\") increases cat(p(HGNC:DNMT1))"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "edgeId",
+  "v" : "5525548589e36205c48cf0c3"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "name",
+  "v" : "bp(GOBP:\"response to oxidative stress\") increases cat(p(HGNC:DNMT1))"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 163,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 162,
+  "n" : "shared name",
+  "v" : "cat(p(HGNC:DNMT1)) directlyIncreases bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 162,
+  "n" : "name",
+  "v" : "cat(p(HGNC:DNMT1)) directlyIncreases bp(GOBP:\"DNA methylation\")"
+}, {
+  "s" : 52,
+  "po" : 162,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 162,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "shared name",
+  "v" : "g(HGNC:SERPINA1) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "edgeId",
+  "v" : "553a470f89e36209b4f0d888"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "createdBy",
+  "v" : "ganna.androsova"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "name",
+  "v" : "g(HGNC:SERPINA1) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 161,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "shared name",
+  "v" : "g(HGNC:FUT7) positiveCorrelation bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "edgeId",
+  "v" : "55257cb989e36205c49e4181"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "name",
+  "v" : "g(HGNC:FUT7) positiveCorrelation bp(GOBP:\"hypomethylation of CpG island\")"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "interaction",
+  "v" : "positiveCorrelation"
+}, {
+  "s" : 52,
+  "po" : 160,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 159,
+  "n" : "shared name",
+  "v" : "g(HGNC:FUT7) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 159,
+  "n" : "name",
+  "v" : "g(HGNC:FUT7) association path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 159,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 159,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 158,
+  "n" : "shared name",
+  "v" : "deg(p(HGNC:HDAC2)) directlyDecreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 158,
+  "n" : "name",
+  "v" : "deg(p(HGNC:HDAC2)) directlyDecreases p(HGNC:HDAC2)"
+}, {
+  "s" : 52,
+  "po" : 158,
+  "n" : "interaction",
+  "v" : "directlyDecreases"
+}, {
+  "s" : 52,
+  "po" : 158,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "shared name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"inflammatory response\")"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "edgeId",
+  "v" : "552910a689e3620d90a892d2"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"inflammatory response\")"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 157,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "shared name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "edgeId",
+  "v" : "5529114b89e3620d90a9e27d"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 156,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "shared name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"chromatin remodeling\")"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "edgeId",
+  "v" : "55291c3489e3620d90ae0c26"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "createdBy",
+  "v" : "aishwarya.alex"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "name",
+  "v" : "a(CHEBI:corticosteroid) decreases bp(GOBP:\"chromatin remodeling\")"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 155,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "shared name",
+  "v" : "p(HGNC:HDAC2) association bp(GOBP:\"cellular response to DNA damage stimulus\")"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "edgeId",
+  "v" : "5526fe9189e36201cca7ccf7"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC2) association bp(GOBP:\"cellular response to DNA damage stimulus\")"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "interaction",
+  "v" : "association"
+}, {
+  "s" : 52,
+  "po" : 154,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 153,
+  "n" : "shared name",
+  "v" : "r(HGNC:HDAC5) translatedTo p(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 153,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC5) translatedTo p(HGNC:HDAC5)"
+}, {
+  "s" : 52,
+  "po" : 153,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 153,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 152,
+  "n" : "shared name",
+  "v" : "r(HGNC:HDAC8) translatedTo p(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 152,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC8) translatedTo p(HGNC:HDAC8)"
+}, {
+  "s" : 52,
+  "po" : 152,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 152,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "shared name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) increases tscript(p(HGNC:EGR1))"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051974"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) increases tscript(p(HGNC:EGR1))"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 151,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "shared name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) decreases tscript(p(HGNC:GLI1))"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051975"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) decreases tscript(p(HGNC:GLI1))"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 150,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "shared name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) increases tscript(p(HGNC:E2F4))"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051976"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) increases tscript(p(HGNC:E2F4))"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 149,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "shared name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "edgeId",
+  "v" : "524b3517d3fbfd4c34051977"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "createdBy",
+  "v" : "selventa"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "casual",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) decreases p(HGNC:CCNB1)"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 148,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 147,
+  "n" : "shared name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) directlyIncreases bp(GPBP:\"histone deacetylation\")"
+}, {
+  "s" : 52,
+  "po" : 147,
+  "n" : "name",
+  "v" : "cat(p(SFAM:\"HDAC Family\")) directlyIncreases bp(GPBP:\"histone deacetylation\")"
+}, {
+  "s" : 52,
+  "po" : 147,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 147,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "shared name",
+  "v" : "p(HGNC:HDAC3) decreases p(HGNC:GDF11)"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "edgeId",
+  "v" : "55293dac89e3620d90c1d3ab"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "name",
+  "v" : "p(HGNC:HDAC3) decreases p(HGNC:GDF11)"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "interaction",
+  "v" : "decreases"
+}, {
+  "s" : 52,
+  "po" : 146,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "shared name",
+  "v" : "p(HGNC:KMT2A) directlyIncreases bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "edgeId",
+  "v" : "552ad49389e3620a30dd9015"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "createdBy",
+  "v" : "susana.martinez.arbas"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "name",
+  "v" : "p(HGNC:KMT2A) directlyIncreases bp(GOBP:\"histone methylation\")"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "interaction",
+  "v" : "directlyIncreases"
+}, {
+  "s" : 52,
+  "po" : 145,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 144,
+  "n" : "shared name",
+  "v" : "r(HGNC:KMT2A) translatedTo p(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 144,
+  "n" : "name",
+  "v" : "r(HGNC:KMT2A) translatedTo p(HGNC:KMT2A)"
+}, {
+  "s" : 52,
+  "po" : 144,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 144,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 143,
+  "n" : "shared name",
+  "v" : "r(HGNC:HDAC10) translatedTo p(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 143,
+  "n" : "name",
+  "v" : "r(HGNC:HDAC10) translatedTo p(HGNC:HDAC10)"
+}, {
+  "s" : 52,
+  "po" : 143,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 143,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 142,
+  "n" : "shared name",
+  "v" : "r(HGNC:CARM1) translatedTo p(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 142,
+  "n" : "name",
+  "v" : "r(HGNC:CARM1) translatedTo p(HGNC:CARM1)"
+}, {
+  "s" : 52,
+  "po" : 142,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 142,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 141,
+  "n" : "shared name",
+  "v" : "r(HGNC:PRMT5) translatedTo p(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 141,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT5) translatedTo p(HGNC:PRMT5)"
+}, {
+  "s" : 52,
+  "po" : 141,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 141,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 140,
+  "n" : "shared name",
+  "v" : "r(HGNC:PRMT6) translatedTo p(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 140,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT6) translatedTo p(HGNC:PRMT6)"
+}, {
+  "s" : 52,
+  "po" : 140,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 140,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 139,
+  "n" : "shared name",
+  "v" : "r(HGNC:PRMT9) translatedTo p(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 139,
+  "n" : "name",
+  "v" : "r(HGNC:PRMT9) translatedTo p(HGNC:PRMT9)"
+}, {
+  "s" : 52,
+  "po" : 139,
+  "n" : "interaction",
+  "v" : "translatedTo"
+}, {
+  "s" : 52,
+  "po" : 139,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "shared name",
+  "v" : "a(SCHEM:\"Diesel exhaust particles\") increases path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "edgeId",
+  "v" : "552c363489e36208d4857c32"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "createdBy",
+  "v" : "pranjul.shah_1"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "casual",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "name",
+  "v" : "a(SCHEM:\"Diesel exhaust particles\") increases path(MESHD:\"Pulmonary Disease, Chronic Obstructive\")"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "interaction",
+  "v" : "increases"
+}, {
+  "s" : 52,
+  "po" : 138,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "po" : 137,
+  "n" : "shared name",
+  "v" : "bp(GPBP:\"histone deacetylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 137,
+  "n" : "name",
+  "v" : "bp(GPBP:\"histone deacetylation\") isA bp(GOBP:\"histone modification\")"
+}, {
+  "s" : 52,
+  "po" : 137,
+  "n" : "interaction",
+  "v" : "isA"
+}, {
+  "s" : 52,
+  "po" : 137,
+  "n" : "selected",
+  "v" : "false",
+  "d" : "boolean"
+}]}, {"cartesianLayout":[{
+  "node" : 136,
+  "view" : 235,
+  "x" : 1004.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 135,
+  "view" : 235,
+  "x" : 1068.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 134,
+  "view" : 235,
+  "x" : 876.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 133,
+  "view" : 235,
+  "x" : 940.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 132,
+  "view" : 235,
+  "x" : 1004.2704973247073,
+  "y" : -92.14020985551355
+}, {
+  "node" : 131,
+  "view" : 235,
+  "x" : 108.27049732470732,
+  "y" : -92.14020985551355
+}, {
+  "node" : 130,
+  "view" : 235,
+  "x" : 876.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 129,
+  "view" : 235,
+  "x" : 364.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 128,
+  "view" : 235,
+  "x" : 108.27049732470732,
+  "y" : -154.14020985551355
+}, {
+  "node" : 127,
+  "view" : 235,
+  "x" : 748.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 126,
+  "view" : 235,
+  "x" : 620.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 125,
+  "view" : 235,
+  "x" : -723.7295026752927,
+  "y" : 93.85979014448645
+}, {
+  "node" : 124,
+  "view" : 235,
+  "x" : 556.2704973247073,
+  "y" : -92.14020985551355
+}, {
+  "node" : 123,
+  "view" : 235,
+  "x" : -659.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 122,
+  "view" : 235,
+  "x" : 492.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 121,
+  "view" : 235,
+  "x" : 620.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 120,
+  "view" : 235,
+  "x" : 428.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 119,
+  "view" : 235,
+  "x" : 428.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 118,
+  "view" : 235,
+  "x" : 620.2704973247073,
+  "y" : -92.14020985551355
+}, {
+  "node" : 117,
+  "view" : 235,
+  "x" : 812.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 116,
+  "view" : 235,
+  "x" : 748.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 115,
+  "view" : 235,
+  "x" : 620.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 114,
+  "view" : 235,
+  "x" : 428.2704973247073,
+  "y" : 93.85979014448645
+}, {
+  "node" : 113,
+  "view" : 235,
+  "x" : -1363.7295026752927,
+  "y" : -30.140209855513547
+}, {
+  "node" : 112,
+  "view" : 235,
+  "x" : 556.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 111,
+  "view" : 235,
+  "x" : -851.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 110,
+  "view" : 235,
+  "x" : -915.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 109,
+  "view" : 235,
+  "x" : 428.2704973247073,
+  "y" : 217.85979014448645
+}, {
+  "node" : 108,
+  "view" : 235,
+  "x" : -787.7295026752927,
+  "y" : 93.85979014448645
+}, {
+  "node" : 107,
+  "view" : 235,
+  "x" : -403.7295026752927,
+  "y" : -154.14020985551355
+}, {
+  "node" : 106,
+  "view" : 235,
+  "x" : 300.2704973247073,
+  "y" : 279.85979014448645
+}, {
+  "node" : 105,
+  "view" : 235,
+  "x" : 300.2704973247073,
+  "y" : 217.85979014448645
+}, {
+  "node" : 104,
+  "view" : 235,
+  "x" : 1260.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 103,
+  "view" : 235,
+  "x" : -275.7295026752927,
+  "y" : 465.85979014448645
+}, {
+  "node" : 102,
+  "view" : 235,
+  "x" : -1299.7295026752927,
+  "y" : -30.140209855513547
+}, {
+  "node" : 101,
+  "view" : 235,
+  "x" : -467.7295026752927,
+  "y" : -154.14020985551355
+}, {
+  "node" : 100,
+  "view" : 235,
+  "x" : -83.72950267529268,
+  "y" : 155.85979014448645
+}, {
+  "node" : 99,
+  "view" : 235,
+  "x" : 236.27049732470732,
+  "y" : -154.14020985551355
+}, {
+  "node" : 98,
+  "view" : 235,
+  "x" : -403.7295026752927,
+  "y" : 93.85979014448645
+}, {
+  "node" : 97,
+  "view" : 235,
+  "x" : -1235.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 96,
+  "view" : 235,
+  "x" : -851.7295026752927,
+  "y" : 31.859790144486453
+}, {
+  "node" : 95,
+  "view" : 235,
+  "x" : -275.7295026752927,
+  "y" : 403.85979014448645
+}, {
+  "node" : 94,
+  "view" : 235,
+  "x" : 172.27049732470732,
+  "y" : 341.85979014448645
+}, {
+  "node" : 93,
+  "view" : 235,
+  "x" : 300.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 92,
+  "view" : 235,
+  "x" : -531.7295026752927,
+  "y" : 31.859790144486453
+}, {
+  "node" : 91,
+  "view" : 235,
+  "x" : -595.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 90,
+  "view" : 235,
+  "x" : 1196.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 89,
+  "view" : 235,
+  "x" : 1196.2704973247073,
+  "y" : -30.140209855513547
+}, {
+  "node" : 88,
+  "view" : 235,
+  "x" : 172.27049732470732,
+  "y" : 279.85979014448645
+}, {
+  "node" : 87,
+  "view" : 235,
+  "x" : 364.2704973247073,
+  "y" : 403.85979014448645
+}, {
+  "node" : 86,
+  "view" : 235,
+  "x" : 300.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 85,
+  "view" : 235,
+  "x" : -787.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 84,
+  "view" : 235,
+  "x" : -915.7295026752927,
+  "y" : 31.859790144486453
+}, {
+  "node" : 83,
+  "view" : 235,
+  "x" : -339.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 82,
+  "view" : 235,
+  "x" : -339.7295026752927,
+  "y" : -154.14020985551355
+}, {
+  "node" : 81,
+  "view" : 235,
+  "x" : -211.72950267529268,
+  "y" : -154.14020985551355
+}, {
+  "node" : 80,
+  "view" : 235,
+  "x" : -979.7295026752927,
+  "y" : -30.140209855513547
+}, {
+  "node" : 79,
+  "view" : 235,
+  "x" : -275.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 78,
+  "view" : 235,
+  "x" : -1427.7295026752927,
+  "y" : 93.85979014448645
+}, {
+  "node" : 77,
+  "view" : 235,
+  "x" : -595.7295026752927,
+  "y" : 31.859790144486453
+}, {
+  "node" : 76,
+  "view" : 235,
+  "x" : -1043.7295026752927,
+  "y" : -30.140209855513547
+}, {
+  "node" : 75,
+  "view" : 235,
+  "x" : -979.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 74,
+  "view" : 235,
+  "x" : -531.7295026752927,
+  "y" : 93.85979014448645
+}, {
+  "node" : 73,
+  "view" : 235,
+  "x" : -531.7295026752927,
+  "y" : 155.85979014448645
+}, {
+  "node" : 72,
+  "view" : 235,
+  "x" : -1171.7295026752927,
+  "y" : -30.140209855513547
+}, {
+  "node" : 71,
+  "view" : 235,
+  "x" : 1068.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 70,
+  "view" : 235,
+  "x" : 940.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 69,
+  "view" : 235,
+  "x" : 876.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 68,
+  "view" : 235,
+  "x" : 1004.2704973247073,
+  "y" : 31.859790144486453
+}, {
+  "node" : 67,
+  "view" : 235,
+  "x" : 1004.2704973247073,
+  "y" : -154.14020985551355
+}, {
+  "node" : 66,
+  "view" : 235,
+  "x" : 236.27049732470732,
+  "y" : 279.85979014448645
+}, {
+  "node" : 65,
+  "view" : 235,
+  "x" : -275.7295026752927,
+  "y" : -154.14020985551355
+}, {
+  "node" : 64,
+  "view" : 235,
+  "x" : -1427.7295026752927,
+  "y" : 31.859790144486453
+}, {
+  "node" : 63,
+  "view" : 235,
+  "x" : -1043.7295026752927,
+  "y" : -92.14020985551355
+}, {
+  "node" : 62,
+  "view" : 235,
+  "x" : -723.7295026752927,
+  "y" : -92.14020985551355
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "applies_to" : 235,
+  "view" : 235,
+  "properties" : {
+    "NETWORK_BACKGROUND_PAINT" : "#FF9966",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_SIZE" : "550.0",
+    "NETWORK_WIDTH" : "550.0"
+  }
+}, {
+  "properties_of" : "nodes:default",
+  "applies_to" : 235,
+  "view" : 235,
+  "properties" : {
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_BORDER_PAINT" : "#000000",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_BORDER_WIDTH" : "1.0",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "0.0",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_DEPTH" : "0.0",
+    "NODE_FILL_COLOR" : "#FFFFFF",
+    "NODE_HEIGHT" : "30.0",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_LABEL_FONT_FACE" : "Dialog.plain,plain,12",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_LABEL_WIDTH" : "100.0",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_SELECTED" : "false",
+    "NODE_SELECTED_PAINT" : "#FFFF00",
+    "NODE_SHAPE" : "RECTANGLE",
+    "NODE_SIZE" : "35.0",
+    "NODE_TRANSPARENCY" : "255",
+    "NODE_VISIBLE" : "true",
+    "NODE_WIDTH" : "70.0",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_Z_LOCATION" : "0.0"
+  },
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "false"
+  },
+  "mappings" : {
+    "NODE_BORDER_TRANSPARENCY" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=linked,T=boolean,K=0=false,V=0=100,K=1=true,V=1=255"
+    },
+    "NODE_FILL_COLOR" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=bel_function_type,T=string,K=0=transportActivity,V=0=#6464FF,K=1=cellSecretion,V=1=#C8C8FF,K=2=catalyticActivity,V=2=#6464FF,K=3=reaction,V=3=#9696FF,K=4=pathology,V=4=#FF3264,K=5=gtpBoundActivity,V=5=#6464FF,K=6=translocation,V=6=#C8C8FF,K=7=kinaseActivity,V=7=#6464FF,K=8=proteinAbundance,V=8=#64FFFF,K=9=peptidaseActivity,V=9=#6464FF,K=10=abundance,V=10=#64C8FF,K=11=degradation,V=11=#FF3264,K=12=compositeAbundance,V=12=#C8FFFF,K=13=molecularActivity,V=13=#6464FF,K=14=rnaAbundance,V=14=#64FF64,K=15=biologicalProcess,V=15=#FF64FF,K=16=microRNAAbundance,V=16=#96FF96,K=17=geneAbundance,V=17=#C8FFC8,K=18=ribosylationActivity,V=18=#6464FF,K=19=cellSurfaceExpression,V=19=#C8C8FF,K=20=chaperoneActivity,V=20=#6464FF,K=21=transcriptionalActivity,V=21=#6464FF,K=22=phosphataseActivity,V=22=#6464FF,K=23=complexAbundance,V=23=#6496FF"
+    },
+    "NODE_LABEL" : {
+      "type" : "PASSTHROUGH",
+      "definition" : "COL=name,T=string"
+    },
+    "NODE_LABEL_TRANSPARENCY" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=linked,T=boolean,K=0=false,V=0=100,K=1=true,V=1=255"
+    },
+    "NODE_SHAPE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=bel_function_type,T=string,K=0=transportActivity,V=0=ROUND_RECTANGLE,K=1=cellSecretion,V=1=VEE,K=2=catalyticActivity,V=2=HEXAGON,K=3=reaction,V=3=PARALLELOGRAM,K=4=pathology,V=4=PARALLELOGRAM,K=5=gtpBoundActivity,V=5=HEXAGON,K=6=translocation,V=6=VEE,K=7=kinaseActivity,V=7=HEXAGON,K=8=proteinAbundance,V=8=ROUND_RECTANGLE,K=9=peptidaseActivity,V=9=HEXAGON,K=10=abundance,V=10=DIAMOND,K=11=degradation,V=11=ROUND_RECTANGLE,K=12=compositeAbundance,V=12=ROUND_RECTANGLE,K=13=molecularActivity,V=13=HEXAGON,K=14=rnaAbundance,V=14=ELLIPSE,K=15=biologicalProcess,V=15=PARALLELOGRAM,K=16=microRNAAbundance,V=16=ELLIPSE,K=17=geneAbundance,V=17=ELLIPSE,K=18=ribosylationActivity,V=18=HEXAGON,K=19=cellSurfaceExpression,V=19=VEE,K=20=chaperoneActivity,V=20=HEXAGON,K=21=transcriptionalActivity,V=21=HEXAGON,K=22=phosphataseActivity,V=22=HEXAGON,K=23=complexAbundance,V=23=ROUND_RECTANGLE"
+    },
+    "NODE_SIZE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=bel_function_type,T=string,K=0=transcriptionalActivity,V=0=100.0"
+    },
+    "NODE_TRANSPARENCY" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=linked,T=boolean,K=0=false,V=0=100,K=1=true,V=1=255"
+    },
+    "NODE_WIDTH" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=bel_function_type,T=string,K=0=transportActivity,V=0=110.0,K=1=cellSecretion,V=1=110.0,K=2=catalyticActivity,V=2=110.0,K=3=reaction,V=3=150.0,K=4=pathology,V=4=125.0,K=5=gtpBoundActivity,V=5=110.0,K=6=translocation,V=6=110.0,K=7=kinaseActivity,V=7=110.0,K=8=proteinAbundance,V=8=75.0,K=9=peptidaseActivity,V=9=110.0,K=10=abundance,V=10=75.0,K=11=degradation,V=11=110.0,K=12=compositeAbundance,V=12=150.0,K=13=molecularActivity,V=13=110.0,K=14=rnaAbundance,V=14=75.0,K=15=biologicalProcess,V=15=125.0,K=16=microRNAAbundance,V=16=75.0,K=17=geneAbundance,V=17=75.0,K=18=ribosylationActivity,V=18=110.0,K=19=cellSurfaceExpression,V=19=110.0,K=20=chaperoneActivity,V=20=110.0,K=21=transcriptionalActivity,V=21=110.0,K=22=phosphataseActivity,V=22=110.0,K=23=complexAbundance,V=23=150.0"
+    },
+    "NODE_X_LOCATION" : {
+      "type" : "PASSTHROUGH",
+      "definition" : "COL=x coordinate,T=double"
+    },
+    "NODE_Y_LOCATION" : {
+      "type" : "PASSTHROUGH",
+      "definition" : "COL=y coordinate,T=double"
+    }
+  }
+}, {
+  "properties_of" : "edges:default",
+  "applies_to" : 235,
+  "view" : 235,
+  "properties" : {
+    "EDGE_CURVED" : "true",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_LINE_TYPE" : "SOLID",
+    "EDGE_PAINT" : "#323232",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_WIDTH" : "1.0"
+  },
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "mappings" : {
+    "EDGE_LINE_TYPE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=transcribedTo,V=0=LONG_DASH,K=1=causesNoChange,V=1=BACKWARD_SLASH,K=2=translatedTo,V=2=LONG_DASH,K=3=hasProduct,V=3=EQUAL_DASH,K=4=positiveCorrelation,V=4=DOT,K=5=reactantIn,V=5=EQUAL_DASH,K=6=subProcessOf,V=6=EQUAL_DASH,K=7=hasMember,V=7=EQUAL_DASH,K=8=orthologous,V=8=EQUAL_DASH,K=9=association,V=9=DOT,K=10=actsIn,V=10=LONG_DASH,K=11=includes,V=11=EQUAL_DASH,K=12=hasVariant,V=12=EQUAL_DASH,K=13=directlyDecreases,V=13=SOLID,K=14=negativeCorrelation,V=14=DOT,K=15=directlyIncreases,V=15=SOLID,K=16=prognosticBiomarkerFor,V=16=DOT,K=17=hasComponent,V=17=EQUAL_DASH,K=18=hasModification,V=18=EQUAL_DASH,K=19=subProcess_OF,V=19=EQUAL_DASH,K=20=isA,V=20=EQUAL_DASH,K=21=rateLimitingStepOf,V=21=EQUAL_DASH,K=22=biomarkerFor,V=22=DOT,K=23=translocates,V=23=EQUAL_DASH"
+    },
+    "EDGE_SOURCE_ARROW_SHAPE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=positiveCorrelation,V=0=ARROW,K=1=hasMember,V=1=NONE,K=2=orthologous,V=2=NONE,K=3=association,V=3=NONE,K=4=negativeCorrelation,V=4=CIRCLE"
+    },
+    "EDGE_STROKE_UNSELECTED_PAINT" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=transcribedTo,V=0=#999999,K=1=translatedTo,V=1=#999999,K=2=hasProduct,V=2=#999999,K=3=reactantIn,V=3=#999999,K=4=subProcessOf,V=4=#999999,K=5=hasMember,V=5=#999999,K=6=orthologous,V=6=#999999,K=7=actsIn,V=7=#999999,K=8=includes,V=8=#999999,K=9=hasVariant,V=9=#999999,K=10=hasComponent,V=10=#999999,K=11=hasModification,V=11=#999999,K=12=subProcess_OF,V=12=#999999,K=13=isA,V=13=#999999,K=14=translocates,V=14=#999999"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=translatedTo,V=0=DIAMOND,K=1=hasProduct,V=1=DIAMOND,K=2=reactantIn,V=2=DIAMOND,K=3=orthologous,V=3=NONE,K=4=actsIn,V=4=DIAMOND,K=5=association,V=5=NONE,K=6=hasVariant,V=6=DIAMOND,K=7=directlyIncreases,V=7=ARROW,K=8=unknown,V=8=ARROW,K=9=increases,V=9=ARROW,K=10=prognosticBiomarkerFor,V=10=ARROW,K=11=hasComponent,V=11=DIAMOND,K=12=hasModification,V=12=DIAMOND,K=13=subProcess_OF,V=13=DIAMOND,K=14=isA,V=14=DIAMOND,K=15=rateLimitingStepOf,V=15=ARROW,K=16=biomarkerFor,V=16=ARROW,K=17=translocates,V=17=DIAMOND,K=18=analogous,V=18=ARROW,K=19=transcribedTo,V=19=DIAMOND,K=20=positiveCorrelation,V=20=ARROW,K=21=subProcessOf,V=21=DIAMOND,K=22=hasMember,V=22=DIAMOND,K=23=includes,V=23=DIAMOND,K=24=directlyDecreases,V=24=CIRCLE,K=25=negativeCorrelation,V=25=CIRCLE,K=26=decreases,V=26=CIRCLE"
+    },
+    "EDGE_TRANSPARENCY" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=linked,T=boolean,K=0=false,V=0=50,K=1=true,V=1=255"
+    },
+    "EDGE_UNSELECTED_PAINT" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=transcribedTo,V=0=#999999,K=1=translatedTo,V=1=#999999,K=2=hasProduct,V=2=#999999,K=3=reactantIn,V=3=#999999,K=4=subProcessOf,V=4=#999999,K=5=hasMember,V=5=#999999,K=6=orthologous,V=6=#999999,K=7=actsIn,V=7=#999999,K=8=includes,V=8=#999999,K=9=hasVariant,V=9=#999999,K=10=hasComponent,V=10=#999999,K=11=hasModification,V=11=#999999,K=12=subProcess_OF,V=12=#999999,K=13=isA,V=13=#999999,K=14=translocates,V=14=#999999"
+    },
+    "EDGE_WIDTH" : {
+      "type" : "DISCRETE",
+      "definition" : "COL=interaction,T=string,K=0=translatedTo,V=0=3.0,K=1=hasProduct,V=1=3.0,K=2=reactantIn,V=2=3.0,K=3=orthologous,V=3=3.0,K=4=actsIn,V=4=3.0,K=5=association,V=5=1.0,K=6=hasVariant,V=6=3.0,K=7=directlyIncreases,V=7=3.0,K=8=increases,V=8=1.0,K=9=prognosticBiomarkerFor,V=9=1.0,K=10=hasComponent,V=10=3.0,K=11=hasModification,V=11=3.0,K=12=subProcess_OF,V=12=3.0,K=13=isA,V=13=3.0,K=14=rateLimitingStepOf,V=14=3.0,K=15=biomarkerFor,V=15=1.0,K=16=translocates,V=16=3.0,K=17=transcribedTo,V=17=3.0,K=18=causesNoChange,V=18=3.0,K=19=positiveCorrelation,V=19=1.0,K=20=subProcessOf,V=20=3.0,K=21=hasMember,V=21=3.0,K=22=includes,V=22=3.0,K=23=directlyDecreases,V=23=3.0,K=24=negativeCorrelation,V=24=1.0,K=25=decreases,V=25=1.0"
+    }
+  }
+}]}, {"subNetworks":[{
+  "@id" : 52,
+  "nodes" : [ 136, 135, 134, 133, 132, 131, 130, 129, 128, 127, 126, 125, 124, 123, 122, 121, 120, 119, 118, 117, 116, 115, 114, 113, 112, 111, 110, 109, 108, 107, 106, 105, 104, 103, 102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62 ],
+  "edges" : [ 234, 233, 232, 231, 230, 229, 228, 227, 226, 225, 224, 223, 222, 221, 220, 219, 218, 217, 216, 215, 214, 213, 212, 211, 210, 209, 208, 207, 206, 205, 204, 203, 202, 201, 200, 199, 198, 197, 196, 195, 194, 193, 192, 191, 190, 189, 188, 187, 186, 185, 184, 183, 182, 181, 180, 179, 178, 177, 176, 175, 174, 173, 172, 171, 170, 169, 168, 167, 166, 165, 164, 163, 162, 161, 160, 159, 158, 157, 156, 155, 154, 153, 152, 151, 150, 149, 148, 147, 146, 145, 144, 143, 142, 141, 140, 139, 138, 137 ]
+}]}, {"cyViews":[{
+  "@id" : 235,
+  "s" : 52
+}]}, {"networkRelations":[{
+  "p" : 52,
+  "c" : 235,
+  "r" : "view",
+  "name" : "Epigenetics-2.0-Hs - JGF view"
+}, {
+  "p" : 36,
+  "c" : 52,
+  "r" : "subnetwork",
+  "name" : "Epigenetics-2.0-Hs - JGF"
+}]}, {"cyTableColumn":[{
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "shared name"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "name"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "selected",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "bel_function_type"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "coordinate",
+  "d" : "list_of_double"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "z coordinate",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "x coordinate",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "y coordinate",
+  "d" : "double"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "bel.function"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "createdBy"
+}, {
+  "s" : 52,
+  "applies_to" : "node_table",
+  "n" : "nodeId"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "shared name"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "shared interaction"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "name"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "selected",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "interaction"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "edgeId"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "createdBy"
+}, {
+  "s" : 52,
+  "applies_to" : "edge_table",
+  "n" : "casual",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "shared name"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "name"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "selected",
+  "d" : "boolean"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "description"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "version"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "boundary_conditions"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "BELJGF Version"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "species_common_name"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "organism"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "Reference"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "ndex:provenance"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "ndex:uuid"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "ndex:modificationTime"
+}, {
+  "s" : 52,
+  "applies_to" : "network_table",
+  "n" : "__Annotations",
+  "d" : "list_of_string"
+}]},{"status":[{"error":"","success":true}]}]

@@ -1,0 +1,4592 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"elementCount":1,"lastUpdate":1481740856714,"name":"ndexStatus","properties":[],"version":"1.0"},{"elementCount":62,"idCounter":392,"name":"nodes"},{"elementCount":73,"idCounter":392,"name":"edges"},{"consistencyGroup":null,"elementCount":1,"lastUpdate":1481740856268,"name":"provenanceHistory","properties":[],"version":"1.0"},{"elementCount":79,"name":"citations","properties":[]},{"elementCount":359,"name":"edgeAttributes","properties":[]},{"elementCount":56,"name":"edgeCitations","properties":[]},{"elementCount":67,"name":"edgeSupports","properties":[]},{"elementCount":3,"name":"networkAttributes","properties":[]},{"elementCount":176,"name":"nodeAttributes","properties":[]},{"elementCount":178,"name":"supports","properties":[]}]},{"ndexStatus":[{"externalId":"507d3d72-14e5-11e6-a1f8-06603eb7f303","creationTime":1462688581183,"modificationTime":1481740856714,"visibility":"PUBLIC","published":false,"nodeCount":62,"edgeCount":73,"owner":"rasmachine","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1481652148847,"endedAtTime":1481652148847,"eventType":"CX network update","properties":[{"name":"user","value":"The RAS Machine "},{"name":"account name","value":"rasmachine"}]},"uri":"http://public.ndexbio.org/network/507d3d72-14e5-11e6-a1f8-06603eb7f303","properties":[{"name":"edge count","value":"73"},{"name":"node count","value":"62"},{"name":"dc:title","value":"The Heart Machine"},{"name":"description","value":"<div>The Heart Machine reads new publications on the molecular mechanisms governing cardiac cells automatically and assembles a model from them using INDRA.<br/></div>"},{"name":"version","value":"3.67"}]}],"startedAtTime":1481740856701,"endedAtTime":1481740856701,"eventType":"Update Network Profile","properties":[{"name":"user","value":"The RAS Machine "},{"name":"account name","value":"rasmachine"},{"name":"dc:title","value":"The Heart Machine"},{"name":"description","value":"<div>The Heart Machine reads new publications on the molecular mechanisms governing cardiac cells automatically and assembles a model from them using INDRA.<br/></div>"},{"name":"version","value":"3.68"}]},"uri":"http://public.ndexbio.org/network/507d3d72-14e5-11e6-a1f8-06603eb7f303","properties":[{"name":"edge count","value":"73"},{"name":"node count","value":"62"},{"name":"dc:title","value":"The Heart Machine"},{"name":"description","value":"<div>The Heart Machine reads new publications on the molecular mechanisms governing cardiac cells automatically and assembles a model from them using INDRA.<br/></div>"},{"name":"version","value":"3.68"}]}}]}, {"nodes":[{
+  "@id" : 0,
+  "n" : "FLT1"
+}, {
+  "@id" : 1,
+  "n" : "KDR"
+}, {
+  "@id" : 7,
+  "n" : "VEGFA"
+}, {
+  "@id" : 32,
+  "n" : "FOS"
+}, {
+  "@id" : 33,
+  "n" : "JUN"
+}, {
+  "@id" : 40,
+  "n" : "HIF1A"
+}, {
+  "@id" : 41,
+  "n" : "TP53"
+}, {
+  "@id" : 48,
+  "n" : "NFkappaB"
+}, {
+  "@id" : 54,
+  "n" : "TET1"
+}, {
+  "@id" : 60,
+  "n" : "ZBTB7C"
+}, {
+  "@id" : 85,
+  "n" : "SUV39H1"
+}, {
+  "@id" : 86,
+  "n" : "MEF2C"
+}, {
+  "@id" : 91,
+  "n" : "MITF"
+}, {
+  "@id" : 95,
+  "n" : "NFKBIA"
+}, {
+  "@id" : 100,
+  "n" : "FGF11"
+}, {
+  "@id" : 101,
+  "n" : "FGFR1"
+}, {
+  "@id" : 117,
+  "n" : "LDHA"
+}, {
+  "@id" : 129,
+  "n" : "FNDC5"
+}, {
+  "@id" : 130,
+  "n" : "ACC"
+}, {
+  "@id" : 173,
+  "n" : "PDGFRA"
+}, {
+  "@id" : 180,
+  "n" : "PRKAA2"
+}, {
+  "@id" : 182,
+  "n" : "ACACA"
+}, {
+  "@id" : 184,
+  "n" : "HAS2"
+}, {
+  "@id" : 186,
+  "n" : "ADRB2"
+}, {
+  "@id" : 187,
+  "n" : "invasiveness"
+}, {
+  "@id" : 192,
+  "n" : "AICAR"
+}, {
+  "@id" : 193,
+  "n" : "AMPK"
+}, {
+  "@id" : 205,
+  "n" : "ATP"
+}, {
+  "@id" : 209,
+  "n" : "autophagy"
+}, {
+  "@id" : 213,
+  "n" : "transcription"
+}, {
+  "@id" : 217,
+  "n" : "ANKRD1"
+}, {
+  "@id" : 221,
+  "n" : "ARNTL"
+}, {
+  "@id" : 222,
+  "n" : "glucose"
+}, {
+  "@id" : 229,
+  "n" : "homeostasis"
+}, {
+  "@id" : 234,
+  "n" : "metabolism"
+}, {
+  "@id" : 239,
+  "n" : "BDNF"
+}, {
+  "@id" : 240,
+  "n" : "CREB"
+}, {
+  "@id" : 251,
+  "n" : "CAMKK2"
+}, {
+  "@id" : 257,
+  "n" : "Ca"
+}, {
+  "@id" : 261,
+  "n" : "DDIT3"
+}, {
+  "@id" : 262,
+  "n" : "PTPRC"
+}, {
+  "@id" : 267,
+  "n" : "cell_survival"
+}, {
+  "@id" : 272,
+  "n" : "differentiation"
+}, {
+  "@id" : 283,
+  "n" : "proliferation"
+}, {
+  "@id" : 288,
+  "n" : "FMN1"
+}, {
+  "@id" : 297,
+  "n" : "INS"
+}, {
+  "@id" : 298,
+  "n" : "IRS1"
+}, {
+  "@id" : 303,
+  "n" : "IRAK3"
+}, {
+  "@id" : 308,
+  "n" : "glycolysis"
+}, {
+  "@id" : 313,
+  "n" : "LPA"
+}, {
+  "@id" : 318,
+  "n" : "MDM2"
+}, {
+  "@id" : 324,
+  "n" : "MUSK"
+}, {
+  "@id" : 329,
+  "n" : "NKX2_5"
+}, {
+  "@id" : 330,
+  "n" : "FGF16"
+}, {
+  "@id" : 335,
+  "n" : "PBK"
+}, {
+  "@id" : 346,
+  "n" : "ROS1"
+}, {
+  "@id" : 350,
+  "n" : "TM7SF3"
+}, {
+  "@id" : 355,
+  "n" : "apoptosis"
+}, {
+  "@id" : 364,
+  "n" : "cell_cycle"
+}, {
+  "@id" : 369,
+  "n" : "invasion"
+}, {
+  "@id" : 374,
+  "n" : "angiogenesis"
+}, {
+  "@id" : 387,
+  "n" : "cisplatin"
+}]}, {"edges":[{
+  "@id" : 2,
+  "s" : 0,
+  "t" : 1,
+  "i" : "Complex"
+}, {
+  "@id" : 8,
+  "s" : 0,
+  "t" : 7,
+  "i" : "Complex"
+}, {
+  "@id" : 13,
+  "s" : 1,
+  "t" : 7,
+  "i" : "Complex"
+}, {
+  "@id" : 18,
+  "s" : 7,
+  "t" : 0,
+  "i" : "Complex"
+}, {
+  "@id" : 34,
+  "s" : 32,
+  "t" : 33,
+  "i" : "Complex"
+}, {
+  "@id" : 42,
+  "s" : 40,
+  "t" : 41,
+  "i" : "Complex"
+}, {
+  "@id" : 49,
+  "s" : 48,
+  "t" : 33,
+  "i" : "Complex"
+}, {
+  "@id" : 55,
+  "s" : 33,
+  "t" : 54,
+  "i" : "Complex"
+}, {
+  "@id" : 61,
+  "s" : 33,
+  "t" : 60,
+  "i" : "Complex"
+}, {
+  "@id" : 67,
+  "s" : 1,
+  "t" : 7,
+  "i" : "Complex"
+}, {
+  "@id" : 87,
+  "s" : 85,
+  "t" : 86,
+  "i" : "Complex"
+}, {
+  "@id" : 92,
+  "s" : 91,
+  "t" : 41,
+  "i" : "Complex"
+}, {
+  "@id" : 96,
+  "s" : 95,
+  "t" : 41,
+  "i" : "Complex"
+}, {
+  "@id" : 102,
+  "s" : 100,
+  "t" : 101,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 103,
+  "s" : 101,
+  "t" : 101,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 106,
+  "s" : 101,
+  "t" : 101,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 109,
+  "s" : 101,
+  "t" : 101,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 112,
+  "s" : 101,
+  "t" : 101,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 118,
+  "s" : 101,
+  "t" : 117,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 119,
+  "s" : 101,
+  "t" : 117,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 120,
+  "s" : 0,
+  "t" : 0,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 123,
+  "s" : 0,
+  "t" : 0,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 126,
+  "s" : 0,
+  "t" : 0,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 131,
+  "s" : 129,
+  "t" : 130,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 135,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 142,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 149,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 154,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 159,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 168,
+  "s" : 1,
+  "t" : 1,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 174,
+  "s" : 173,
+  "t" : 173,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 177,
+  "s" : 173,
+  "t" : 173,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 181,
+  "s" : 180,
+  "t" : 41,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 183,
+  "s" : 180,
+  "t" : 182,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 185,
+  "s" : 180,
+  "t" : 184,
+  "i" : "Phosphorylation"
+}, {
+  "@id" : 188,
+  "s" : 186,
+  "t" : 187,
+  "i" : "Activation"
+}, {
+  "@id" : 194,
+  "s" : 192,
+  "t" : 193,
+  "i" : "Activation"
+}, {
+  "@id" : 200,
+  "s" : 193,
+  "t" : 192,
+  "i" : "Activation"
+}, {
+  "@id" : 206,
+  "s" : 193,
+  "t" : 205,
+  "i" : "Activation"
+}, {
+  "@id" : 210,
+  "s" : 193,
+  "t" : 209,
+  "i" : "Activation"
+}, {
+  "@id" : 214,
+  "s" : 193,
+  "t" : 213,
+  "i" : "Activation"
+}, {
+  "@id" : 218,
+  "s" : 217,
+  "t" : 41,
+  "i" : "Activation"
+}, {
+  "@id" : 223,
+  "s" : 221,
+  "t" : 222,
+  "i" : "Activation"
+}, {
+  "@id" : 230,
+  "s" : 221,
+  "t" : 229,
+  "i" : "Activation"
+}, {
+  "@id" : 235,
+  "s" : 221,
+  "t" : 234,
+  "i" : "Activation"
+}, {
+  "@id" : 241,
+  "s" : 239,
+  "t" : 240,
+  "i" : "Activation"
+}, {
+  "@id" : 245,
+  "s" : 239,
+  "t" : 240,
+  "i" : "Activation"
+}, {
+  "@id" : 252,
+  "s" : 251,
+  "t" : 193,
+  "i" : "Activation"
+}, {
+  "@id" : 258,
+  "s" : 257,
+  "t" : 193,
+  "i" : "Activation"
+}, {
+  "@id" : 263,
+  "s" : 261,
+  "t" : 262,
+  "i" : "Activation"
+}, {
+  "@id" : 268,
+  "s" : 101,
+  "t" : 267,
+  "i" : "Activation"
+}, {
+  "@id" : 273,
+  "s" : 101,
+  "t" : 272,
+  "i" : "Activation"
+}, {
+  "@id" : 277,
+  "s" : 101,
+  "t" : 272,
+  "i" : "Activation"
+}, {
+  "@id" : 284,
+  "s" : 101,
+  "t" : 283,
+  "i" : "Activation"
+}, {
+  "@id" : 289,
+  "s" : 288,
+  "t" : 7,
+  "i" : "Activation"
+}, {
+  "@id" : 293,
+  "s" : 129,
+  "t" : 193,
+  "i" : "Activation"
+}, {
+  "@id" : 299,
+  "s" : 297,
+  "t" : 298,
+  "i" : "Activation"
+}, {
+  "@id" : 304,
+  "s" : 33,
+  "t" : 303,
+  "i" : "Activation"
+}, {
+  "@id" : 309,
+  "s" : 117,
+  "t" : 308,
+  "i" : "Activation"
+}, {
+  "@id" : 314,
+  "s" : 313,
+  "t" : 7,
+  "i" : "Activation"
+}, {
+  "@id" : 319,
+  "s" : 318,
+  "t" : 41,
+  "i" : "Activation"
+}, {
+  "@id" : 325,
+  "s" : 324,
+  "t" : 261,
+  "i" : "Activation"
+}, {
+  "@id" : 331,
+  "s" : 329,
+  "t" : 330,
+  "i" : "Activation"
+}, {
+  "@id" : 336,
+  "s" : 335,
+  "t" : 41,
+  "i" : "Activation"
+}, {
+  "@id" : 340,
+  "s" : 262,
+  "t" : 261,
+  "i" : "Activation"
+}, {
+  "@id" : 347,
+  "s" : 346,
+  "t" : 41,
+  "i" : "Activation"
+}, {
+  "@id" : 351,
+  "s" : 41,
+  "t" : 350,
+  "i" : "Activation"
+}, {
+  "@id" : 356,
+  "s" : 41,
+  "t" : 355,
+  "i" : "Activation"
+}, {
+  "@id" : 365,
+  "s" : 41,
+  "t" : 364,
+  "i" : "Activation"
+}, {
+  "@id" : 370,
+  "s" : 41,
+  "t" : 369,
+  "i" : "Activation"
+}, {
+  "@id" : 375,
+  "s" : 7,
+  "t" : 374,
+  "i" : "Activation"
+}, {
+  "@id" : 383,
+  "s" : 7,
+  "t" : 283,
+  "i" : "Activation"
+}, {
+  "@id" : 388,
+  "s" : 387,
+  "t" : 261,
+  "i" : "Activation"
+}]}, {"citations":[{
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12778130",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12793895",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15294883",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 35,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27802171",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 36,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27420286",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 43,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11902584",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 50,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27286066",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 56,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27708396",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 62,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27646874",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 68,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15178810",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 69,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12793895",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 70,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9443437",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 71,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12652295",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 72,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16391297",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 88,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27916793",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 97,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27916821",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 104,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 107,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12601080",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 110,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 113,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12181353",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 114,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 121,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 124,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11513746",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 127,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11513746",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 136,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10579917",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 137,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16835467",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 138,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 143,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16835467",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 144,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 145,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 150,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 151,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16835467",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 155,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 156,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16835467",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 160,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16835467",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 161,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 162,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15212693",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 163,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16391297",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 169,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11350732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 170,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10579917",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 175,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7535778",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 178,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7523122",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 189,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27899953",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 224,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27906079",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 231,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27906079",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 236,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27906079",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 242,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:26687970",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 246,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:26687970",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 253,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27783047",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 264,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27896021",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 269,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27189274",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 274,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27786288",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 278,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27786288",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 279,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27932973",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 285,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27189274",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 290,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27729769",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 300,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27834291",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 305,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27562721",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 310,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27708054",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 315,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27746684",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 320,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27888811",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 321,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27659536",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 326,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27931220",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 332,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27929351",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 337,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27898655",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 341,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27896021",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 352,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27740623",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 357,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27946205",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 358,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27896021",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 366,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27119350",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 371,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27630122",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 376,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27449032",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 377,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27829985",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 378,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27578780",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 384,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27746684",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 389,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:27895723",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"edgeAttributes":[{
+  "po" : 2,
+  "n" : "INDRA statement",
+  "v" : "Complex(FLT1(), KDR(), VEGFA())"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 2,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 2,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 2,
+  "n" : "Text",
+  "v" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2"
+}, {
+  "po" : 8,
+  "n" : "INDRA statement",
+  "v" : "Complex(FLT1(), KDR(), VEGFA())"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 8,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 8,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 8,
+  "n" : "Text",
+  "v" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2"
+}, {
+  "po" : 13,
+  "n" : "INDRA statement",
+  "v" : "Complex(FLT1(), KDR(), VEGFA())"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 13,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 13,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 13,
+  "n" : "Text",
+  "v" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2"
+}, {
+  "po" : 18,
+  "n" : "INDRA statement",
+  "v" : "Complex(VEGFA(), FLT1())"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 18,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 18,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 18,
+  "n" : "Text",
+  "v" : "This was shown to increase the association of VEGF with its receptor VEGFR2 (REF. 50)."
+}, {
+  "po" : 34,
+  "n" : "INDRA statement",
+  "v" : "Complex(FOS(), JUN())"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 34,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 34,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 34,
+  "n" : "Text",
+  "v" : "We show that FOS and JUN bind to and activate a specific set of vascular genes and that AP-1 inhibition shifts the balance between smooth muscle and hematopoietic differentiation towards blood."
+}, {
+  "po" : 42,
+  "n" : "INDRA statement",
+  "v" : "Complex(HIF1A(), TP53())"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 42,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 42,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 42,
+  "n" : "Text",
+  "v" : "during hypoxia-induced apoptosis, only the phosphorylated HIF1A binds ARNT the dephosphorylated form of HIF1A binds p53 and induces apoptosis"
+}, {
+  "po" : 49,
+  "n" : "INDRA statement",
+  "v" : "Complex(NFkappaB(), JUN())"
+}, {
+  "po" : 49,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 49,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 49,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 49,
+  "n" : "Text",
+  "v" : "Likewise, NF-kappaB inhibitor blocked LPS induced NF-kappaB and c-Jun binding to the promoter."
+}, {
+  "po" : 55,
+  "n" : "INDRA statement",
+  "v" : "Complex(JUN(), TET1())"
+}, {
+  "po" : 55,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 55,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 55,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 55,
+  "n" : "Text",
+  "v" : "The binding of c-Jun and Tet1 to Zta enhances promoter demethylation, resulting in the activation of Zta, the stimulation of BHRF1 (a lytic early gene) and gp350/220 (a lytic late gene), and ultimately the reactivation of EBV."
+}, {
+  "po" : 61,
+  "n" : "INDRA statement",
+  "v" : "Complex(JUN(), ZBTB7C())"
+}, {
+  "po" : 61,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 61,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 61,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 61,
+  "n" : "Text",
+  "v" : "The molecular interaction between c-Jun and Zbtb7c also prevents phosphorylation of c-Jun by p-Jnk, However, Zbtb7c phosphorylation by p-Jnk (induced by TNFalpha), and its (Zbtb7c) subsequent degradation by the ubiquitin mediated proteasomal pathway, leads to c-Jun phosphorylation by p-Jnk."
+}, {
+  "po" : 67,
+  "n" : "INDRA statement",
+  "v" : "Complex(KDR(), VEGFA())"
+}, {
+  "po" : 67,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 67,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 67,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 67,
+  "n" : "Text",
+  "v" : "Neuropilin-2 binds to VEGFR1, while neuropilin-1 binds to VEGF-165 and increases its affinity for VEGFR2 by approximately one order of magnitude"
+}, {
+  "po" : 87,
+  "n" : "INDRA statement",
+  "v" : "Complex(SUV39H1(), MEF2C())"
+}, {
+  "po" : 87,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 87,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 87,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 87,
+  "n" : "Text",
+  "v" : "Furthermore, Suv39h1 interacted with MEF2C directly and inhibited MEF2 transcription activity in a dose dependent manner."
+}, {
+  "po" : 92,
+  "n" : "INDRA statement",
+  "v" : "Complex(MITF(), TP53())"
+}, {
+  "po" : 92,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 92,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 92,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 92,
+  "n" : "Text",
+  "v" : "We found that MITF could bind TP53 to regulate CDKN1A."
+}, {
+  "po" : 96,
+  "n" : "INDRA statement",
+  "v" : "Complex(NFKBIA(), TP53())"
+}, {
+  "po" : 96,
+  "n" : "type",
+  "v" : "Complex"
+}, {
+  "po" : 96,
+  "n" : "polarity",
+  "v" : "none"
+}, {
+  "po" : 96,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 96,
+  "n" : "Text",
+  "v" : "Mechanisms of p53 Functional De-Regulation : Role of the IkappaB-alpha and p53 Complex."
+}, {
+  "po" : 102,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGF11(), FGFR1())"
+}, {
+  "po" : 102,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 102,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 102,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 103,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), FGFR1(), Y, 583)"
+}, {
+  "po" : 103,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 103,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 103,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 103,
+  "n" : "Text",
+  "v" : "9880324;8622701;12601080"
+}, {
+  "po" : 106,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), FGFR1(), Y, 605)"
+}, {
+  "po" : 106,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 106,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 106,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 106,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 109,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), FGFR1(), Y, 654)"
+}, {
+  "po" : 109,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 109,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 109,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 109,
+  "n" : "Text",
+  "v" : "9880324;8622701;12601080"
+}, {
+  "po" : 112,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), FGFR1(), Y, 766)"
+}, {
+  "po" : 112,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 112,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 112,
+  "n" : "Belief score",
+  "v" : "0.98"
+}, {
+  "po" : 112,
+  "n" : "Text",
+  "v" : "Stimulation of fibroblast growth factor receptor-1 (FGFR-1) is known to result in phosphorylation of tyrosine 766 and the recruitment and subsequent activation of phospholipase C-gamma (PLC-gamma)."
+}, {
+  "po" : 118,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), LDHA(), Y, 10)"
+}, {
+  "po" : 118,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 118,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 118,
+  "n" : "Belief score",
+  "v" : "0.79"
+}, {
+  "po" : 119,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FGFR1(), LDHA(), Y, 83)"
+}, {
+  "po" : 119,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 119,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 119,
+  "n" : "Belief score",
+  "v" : "0.79"
+}, {
+  "po" : 120,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FLT1(), FLT1(), Y, 1213)"
+}, {
+  "po" : 120,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 120,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 120,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 120,
+  "n" : "Text",
+  "v" : "11513746;9722576;9600074"
+}, {
+  "po" : 123,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FLT1(), FLT1(), Y, 1242)"
+}, {
+  "po" : 123,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 123,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 123,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 123,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 126,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FLT1(), FLT1(), Y, 1327)"
+}, {
+  "po" : 126,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 126,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 126,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 126,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 131,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(FNDC5(), ACC())"
+}, {
+  "po" : 131,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 131,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 131,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 131,
+  "n" : "Text",
+  "v" : "Intriguingly, our results showed that irisin stimulated LKB1 phosphorylation and that inhibition of neither CaMKKbeta nor calmodulin altered irisin induced AMPK and ACC phosphorylation, implying that LKB1 may be the major pathway for irisin induced activation of AMPK in hepatocytes."
+}, {
+  "po" : 135,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 1054)"
+}, {
+  "po" : 135,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 135,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 135,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 135,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 142,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 1059)"
+}, {
+  "po" : 142,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 142,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 142,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 142,
+  "n" : "Text",
+  "v" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites."
+}, {
+  "po" : 149,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 1175)"
+}, {
+  "po" : 149,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 149,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 149,
+  "n" : "Belief score",
+  "v" : "0.98"
+}, {
+  "po" : 149,
+  "n" : "Text",
+  "v" : "10579917;11387210;10749680;14532277"
+}, {
+  "po" : 154,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 1214)"
+}, {
+  "po" : 154,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 154,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 154,
+  "n" : "Belief score",
+  "v" : "0.98"
+}, {
+  "po" : 154,
+  "n" : "Text",
+  "v" : "12023952;11387210"
+}, {
+  "po" : 159,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 951)"
+}, {
+  "po" : 159,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 159,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 159,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 159,
+  "n" : "Text",
+  "v" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites."
+}, {
+  "po" : 168,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(KDR(), KDR(), Y, 996)"
+}, {
+  "po" : 168,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 168,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 168,
+  "n" : "Belief score",
+  "v" : "0.98"
+}, {
+  "po" : 168,
+  "n" : "Text",
+  "v" : "VEGFR2 is presumably activated through ligand-stimulated receptor dimerization and transphosphorylation (autophosphorylation) of tyrosine residues in the cytoplasmic kinase domain 4 major autophosphorylation sites have been identified in VEGFR2: Y951, Y996, Y1054 and Y1059"
+}, {
+  "po" : 174,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(PDGFRA(), PDGFRA(), Y, 1018)"
+}, {
+  "po" : 174,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 174,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 174,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 174,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 177,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(PDGFRA(), PDGFRA(), Y, 754)"
+}, {
+  "po" : 177,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 177,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 177,
+  "n" : "Belief score",
+  "v" : "0.89"
+}, {
+  "po" : 177,
+  "n" : "Text",
+  "v" : "PhosphoElm data from PMID 15212693"
+}, {
+  "po" : 181,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(PRKAA2(mods: (phosphorylation)), TP53())"
+}, {
+  "po" : 181,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 181,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 181,
+  "n" : "Belief score",
+  "v" : "0.79"
+}, {
+  "po" : 183,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(PRKAA2(), ACACA(), S, 80)"
+}, {
+  "po" : 183,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 183,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 183,
+  "n" : "Belief score",
+  "v" : "0.79"
+}, {
+  "po" : 185,
+  "n" : "INDRA statement",
+  "v" : "Phosphorylation(PRKAA2(), HAS2(), T, 110)"
+}, {
+  "po" : 185,
+  "n" : "type",
+  "v" : "Modification"
+}, {
+  "po" : 185,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 185,
+  "n" : "Belief score",
+  "v" : "0.79"
+}, {
+  "po" : 188,
+  "n" : "INDRA statement",
+  "v" : "Activation(ADRB2(), activity, invasiveness(), activity, True)"
+}, {
+  "po" : 188,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 188,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 188,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 188,
+  "n" : "Text",
+  "v" : "Pon et al described a beta2 adrenergic receptor activated feed-forward loop driving the invasiveness of the highly metastatic MDA-MB-231-HM breast cancer cell line [XREF_BIBR]."
+}, {
+  "po" : 194,
+  "n" : "INDRA statement",
+  "v" : "Activation(AICAR(), activity, AMPK(), activity, True)"
+}, {
+  "po" : 194,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 194,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 194,
+  "n" : "Belief score",
+  "v" : "1.00"
+}, {
+  "po" : 194,
+  "n" : "Text",
+  "v" : "However, CLI-095-elicited beneficial effect was mitigated by the AMPK activator AICAR or the mTOR inhibitor rapamycin ()."
+}, {
+  "po" : 200,
+  "n" : "INDRA statement",
+  "v" : "Activation(AMPK(), activity, AICAR(), activity, True)"
+}, {
+  "po" : 200,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 200,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 200,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 200,
+  "n" : "Text",
+  "v" : "To elucidate a cause-effect relationship of TLR4 receptor and autophagy in paraquat induced cardiac anomalies, cardiomyocytes from wild type mice were isolated and exposed to paraquat in the presence or absence of the TLR4 inhibitor CLI-095, the AMPK activator AICAR and the mTOR inhibitor rapamycin."
+}, {
+  "po" : 206,
+  "n" : "INDRA statement",
+  "v" : "Activation(AMPK(), activity, ATP(), activity, True)"
+}, {
+  "po" : 206,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 206,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 206,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 206,
+  "n" : "Text",
+  "v" : "Interestingly, mitochondrial function and ATP generation, which is enhanced by AMPK activation, is critical for both T cell activation and oocyte activation through mitochondrial accumulation at the immunological synapse and facilitation of Ca oscillations through Ca buffering, respectively."
+}, {
+  "po" : 210,
+  "n" : "INDRA statement",
+  "v" : "Activation(AMPK(), activity, autophagy(), activity, True)"
+}, {
+  "po" : 210,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 210,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 210,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 210,
+  "n" : "Text",
+  "v" : "In consideration of the fact that mTOR acts as a key sensor of nutrient status and AMPK can activate autophagy indirectly by regulating activity of mTOR, whether downstream protective effects of ZLN005 are AMPK dependent is of possibility and worthy of further investigation."
+}, {
+  "po" : 214,
+  "n" : "INDRA statement",
+  "v" : "Activation(AMPK(), activity, transcription(), activity, True)"
+}, {
+  "po" : 214,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 214,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 214,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 214,
+  "n" : "Text",
+  "v" : "In addition, AMPK dramatically increased the activity of transcription factor FOXO3a, up-regulated the expression of its downstream ubiquitin ligase MAFbx, and enhanced cardiomyocyte proteolysis."
+}, {
+  "po" : 218,
+  "n" : "INDRA statement",
+  "v" : "Activation(ANKRD1(), activity, TP53(), activity, True)"
+}, {
+  "po" : 218,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 218,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 218,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 218,
+  "n" : "Text",
+  "v" : "We therefore evaluated Ankrd1 expression and found a strong increase of mRNA levels in mTORcmKO hearts (C) suggesting that AnkrD1 may activate p53 in our model."
+}, {
+  "po" : 223,
+  "n" : "INDRA statement",
+  "v" : "Activation(ARNTL(), activity, glucose(), activity, False)"
+}, {
+  "po" : 223,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 223,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 223,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 223,
+  "n" : "Text",
+  "v" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis."
+}, {
+  "po" : 230,
+  "n" : "INDRA statement",
+  "v" : "Activation(ARNTL(), activity, homeostasis(), activity, False)"
+}, {
+  "po" : 230,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 230,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 230,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 230,
+  "n" : "Text",
+  "v" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis."
+}, {
+  "po" : 235,
+  "n" : "INDRA statement",
+  "v" : "Activation(ARNTL(), activity, metabolism(), activity, False)"
+}, {
+  "po" : 235,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 235,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 235,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 235,
+  "n" : "Text",
+  "v" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis."
+}, {
+  "po" : 241,
+  "n" : "INDRA statement",
+  "v" : "Activation(BDNF(), activity, CREB(), activity, False)"
+}, {
+  "po" : 241,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 241,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 241,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 241,
+  "n" : "Text",
+  "v" : "BDNF induced CREB activation is attenuated by inhibition of PLCgamma and CaMKII."
+}, {
+  "po" : 245,
+  "n" : "INDRA statement",
+  "v" : "Activation(BDNF(), activity, CREB(), activity, True)"
+}, {
+  "po" : 245,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 245,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 245,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 245,
+  "n" : "Text",
+  "v" : "Concordantly, exogenous BDNF is also able to activate CREB in the DRG."
+}, {
+  "po" : 252,
+  "n" : "INDRA statement",
+  "v" : "Activation(CAMKK2(), activity, AMPK(), activity, True)"
+}, {
+  "po" : 252,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 252,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 252,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 252,
+  "n" : "Text",
+  "v" : "As AMPK alpha1 has been shown to be essential for T cell responses to viral and bacterial challenges and T cell deletion of AMPK alpha1 leads to a reduction in cellular ATP and mitochondrial biogenetics, CaMKK2 dependent activation of AMPK may potentially represent a central mechanism mediating both oocyte activation and TALHR."
+}, {
+  "po" : 258,
+  "n" : "INDRA statement",
+  "v" : "Activation(Ca(), activity, AMPK(), activity, True)"
+}, {
+  "po" : 258,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 258,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 258,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 258,
+  "n" : "Text",
+  "v" : "AMPK activation by Ca induced activation of CaMKK2 in both oocytes and T cells thus likely plays a pivotal role in sustaining mitochondrial integrity necessary for activation of both cell types."
+}, {
+  "po" : 263,
+  "n" : "INDRA statement",
+  "v" : "Activation(DDIT3(), activity, PTPRC(), activity, True)"
+}, {
+  "po" : 263,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 263,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 263,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 263,
+  "n" : "Text",
+  "v" : "To establish if there was a link between induction of CHOP by LCA and that of autophagy, PC-3 cells were treated with siRNA to silence CHOP and then exposed to 30 or 50 microM LCA (XREF_FIG)."
+}, {
+  "po" : 268,
+  "n" : "INDRA statement",
+  "v" : "Activation(FGFR1(), activity, cell_survival(), activity, True)"
+}, {
+  "po" : 268,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 268,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 268,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 268,
+  "n" : "Text",
+  "v" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival."
+}, {
+  "po" : 273,
+  "n" : "INDRA statement",
+  "v" : "Activation(FGFR1(), activity, differentiation(), activity, False)"
+}, {
+  "po" : 273,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 273,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 273,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 273,
+  "n" : "Text",
+  "v" : "An inhibitor of fibroblast growth factor receptor-1 (FGFR1) promotes late-stage terminal differentiation from NGN3+ pancreatic endocrine progenitors."
+}, {
+  "po" : 277,
+  "n" : "INDRA statement",
+  "v" : "Activation(FGFR1(), activity, differentiation(), activity, True)"
+}, {
+  "po" : 277,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 277,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 277,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 277,
+  "n" : "Text",
+  "v" : "Using these cells, we conducted high-throughput screening of chemicals and identified a specific kinase inhibitor of fibroblast growth factor receptor 1 (FGFR1) that acted in a stage dependent manner to promote the terminal differentiation of pancreatic endocrine cells, including beta cells, from the intermediate stage of pancreatic endocrine progenitors while blocking the early development of pancreatic progenitors."
+}, {
+  "po" : 284,
+  "n" : "INDRA statement",
+  "v" : "Activation(FGFR1(), activity, proliferation(), activity, True)"
+}, {
+  "po" : 284,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 284,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 284,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 284,
+  "n" : "Text",
+  "v" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival."
+}, {
+  "po" : 289,
+  "n" : "INDRA statement",
+  "v" : "Activation(FMN1(), activity, VEGFA(), activity, False)"
+}, {
+  "po" : 289,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 289,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 289,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 289,
+  "n" : "Text",
+  "v" : "FMN can indeed inhibit the VEGF secretion of ARPE-19 cells under hypoxia, downregulate the mRNA expression of VEGFA and PHD-2, and decrease the protein expression of VEGF, HIF-1alpha, and PHD-2 in vitro."
+}, {
+  "po" : 293,
+  "n" : "INDRA statement",
+  "v" : "Activation(FNDC5(), activity, AMPK(), activity, True)"
+}, {
+  "po" : 293,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 293,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 293,
+  "n" : "Belief score",
+  "v" : "0.97"
+}, {
+  "po" : 293,
+  "n" : "Text",
+  "v" : "Hence, these results suggest that irisin activates AMPK through distinct mechanisms in different cell types, a situation reminiscent of adiponectin, which activates AMPK LKB1 and CaMKKbeta in hepatocytes () and myocytes () respectively."
+}, {
+  "po" : 299,
+  "n" : "INDRA statement",
+  "v" : "Activation(INS(), activity, IRS1(), activity, True)"
+}, {
+  "po" : 299,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 299,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 299,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 299,
+  "n" : "Text",
+  "v" : "Moreover, HFI did not induce insulin resistance in the skeletal muscle of female and OVX rats but impaired the insulin stimulated glucose transport activity in the skeletal muscle of male rats, which was accompanied by lower insulin stimulated IRS-1 Tyr (989) (44%), Akt Ser (473) (30%) and AS160 Ser (588) (43%) and increases in insulin stimulated IRS-1 Ser (307) (78%), JNK Thr (183)/Tyr (185) (69%) and p38 MAPK Thr (180)/Tyr (182) (81%)."
+}, {
+  "po" : 304,
+  "n" : "INDRA statement",
+  "v" : "Activation(JUN(), activity, IRAK3(), activity, True)"
+}, {
+  "po" : 304,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 304,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 304,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 304,
+  "n" : "Text",
+  "v" : "Silencing of c-Fos and/or c-Jun expression suppressed the IRAK-M promoter activity as well as its mRNA and protein expressions."
+}, {
+  "po" : 309,
+  "n" : "INDRA statement",
+  "v" : "Activation(LDHA(), activity, glycolysis(), activity, True)"
+}, {
+  "po" : 309,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 309,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 309,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 309,
+  "n" : "Text",
+  "v" : "Here, we show that lactate dehydrogenase A (LDHA) is induced in activated T cells to support aerobic glycolysis but promotes IFN-gamma expression independently of its 3 ' UTR."
+}, {
+  "po" : 314,
+  "n" : "INDRA statement",
+  "v" : "Activation(LPA(), activity, VEGFA(), activity, True)"
+}, {
+  "po" : 314,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 314,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 314,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 314,
+  "n" : "Text",
+  "v" : "Similarly, 10muM LPA increased the production of VEGF by 1.87 +/-0.19-fold compared to that by the control cells."
+}, {
+  "po" : 319,
+  "n" : "INDRA statement",
+  "v" : "Activation(MDM2(), activity, TP53(), activity, False)"
+}, {
+  "po" : 319,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 319,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 319,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 319,
+  "n" : "Text",
+  "v" : "MDM2 alterations often result in its overexpression and therefore promote inhibition of p53 activity."
+}, {
+  "po" : 325,
+  "n" : "INDRA statement",
+  "v" : "Activation(MUSK(), activity, DDIT3(), activity, True)"
+}, {
+  "po" : 325,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 325,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 325,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 325,
+  "n" : "Text",
+  "v" : "Native musk and synthetic musk ketone can up-regulate IL-24 (interleukin family) and DDIT3 (MAPK signalling pathway) in lung cancer cells."
+}, {
+  "po" : 331,
+  "n" : "INDRA statement",
+  "v" : "Activation(NKX2_5(), activity, FGF16(), activity, False)"
+}, {
+  "po" : 331,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 331,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 331,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 331,
+  "n" : "Text",
+  "v" : "Knockdown of Csx and Nkx2.5 specifically decreased endogenous FGF-16 RNA and protein levels, whereas Csx and Nkx2.5 overexpression stimulated levels, and increased resistance to the rapid DOX induced depletion of FGF-16."
+}, {
+  "po" : 336,
+  "n" : "INDRA statement",
+  "v" : "Activation(PBK(), activity, TP53(), activity, False)"
+}, {
+  "po" : 336,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 336,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 336,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 336,
+  "n" : "Text",
+  "v" : "PDZ binding kinase and T-LAK cell originated protein kinase (PBK and TOPK) is a serine threonine kinase and overexpressed in various types of cancer by inhibiting the transactivation activities of p53 and PTEN."
+}, {
+  "po" : 340,
+  "n" : "INDRA statement",
+  "v" : "Activation(PTPRC(), activity, DDIT3(), activity, True)"
+}, {
+  "po" : 340,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 340,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 340,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 340,
+  "n" : "Text",
+  "v" : "Gene silencing reduced LCA induced levels of CHOP protein to undetectable levels in DU-145 cells (XREF_FIG)."
+}, {
+  "po" : 347,
+  "n" : "INDRA statement",
+  "v" : "Activation(ROS1(), activity, TP53(), activity, True)"
+}, {
+  "po" : 347,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 347,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 347,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 347,
+  "n" : "Text",
+  "v" : "Taken together, these findings suggest that upregulation of miR-22 in H9c2 cardiomyocytes exposed to H and R insult may be at least partly due to ROS induced activation of p53 signaling pathway."
+}, {
+  "po" : 351,
+  "n" : "INDRA statement",
+  "v" : "Activation(TP53(), activity, TM7SF3(), activity, True)"
+}, {
+  "po" : 351,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 351,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 351,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 351,
+  "n" : "Text",
+  "v" : "Notably, TM7SF3 is a downstream target of p53 : activation of p53 by Nutlin increases TM7SF3 expression in a time dependent manner, although silencing of p53 abrogates this effect."
+}, {
+  "po" : 356,
+  "n" : "INDRA statement",
+  "v" : "Activation(TP53(), activity, apoptosis(), activity, True)"
+}, {
+  "po" : 356,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 356,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 356,
+  "n" : "Belief score",
+  "v" : "1.00"
+}, {
+  "po" : 356,
+  "n" : "Text",
+  "v" : "Pretreatment with FK228 enhanced apoptosis induced by p53 family through increased expression of exogenous proteins."
+}, {
+  "po" : 365,
+  "n" : "INDRA statement",
+  "v" : "Activation(TP53(), activity, cell_cycle(), activity, False)"
+}, {
+  "po" : 365,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 365,
+  "n" : "polarity",
+  "v" : "negative"
+}, {
+  "po" : 365,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 365,
+  "n" : "Text",
+  "v" : "Instead, OTA enhanced expression of another metabolic inactivating enzyme CYP3A4, attenuation of formation of AFB1-DNA adduct and p53 mediated cell cycle checking responses to the mutagens."
+}, {
+  "po" : 370,
+  "n" : "INDRA statement",
+  "v" : "Activation(TP53(), activity, invasion(), activity, True)"
+}, {
+  "po" : 370,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 370,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 370,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 370,
+  "n" : "Text",
+  "v" : "Our findings provide explanations to 2 long lasting and important clinical conundrums : how WT TP53 can promote cancer cell invasion and reciprocally why mutant TP53 gene does not systematically induce cancer progression."
+}, {
+  "po" : 375,
+  "n" : "INDRA statement",
+  "v" : "Activation(VEGFA(), activity, angiogenesis(), activity, True)"
+}, {
+  "po" : 375,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 375,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 375,
+  "n" : "Belief score",
+  "v" : "0.99"
+}, {
+  "po" : 375,
+  "n" : "Text",
+  "v" : "It also blocked VEGF induced angiogenesis in a Matrigel plug assay."
+}, {
+  "po" : 383,
+  "n" : "INDRA statement",
+  "v" : "Activation(VEGFA(), activity, proliferation(), activity, True)"
+}, {
+  "po" : 383,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 383,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 383,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 383,
+  "n" : "Text",
+  "v" : "The proliferation of cells treated with 10ng/mL VEGF was approximately 1.7-2-fold of that of the control cells."
+}, {
+  "po" : 388,
+  "n" : "INDRA statement",
+  "v" : "Activation(cisplatin(), activity, DDIT3(), activity, True)"
+}, {
+  "po" : 388,
+  "n" : "type",
+  "v" : "Activation"
+}, {
+  "po" : 388,
+  "n" : "polarity",
+  "v" : "positive"
+}, {
+  "po" : 388,
+  "n" : "Belief score",
+  "v" : "0.91"
+}, {
+  "po" : 388,
+  "n" : "Text",
+  "v" : "Whether cisplatin induced CHOP induction can also be triggered by a similar mechanism is currently under investigation by the present authors."
+}]}, {"edgeCitations":[{
+  "po" : [ 2 ],
+  "citations" : [ 3 ]
+}, {
+  "po" : [ 8 ],
+  "citations" : [ 9 ]
+}, {
+  "po" : [ 13 ],
+  "citations" : [ 14 ]
+}, {
+  "po" : [ 18 ],
+  "citations" : [ 21, 20, 19 ]
+}, {
+  "po" : [ 34 ],
+  "citations" : [ 35, 36 ]
+}, {
+  "po" : [ 42 ],
+  "citations" : [ 43 ]
+}, {
+  "po" : [ 49 ],
+  "citations" : [ 50 ]
+}, {
+  "po" : [ 55 ],
+  "citations" : [ 56 ]
+}, {
+  "po" : [ 61 ],
+  "citations" : [ 62 ]
+}, {
+  "po" : [ 67 ],
+  "citations" : [ 72, 71, 70, 69, 68 ]
+}, {
+  "po" : [ 87 ],
+  "citations" : [ 88 ]
+}, {
+  "po" : [ 96 ],
+  "citations" : [ 97 ]
+}, {
+  "po" : [ 103 ],
+  "citations" : [ 104 ]
+}, {
+  "po" : [ 106 ],
+  "citations" : [ 107 ]
+}, {
+  "po" : [ 109 ],
+  "citations" : [ 110 ]
+}, {
+  "po" : [ 112 ],
+  "citations" : [ 113, 114 ]
+}, {
+  "po" : [ 120 ],
+  "citations" : [ 121 ]
+}, {
+  "po" : [ 123 ],
+  "citations" : [ 124 ]
+}, {
+  "po" : [ 126 ],
+  "citations" : [ 127 ]
+}, {
+  "po" : [ 135 ],
+  "citations" : [ 138, 137, 136 ]
+}, {
+  "po" : [ 142 ],
+  "citations" : [ 145, 144, 143 ]
+}, {
+  "po" : [ 149 ],
+  "citations" : [ 151, 150 ]
+}, {
+  "po" : [ 154 ],
+  "citations" : [ 156, 155 ]
+}, {
+  "po" : [ 159 ],
+  "citations" : [ 161, 160, 163, 162 ]
+}, {
+  "po" : [ 168 ],
+  "citations" : [ 170, 169 ]
+}, {
+  "po" : [ 174 ],
+  "citations" : [ 175 ]
+}, {
+  "po" : [ 177 ],
+  "citations" : [ 178 ]
+}, {
+  "po" : [ 188 ],
+  "citations" : [ 189 ]
+}, {
+  "po" : [ 223 ],
+  "citations" : [ 224 ]
+}, {
+  "po" : [ 230 ],
+  "citations" : [ 231 ]
+}, {
+  "po" : [ 235 ],
+  "citations" : [ 236 ]
+}, {
+  "po" : [ 241 ],
+  "citations" : [ 242 ]
+}, {
+  "po" : [ 245 ],
+  "citations" : [ 246 ]
+}, {
+  "po" : [ 252 ],
+  "citations" : [ 253 ]
+}, {
+  "po" : [ 263 ],
+  "citations" : [ 264 ]
+}, {
+  "po" : [ 268 ],
+  "citations" : [ 269 ]
+}, {
+  "po" : [ 273 ],
+  "citations" : [ 274 ]
+}, {
+  "po" : [ 277 ],
+  "citations" : [ 279, 278 ]
+}, {
+  "po" : [ 284 ],
+  "citations" : [ 285 ]
+}, {
+  "po" : [ 289 ],
+  "citations" : [ 290 ]
+}, {
+  "po" : [ 299 ],
+  "citations" : [ 300 ]
+}, {
+  "po" : [ 304 ],
+  "citations" : [ 305 ]
+}, {
+  "po" : [ 309 ],
+  "citations" : [ 310 ]
+}, {
+  "po" : [ 314 ],
+  "citations" : [ 315 ]
+}, {
+  "po" : [ 319 ],
+  "citations" : [ 321, 320 ]
+}, {
+  "po" : [ 325 ],
+  "citations" : [ 326 ]
+}, {
+  "po" : [ 331 ],
+  "citations" : [ 332 ]
+}, {
+  "po" : [ 336 ],
+  "citations" : [ 337 ]
+}, {
+  "po" : [ 340 ],
+  "citations" : [ 341 ]
+}, {
+  "po" : [ 351 ],
+  "citations" : [ 352 ]
+}, {
+  "po" : [ 356 ],
+  "citations" : [ 357, 358 ]
+}, {
+  "po" : [ 365 ],
+  "citations" : [ 366 ]
+}, {
+  "po" : [ 370 ],
+  "citations" : [ 371 ]
+}, {
+  "po" : [ 375 ],
+  "citations" : [ 376, 378, 377 ]
+}, {
+  "po" : [ 383 ],
+  "citations" : [ 384 ]
+}, {
+  "po" : [ 388 ],
+  "citations" : [ 389 ]
+}]}, {"edgeSupports":[{
+  "po" : [ 2 ],
+  "supports" : [ 6, 5, 4 ]
+}, {
+  "po" : [ 8 ],
+  "supports" : [ 11, 10, 12 ]
+}, {
+  "po" : [ 13 ],
+  "supports" : [ 17, 16, 15 ]
+}, {
+  "po" : [ 18 ],
+  "supports" : [ 31, 30, 25, 24, 23, 22, 29, 28, 27, 26 ]
+}, {
+  "po" : [ 34 ],
+  "supports" : [ 38, 37, 39 ]
+}, {
+  "po" : [ 42 ],
+  "supports" : [ 46, 45, 44, 47 ]
+}, {
+  "po" : [ 49 ],
+  "supports" : [ 53, 52, 51 ]
+}, {
+  "po" : [ 55 ],
+  "supports" : [ 59, 58, 57 ]
+}, {
+  "po" : [ 61 ],
+  "supports" : [ 66, 65, 64, 63 ]
+}, {
+  "po" : [ 67 ],
+  "supports" : [ 73, 77, 76, 75, 74, 81, 80, 79, 78, 84, 83, 82 ]
+}, {
+  "po" : [ 87 ],
+  "supports" : [ 90, 89 ]
+}, {
+  "po" : [ 92 ],
+  "supports" : [ 94, 93 ]
+}, {
+  "po" : [ 96 ],
+  "supports" : [ 98, 99 ]
+}, {
+  "po" : [ 103 ],
+  "supports" : [ 105 ]
+}, {
+  "po" : [ 106 ],
+  "supports" : [ 108 ]
+}, {
+  "po" : [ 109 ],
+  "supports" : [ 111 ]
+}, {
+  "po" : [ 112 ],
+  "supports" : [ 116, 115 ]
+}, {
+  "po" : [ 120 ],
+  "supports" : [ 122 ]
+}, {
+  "po" : [ 123 ],
+  "supports" : [ 125 ]
+}, {
+  "po" : [ 126 ],
+  "supports" : [ 128 ]
+}, {
+  "po" : [ 131 ],
+  "supports" : [ 134, 133, 132 ]
+}, {
+  "po" : [ 135 ],
+  "supports" : [ 141, 140, 139 ]
+}, {
+  "po" : [ 142 ],
+  "supports" : [ 146, 148, 147 ]
+}, {
+  "po" : [ 149 ],
+  "supports" : [ 153, 152 ]
+}, {
+  "po" : [ 154 ],
+  "supports" : [ 158, 157 ]
+}, {
+  "po" : [ 159 ],
+  "supports" : [ 165, 164, 167, 166 ]
+}, {
+  "po" : [ 168 ],
+  "supports" : [ 172, 171 ]
+}, {
+  "po" : [ 174 ],
+  "supports" : [ 176 ]
+}, {
+  "po" : [ 177 ],
+  "supports" : [ 179 ]
+}, {
+  "po" : [ 188 ],
+  "supports" : [ 191, 190 ]
+}, {
+  "po" : [ 194 ],
+  "supports" : [ 198, 197, 196, 195, 199 ]
+}, {
+  "po" : [ 200 ],
+  "supports" : [ 203, 202, 201, 204 ]
+}, {
+  "po" : [ 206 ],
+  "supports" : [ 208, 207 ]
+}, {
+  "po" : [ 210 ],
+  "supports" : [ 212, 211 ]
+}, {
+  "po" : [ 214 ],
+  "supports" : [ 216, 215 ]
+}, {
+  "po" : [ 218 ],
+  "supports" : [ 219, 220 ]
+}, {
+  "po" : [ 223 ],
+  "supports" : [ 227, 226, 225, 228 ]
+}, {
+  "po" : [ 230 ],
+  "supports" : [ 233, 232 ]
+}, {
+  "po" : [ 235 ],
+  "supports" : [ 237, 238 ]
+}, {
+  "po" : [ 241 ],
+  "supports" : [ 244, 243 ]
+}, {
+  "po" : [ 245 ],
+  "supports" : [ 250, 249, 248, 247 ]
+}, {
+  "po" : [ 252 ],
+  "supports" : [ 254, 256, 255 ]
+}, {
+  "po" : [ 258 ],
+  "supports" : [ 260, 259 ]
+}, {
+  "po" : [ 263 ],
+  "supports" : [ 266, 265 ]
+}, {
+  "po" : [ 268 ],
+  "supports" : [ 271, 270 ]
+}, {
+  "po" : [ 273 ],
+  "supports" : [ 276, 275 ]
+}, {
+  "po" : [ 277 ],
+  "supports" : [ 282, 281, 280 ]
+}, {
+  "po" : [ 284 ],
+  "supports" : [ 287, 286 ]
+}, {
+  "po" : [ 289 ],
+  "supports" : [ 291, 292 ]
+}, {
+  "po" : [ 293 ],
+  "supports" : [ 296, 295, 294 ]
+}, {
+  "po" : [ 299 ],
+  "supports" : [ 302, 301 ]
+}, {
+  "po" : [ 304 ],
+  "supports" : [ 307, 306 ]
+}, {
+  "po" : [ 309 ],
+  "supports" : [ 312, 311 ]
+}, {
+  "po" : [ 314 ],
+  "supports" : [ 317, 316 ]
+}, {
+  "po" : [ 319 ],
+  "supports" : [ 323, 322 ]
+}, {
+  "po" : [ 325 ],
+  "supports" : [ 328, 327 ]
+}, {
+  "po" : [ 331 ],
+  "supports" : [ 334, 333 ]
+}, {
+  "po" : [ 336 ],
+  "supports" : [ 339, 338 ]
+}, {
+  "po" : [ 340 ],
+  "supports" : [ 345, 344, 343, 342 ]
+}, {
+  "po" : [ 347 ],
+  "supports" : [ 349, 348 ]
+}, {
+  "po" : [ 351 ],
+  "supports" : [ 354, 353 ]
+}, {
+  "po" : [ 356 ],
+  "supports" : [ 362, 361, 360, 359, 363 ]
+}, {
+  "po" : [ 365 ],
+  "supports" : [ 368, 367 ]
+}, {
+  "po" : [ 370 ],
+  "supports" : [ 372, 373 ]
+}, {
+  "po" : [ 375 ],
+  "supports" : [ 381, 380, 379, 382 ]
+}, {
+  "po" : [ 383 ],
+  "supports" : [ 386, 385 ]
+}, {
+  "po" : [ 388 ],
+  "supports" : [ 391, 390 ]
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "The Heart Machine"
+}, {
+  "n" : "description",
+  "v" : "<div>The Heart Machine reads new publications on the molecular mechanisms governing cardiac cells automatically and assembles a model from them using INDRA.<br/></div>"
+}, {
+  "n" : "version",
+  "v" : "3.68"
+}]}, {"nodeAttributes":[{
+  "po" : 0,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 0,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P17948"
+}, {
+  "po" : 0,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:3763"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 1,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P35968"
+}, {
+  "po" : 1,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6307"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 7,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P15692"
+}, {
+  "po" : 7,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:12680"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 32,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P01100"
+}, {
+  "po" : 32,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:3796"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 33,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P05412"
+}, {
+  "po" : 33,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6204"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 40,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q16665"
+}, {
+  "po" : 40,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:4910"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 41,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P04637"
+}, {
+  "po" : 41,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:11998"
+}, {
+  "po" : 48,
+  "n" : "type",
+  "v" : "proteinfamily"
+}, {
+  "po" : 48,
+  "n" : "BE",
+  "v" : "NFkappaB"
+}, {
+  "po" : 54,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 54,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q8NFU7"
+}, {
+  "po" : 54,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:29484"
+}, {
+  "po" : 60,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 60,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/A1YPR0"
+}, {
+  "po" : 60,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:31700"
+}, {
+  "po" : 85,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 85,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/O43463"
+}, {
+  "po" : 85,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:11479"
+}, {
+  "po" : 86,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 86,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q06413"
+}, {
+  "po" : 86,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6996"
+}, {
+  "po" : 91,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 91,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/O75030"
+}, {
+  "po" : 91,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:7105"
+}, {
+  "po" : 95,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 95,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P25963"
+}, {
+  "po" : 95,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:7797"
+}, {
+  "po" : 100,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 100,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q92914"
+}, {
+  "po" : 100,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:3667"
+}, {
+  "po" : 101,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 101,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P11362"
+}, {
+  "po" : 101,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:3688"
+}, {
+  "po" : 117,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 117,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P00338"
+}, {
+  "po" : 117,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6535"
+}, {
+  "po" : 129,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 129,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q8NAU1"
+}, {
+  "po" : 130,
+  "n" : "type",
+  "v" : "proteinfamily"
+}, {
+  "po" : 130,
+  "n" : "BE",
+  "v" : "ACC"
+}, {
+  "po" : 173,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 173,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P16234"
+}, {
+  "po" : 173,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:8803"
+}, {
+  "po" : 180,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 180,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P54646"
+}, {
+  "po" : 180,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:9377"
+}, {
+  "po" : 182,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 182,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q13085"
+}, {
+  "po" : 182,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:84"
+}, {
+  "po" : 184,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 184,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q92819"
+}, {
+  "po" : 184,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:4819"
+}, {
+  "po" : 186,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 186,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P07550"
+}, {
+  "po" : 186,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:286"
+}, {
+  "po" : 187,
+  "n" : "type",
+  "v" : "other"
+}, {
+  "po" : 187,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D009361"
+}, {
+  "po" : 192,
+  "n" : "type",
+  "v" : "chemical"
+}, {
+  "po" : 192,
+  "n" : "ChEBI",
+  "v" : "http://identifiers.org/chebi/CHEBI:18406"
+}, {
+  "po" : 192,
+  "n" : "PubChem",
+  "v" : "http://identifiers.org/pubchem.compound/16760280"
+}, {
+  "po" : 193,
+  "n" : "type",
+  "v" : "proteinfamily"
+}, {
+  "po" : 193,
+  "n" : "BE",
+  "v" : "AMPK"
+}, {
+  "po" : 205,
+  "n" : "type",
+  "v" : "chemical"
+}, {
+  "po" : 205,
+  "n" : "HMDB",
+  "v" : "http://identifiers.org/hmdb/HMDB00538"
+}, {
+  "po" : 205,
+  "n" : "ChEBI",
+  "v" : "http://identifiers.org/chebi/CHEBI:15422"
+}, {
+  "po" : 205,
+  "n" : "PubChem",
+  "v" : "http://identifiers.org/pubchem.compound/5957"
+}, {
+  "po" : 209,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 209,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0006914"
+}, {
+  "po" : 209,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D001343"
+}, {
+  "po" : 213,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 213,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0006351"
+}, {
+  "po" : 213,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D014158"
+}, {
+  "po" : 217,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 217,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q15327"
+}, {
+  "po" : 217,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:15819"
+}, {
+  "po" : 221,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 221,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/O00327"
+}, {
+  "po" : 221,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:701"
+}, {
+  "po" : 222,
+  "n" : "type",
+  "v" : "other"
+}, {
+  "po" : 222,
+  "n" : "HMDB",
+  "v" : "http://identifiers.org/hmdb/HMDB00122"
+}, {
+  "po" : 229,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 229,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0042592"
+}, {
+  "po" : 234,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 234,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0008152"
+}, {
+  "po" : 234,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D008660"
+}, {
+  "po" : 239,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 239,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P23560"
+}, {
+  "po" : 239,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:1033"
+}, {
+  "po" : 240,
+  "n" : "type",
+  "v" : "proteinfamily"
+}, {
+  "po" : 240,
+  "n" : "BE",
+  "v" : "CREB"
+}, {
+  "po" : 251,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 251,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q96RR4"
+}, {
+  "po" : 251,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:1470"
+}, {
+  "po" : 257,
+  "n" : "type",
+  "v" : "chemical"
+}, {
+  "po" : 257,
+  "n" : "HMDB",
+  "v" : "http://identifiers.org/hmdb/HMDB00464"
+}, {
+  "po" : 257,
+  "n" : "ChEBI",
+  "v" : "http://identifiers.org/chebi/CHEBI:29108"
+}, {
+  "po" : 257,
+  "n" : "PubChem",
+  "v" : "http://identifiers.org/pubchem.compound/271"
+}, {
+  "po" : 261,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 261,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P35638"
+}, {
+  "po" : 261,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:2726"
+}, {
+  "po" : 262,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 262,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P08575"
+}, {
+  "po" : 262,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:9666"
+}, {
+  "po" : 267,
+  "n" : "type",
+  "v" : "other"
+}, {
+  "po" : 267,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D002470"
+}, {
+  "po" : 272,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 272,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0030154"
+}, {
+  "po" : 272,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D002454"
+}, {
+  "po" : 283,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 283,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0008283"
+}, {
+  "po" : 283,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D049109"
+}, {
+  "po" : 288,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 288,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q68DA7"
+}, {
+  "po" : 297,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 297,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P01308"
+}, {
+  "po" : 297,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6081"
+}, {
+  "po" : 298,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 298,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P35568"
+}, {
+  "po" : 298,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6125"
+}, {
+  "po" : 303,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 303,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q9Y616"
+}, {
+  "po" : 303,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:17020"
+}, {
+  "po" : 308,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 308,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0006096"
+}, {
+  "po" : 308,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D006019"
+}, {
+  "po" : 313,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 313,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P08519"
+}, {
+  "po" : 313,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6667"
+}, {
+  "po" : 318,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 318,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q00987"
+}, {
+  "po" : 318,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:6973"
+}, {
+  "po" : 324,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 324,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/O15146"
+}, {
+  "po" : 324,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:7525"
+}, {
+  "po" : 329,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 329,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P52952"
+}, {
+  "po" : 329,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:2488"
+}, {
+  "po" : 330,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 330,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/O43320"
+}, {
+  "po" : 330,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:3672"
+}, {
+  "po" : 335,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 335,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q96KB5"
+}, {
+  "po" : 335,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:18282"
+}, {
+  "po" : 346,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 346,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/P08922"
+}, {
+  "po" : 346,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:10261"
+}, {
+  "po" : 350,
+  "n" : "type",
+  "v" : "protein"
+}, {
+  "po" : 350,
+  "n" : "UniProt",
+  "v" : "http://identifiers.org/uniprot/Q9NS93"
+}, {
+  "po" : 350,
+  "n" : "HGNC",
+  "v" : "http://identifiers.org/hgnc/HGNC:23049"
+}, {
+  "po" : 355,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 355,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0006915"
+}, {
+  "po" : 355,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D017209"
+}, {
+  "po" : 364,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 364,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0007049"
+}, {
+  "po" : 364,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D002453"
+}, {
+  "po" : 369,
+  "n" : "type",
+  "v" : "other"
+}, {
+  "po" : 369,
+  "n" : "MESH",
+  "v" : "http://identifiers.org/mesh/D009361"
+}, {
+  "po" : 374,
+  "n" : "type",
+  "v" : "bioprocess"
+}, {
+  "po" : 374,
+  "n" : "GO",
+  "v" : "http://identifiers.org/go/GO:0001525"
+}, {
+  "po" : 387,
+  "n" : "type",
+  "v" : "chemical"
+}, {
+  "po" : 387,
+  "n" : "ChEBI",
+  "v" : "http://identifiers.org/chebi/CHEBI:27899"
+}, {
+  "po" : 387,
+  "n" : "PubChem",
+  "v" : "http://identifiers.org/pubchem.compound/441203"
+}]}, {"supports":[{
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 4,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 5,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 6,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 10,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 11,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 12,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 15,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 16,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR1 functions as a negative regulator of VEGFR2 a soluble form of the extracellular VEGFR1 domain occurs naturally, and overexpression of this form, but not of an artificial soluble VEGFR2, inhibits VEGF-induced migration and proliferation of HUVECs by forming an inactive complex with VEGF and the full-length VEGFR2",
+  "citation" : null,
+  "@id" : 17,
+  "attributes" : [ ]
+}, {
+  "text" : "This was shown to increase the association of VEGF with its receptor VEGFR2 (REF. 50).",
+  "citation" : null,
+  "@id" : 22,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 23,
+  "attributes" : [ ]
+}, {
+  "text" : "The matrix metalloproteinase (MMP)-9 was also found to be a component of the angiogenic switch. By releasing sequestered VEGF, this proteinase makes VEGF available for interaction with its receptors45.",
+  "citation" : null,
+  "@id" : 24,
+  "attributes" : [ ]
+}, {
+  "text" : "a function of MMP9 is to render VEGF bioavailable to its receptors VEGF blockade inhibits bone repair",
+  "citation" : null,
+  "@id" : 25,
+  "attributes" : [ ]
+}, {
+  "text" : "This was shown to increase the association of VEGF with its receptor VEGFR2 (REF. 50).",
+  "citation" : null,
+  "@id" : 26,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 27,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 28,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 29,
+  "attributes" : [ ]
+}, {
+  "text" : "a function of MMP9 is to render VEGF bioavailable to its receptors VEGF blockade inhibits bone repair",
+  "citation" : null,
+  "@id" : 30,
+  "attributes" : [ ]
+}, {
+  "text" : "The matrix metalloproteinase (MMP)-9 was also found to be a component of the angiogenic switch. By releasing sequestered VEGF, this proteinase makes VEGF available for interaction with its receptors45.",
+  "citation" : null,
+  "@id" : 31,
+  "attributes" : [ ]
+}, {
+  "text" : "We show that FOS and JUN bind to and activate a specific set of vascular genes and that AP-1 inhibition shifts the balance between smooth muscle and hematopoietic differentiation towards blood.",
+  "citation" : null,
+  "@id" : 37,
+  "attributes" : [ ]
+}, {
+  "text" : "We show that FOS and JUN bind to and activate a specific set of vascular genes and that AP-1 inhibition shifts the balance between smooth muscle and hematopoietic differentiation towards blood.",
+  "citation" : null,
+  "@id" : 38,
+  "attributes" : [ ]
+}, {
+  "text" : "For instance, ERalpha activates BRCA1 expression by interacting with jun and fos complex bound to the AP-1 site in BRCA1 promoter.",
+  "citation" : null,
+  "@id" : 39,
+  "attributes" : [ ]
+}, {
+  "text" : "during hypoxia-induced apoptosis, only the phosphorylated HIF1A binds ARNT the dephosphorylated form of HIF1A binds p53 and induces apoptosis",
+  "citation" : null,
+  "@id" : 44,
+  "attributes" : [ ]
+}, {
+  "text" : "during hypoxia-induced apoptosis, only the phosphorylated HIF1A binds ARNT the dephosphorylated form of HIF1A binds p53 and induces apoptosis",
+  "citation" : null,
+  "@id" : 45,
+  "attributes" : [ ]
+}, {
+  "text" : "during hypoxia-induced apoptosis, only the phosphorylated HIF1A binds ARNT the dephosphorylated form of HIF1A binds p53 and induces apoptosis",
+  "citation" : null,
+  "@id" : 46,
+  "attributes" : [ ]
+}, {
+  "text" : "during hypoxia-induced apoptosis, only the phosphorylated HIF1A binds ARNT the dephosphorylated form of HIF1A binds p53 and induces apoptosis",
+  "citation" : null,
+  "@id" : 47,
+  "attributes" : [ ]
+}, {
+  "text" : "Likewise, NF-kappaB inhibitor blocked LPS induced NF-kappaB and c-Jun binding to the promoter.",
+  "citation" : null,
+  "@id" : 51,
+  "attributes" : [ ]
+}, {
+  "text" : "We found that inhibition of ERK1/2 signaling reduced LPS stimulated c-Jun and NF-kappaB recruitment to the promoter.",
+  "citation" : null,
+  "@id" : 52,
+  "attributes" : [ ]
+}, {
+  "text" : "Importantly, chromatin immunoprecipitation assays revealed the recruitment of c-Jun and NF-kappaB to the endogenous Fra-1 promoter after LPS stimulation.",
+  "citation" : null,
+  "@id" : 53,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of c-Jun and Tet1 to Zta enhances promoter demethylation, resulting in the activation of Zta, the stimulation of BHRF1 (a lytic early gene) and gp350/220 (a lytic late gene), and ultimately the reactivation of EBV.",
+  "citation" : null,
+  "@id" : 57,
+  "attributes" : [ ]
+}, {
+  "text" : "More importantly, we reveal for the first time that c-Jun interacts with DNA dioxygenase Tet1 and facilitates Tet1 to bind to Zta promoter.",
+  "citation" : null,
+  "@id" : 58,
+  "attributes" : [ ]
+}, {
+  "text" : "More importantly, we reveal for the first time that c-Jun interacts with DNA dioxygenase Tet1 and facilitates Tet1 to bind to Zta promoter.",
+  "citation" : null,
+  "@id" : 59,
+  "attributes" : [ ]
+}, {
+  "text" : "The molecular interaction between c-Jun and Zbtb7c also prevents phosphorylation of c-Jun by p-Jnk, However, Zbtb7c phosphorylation by p-Jnk (induced by TNFalpha), and its (Zbtb7c) subsequent degradation by the ubiquitin mediated proteasomal pathway, leads to c-Jun phosphorylation by p-Jnk.",
+  "citation" : null,
+  "@id" : 63,
+  "attributes" : [ ]
+}, {
+  "text" : "The molecular interaction between c-Jun and Zbtb7c also prevents phosphorylation of c-Jun by p-Jnk, However, Zbtb7c phosphorylation by p-Jnk (induced by TNFalpha), and its (Zbtb7c) subsequent degradation by the ubiquitin mediated proteasomal pathway, leads to c-Jun phosphorylation by p-Jnk.",
+  "citation" : null,
+  "@id" : 64,
+  "attributes" : [ ]
+}, {
+  "text" : "c-Jun, bound at AP-1, interacts with Zbtb7c, which in turn recruits an NCoR and Hdac3 complex to repress several Mmp (-8, -10, -13, and -16) genes.",
+  "citation" : null,
+  "@id" : 65,
+  "attributes" : [ ]
+}, {
+  "text" : "c-Jun, bound at AP-1, interacts with Zbtb7c, which in turn recruits an NCoR and Hdac3 complex to repress several Mmp (-8, -10, -13, and -16) genes.",
+  "citation" : null,
+  "@id" : 66,
+  "attributes" : [ ]
+}, {
+  "text" : "Neuropilin-2 binds to VEGFR1, while neuropilin-1 binds to VEGF-165 and increases its affinity for VEGFR2 by approximately one order of magnitude",
+  "citation" : null,
+  "@id" : 73,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 74,
+  "attributes" : [ ]
+}, {
+  "text" : "These results implicate NO and prostacyclin produced by the interaction of VEGF/VPF with its Flk-1/KDR/VEGF-R2 receptor as mediators of VEGF/VPF-induced vascular permeability.",
+  "citation" : null,
+  "@id" : 75,
+  "attributes" : [ ]
+}, {
+  "text" : "These results implicate NO and prostacyclin produced by the interaction of VEGF/VPF with its Flk-1/KDR/VEGF-R2 receptor as mediators of VEGF/VPF-induced vascular permeability.",
+  "citation" : null,
+  "@id" : 76,
+  "attributes" : [ ]
+}, {
+  "text" : "TIMP3 blocks the binding of VEGF to VEGF receptor-2 and inhibits downstream signaling and angiogenesis",
+  "citation" : null,
+  "@id" : 77,
+  "attributes" : [ ]
+}, {
+  "text" : "TIMP3 blocks the binding of VEGF to VEGF receptor-2 and inhibits downstream signaling and angiogenesis",
+  "citation" : null,
+  "@id" : 78,
+  "attributes" : [ ]
+}, {
+  "text" : "A median decrease of 66.7% in phosphorylated VEGFR2 (Y951) in tumor cells (P = .004) and median increase of 128.9% in tumor apoptosis (P = .0008) were seen after bevacizumab alone.",
+  "citation" : null,
+  "@id" : 79,
+  "attributes" : [ ]
+}, {
+  "text" : "once bound to its receptor, VEGF initiates an intracellular signaling cascade that leads to changes in expression of the gene that promote endothelial cell migration and proliferation",
+  "citation" : null,
+  "@id" : 80,
+  "attributes" : [ ]
+}, {
+  "text" : "TIMP3 blocks the binding of VEGF to VEGF receptor-2 and inhibits downstream signaling and angiogenesis",
+  "citation" : null,
+  "@id" : 81,
+  "attributes" : [ ]
+}, {
+  "text" : "TIMP3 blocks the binding of VEGF to VEGF receptor-2 and inhibits downstream signaling and angiogenesis",
+  "citation" : null,
+  "@id" : 82,
+  "attributes" : [ ]
+}, {
+  "text" : "A median decrease of 66.7% in phosphorylated VEGFR2 (Y951) in tumor cells (P = .004) and median increase of 128.9% in tumor apoptosis (P = .0008) were seen after bevacizumab alone.",
+  "citation" : null,
+  "@id" : 83,
+  "attributes" : [ ]
+}, {
+  "text" : "Neuropilin-2 binds to VEGFR1, while neuropilin-1 binds to VEGF-165 and increases its affinity for VEGFR2 by approximately one order of magnitude",
+  "citation" : null,
+  "@id" : 84,
+  "attributes" : [ ]
+}, {
+  "text" : "Furthermore, Suv39h1 interacted with MEF2C directly and inhibited MEF2 transcription activity in a dose dependent manner.",
+  "citation" : null,
+  "@id" : 89,
+  "attributes" : [ ]
+}, {
+  "text" : "Furthermore, Suv39h1 interacted with MEF2C directly and inhibited MEF2 transcription activity in a dose dependent manner.",
+  "citation" : null,
+  "@id" : 90,
+  "attributes" : [ ]
+}, {
+  "text" : "We found that MITF could bind TP53 to regulate CDKN1A.",
+  "citation" : null,
+  "@id" : 93,
+  "attributes" : [ ]
+}, {
+  "text" : "Furthermore, the interaction between MITF and TP53 is dependent on AKT activity.",
+  "citation" : null,
+  "@id" : 94,
+  "attributes" : [ ]
+}, {
+  "text" : "Mechanisms of p53 Functional De-Regulation : Role of the IkappaB-alpha and p53 Complex.",
+  "citation" : null,
+  "@id" : 98,
+  "attributes" : [ ]
+}, {
+  "text" : "Here, we review the mechanisms of p53 functional inactivation, with a particular emphasis on the interaction between p53 and IkappaB-alpha, the NFKBIA gene product.",
+  "citation" : null,
+  "@id" : 99,
+  "attributes" : [ ]
+}, {
+  "text" : "9880324;8622701;12601080",
+  "citation" : null,
+  "@id" : 105,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 108,
+  "attributes" : [ ]
+}, {
+  "text" : "9880324;8622701;12601080",
+  "citation" : null,
+  "@id" : 111,
+  "attributes" : [ ]
+}, {
+  "text" : "Stimulation of fibroblast growth factor receptor-1 (FGFR-1) is known to result in phosphorylation of tyrosine 766 and the recruitment and subsequent activation of phospholipase C-gamma (PLC-gamma).",
+  "citation" : null,
+  "@id" : 115,
+  "attributes" : [ ]
+}, {
+  "text" : "9880324;8622701",
+  "citation" : null,
+  "@id" : 116,
+  "attributes" : [ ]
+}, {
+  "text" : "11513746;9722576;9600074",
+  "citation" : null,
+  "@id" : 122,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 125,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 128,
+  "attributes" : [ ]
+}, {
+  "text" : "Intriguingly, our results showed that irisin stimulated LKB1 phosphorylation and that inhibition of neither CaMKKbeta nor calmodulin altered irisin induced AMPK and ACC phosphorylation, implying that LKB1 may be the major pathway for irisin induced activation of AMPK in hepatocytes.",
+  "citation" : null,
+  "@id" : 132,
+  "attributes" : [ ]
+}, {
+  "text" : "Irisin also induced phosphorylation of ACC, a downstream substrate of AMPK.",
+  "citation" : null,
+  "@id" : 133,
+  "attributes" : [ ]
+}, {
+  "text" : "Meanwhile, pretreatment of cells with STO-609 (CaMKKbeta inhibitor) or ophiobolin A (calmodulin inhibitor) prior to irisin stimulation did not block irisin induced AMPKalpha and ACC phosphorylation (B and C), suggesting that the Ca and CaMKKbeta pathway was not involved in the stimulatory action of irisin on AMPK signaling.",
+  "citation" : null,
+  "@id" : 134,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 139,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites.",
+  "citation" : null,
+  "@id" : 140,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR2 is presumably activated through ligand-stimulated receptor dimerization and transphosphorylation (autophosphorylation) of tyrosine residues in the cytoplasmic kinase domain 4 major autophosphorylation sites have been identified in VEGFR2: Y951, Y996, Y1054 and Y1059",
+  "citation" : null,
+  "@id" : 141,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites.",
+  "citation" : null,
+  "@id" : 146,
+  "attributes" : [ ]
+}, {
+  "text" : "10579917;11435426",
+  "citation" : null,
+  "@id" : 147,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR2 is presumably activated through ligand-stimulated receptor dimerization and transphosphorylation (autophosphorylation) of tyrosine residues in the cytoplasmic kinase domain 4 major autophosphorylation sites have been identified in VEGFR2: Y951, Y996, Y1054 and Y1059",
+  "citation" : null,
+  "@id" : 148,
+  "attributes" : [ ]
+}, {
+  "text" : "10579917;11387210;10749680;14532277",
+  "citation" : null,
+  "@id" : 152,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites.",
+  "citation" : null,
+  "@id" : 153,
+  "attributes" : [ ]
+}, {
+  "text" : "12023952;11387210",
+  "citation" : null,
+  "@id" : 157,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites.",
+  "citation" : null,
+  "@id" : 158,
+  "attributes" : [ ]
+}, {
+  "text" : "The binding of VEGF-A to VEGFR-2 causes receptor dimerization, kinase activation and autophosphorylation of specific tyrosine residues within the dimeric complex. Tyrosine(Y)951 in the kinase-insert domain, Y1054 and Y1059 in the kinase domain and Y1175 and Y1214 in the C-terminal tail have been shown to serve as autophosphorylation sites.",
+  "citation" : null,
+  "@id" : 164,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR2 is presumably activated through ligand-stimulated receptor dimerization and transphosphorylation (autophosphorylation) of tyrosine residues in the cytoplasmic kinase domain 4 major autophosphorylation sites have been identified in VEGFR2: Y951, Y996, Y1054 and Y1059",
+  "citation" : null,
+  "@id" : 165,
+  "attributes" : [ ]
+}, {
+  "text" : "10579917;11435426",
+  "citation" : null,
+  "@id" : 166,
+  "attributes" : [ ]
+}, {
+  "text" : "A median decrease of 66.7% in phosphorylated VEGFR2 (Y951) in tumor cells (P = .004) and median increase of 128.9% in tumor apoptosis (P = .0008) were seen after bevacizumab alone.",
+  "citation" : null,
+  "@id" : 167,
+  "attributes" : [ ]
+}, {
+  "text" : "VEGFR2 is presumably activated through ligand-stimulated receptor dimerization and transphosphorylation (autophosphorylation) of tyrosine residues in the cytoplasmic kinase domain 4 major autophosphorylation sites have been identified in VEGFR2: Y951, Y996, Y1054 and Y1059",
+  "citation" : null,
+  "@id" : 171,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 172,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 176,
+  "attributes" : [ ]
+}, {
+  "text" : "PhosphoElm data from PMID 15212693",
+  "citation" : null,
+  "@id" : 179,
+  "attributes" : [ ]
+}, {
+  "text" : "Pon et al described a beta2 adrenergic receptor activated feed-forward loop driving the invasiveness of the highly metastatic MDA-MB-231-HM breast cancer cell line [XREF_BIBR].",
+  "citation" : null,
+  "@id" : 190,
+  "attributes" : [ ]
+}, {
+  "text" : "Pon et al described a beta2 adrenergic receptor activated feed-forward loop driving the invasiveness of the highly metastatic MDA-MB-231-HM breast cancer cell line [XREF_BIBR].",
+  "citation" : null,
+  "@id" : 191,
+  "attributes" : [ ]
+}, {
+  "text" : "However, CLI-095-elicited beneficial effect was mitigated by the AMPK activator AICAR or the mTOR inhibitor rapamycin ().",
+  "citation" : null,
+  "@id" : 195,
+  "attributes" : [ ]
+}, {
+  "text" : "To assess the role of TLR4 and autophagy in paraquat induced cardiomyocyte contractile response, cardiomyocytes from adult WT mice were treated with paraquat (100muMu) at 37degreesC for 4hrs () in the presence or absence of TLR4 inhibitor CLI-095 (400nM) (), the AMPK activator AICAR (500muM) () or the autophagy inducer rapamycin (5muM) ().",
+  "citation" : null,
+  "@id" : 196,
+  "attributes" : [ ]
+}, {
+  "text" : "To elucidate a cause-effect relationship of TLR4 receptor and autophagy in paraquat induced cardiac anomalies, cardiomyocytes from wild type mice were isolated and exposed to paraquat in the presence or absence of the TLR4 inhibitor CLI-095, the AMPK activator AICAR and the mTOR inhibitor rapamycin.",
+  "citation" : null,
+  "@id" : 197,
+  "attributes" : [ ]
+}, {
+  "text" : "Latent HIV-1 reactivation in THP-89 cells was also shown to be mediated by AMPK dependent phosphorylation of PKC, as the AMPK inhibitor compound C partly ablated latent HIV-1 reactivation while pretreatment with AMPK activators AICAR or metformin combined with bryostatin followed by the PKC inhibitor rottlerin led to a significant decrease in latent HIV-1 reactivation.",
+  "citation" : null,
+  "@id" : 198,
+  "attributes" : [ ]
+}, {
+  "text" : "A number of studies have demonstrated that in addition to gonadotropin hormones and AMPK activators such as AICAR, a variety of compounds and methodologies that are known to induce cellular stress also stimulate meiotic resumption in denuded, cumulus enclosed, and follicle enclosed oocytes via AMPK activation.",
+  "citation" : null,
+  "@id" : 199,
+  "attributes" : [ ]
+}, {
+  "text" : "To elucidate a cause-effect relationship of TLR4 receptor and autophagy in paraquat induced cardiac anomalies, cardiomyocytes from wild type mice were isolated and exposed to paraquat in the presence or absence of the TLR4 inhibitor CLI-095, the AMPK activator AICAR and the mTOR inhibitor rapamycin.",
+  "citation" : null,
+  "@id" : 201,
+  "attributes" : [ ]
+}, {
+  "text" : "However, CLI-095-elicited beneficial effect was mitigated by the AMPK activator AICAR or the mTOR inhibitor rapamycin ().",
+  "citation" : null,
+  "@id" : 202,
+  "attributes" : [ ]
+}, {
+  "text" : "Latent HIV-1 reactivation in THP-89 cells was also shown to be mediated by AMPK dependent phosphorylation of PKC, as the AMPK inhibitor compound C partly ablated latent HIV-1 reactivation while pretreatment with AMPK activators AICAR or metformin combined with bryostatin followed by the PKC inhibitor rottlerin led to a significant decrease in latent HIV-1 reactivation.",
+  "citation" : null,
+  "@id" : 203,
+  "attributes" : [ ]
+}, {
+  "text" : "To assess the role of TLR4 and autophagy in paraquat induced cardiomyocyte contractile response, cardiomyocytes from adult WT mice were treated with paraquat (100muMu) at 37degreesC for 4hrs () in the presence or absence of TLR4 inhibitor CLI-095 (400nM) (), the AMPK activator AICAR (500muM) () or the autophagy inducer rapamycin (5muM) ().",
+  "citation" : null,
+  "@id" : 204,
+  "attributes" : [ ]
+}, {
+  "text" : "Interestingly, mitochondrial function and ATP generation, which is enhanced by AMPK activation, is critical for both T cell activation and oocyte activation through mitochondrial accumulation at the immunological synapse and facilitation of Ca oscillations through Ca buffering, respectively.",
+  "citation" : null,
+  "@id" : 207,
+  "attributes" : [ ]
+}, {
+  "text" : "Indeed, p32 is upregulated on trichostatin A induced latent HIV-1 reactivation and inhibits ASF and SF2, interacts with all mitochondrial mRNA species, and is likely induced by AMPK due to the necessity of efficient mitochondrial Ca buffering and ATP generation required to facilitate Ca oscillations essential for oocyte and T cell activation.",
+  "citation" : null,
+  "@id" : 208,
+  "attributes" : [ ]
+}, {
+  "text" : "In consideration of the fact that mTOR acts as a key sensor of nutrient status and AMPK can activate autophagy indirectly by regulating activity of mTOR, whether downstream protective effects of ZLN005 are AMPK dependent is of possibility and worthy of further investigation.",
+  "citation" : null,
+  "@id" : 211,
+  "attributes" : [ ]
+}, {
+  "text" : "However, the underlying mechanisms of AMPK activation in autophagy induction remain unknown.",
+  "citation" : null,
+  "@id" : 212,
+  "attributes" : [ ]
+}, {
+  "text" : "In addition, AMPK dramatically increased the activity of transcription factor FOXO3a, up-regulated the expression of its downstream ubiquitin ligase MAFbx, and enhanced cardiomyocyte proteolysis.",
+  "citation" : null,
+  "@id" : 215,
+  "attributes" : [ ]
+}, {
+  "text" : "The authors also demonstrated that GnRH stimulates AMPK in primary mouse pituitary cells and that AMPK inhibition suppresses LHbeta transcription stimulated by GnRH.",
+  "citation" : null,
+  "@id" : 216,
+  "attributes" : [ ]
+}, {
+  "text" : "We therefore evaluated Ankrd1 expression and found a strong increase of mRNA levels in mTORcmKO hearts (C) suggesting that AnkrD1 may activate p53 in our model.",
+  "citation" : null,
+  "@id" : 219,
+  "attributes" : [ ]
+}, {
+  "text" : "We therefore evaluated Ankrd1 expression and found a strong increase of mRNA levels in mTORcmKO hearts (C) suggesting that AnkrD1 may activate p53 in our model.",
+  "citation" : null,
+  "@id" : 220,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 225,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 226,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 227,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 228,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 232,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 233,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 237,
+  "attributes" : [ ]
+}, {
+  "text" : "Muscle specific loss of Bmal1 leads to disrupted tissue glucose metabolism and systemic glucose homeostasis.",
+  "citation" : null,
+  "@id" : 238,
+  "attributes" : [ ]
+}, {
+  "text" : "BDNF induced CREB activation is attenuated by inhibition of PLCgamma and CaMKII.",
+  "citation" : null,
+  "@id" : 243,
+  "attributes" : [ ]
+}, {
+  "text" : "To examine whether CaMKII was upstream of CREB activated by BDNF, we treated DRG explants culture with CaMKII specific inhibitor KN-93 (5muM) prior to BDNF stimulation and found that BDNF induced CREB activation was blocked by inhibition of CaMKII activity (F-G).",
+  "citation" : null,
+  "@id" : 244,
+  "attributes" : [ ]
+}, {
+  "text" : "Concordantly, exogenous BDNF is also able to activate CREB in the DRG.",
+  "citation" : null,
+  "@id" : 247,
+  "attributes" : [ ]
+}, {
+  "text" : "To examine the signaling pathways that mediated BDNF induced CREB activation in the DRG, we treated the DRG explants culture with BDNF (50ng/mL) and found that BDNF elicited a 2-3 folds increase in CREB activity at 5 and 10min post-treatment (A and B).",
+  "citation" : null,
+  "@id" : 248,
+  "attributes" : [ ]
+}, {
+  "text" : "Demonstrated in the present study, BDNF induces CREB activation in vitro and also regulates CREB activation in bladder afferent neurons in vivo.",
+  "citation" : null,
+  "@id" : 249,
+  "attributes" : [ ]
+}, {
+  "text" : "To examine whether CaMKII was upstream of CREB activated by BDNF, we treated DRG explants culture with CaMKII specific inhibitor KN-93 (5muM) prior to BDNF stimulation and found that BDNF induced CREB activation was blocked by inhibition of CaMKII activity (F-G).",
+  "citation" : null,
+  "@id" : 250,
+  "attributes" : [ ]
+}, {
+  "text" : "As AMPK alpha1 has been shown to be essential for T cell responses to viral and bacterial challenges and T cell deletion of AMPK alpha1 leads to a reduction in cellular ATP and mitochondrial biogenetics, CaMKK2 dependent activation of AMPK may potentially represent a central mechanism mediating both oocyte activation and TALHR.",
+  "citation" : null,
+  "@id" : 254,
+  "attributes" : [ ]
+}, {
+  "text" : "We also found that CaMKK2 is able to activate AMPK in C2C12 myocytes.",
+  "citation" : null,
+  "@id" : 255,
+  "attributes" : [ ]
+}, {
+  "text" : "Increased intracellular Ca leads to CaMKK2 activation of AMPK in preadipocytes, which together maintain expression of preadipocyte factor-1 ().",
+  "citation" : null,
+  "@id" : 256,
+  "attributes" : [ ]
+}, {
+  "text" : "AMPK activation by Ca induced activation of CaMKK2 in both oocytes and T cells thus likely plays a pivotal role in sustaining mitochondrial integrity necessary for activation of both cell types.",
+  "citation" : null,
+  "@id" : 259,
+  "attributes" : [ ]
+}, {
+  "text" : "In addition to the AMPK kinase LKB1, CaMKK2, a Ca and CaM-dependent upstream kinase of AMPK, is upregulated on T cell activation and is also present in mouse oocytes and persists until the zygote and two-cell stages, suggesting that certain cellular stress inducing compounds and methodologies that induce latent HIV-1 reactivation and artificial oocyte activation likely do so via Ca induced AMPK activation.",
+  "citation" : null,
+  "@id" : 260,
+  "attributes" : [ ]
+}, {
+  "text" : "To establish if there was a link between induction of CHOP by LCA and that of autophagy, PC-3 cells were treated with siRNA to silence CHOP and then exposed to 30 or 50 microM LCA (XREF_FIG).",
+  "citation" : null,
+  "@id" : 265,
+  "attributes" : [ ]
+}, {
+  "text" : "ER stress-inhibitor salubrinal and CHOP gene silencing do not abrogate LCA induced cytotoxicity or apoptosis.",
+  "citation" : null,
+  "@id" : 266,
+  "attributes" : [ ]
+}, {
+  "text" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival.",
+  "citation" : null,
+  "@id" : 270,
+  "attributes" : [ ]
+}, {
+  "text" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival.",
+  "citation" : null,
+  "@id" : 271,
+  "attributes" : [ ]
+}, {
+  "text" : "An inhibitor of fibroblast growth factor receptor-1 (FGFR1) promotes late-stage terminal differentiation from NGN3+ pancreatic endocrine progenitors.",
+  "citation" : null,
+  "@id" : 275,
+  "attributes" : [ ]
+}, {
+  "text" : "An inhibitor of fibroblast growth factor receptor-1 (FGFR1) promotes late-stage terminal differentiation from NGN3+ pancreatic endocrine progenitors.",
+  "citation" : null,
+  "@id" : 276,
+  "attributes" : [ ]
+}, {
+  "text" : "Using these cells, we conducted high-throughput screening of chemicals and identified a specific kinase inhibitor of fibroblast growth factor receptor 1 (FGFR1) that acted in a stage dependent manner to promote the terminal differentiation of pancreatic endocrine cells, including beta cells, from the intermediate stage of pancreatic endocrine progenitors while blocking the early development of pancreatic progenitors.",
+  "citation" : null,
+  "@id" : 280,
+  "attributes" : [ ]
+}, {
+  "text" : "Using these cells, we conducted high-throughput screening of chemicals and identified a specific kinase inhibitor of fibroblast growth factor receptor 1 (FGFR1) that acted in a stage dependent manner to promote the terminal differentiation of pancreatic endocrine cells, including beta cells, from the intermediate stage of pancreatic endocrine progenitors while blocking the early development of pancreatic progenitors.",
+  "citation" : null,
+  "@id" : 281,
+  "attributes" : [ ]
+}, {
+  "text" : "Our results suggest that local FGF2 production may not limit cell proliferation in the human SEZ and indicate that both, FGF2 and FGFR1, may co-operate to promote glial differentiation and maintenance.",
+  "citation" : null,
+  "@id" : 282,
+  "attributes" : [ ]
+}, {
+  "text" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival.",
+  "citation" : null,
+  "@id" : 286,
+  "attributes" : [ ]
+}, {
+  "text" : "XREF_BIBR Although relatively little is known about the role of other FGFRs in UC, FGFR1 expression is known to be increased in the majority of bladder cancer cell lines regardless of tumor stage and grade, XREF_BIBR and increased FGFR1 expression induces increased proliferation and cell survival.",
+  "citation" : null,
+  "@id" : 287,
+  "attributes" : [ ]
+}, {
+  "text" : "FMN can indeed inhibit the VEGF secretion of ARPE-19 cells under hypoxia, downregulate the mRNA expression of VEGFA and PHD-2, and decrease the protein expression of VEGF, HIF-1alpha, and PHD-2 in vitro.",
+  "citation" : null,
+  "@id" : 291,
+  "attributes" : [ ]
+}, {
+  "text" : "FMN can indeed inhibit the VEGF secretion of ARPE-19 cells under hypoxia, downregulate the mRNA expression of VEGFA and PHD-2, and decrease the protein expression of VEGF, HIF-1alpha, and PHD-2 in vitro.",
+  "citation" : null,
+  "@id" : 292,
+  "attributes" : [ ]
+}, {
+  "text" : "Hence, these results suggest that irisin activates AMPK through distinct mechanisms in different cell types, a situation reminiscent of adiponectin, which activates AMPK LKB1 and CaMKKbeta in hepatocytes () and myocytes () respectively.",
+  "citation" : null,
+  "@id" : 294,
+  "attributes" : [ ]
+}, {
+  "text" : "Recent studies have demonstrated that irisin activates AMPK signaling in skeletal muscle () and endothelial cells (), thus promoting skeletal muscle glucose uptake and improving endothelial function, respectively.",
+  "citation" : null,
+  "@id" : 295,
+  "attributes" : [ ]
+}, {
+  "text" : "The present results suggest that an interaction between irisin induced AMPK activation and insulin signaling may mediate the modulatory actions of irisin on hepatic glucose output and glycogen content.",
+  "citation" : null,
+  "@id" : 296,
+  "attributes" : [ ]
+}, {
+  "text" : "Moreover, HFI did not induce insulin resistance in the skeletal muscle of female and OVX rats but impaired the insulin stimulated glucose transport activity in the skeletal muscle of male rats, which was accompanied by lower insulin stimulated IRS-1 Tyr (989) (44%), Akt Ser (473) (30%) and AS160 Ser (588) (43%) and increases in insulin stimulated IRS-1 Ser (307) (78%), JNK Thr (183)/Tyr (185) (69%) and p38 MAPK Thr (180)/Tyr (182) (81%).",
+  "citation" : null,
+  "@id" : 301,
+  "attributes" : [ ]
+}, {
+  "text" : "Moreover, HFI did not induce insulin resistance in the skeletal muscle of female and OVX rats but impaired the insulin stimulated glucose transport activity in the skeletal muscle of male rats, which was accompanied by lower insulin stimulated IRS-1 Tyr (989) (44%), Akt Ser (473) (30%) and AS160 Ser (588) (43%) and increases in insulin stimulated IRS-1 Ser (307) (78%), JNK Thr (183)/Tyr (185) (69%) and p38 MAPK Thr (180)/Tyr (182) (81%).",
+  "citation" : null,
+  "@id" : 302,
+  "attributes" : [ ]
+}, {
+  "text" : "Silencing of c-Fos and/or c-Jun expression suppressed the IRAK-M promoter activity as well as its mRNA and protein expressions.",
+  "citation" : null,
+  "@id" : 306,
+  "attributes" : [ ]
+}, {
+  "text" : "Activator protein 1 promotes the transcriptional activation of IRAK-M.",
+  "citation" : null,
+  "@id" : 307,
+  "attributes" : [ ]
+}, {
+  "text" : "Here, we show that lactate dehydrogenase A (LDHA) is induced in activated T cells to support aerobic glycolysis but promotes IFN-gamma expression independently of its 3 ' UTR.",
+  "citation" : null,
+  "@id" : 311,
+  "attributes" : [ ]
+}, {
+  "text" : "Here, we show that lactate dehydrogenase A (LDHA) is induced in activated T cells to support aerobic glycolysis but promotes IFN-gamma expression independently of its 3 ' UTR.",
+  "citation" : null,
+  "@id" : 312,
+  "attributes" : [ ]
+}, {
+  "text" : "Similarly, 10muM LPA increased the production of VEGF by 1.87 +/-0.19-fold compared to that by the control cells.",
+  "citation" : null,
+  "@id" : 316,
+  "attributes" : [ ]
+}, {
+  "text" : "LPA upregulates VEGF via the transactivation of epidermal growth factor receptor, and the activation of COX-2 and NF-kappaB in cancer cells, as well as in HUVECs.",
+  "citation" : null,
+  "@id" : 317,
+  "attributes" : [ ]
+}, {
+  "text" : "MDM2 alterations often result in its overexpression and therefore promote inhibition of p53 activity.",
+  "citation" : null,
+  "@id" : 322,
+  "attributes" : [ ]
+}, {
+  "text" : "MDM2, a ubiquitin ligase, suppresses wild type TP53 via proteasome mediated degradation.",
+  "citation" : null,
+  "@id" : 323,
+  "attributes" : [ ]
+}, {
+  "text" : "Native musk and synthetic musk ketone can up-regulate IL-24 (interleukin family) and DDIT3 (MAPK signalling pathway) in lung cancer cells.",
+  "citation" : null,
+  "@id" : 327,
+  "attributes" : [ ]
+}, {
+  "text" : "Native musk and synthetic musk ketone can up-regulate IL-24 (interleukin family) and DDIT3 (MAPK signalling pathway) in lung cancer cells.",
+  "citation" : null,
+  "@id" : 328,
+  "attributes" : [ ]
+}, {
+  "text" : "Knockdown of Csx and Nkx2.5 specifically decreased endogenous FGF-16 RNA and protein levels, whereas Csx and Nkx2.5 overexpression stimulated levels, and increased resistance to the rapid DOX induced depletion of FGF-16.",
+  "citation" : null,
+  "@id" : 333,
+  "attributes" : [ ]
+}, {
+  "text" : "Knockdown of Csx and Nkx2.5 specifically decreased endogenous FGF-16 RNA and protein levels, whereas Csx and Nkx2.5 overexpression stimulated levels, and increased resistance to the rapid DOX induced depletion of FGF-16.",
+  "citation" : null,
+  "@id" : 334,
+  "attributes" : [ ]
+}, {
+  "text" : "PDZ binding kinase and T-LAK cell originated protein kinase (PBK and TOPK) is a serine threonine kinase and overexpressed in various types of cancer by inhibiting the transactivation activities of p53 and PTEN.",
+  "citation" : null,
+  "@id" : 338,
+  "attributes" : [ ]
+}, {
+  "text" : "PDZ binding kinase and T-LAK cell originated protein kinase (PBK and TOPK) is a serine threonine kinase and overexpressed in various types of cancer by inhibiting the transactivation activities of p53 and PTEN.",
+  "citation" : null,
+  "@id" : 339,
+  "attributes" : [ ]
+}, {
+  "text" : "Gene silencing reduced LCA induced levels of CHOP protein to undetectable levels in DU-145 cells (XREF_FIG).",
+  "citation" : null,
+  "@id" : 342,
+  "attributes" : [ ]
+}, {
+  "text" : "LCA caused sustained induction of CHOP at 30 microM in PC-3 cells, although levels were sharply lower at 50 microM, possible due to excessive cell death (XREF_FIG - XREF_FIG).",
+  "citation" : null,
+  "@id" : 343,
+  "attributes" : [ ]
+}, {
+  "text" : "To establish if there was a link between induction of CHOP by LCA and that of autophagy, PC-3 cells were treated with siRNA to silence CHOP and then exposed to 30 or 50 microM LCA (XREF_FIG).",
+  "citation" : null,
+  "@id" : 344,
+  "attributes" : [ ]
+}, {
+  "text" : "Given that salubrinal-pretreatment further increased levels of LCA induced CHOP in DU-145 cells, we assessed the effect of blocking CHOP gene expression using CHOP selective siRNA.",
+  "citation" : null,
+  "@id" : 345,
+  "attributes" : [ ]
+}, {
+  "text" : "Taken together, these findings suggest that upregulation of miR-22 in H9c2 cardiomyocytes exposed to H and R insult may be at least partly due to ROS induced activation of p53 signaling pathway.",
+  "citation" : null,
+  "@id" : 348,
+  "attributes" : [ ]
+}, {
+  "text" : "Taken together, these findings suggest that upregulation of miR-22 in H9c2 cardiomyocytes exposed to H and R insult may be at least partly due to ROS induced activation of p53 signaling pathway.",
+  "citation" : null,
+  "@id" : 349,
+  "attributes" : [ ]
+}, {
+  "text" : "Notably, TM7SF3 is a downstream target of p53 : activation of p53 by Nutlin increases TM7SF3 expression in a time dependent manner, although silencing of p53 abrogates this effect.",
+  "citation" : null,
+  "@id" : 353,
+  "attributes" : [ ]
+}, {
+  "text" : "Interestingly, silencing of TM7SF3 promotes p53 activity, suggesting the existence of a negative-feedback loop, whereby p53 promotes expression of TM7SF3 that acts to restrict p53 activity.",
+  "citation" : null,
+  "@id" : 354,
+  "attributes" : [ ]
+}, {
+  "text" : "Pretreatment with FK228 enhanced apoptosis induced by p53 family through increased expression of exogenous proteins.",
+  "citation" : null,
+  "@id" : 359,
+  "attributes" : [ ]
+}, {
+  "text" : "We have shown that p73 and p63, the newly discovered p53 family members, is effective in some of colorectal cancer cells resistant to p53 mediated apoptosis.",
+  "citation" : null,
+  "@id" : 360,
+  "attributes" : [ ]
+}, {
+  "text" : "PD treatment strongly but reversibly inhibited radiation induced p53 activation, which blocked p53 upregulated modulator of apoptosis dependent (PUMA dependent) apoptosis without affecting p21 dependent suppression of DNA damage accumulation, with a repair bias toward nonhomologous end joining.",
+  "citation" : null,
+  "@id" : 361,
+  "attributes" : [ ]
+}, {
+  "text" : "The p53 upregulated modulator of apoptosis (PUMA) and B cell lymphoma like protein 11 (BIM) levels were decreased at overtly toxic LCA concentrations, although PUMA levels increased at lower LCA concentrations in both cell lines.",
+  "citation" : null,
+  "@id" : 362,
+  "attributes" : [ ]
+}, {
+  "text" : "PD treatment strongly but reversibly inhibited radiation induced p53 activation, which blocked p53 upregulated modulator of apoptosis dependent (PUMA dependent) apoptosis without affecting p21 dependent suppression of DNA damage accumulation, with a repair bias toward nonhomologous end joining.",
+  "citation" : null,
+  "@id" : 363,
+  "attributes" : [ ]
+}, {
+  "text" : "Instead, OTA enhanced expression of another metabolic inactivating enzyme CYP3A4, attenuation of formation of AFB1-DNA adduct and p53 mediated cell cycle checking responses to the mutagens.",
+  "citation" : null,
+  "@id" : 367,
+  "attributes" : [ ]
+}, {
+  "text" : "Cellular senescence is associated with the expression of cell cycle inhibitors such as p53, p21, p16.",
+  "citation" : null,
+  "@id" : 368,
+  "attributes" : [ ]
+}, {
+  "text" : "Our findings provide explanations to 2 long lasting and important clinical conundrums : how WT TP53 can promote cancer cell invasion and reciprocally why mutant TP53 gene does not systematically induce cancer progression.",
+  "citation" : null,
+  "@id" : 372,
+  "attributes" : [ ]
+}, {
+  "text" : "Here we report, based on clinical analysis corroborated with experimental data, that the p53 isoform Delta133p53beta promotes cancer cell invasion, regardless of TP53 mutation status.",
+  "citation" : null,
+  "@id" : 373,
+  "attributes" : [ ]
+}, {
+  "text" : "It also blocked VEGF induced angiogenesis in a Matrigel plug assay.",
+  "citation" : null,
+  "@id" : 379,
+  "attributes" : [ ]
+}, {
+  "text" : "Therefore, in addition to anthracyclines, special attention should also be paid to many other classes of anticancer drugs that are known to have high risks for drug induced or exacerbated hypertension, especially, the angiogenesis inhibitors, including vascular endothelial growth factor (VEGF) inhibitors and tyrosine kinase inhibitors, which were discussed in detail in several recent review articles [XREF_BIBR, XREF_BIBR, XREF_BIBR].",
+  "citation" : null,
+  "@id" : 380,
+  "attributes" : [ ]
+}, {
+  "text" : "Vegfa signals through ERK to promote angiogenesis, but not artery differentiation.",
+  "citation" : null,
+  "@id" : 381,
+  "attributes" : [ ]
+}, {
+  "text" : "Therefore, in addition to anthracyclines, special attention should also be paid to many other classes of anticancer drugs that are known to have high risks for drug induced or exacerbated hypertension, especially, the angiogenesis inhibitors, including vascular endothelial growth factor (VEGF) inhibitors and tyrosine kinase inhibitors, which were discussed in detail in several recent review articles [XREF_BIBR, XREF_BIBR, XREF_BIBR].",
+  "citation" : null,
+  "@id" : 382,
+  "attributes" : [ ]
+}, {
+  "text" : "The proliferation of cells treated with 10ng/mL VEGF was approximately 1.7-2-fold of that of the control cells.",
+  "citation" : null,
+  "@id" : 385,
+  "attributes" : [ ]
+}, {
+  "text" : "In addition, COX-2 plays a role in VEGF induced proliferation of HUVECs via the activation of c-Jun N-terminal kinase (JNK).",
+  "citation" : null,
+  "@id" : 386,
+  "attributes" : [ ]
+}, {
+  "text" : "Whether cisplatin induced CHOP induction can also be triggered by a similar mechanism is currently under investigation by the present authors.",
+  "citation" : null,
+  "@id" : 390,
+  "attributes" : [ ]
+}, {
+  "text" : "The present results also revealed that ATF4, ATF3 and CHOP were all highly induced by cisplatin (XREF_FIG).",
+  "citation" : null,
+  "@id" : 391,
+  "attributes" : [ ]
+}]},{"status":[{"error":"","success":true}]}]

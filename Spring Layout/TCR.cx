@@ -1,0 +1,8153 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500415789930,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500415789932,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":150,"idCounter":150,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":294,"idCounter":599,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":5,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":300,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":580,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":155,"idCounter":155,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":150,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"cyVisualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"72008f63-02a4-11e6-b550-06603eb7f303","creationTime":1460681599191,"modificationTime":1500415789930,"visibility":"PUBLIC","published":false,"nodeCount":150,"edgeCount":294,"owner":"netpath","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://public.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303/summary","creationEvent":{"startedAtTime":1500415789927,"endedAtTime":1500415789927,"eventType":"Update Network Profile","inputs":[{"uri":"http://public.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303/summary","creationEvent":{"startedAtTime":1499377794952,"endedAtTime":1499377794952,"eventType":"CX network update","inputs":[{"uri":"http://public.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303/summary","creationEvent":{"startedAtTime":1499369128148,"endedAtTime":1499369128148,"eventType":"Update Network Profile","inputs":[{"uri":"http://public.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303/summary","creationEvent":{"startedAtTime":1499367551502,"endedAtTime":1499367551502,"eventType":"CX network update","inputs":[{"uri":"http://public.ndexbio.org/v2/network/72008f63-02a4-11e6-b550-06603eb7f303/summary","creationEvent":{"startedAtTime":1499363220895,"endedAtTime":1499363220895,"eventType":"CX network update","inputs":[{"uri":"http://public.ndexbio.org/network/72008f63-02a4-11e6-b550-06603eb7f303","creationEvent":{"startedAtTime":1461269368322,"endedAtTime":1461269368322,"eventType":"Set Network Properties","inputs":[{"uri":"http://public.ndexbio.org/network/72008f63-02a4-11e6-b550-06603eb7f303","creationEvent":{"startedAtTime":1461269368229,"endedAtTime":1461269368229,"eventType":"Update Network Profile","inputs":[{"uri":"http://public.ndexbio.org/network/72008f63-02a4-11e6-b550-06603eb7f303","creationEvent":{"startedAtTime":1460681599191,"endedAtTime":1460681599191,"eventType":"File Upload","inputs":null,"properties":[{"name":"user","value":"NetPath Database"},{"name":"account name","value":"netpath"},{"name":"filename","value":"NetPath_11.owl"}]},"properties":[{"name":"edge count","value":"5977"},{"name":"node count","value":"3066"},{"name":"dc:title","value":"NetPath_11"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"account name","value":"netpath"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]},"properties":[{"name":"edge count","value":"5977"},{"name":"node count","value":"3066"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"account name","value":"netpath"},{"name":"sourceFormat","value":"BIOPAX"},{"name":"Reference","value":"<div><i style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\">Kandasamy K. et al.  </i><b style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"><b></b><b><b></b></b><b><b></b><b><b></b></b></b><b><b></b><b><b></b></b><b><b></b><b><b>NetPath: a public resource of curated signal transduction pathways.</b></b></b></b></b><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><span style=\"color: rgb(51, 51, 51);float: none;background-color: rgb(255, 255, 255);\">Genome Biol. 2010 Jan 12;11(1):R3</span><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><a href=\"http://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-1-r3\" target=\"\" style=\"color: rgb(66, 139, 202);background-color: rgb(255, 255, 255);\">doi: 10.1186/gb-2010-11-1-r3.</a><br/></div>"}]},"properties":[{"name":"edge count","value":"5977"},{"name":"node count","value":"3066"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"user name","value":"netpath"}]},"properties":[{"name":"edge count","value":"294"},{"name":"node count","value":"150"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"user name","value":"netpath"}]},"properties":[{"name":"edge count","value":"294"},{"name":"node count","value":"150"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"user name","value":"netpath"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"},{"name":"version","value":"JUN-2017"}]},"properties":[{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"},{"name":"version","value":"JUN-2017"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"user name","value":"netpath"}]},"properties":[{"name":"edge count","value":"294"},{"name":"node count","value":"150"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"}]}],"properties":[{"name":"user","value":"NetPath Database"},{"name":"user name","value":"netpath"},{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"},{"name":"version","value":"JUN-2017"}]},"properties":[{"name":"dc:title","value":"TCR Signaling Pathway"},{"name":"description","value":"<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"},{"name":"version","value":"JUN-2017"}]}}]}, {"@context":[{
+  "cas" : "http://identifiers.org/cas/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "CD86"
+}, {
+  "@id" : 2,
+  "n" : "ATF2"
+}, {
+  "@id" : 3,
+  "n" : "WIPF1"
+}, {
+  "@id" : 4,
+  "n" : "CD80"
+}, {
+  "@id" : 5,
+  "n" : "SLA"
+}, {
+  "@id" : 6,
+  "n" : "CBLB"
+}, {
+  "@id" : 7,
+  "n" : "SLA2"
+}, {
+  "@id" : 8,
+  "n" : "CRKL"
+}, {
+  "@id" : 9,
+  "n" : "SIT1"
+}, {
+  "@id" : 10,
+  "n" : "GRAP2"
+}, {
+  "@id" : 11,
+  "n" : "ARHGDIB"
+}, {
+  "@id" : 12,
+  "n" : "AKT1"
+}, {
+  "@id" : 13,
+  "n" : "HOMER3"
+}, {
+  "@id" : 14,
+  "n" : "MAP3K8"
+}, {
+  "@id" : 15,
+  "n" : "TRB@"
+}, {
+  "@id" : 16,
+  "n" : "ICOSLG"
+}, {
+  "@id" : 17,
+  "n" : "MAP2K1"
+}, {
+  "@id" : 18,
+  "n" : "CISH"
+}, {
+  "@id" : 19,
+  "n" : "CD2AP"
+}, {
+  "@id" : 20,
+  "n" : "HDAC7A"
+}, {
+  "@id" : 21,
+  "n" : "DOK1"
+}, {
+  "@id" : 22,
+  "n" : "DOK2"
+}, {
+  "@id" : 23,
+  "n" : "CD8A"
+}, {
+  "@id" : 24,
+  "n" : "NCL"
+}, {
+  "@id" : 25,
+  "n" : "TRA@"
+}, {
+  "@id" : 26,
+  "n" : "PRKD2"
+}, {
+  "@id" : 27,
+  "n" : "PRKCQ"
+}, {
+  "@id" : 28,
+  "n" : "SKAP1"
+}, {
+  "@id" : 29,
+  "n" : "CARD11"
+}, {
+  "@id" : 30,
+  "n" : "SKAP2"
+}, {
+  "@id" : 31,
+  "n" : "KHDRBS1"
+}, {
+  "@id" : 32,
+  "n" : "SHC1"
+}, {
+  "@id" : 33,
+  "n" : "SH2D2A"
+}, {
+  "@id" : 34,
+  "n" : "TXK"
+}, {
+  "@id" : 35,
+  "n" : "PXN"
+}, {
+  "@id" : 36,
+  "n" : "ITPR1"
+}, {
+  "@id" : 37,
+  "n" : "STK39"
+}, {
+  "@id" : 38,
+  "n" : "DTX1"
+}, {
+  "@id" : 39,
+  "n" : "PIK3R2"
+}, {
+  "@id" : 40,
+  "n" : "BCL10"
+}, {
+  "@id" : 41,
+  "n" : "PIK3R1"
+}, {
+  "@id" : 42,
+  "n" : "RASGRP2"
+}, {
+  "@id" : 43,
+  "n" : "RASGRP1"
+}, {
+  "@id" : 44,
+  "n" : "RAP1A"
+}, {
+  "@id" : 45,
+  "n" : "INPP5D"
+}, {
+  "@id" : 46,
+  "n" : "ABL1"
+}, {
+  "@id" : 47,
+  "n" : "PLCG1"
+}, {
+  "@id" : 48,
+  "n" : "ICOS"
+}, {
+  "@id" : 49,
+  "n" : "PAG1"
+}, {
+  "@id" : 50,
+  "n" : "VASP"
+}, {
+  "@id" : 51,
+  "n" : "STAT5A"
+}, {
+  "@id" : 52,
+  "n" : "LYN"
+}, {
+  "@id" : 53,
+  "n" : "EGR1"
+}, {
+  "@id" : 54,
+  "n" : "STAT5B"
+}, {
+  "@id" : 55,
+  "n" : "JUN"
+}, {
+  "@id" : 56,
+  "n" : "CREBBP"
+}, {
+  "@id" : 57,
+  "n" : "NFATC2"
+}, {
+  "@id" : 58,
+  "n" : "NFATC1"
+}, {
+  "@id" : 59,
+  "n" : "PTK2"
+}, {
+  "@id" : 60,
+  "n" : "NFKBIA"
+}, {
+  "@id" : 61,
+  "n" : "DLG1"
+}, {
+  "@id" : 62,
+  "n" : "PTPRC"
+}, {
+  "@id" : 63,
+  "n" : "TUBA1"
+}, {
+  "@id" : 64,
+  "n" : "CD28"
+}, {
+  "@id" : 65,
+  "n" : "UNC119"
+}, {
+  "@id" : 66,
+  "n" : "GRB2"
+}, {
+  "@id" : 67,
+  "n" : "GRAP"
+}, {
+  "@id" : 68,
+  "n" : "MAP3K14"
+}, {
+  "@id" : 69,
+  "n" : "LAT"
+}, {
+  "@id" : 70,
+  "n" : "ITK"
+}, {
+  "@id" : 71,
+  "n" : "PTPN22"
+}, {
+  "@id" : 72,
+  "n" : "CD3G"
+}, {
+  "@id" : 73,
+  "n" : "PTPRH"
+}, {
+  "@id" : 74,
+  "n" : "CD3E"
+}, {
+  "@id" : 75,
+  "n" : "SHB"
+}, {
+  "@id" : 76,
+  "n" : "CD3D"
+}, {
+  "@id" : 77,
+  "n" : "CABIN1"
+}, {
+  "@id" : 78,
+  "n" : "IKBKB"
+}, {
+  "@id" : 79,
+  "n" : "PPP3CB"
+}, {
+  "@id" : 80,
+  "n" : "PSTPIP1"
+}, {
+  "@id" : 81,
+  "n" : "YWHAQ"
+}, {
+  "@id" : 82,
+  "n" : "CTLA4"
+}, {
+  "@id" : 83,
+  "n" : "JAK3"
+}, {
+  "@id" : 84,
+  "n" : "NCK1"
+}, {
+  "@id" : 85,
+  "n" : "MAP4K1"
+}, {
+  "@id" : 86,
+  "n" : "VAV3"
+}, {
+  "@id" : 87,
+  "n" : "DUSP3"
+}, {
+  "@id" : 88,
+  "n" : "DBNL"
+}, {
+  "@id" : 89,
+  "n" : "CHUK"
+}, {
+  "@id" : 90,
+  "n" : "SYK"
+}, {
+  "@id" : 91,
+  "n" : "RIPK2"
+}, {
+  "@id" : 92,
+  "n" : "NFAM1"
+}, {
+  "@id" : 93,
+  "n" : "TUBB"
+}, {
+  "@id" : 94,
+  "n" : "FCRL3"
+}, {
+  "@id" : 95,
+  "n" : "SH2D3C"
+}, {
+  "@id" : 96,
+  "n" : "FOS"
+}, {
+  "@id" : 97,
+  "n" : "GAB2"
+}, {
+  "@id" : 98,
+  "n" : "LIME1"
+}, {
+  "@id" : 99,
+  "n" : "YWHAZ"
+}, {
+  "@id" : 100,
+  "n" : "VAV1"
+}, {
+  "@id" : 101,
+  "n" : "DNM2"
+}, {
+  "@id" : 102,
+  "n" : "ENAH"
+}, {
+  "@id" : 103,
+  "n" : "ZAP70"
+}, {
+  "@id" : 104,
+  "n" : "CREB1"
+}, {
+  "@id" : 105,
+  "n" : "LCK"
+}, {
+  "@id" : 106,
+  "n" : "TRAF6"
+}, {
+  "@id" : 107,
+  "n" : "RASA1"
+}, {
+  "@id" : 108,
+  "n" : "RAPGEF1"
+}, {
+  "@id" : 109,
+  "n" : "LCP2"
+}, {
+  "@id" : 110,
+  "n" : "SOS1"
+}, {
+  "@id" : 111,
+  "n" : "DOCK2"
+}, {
+  "@id" : 112,
+  "n" : "ARHGEF7"
+}, {
+  "@id" : 113,
+  "n" : "SOS2"
+}, {
+  "@id" : 114,
+  "n" : "CRK"
+}, {
+  "@id" : 115,
+  "n" : "ARHGEF6"
+}, {
+  "@id" : 116,
+  "n" : "CEBPB"
+}, {
+  "@id" : 117,
+  "n" : "SRC"
+}, {
+  "@id" : 118,
+  "n" : "WAS"
+}, {
+  "@id" : 119,
+  "n" : "NEDD9"
+}, {
+  "@id" : 120,
+  "n" : "CBL"
+}, {
+  "@id" : 121,
+  "n" : "FYB"
+}, {
+  "@id" : 122,
+  "n" : "MALT1"
+}, {
+  "@id" : 123,
+  "n" : "RELA"
+}, {
+  "@id" : 124,
+  "n" : "CDC42"
+}, {
+  "@id" : 125,
+  "n" : "MAPK9"
+}, {
+  "@id" : 126,
+  "n" : "MUC1"
+}, {
+  "@id" : 127,
+  "n" : "PAK1"
+}, {
+  "@id" : 128,
+  "n" : "SH3BP2"
+}, {
+  "@id" : 129,
+  "n" : "STAT4"
+}, {
+  "@id" : 130,
+  "n" : "MAPK1"
+}, {
+  "@id" : 131,
+  "n" : "PTK2B"
+}, {
+  "@id" : 132,
+  "n" : "FYN"
+}, {
+  "@id" : 133,
+  "n" : "SH2B3"
+}, {
+  "@id" : 134,
+  "n" : "WASF2"
+}, {
+  "@id" : 135,
+  "n" : "GIT2"
+}, {
+  "@id" : 136,
+  "n" : "MAP3K1"
+}, {
+  "@id" : 137,
+  "n" : "TRAT1"
+}, {
+  "@id" : 138,
+  "n" : "PTPN11"
+}, {
+  "@id" : 139,
+  "n" : "PTPN12"
+}, {
+  "@id" : 140,
+  "n" : "MAPK14"
+}, {
+  "@id" : 141,
+  "n" : "DEF6"
+}, {
+  "@id" : 142,
+  "n" : "CD2"
+}, {
+  "@id" : 143,
+  "n" : "ITCH"
+}, {
+  "@id" : 144,
+  "n" : "CD4"
+}, {
+  "@id" : 145,
+  "n" : "CD5"
+}, {
+  "@id" : 146,
+  "n" : "ABI1"
+}, {
+  "@id" : 147,
+  "n" : "CTNNB1"
+}, {
+  "@id" : 148,
+  "n" : "PTPN6"
+}, {
+  "@id" : 149,
+  "n" : "CD247"
+}, {
+  "@id" : 150,
+  "n" : "PTPN3"
+}]}, {"edges":[{
+  "@id" : 130,
+  "s" : 1,
+  "t" : 82,
+  "i" : "interacts-with"
+}, {
+  "@id" : 579,
+  "s" : 3,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 128,
+  "s" : 4,
+  "t" : 82,
+  "i" : "interacts-with"
+}, {
+  "@id" : 551,
+  "s" : 5,
+  "t" : 90,
+  "i" : "interacts-with"
+}, {
+  "@id" : 553,
+  "s" : 5,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 28,
+  "s" : 6,
+  "t" : 8,
+  "i" : "interacts-with"
+}, {
+  "@id" : 30,
+  "s" : 6,
+  "t" : 66,
+  "i" : "interacts-with"
+}, {
+  "@id" : 32,
+  "s" : 6,
+  "t" : 90,
+  "i" : "interacts-with"
+}, {
+  "@id" : 34,
+  "s" : 6,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 549,
+  "s" : 7,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 152,
+  "s" : 8,
+  "t" : 3,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 153,
+  "s" : 8,
+  "t" : 3,
+  "i" : "interacts-with"
+}, {
+  "@id" : 148,
+  "s" : 8,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 150,
+  "s" : 8,
+  "t" : 118,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 155,
+  "s" : 8,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 288,
+  "s" : 10,
+  "t" : 75,
+  "i" : "interacts-with"
+}, {
+  "@id" : 282,
+  "s" : 10,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 286,
+  "s" : 10,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 284,
+  "s" : 10,
+  "t" : 109,
+  "i" : "interacts-with"
+}, {
+  "@id" : 7,
+  "s" : 11,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 9,
+  "s" : 11,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 5,
+  "s" : 12,
+  "t" : 27,
+  "i" : "interacts-with"
+}, {
+  "@id" : 448,
+  "s" : 17,
+  "t" : 130,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 450,
+  "s" : 17,
+  "t" : 130,
+  "i" : "interacts-with"
+}, {
+  "@id" : 144,
+  "s" : 18,
+  "t" : 27,
+  "i" : "interacts-with"
+}, {
+  "@id" : 86,
+  "s" : 19,
+  "t" : 80,
+  "i" : "interacts-with"
+}, {
+  "@id" : 184,
+  "s" : 21,
+  "t" : 62,
+  "i" : "interacts-with"
+}, {
+  "@id" : 186,
+  "s" : 22,
+  "t" : 66,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 188,
+  "s" : 22,
+  "t" : 45,
+  "i" : "interacts-with"
+}, {
+  "@id" : 190,
+  "s" : 22,
+  "t" : 69,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 134,
+  "s" : 23,
+  "t" : 105,
+  "i" : "interacts-with"
+}, {
+  "@id" : 132,
+  "s" : 23,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 564,
+  "s" : 25,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 507,
+  "s" : 26,
+  "t" : 20,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 504,
+  "s" : 27,
+  "t" : 3,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 500,
+  "s" : 27,
+  "t" : 37,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 502,
+  "s" : 27,
+  "t" : 37,
+  "i" : "interacts-with"
+}, {
+  "@id" : 547,
+  "s" : 28,
+  "t" : 117,
+  "i" : "interacts-with"
+}, {
+  "@id" : 24,
+  "s" : 29,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 26,
+  "s" : 29,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 543,
+  "s" : 32,
+  "t" : 110,
+  "i" : "interacts-with"
+}, {
+  "@id" : 545,
+  "s" : 32,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 192,
+  "s" : 38,
+  "t" : 136,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 491,
+  "s" : 39,
+  "t" : 137,
+  "i" : "interacts-with"
+}, {
+  "@id" : 20,
+  "s" : 40,
+  "t" : 91,
+  "i" : "interacts-with"
+}, {
+  "@id" : 18,
+  "s" : 40,
+  "t" : 29,
+  "i" : "interacts-with"
+}, {
+  "@id" : 489,
+  "s" : 41,
+  "t" : 137,
+  "i" : "interacts-with"
+}, {
+  "@id" : 487,
+  "s" : 41,
+  "t" : 39,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 532,
+  "s" : 43,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 528,
+  "s" : 44,
+  "t" : 42,
+  "i" : "interacts-with"
+}, {
+  "@id" : 343,
+  "s" : 45,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 3,
+  "s" : 46,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 496,
+  "s" : 47,
+  "t" : 113,
+  "i" : "interacts-with"
+}, {
+  "@id" : 493,
+  "s" : 47,
+  "t" : 110,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 494,
+  "s" : 47,
+  "t" : 110,
+  "i" : "interacts-with"
+}, {
+  "@id" : 498,
+  "s" : 47,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 332,
+  "s" : 48,
+  "t" : 16,
+  "i" : "interacts-with"
+}, {
+  "@id" : 334,
+  "s" : 48,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 336,
+  "s" : 48,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 557,
+  "s" : 51,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 444,
+  "s" : 52,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 199,
+  "s" : 53,
+  "t" : 57,
+  "i" : "interacts-with"
+}, {
+  "@id" : 197,
+  "s" : 53,
+  "t" : 58,
+  "i" : "interacts-with"
+}, {
+  "@id" : 201,
+  "s" : 53,
+  "t" : 123,
+  "i" : "interacts-with"
+}, {
+  "@id" : 358,
+  "s" : 55,
+  "t" : 57,
+  "i" : "interacts-with"
+}, {
+  "@id" : 485,
+  "s" : 57,
+  "t" : 123,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 483,
+  "s" : 57,
+  "t" : 79,
+  "i" : "interacts-with"
+}, {
+  "@id" : 479,
+  "s" : 58,
+  "t" : 57,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 481,
+  "s" : 58,
+  "t" : 123,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 180,
+  "s" : 61,
+  "t" : 105,
+  "i" : "interacts-with"
+}, {
+  "@id" : 526,
+  "s" : 62,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 566,
+  "s" : 63,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 568,
+  "s" : 63,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 82,
+  "s" : 64,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 80,
+  "s" : 64,
+  "t" : 4,
+  "i" : "interacts-with"
+}, {
+  "@id" : 84,
+  "s" : 64,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 320,
+  "s" : 66,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 318,
+  "s" : 66,
+  "t" : 131,
+  "i" : "interacts-with"
+}, {
+  "@id" : 306,
+  "s" : 66,
+  "t" : 69,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 307,
+  "s" : 66,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 304,
+  "s" : 66,
+  "t" : 70,
+  "i" : "interacts-with"
+}, {
+  "@id" : 313,
+  "s" : 66,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 311,
+  "s" : 66,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 329,
+  "s" : 66,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 302,
+  "s" : 66,
+  "t" : 45,
+  "i" : "interacts-with"
+}, {
+  "@id" : 324,
+  "s" : 66,
+  "t" : 110,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 325,
+  "s" : 66,
+  "t" : 110,
+  "i" : "interacts-with"
+}, {
+  "@id" : 315,
+  "s" : 66,
+  "t" : 47,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 316,
+  "s" : 66,
+  "t" : 47,
+  "i" : "interacts-with"
+}, {
+  "@id" : 327,
+  "s" : 66,
+  "t" : 113,
+  "i" : "interacts-with"
+}, {
+  "@id" : 309,
+  "s" : 66,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 322,
+  "s" : 66,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 298,
+  "s" : 67,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 292,
+  "s" : 67,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 294,
+  "s" : 67,
+  "t" : 105,
+  "i" : "interacts-with"
+}, {
+  "@id" : 300,
+  "s" : 67,
+  "t" : 110,
+  "i" : "interacts-with"
+}, {
+  "@id" : 296,
+  "s" : 67,
+  "t" : 47,
+  "i" : "interacts-with"
+}, {
+  "@id" : 290,
+  "s" : 67,
+  "t" : 31,
+  "i" : "interacts-with"
+}, {
+  "@id" : 452,
+  "s" : 68,
+  "t" : 14,
+  "i" : "interacts-with"
+}, {
+  "@id" : 375,
+  "s" : 69,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 373,
+  "s" : 69,
+  "t" : 5,
+  "i" : "interacts-with"
+}, {
+  "@id" : 367,
+  "s" : 69,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 365,
+  "s" : 69,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 371,
+  "s" : 69,
+  "t" : 75,
+  "i" : "interacts-with"
+}, {
+  "@id" : 360,
+  "s" : 69,
+  "t" : 109,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 361,
+  "s" : 69,
+  "t" : 109,
+  "i" : "interacts-with"
+}, {
+  "@id" : 369,
+  "s" : 69,
+  "t" : 47,
+  "i" : "interacts-with"
+}, {
+  "@id" : 363,
+  "s" : 69,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 356,
+  "s" : 70,
+  "t" : 103,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 353,
+  "s" : 70,
+  "t" : 47,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 347,
+  "s" : 70,
+  "t" : 69,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 351,
+  "s" : 70,
+  "t" : 109,
+  "i" : "interacts-with"
+}, {
+  "@id" : 114,
+  "s" : 72,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 116,
+  "s" : 72,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 110,
+  "s" : 74,
+  "t" : 65,
+  "i" : "interacts-with"
+}, {
+  "@id" : 112,
+  "s" : 74,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 97,
+  "s" : 74,
+  "t" : 72,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 98,
+  "s" : 74,
+  "t" : 72,
+  "i" : "interacts-with"
+}, {
+  "@id" : 106,
+  "s" : 74,
+  "t" : 137,
+  "i" : "interacts-with"
+}, {
+  "@id" : 108,
+  "s" : 74,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 100,
+  "s" : 74,
+  "t" : 84,
+  "i" : "interacts-with"
+}, {
+  "@id" : 102,
+  "s" : 74,
+  "t" : 24,
+  "i" : "interacts-with"
+}, {
+  "@id" : 104,
+  "s" : 74,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 539,
+  "s" : 75,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 541,
+  "s" : 75,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 93,
+  "s" : 76,
+  "t" : 25,
+  "i" : "interacts-with"
+}, {
+  "@id" : 90,
+  "s" : 76,
+  "t" : 74,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 91,
+  "s" : 76,
+  "t" : 74,
+  "i" : "interacts-with"
+}, {
+  "@id" : 95,
+  "s" : 76,
+  "t" : 15,
+  "i" : "interacts-with"
+}, {
+  "@id" : 22,
+  "s" : 77,
+  "t" : 79,
+  "i" : "interacts-with"
+}, {
+  "@id" : 340,
+  "s" : 78,
+  "t" : 60,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 338,
+  "s" : 78,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 509,
+  "s" : 80,
+  "t" : 139,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 510,
+  "s" : 80,
+  "t" : 139,
+  "i" : "interacts-with"
+}, {
+  "@id" : 512,
+  "s" : 80,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 171,
+  "s" : 82,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 169,
+  "s" : 82,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 469,
+  "s" : 84,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 471,
+  "s" : 84,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 467,
+  "s" : 84,
+  "t" : 127,
+  "i" : "interacts-with"
+}, {
+  "@id" : 456,
+  "s" : 85,
+  "t" : 84,
+  "i" : "interacts-with"
+}, {
+  "@id" : 454,
+  "s" : 85,
+  "t" : 29,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 195,
+  "s" : 87,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 175,
+  "s" : 88,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 141,
+  "s" : 89,
+  "t" : 60,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 140,
+  "s" : 89,
+  "t" : 78,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 563,
+  "s" : 90,
+  "t" : 103,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 561,
+  "s" : 90,
+  "t" : 92,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 559,
+  "s" : 90,
+  "t" : 87,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 475,
+  "s" : 92,
+  "t" : 90,
+  "i" : "interacts-with"
+}, {
+  "@id" : 477,
+  "s" : 92,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 570,
+  "s" : 93,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 572,
+  "s" : 93,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 205,
+  "s" : 94,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 210,
+  "s" : 96,
+  "t" : 57,
+  "i" : "interacts-with"
+}, {
+  "@id" : 208,
+  "s" : 96,
+  "t" : 55,
+  "i" : "interacts-with"
+}, {
+  "@id" : 207,
+  "s" : 96,
+  "t" : 55,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 275,
+  "s" : 97,
+  "t" : 138,
+  "i" : "interacts-with"
+}, {
+  "@id" : 272,
+  "s" : 97,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 277,
+  "s" : 97,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 182,
+  "s" : 101,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 203,
+  "s" : 102,
+  "t" : 121,
+  "i" : "interacts-with"
+}, {
+  "@id" : 597,
+  "s" : 103,
+  "t" : 32,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 585,
+  "s" : 103,
+  "t" : 97,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 599,
+  "s" : 103,
+  "t" : 100,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 587,
+  "s" : 103,
+  "t" : 69,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 589,
+  "s" : 103,
+  "t" : 109,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 583,
+  "s" : 103,
+  "t" : 87,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 581,
+  "s" : 103,
+  "t" : 88,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 593,
+  "s" : 103,
+  "t" : 92,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 591,
+  "s" : 103,
+  "t" : 126,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 595,
+  "s" : 103,
+  "t" : 133,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 146,
+  "s" : 104,
+  "t" : 56,
+  "i" : "interacts-with"
+}, {
+  "@id" : 408,
+  "s" : 105,
+  "t" : 128,
+  "i" : "interacts-with"
+}, {
+  "@id" : 382,
+  "s" : 105,
+  "t" : 97,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 389,
+  "s" : 105,
+  "t" : 98,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 391,
+  "s" : 105,
+  "t" : 98,
+  "i" : "interacts-with"
+}, {
+  "@id" : 397,
+  "s" : 105,
+  "t" : 131,
+  "i" : "interacts-with"
+}, {
+  "@id" : 420,
+  "s" : 105,
+  "t" : 100,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 403,
+  "s" : 105,
+  "t" : 133,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 384,
+  "s" : 105,
+  "t" : 70,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 406,
+  "s" : 105,
+  "t" : 33,
+  "i" : "interacts-with"
+}, {
+  "@id" : 401,
+  "s" : 105,
+  "t" : 73,
+  "i" : "interacts-with"
+}, {
+  "@id" : 425,
+  "s" : 105,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 423,
+  "s" : 105,
+  "t" : 103,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 386,
+  "s" : 105,
+  "t" : 109,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 380,
+  "s" : 105,
+  "t" : 82,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 378,
+  "s" : 105,
+  "t" : 149,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 410,
+  "s" : 105,
+  "t" : 9,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 415,
+  "s" : 105,
+  "t" : 137,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 399,
+  "s" : 105,
+  "t" : 59,
+  "i" : "interacts-with"
+}, {
+  "@id" : 413,
+  "s" : 105,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 393,
+  "s" : 105,
+  "t" : 126,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 395,
+  "s" : 105,
+  "t" : 126,
+  "i" : "interacts-with"
+}, {
+  "@id" : 418,
+  "s" : 105,
+  "t" : 65,
+  "i" : "interacts-with"
+}, {
+  "@id" : 530,
+  "s" : 107,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 441,
+  "s" : 109,
+  "t" : 99,
+  "i" : "interacts-with"
+}, {
+  "@id" : 434,
+  "s" : 109,
+  "t" : 100,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 435,
+  "s" : 109,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 437,
+  "s" : 109,
+  "t" : 86,
+  "i" : "interacts-with"
+}, {
+  "@id" : 432,
+  "s" : 109,
+  "t" : 75,
+  "i" : "interacts-with"
+}, {
+  "@id" : 430,
+  "s" : 109,
+  "t" : 47,
+  "i" : "interacts-with"
+}, {
+  "@id" : 427,
+  "s" : 109,
+  "t" : 84,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 428,
+  "s" : 109,
+  "t" : 84,
+  "i" : "interacts-with"
+}, {
+  "@id" : 439,
+  "s" : 109,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 555,
+  "s" : 110,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 15,
+  "s" : 112,
+  "t" : 127,
+  "i" : "interacts-with"
+}, {
+  "@id" : 13,
+  "s" : 112,
+  "t" : 135,
+  "i" : "interacts-with"
+}, {
+  "@id" : 165,
+  "s" : 114,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 161,
+  "s" : 114,
+  "t" : 41,
+  "i" : "interacts-with"
+}, {
+  "@id" : 163,
+  "s" : 114,
+  "t" : 39,
+  "i" : "interacts-with"
+}, {
+  "@id" : 157,
+  "s" : 114,
+  "t" : 85,
+  "i" : "interacts-with"
+}, {
+  "@id" : 159,
+  "s" : 114,
+  "t" : 119,
+  "i" : "interacts-with"
+}, {
+  "@id" : 11,
+  "s" : 115,
+  "t" : 127,
+  "i" : "interacts-with"
+}, {
+  "@id" : 138,
+  "s" : 116,
+  "t" : 13,
+  "i" : "interacts-with"
+}, {
+  "@id" : 575,
+  "s" : 118,
+  "t" : 3,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 577,
+  "s" : 118,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 473,
+  "s" : 119,
+  "t" : 108,
+  "i" : "interacts-with"
+}, {
+  "@id" : 40,
+  "s" : 120,
+  "t" : 66,
+  "i" : "interacts-with"
+}, {
+  "@id" : 38,
+  "s" : 120,
+  "t" : 132,
+  "i" : "interacts-with"
+}, {
+  "@id" : 44,
+  "s" : 120,
+  "t" : 7,
+  "i" : "interacts-with"
+}, {
+  "@id" : 42,
+  "s" : 120,
+  "t" : 71,
+  "i" : "interacts-with"
+}, {
+  "@id" : 48,
+  "s" : 120,
+  "t" : 81,
+  "i" : "interacts-with"
+}, {
+  "@id" : 36,
+  "s" : 120,
+  "t" : 114,
+  "i" : "interacts-with"
+}, {
+  "@id" : 46,
+  "s" : 120,
+  "t" : 90,
+  "i" : "interacts-with"
+}, {
+  "@id" : 50,
+  "s" : 120,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 212,
+  "s" : 121,
+  "t" : 132,
+  "i" : "interacts-with"
+}, {
+  "@id" : 214,
+  "s" : 121,
+  "t" : 109,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 215,
+  "s" : 121,
+  "t" : 109,
+  "i" : "interacts-with"
+}, {
+  "@id" : 221,
+  "s" : 121,
+  "t" : 50,
+  "i" : "interacts-with"
+}, {
+  "@id" : 217,
+  "s" : 121,
+  "t" : 84,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 223,
+  "s" : 121,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 219,
+  "s" : 121,
+  "t" : 30,
+  "i" : "interacts-with"
+}, {
+  "@id" : 446,
+  "s" : 122,
+  "t" : 106,
+  "i" : "interacts-with"
+}, {
+  "@id" : 136,
+  "s" : 124,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 463,
+  "s" : 125,
+  "t" : 55,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 465,
+  "s" : 126,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 535,
+  "s" : 128,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 537,
+  "s" : 128,
+  "t" : 86,
+  "i" : "interacts-with"
+}, {
+  "@id" : 520,
+  "s" : 131,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 514,
+  "s" : 131,
+  "t" : 35,
+  "i" : "interacts-with"
+}, {
+  "@id" : 518,
+  "s" : 131,
+  "t" : 100,
+  "i" : "interacts-with"
+}, {
+  "@id" : 516,
+  "s" : 131,
+  "t" : 95,
+  "i" : "interacts-with"
+}, {
+  "@id" : 261,
+  "s" : 132,
+  "t" : 65,
+  "i" : "interacts-with"
+}, {
+  "@id" : 257,
+  "s" : 132,
+  "t" : 34,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 259,
+  "s" : 132,
+  "t" : 34,
+  "i" : "interacts-with"
+}, {
+  "@id" : 231,
+  "s" : 132,
+  "t" : 67,
+  "i" : "interacts-with"
+}, {
+  "@id" : 233,
+  "s" : 132,
+  "t" : 36,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 235,
+  "s" : 132,
+  "t" : 36,
+  "i" : "interacts-with"
+}, {
+  "@id" : 263,
+  "s" : 132,
+  "t" : 100,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 270,
+  "s" : 132,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 237,
+  "s" : 132,
+  "t" : 105,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 238,
+  "s" : 132,
+  "t" : 109,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 241,
+  "s" : 132,
+  "t" : 49,
+  "i" : "interacts-with"
+}, {
+  "@id" : 227,
+  "s" : 132,
+  "t" : 82,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 243,
+  "s" : 132,
+  "t" : 131,
+  "i" : "interacts-with"
+}, {
+  "@id" : 225,
+  "s" : 132,
+  "t" : 149,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 266,
+  "s" : 132,
+  "t" : 118,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 268,
+  "s" : 132,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 245,
+  "s" : 132,
+  "t" : 9,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 254,
+  "s" : 132,
+  "t" : 137,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 229,
+  "s" : 132,
+  "t" : 121,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 252,
+  "s" : 132,
+  "t" : 90,
+  "i" : "interacts-with"
+}, {
+  "@id" : 248,
+  "s" : 132,
+  "t" : 28,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 250,
+  "s" : 132,
+  "t" : 28,
+  "i" : "interacts-with"
+}, {
+  "@id" : 280,
+  "s" : 135,
+  "t" : 127,
+  "i" : "interacts-with"
+}, {
+  "@id" : 279,
+  "s" : 135,
+  "t" : 127,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 522,
+  "s" : 138,
+  "t" : 9,
+  "i" : "interacts-with"
+}, {
+  "@id" : 524,
+  "s" : 139,
+  "t" : 118,
+  "i" : "interacts-with"
+}, {
+  "@id" : 460,
+  "s" : 140,
+  "t" : 129,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 458,
+  "s" : 140,
+  "t" : 2,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 178,
+  "s" : 141,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 88,
+  "s" : 142,
+  "t" : 80,
+  "i" : "interacts-with"
+}, {
+  "@id" : 345,
+  "s" : 143,
+  "t" : 136,
+  "i" : "interacts-with"
+}, {
+  "@id" : 120,
+  "s" : 144,
+  "t" : 105,
+  "i" : "interacts-with"
+}, {
+  "@id" : 118,
+  "s" : 144,
+  "t" : 69,
+  "i" : "interacts-with"
+}, {
+  "@id" : 122,
+  "s" : 144,
+  "t" : 65,
+  "i" : "interacts-with"
+}, {
+  "@id" : 124,
+  "s" : 145,
+  "t" : 148,
+  "i" : "interacts-with"
+}, {
+  "@id" : 126,
+  "s" : 145,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 1,
+  "s" : 146,
+  "t" : 134,
+  "i" : "interacts-with"
+}, {
+  "@id" : 173,
+  "s" : 147,
+  "t" : 126,
+  "i" : "interacts-with"
+}, {
+  "@id" : 64,
+  "s" : 149,
+  "t" : 32,
+  "i" : "interacts-with"
+}, {
+  "@id" : 70,
+  "s" : 149,
+  "t" : 51,
+  "i" : "interacts-with"
+}, {
+  "@id" : 57,
+  "s" : 149,
+  "t" : 66,
+  "i" : "interacts-with"
+}, {
+  "@id" : 68,
+  "s" : 149,
+  "t" : 5,
+  "i" : "interacts-with"
+}, {
+  "@id" : 76,
+  "s" : 149,
+  "t" : 65,
+  "i" : "interacts-with"
+}, {
+  "@id" : 66,
+  "s" : 149,
+  "t" : 7,
+  "i" : "interacts-with"
+}, {
+  "@id" : 78,
+  "s" : 149,
+  "t" : 103,
+  "i" : "interacts-with"
+}, {
+  "@id" : 54,
+  "s" : 149,
+  "t" : 111,
+  "i" : "interacts-with"
+}, {
+  "@id" : 52,
+  "s" : 149,
+  "t" : 82,
+  "i" : "interacts-with"
+}, {
+  "@id" : 59,
+  "s" : 149,
+  "t" : 83,
+  "i" : "interacts-with"
+}, {
+  "@id" : 62,
+  "s" : 149,
+  "t" : 150,
+  "i" : "interacts-with"
+}, {
+  "@id" : 74,
+  "s" : 149,
+  "t" : 137,
+  "i" : "interacts-with"
+}, {
+  "@id" : 72,
+  "s" : 149,
+  "t" : 54,
+  "i" : "interacts-with"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "TCR Signaling Pathway"
+}, {
+  "n" : "description",
+  "v" : "<div><span style=\"color: rgb(0, 0, 0);text-align: justify;float: none;\">The T cell receptor complex includes the ligand binding TCR alpha and TCR beta chains, along with CD3 gamma, delta, epsilon and zeta subunits. This receptor complex is stimulated by antigen peptides presented by the Major Histocompatibility Complex proteins present on T cells and antigen presenting cells. Stimulation of the T cell receptor leads to the activation of NFkB and NFAT signaling modules which play a key role in T cell receptor signaling.<span class=\"Apple-converted-space\"> </span></span><br/></div>"
+}, {
+  "n" : "version",
+  "v" : "JUN-2017"
+}, {
+  "n" : "Reference",
+  "v" : "<div><i style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\">Kandasamy K. et al.  </i><b style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"><b></b><b><b></b></b><b><b></b><b><b></b></b></b><b><b></b><b><b></b></b><b><b></b><b><b>NetPath: a public resource of curated signal transduction pathways.</b></b></b></b></b><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><span style=\"color: rgb(51, 51, 51);float: none;background-color: rgb(255, 255, 255);\">Genome Biol. 2010 Jan 12;11(1):R3</span><br style=\"color: rgb(51, 51, 51);background-color: rgb(255, 255, 255);\"/><a href=\"http://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-1-r3\" target=\"\" style=\"color: rgb(66, 139, 202);background-color: rgb(255, 255, 255);\">doi: 10.1186/gb-2010-11-1-r3.</a><br/></div>"
+}, {
+  "n" : "reference",
+  "v" : ""
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "HPRD:03011", "UniProt:P42081" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "HPRD:00443", "UniProt:P15336" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "HPRD:03835", "UniProt:O43516" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "HPRD:00202", "UniProt:P33681" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "HPRD:03060", "UniProt:Q13239" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "HPRD:05136", "UniProt:Q13191" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "HPRD:05955", "UniProt:Q9H6Q3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "HPRD:03596", "UniProt:P46109" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "HPRD:05394", "UniProt:Q9Y3P8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "HPRD:05156", "UniProt:O75791" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "HPRD:04162", "UniProt:P52566" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "HPRD:01261", "UniProt:P31749" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "HPRD:07270", "UniProt:Q9NSC5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "HPRD:01863", "UniProt:P41279" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "HPRD:01739" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "HPRD:05757", "UniProt:O75144" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "HPRD:01469", "UniProt:Q02750" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "HPRD:03897", "UniProt:Q9NSE2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "HPRD:05026", "UniProt:Q9Y5K6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "HPRD:09133", "UniProt:Q8WUI4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "HPRD:04228", "UniProt:Q99704" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "HPRD:05411", "UniProt:O60496" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "HPRD:01737", "UniProt:P01732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "HPRD:01245", "UniProt:P19338" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "HPRD:01736" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "HPRD:09523", "UniProt:Q9BZL6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "HPRD:02710", "UniProt:Q04759" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "HPRD:05396", "UniProt:Q86WV1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "HPRD:06234", "UniProt:Q9BXL7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "HPRD:05558", "UniProt:O75563" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "HPRD:03926", "UniProt:Q07666" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "HPRD:02780", "UniProt:P29353" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "HPRD:05152", "UniProt:Q9NP31" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "HPRD:02505", "UniProt:P42681" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "HPRD:03937", "UniProt:P49023" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "HPRD:00925", "UniProt:Q14643" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "HPRD:09627", "UniProt:Q9UEW8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "alias",
+  "v" : [ "HPRD:03991", "UniProt:Q86Y01" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "HPRD:04404", "UniProt:O00459" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "HPRD:04625", "UniProt:O95999" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 41,
+  "n" : "alias",
+  "v" : [ "HPRD:01381", "UniProt:P27986" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 42,
+  "n" : "alias",
+  "v" : [ "HPRD:09278", "UniProt:Q7LDG7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 43,
+  "n" : "alias",
+  "v" : [ "HPRD:04909", "UniProt:O95267" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 44,
+  "n" : "alias",
+  "v" : [ "HPRD:01545", "UniProt:P62834" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 45,
+  "n" : "alias",
+  "v" : [ "HPRD:09033", "UniProt:Q92835" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 46,
+  "n" : "alias",
+  "v" : [ "HPRD:01809", "UniProt:P00519" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 47,
+  "n" : "alias",
+  "v" : [ "HPRD:01398", "UniProt:P19174" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 48,
+  "n" : "alias",
+  "v" : [ "HPRD:09196", "UniProt:Q9Y6W8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 48,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 49,
+  "n" : "alias",
+  "v" : [ "HPRD:05772", "UniProt:Q9NWQ8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 49,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 50,
+  "n" : "alias",
+  "v" : [ "HPRD:03415", "UniProt:P50552" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 51,
+  "n" : "alias",
+  "v" : [ "HPRD:03301", "UniProt:P42229" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 52,
+  "n" : "alias",
+  "v" : [ "HPRD:01301", "UniProt:P07948" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 52,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 53,
+  "n" : "alias",
+  "v" : [ "HPRD:00549", "UniProt:P18146" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 54,
+  "n" : "alias",
+  "v" : [ "HPRD:05037", "UniProt:P51692" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 54,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 55,
+  "n" : "alias",
+  "v" : [ "HPRD:01302", "UniProt:P05412" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 55,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 56,
+  "n" : "alias",
+  "v" : [ "HPRD:02534", "UniProt:Q92793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 57,
+  "n" : "alias",
+  "v" : [ "HPRD:02730", "UniProt:Q13469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 58,
+  "n" : "alias",
+  "v" : [ "HPRD:02729", "UniProt:O95644" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 58,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 59,
+  "n" : "alias",
+  "v" : [ "HPRD:02859", "UniProt:Q05397" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 60,
+  "n" : "alias",
+  "v" : [ "HPRD:01235", "UniProt:P25963" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 60,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 61,
+  "n" : "alias",
+  "v" : [ "HPRD:03007", "UniProt:Q12959" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 61,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 62,
+  "n" : "alias",
+  "v" : [ "HPRD:01050", "UniProt:P08575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 63,
+  "n" : "alias",
+  "v" : [ "HPRD:01851", "UniProt:P68366" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 64,
+  "n" : "alias",
+  "v" : [ "HPRD:01727", "UniProt:P10747" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 65,
+  "n" : "alias",
+  "v" : [ "HPRD:04927", "UniProt:Q13432" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 66,
+  "n" : "alias",
+  "v" : [ "HPRD:00150", "UniProt:P62993" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 67,
+  "n" : "alias",
+  "v" : [ "HPRD:05062", "UniProt:Q13588" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 68,
+  "n" : "alias",
+  "v" : [ "HPRD:05230", "UniProt:Q99558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 69,
+  "n" : "alias",
+  "v" : [ "HPRD:03832", "UniProt:O43561" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 69,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 70,
+  "n" : "alias",
+  "v" : [ "HPRD:01746", "UniProt:Q08881" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 70,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 71,
+  "n" : "alias",
+  "v" : [ "HPRD:06100", "UniProt:Q9Y2R2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 72,
+  "n" : "alias",
+  "v" : [ "HPRD:07037", "UniProt:P09693" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 73,
+  "n" : "alias",
+  "v" : [ "HPRD:03942", "UniProt:Q9HD43" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 73,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 74,
+  "n" : "alias",
+  "v" : [ "HPRD:08923", "UniProt:P07766" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 75,
+  "n" : "alias",
+  "v" : [ "HPRD:02635", "UniProt:Q15464" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 76,
+  "n" : "alias",
+  "v" : [ "HPRD:01730", "UniProt:P04234" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 77,
+  "n" : "alias",
+  "v" : [ "HPRD:10369", "UniProt:Q9Y6J0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 77,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 78,
+  "n" : "alias",
+  "v" : [ "HPRD:04462", "UniProt:O14920" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 79,
+  "n" : "alias",
+  "v" : [ "HPRD:00235", "UniProt:P16298" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 79,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 80,
+  "n" : "alias",
+  "v" : [ "HPRD:05891", "UniProt:O43586" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 81,
+  "n" : "alias",
+  "v" : [ "HPRD:00886", "UniProt:P27348" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 82,
+  "n" : "alias",
+  "v" : [ "HPRD:00474", "UniProt:P16410" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 83,
+  "n" : "alias",
+  "v" : [ "HPRD:02547", "UniProt:P52333" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 84,
+  "n" : "alias",
+  "v" : [ "HPRD:02740", "UniProt:P16333" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 85,
+  "n" : "alias",
+  "v" : [ "HPRD:03583", "UniProt:Q92918" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 85,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 86,
+  "n" : "alias",
+  "v" : [ "HPRD:05706", "UniProt:Q9UKW4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 87,
+  "n" : "alias",
+  "v" : [ "HPRD:02553", "UniProt:P51452" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 87,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 88,
+  "n" : "alias",
+  "v" : [ "HPRD:06588", "UniProt:Q9UJU6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 89,
+  "n" : "alias",
+  "v" : [ "HPRD:02811", "UniProt:O15111" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 90,
+  "n" : "alias",
+  "v" : [ "HPRD:02514", "UniProt:P43405" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 90,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 91,
+  "n" : "alias",
+  "v" : [ "HPRD:04585", "UniProt:O43353" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 91,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 92,
+  "n" : "alias",
+  "v" : [ "HPRD:16380", "UniProt:Q8NET5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 93,
+  "n" : "alias",
+  "v" : [ "HPRD:01852", "UniProt:P07437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 94,
+  "n" : "alias",
+  "v" : [ "HPRD:07352", "UniProt:Q96P31" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 94,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 95,
+  "n" : "alias",
+  "v" : [ "HPRD:05284", "UniProt:Q8N5H7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 95,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 96,
+  "n" : "alias",
+  "v" : [ "HPRD:01275", "UniProt:P01100" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 96,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 97,
+  "n" : "alias",
+  "v" : [ "HPRD:05866", "UniProt:Q9UQC2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 98,
+  "n" : "alias",
+  "v" : [ "HPRD:07904", "UniProt:Q9H400" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 99,
+  "n" : "alias",
+  "v" : [ "HPRD:03183", "UniProt:P63104" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 99,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 100,
+  "n" : "alias",
+  "v" : [ "HPRD:01284", "UniProt:P15498" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 100,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 101,
+  "n" : "alias",
+  "v" : [ "HPRD:03852", "UniProt:P50570" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 101,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 102,
+  "n" : "alias",
+  "v" : [ "HPRD:12360", "UniProt:Q8N8S7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 103,
+  "n" : "alias",
+  "v" : [ "HPRD:01495", "UniProt:P43403" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 103,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 104,
+  "n" : "alias",
+  "v" : [ "HPRD:00442", "UniProt:P16220" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 104,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 105,
+  "n" : "alias",
+  "v" : [ "HPRD:01080", "UniProt:P06239" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 105,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 106,
+  "n" : "alias",
+  "v" : [ "HPRD:03833", "UniProt:Q9Y4K3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 107,
+  "n" : "alias",
+  "v" : [ "HPRD:00745", "UniProt:P20936" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 107,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 108,
+  "n" : "alias",
+  "v" : [ "HPRD:02627", "UniProt:Q13905" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 109,
+  "n" : "alias",
+  "v" : [ "HPRD:03362", "UniProt:Q13094" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 109,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 110,
+  "n" : "alias",
+  "v" : [ "HPRD:01681", "UniProt:Q07889" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 111,
+  "n" : "alias",
+  "v" : [ "HPRD:09121", "UniProt:Q92608" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 112,
+  "n" : "alias",
+  "v" : [ "HPRD:05688", "UniProt:Q14155" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 113,
+  "n" : "alias",
+  "v" : [ "HPRD:03149", "UniProt:Q07890" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 114,
+  "n" : "alias",
+  "v" : [ "HPRD:01267", "UniProt:P46108" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 115,
+  "n" : "alias",
+  "v" : [ "HPRD:02226", "UniProt:Q15052" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 115,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 116,
+  "n" : "alias",
+  "v" : [ "HPRD:01801", "UniProt:P17676" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 117,
+  "n" : "alias",
+  "v" : [ "HPRD:01819", "UniProt:P12931" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 118,
+  "n" : "alias",
+  "v" : [ "HPRD:02314", "UniProt:P42768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 119,
+  "n" : "alias",
+  "v" : [ "HPRD:11888", "UniProt:Q14511" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 119,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 120,
+  "n" : "alias",
+  "v" : [ "HPRD:01320", "UniProt:P22681" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 121,
+  "n" : "alias",
+  "v" : [ "HPRD:04107", "UniProt:O15117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 121,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 122,
+  "n" : "alias",
+  "v" : [ "HPRD:06892", "UniProt:Q9UDY8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 123,
+  "n" : "alias",
+  "v" : [ "HPRD:01241", "UniProt:Q04206" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 123,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 124,
+  "n" : "alias",
+  "v" : [ "HPRD:00309", "UniProt:P60953" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 124,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 125,
+  "n" : "alias",
+  "v" : [ "HPRD:04206", "UniProt:P45984" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 125,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 126,
+  "n" : "alias",
+  "v" : [ "HPRD:01152", "UniProt:P15941" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 126,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 127,
+  "n" : "alias",
+  "v" : [ "HPRD:03995", "UniProt:Q13153" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 127,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 128,
+  "n" : "alias",
+  "v" : [ "HPRD:03657", "UniProt:P78314" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 128,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 129,
+  "n" : "alias",
+  "v" : [ "HPRD:02779", "UniProt:Q14765" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 129,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 130,
+  "n" : "alias",
+  "v" : [ "HPRD:01496", "UniProt:P28482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 130,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 131,
+  "n" : "alias",
+  "v" : [ "HPRD:03131", "UniProt:Q14289" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 131,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 132,
+  "n" : "alias",
+  "v" : [ "HPRD:00655", "UniProt:P06241" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 133,
+  "n" : "alias",
+  "v" : [ "HPRD:05480", "UniProt:Q9UQQ2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 133,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 134,
+  "n" : "alias",
+  "v" : [ "HPRD:05796", "UniProt:Q9Y6W5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 135,
+  "n" : "alias",
+  "v" : [ "HPRD:09779", "UniProt:Q14161" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 136,
+  "n" : "alias",
+  "v" : [ "HPRD:19599", "UniProt:Q13233" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 136,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 137,
+  "n" : "alias",
+  "v" : [ "HPRD:05392", "UniProt:Q6PIZ9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 137,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 138,
+  "n" : "alias",
+  "v" : [ "HPRD:01470", "UniProt:Q06124" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 138,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 139,
+  "n" : "alias",
+  "v" : [ "HPRD:02513", "UniProt:Q05209" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 139,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 140,
+  "n" : "alias",
+  "v" : [ "HPRD:02619", "UniProt:Q16539" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 141,
+  "n" : "alias",
+  "v" : [ "HPRD:10869", "UniProt:Q9H4E7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 142,
+  "n" : "alias",
+  "v" : [ "HPRD:01750", "UniProt:P06729" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 143,
+  "n" : "alias",
+  "v" : [ "HPRD:07565", "UniProt:Q96J02" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 144,
+  "n" : "alias",
+  "v" : [ "HPRD:01740", "UniProt:P01730" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 145,
+  "n" : "alias",
+  "v" : [ "HPRD:01078", "UniProt:P06127" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 146,
+  "n" : "alias",
+  "v" : [ "HPRD:04336", "UniProt:Q8IZP0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 147,
+  "n" : "alias",
+  "v" : [ "HPRD:00286", "UniProt:P35222" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 147,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 148,
+  "n" : "alias",
+  "v" : [ "HPRD:01475", "UniProt:P29350" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 149,
+  "n" : "alias",
+  "v" : [ "HPRD:01729", "UniProt:P20963" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 149,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 150,
+  "n" : "alias",
+  "v" : [ "HPRD:06767", "UniProt:P26045" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 150,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 130,
+  "n" : "pmid",
+  "v" : [ "11279501" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 130,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279501" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 579,
+  "n" : "pmid",
+  "v" : [ "12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 579,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 128,
+  "n" : "pmid",
+  "v" : [ "7545666" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 128,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7545666" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 551,
+  "n" : "pmid",
+  "v" : [ "10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 551,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 553,
+  "n" : "pmid",
+  "v" : [ "10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 553,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "pmid",
+  "v" : [ "10022120", "12697763", "8683103" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10022120", "pmid:12697763", "pmid:8683103" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "pmid",
+  "v" : [ "10022120" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10022120" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "pmid",
+  "v" : [ "10022120" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10022120" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "pmid",
+  "v" : [ "10074432" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10074432" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 549,
+  "n" : "pmid",
+  "v" : [ "11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 549,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 153,
+  "n" : "pmid",
+  "v" : [ "12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 153,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "pmid",
+  "v" : [ "11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "pmid",
+  "v" : [ "12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 288,
+  "n" : "pmid",
+  "v" : [ "12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 288,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 282,
+  "n" : "pmid",
+  "v" : [ "10224278", "10811803", "9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 282,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10224278", "pmid:10811803", "pmid:9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 286,
+  "n" : "pmid",
+  "v" : [ "11313918" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 286,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11313918" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "pmid",
+  "v" : [ "10224278" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10224278" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "pmid",
+  "v" : [ "12386169" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12386169" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "pmid",
+  "v" : [ "12386169" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12386169" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "pmid",
+  "v" : [ "11410591", "7811263" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11410591", "pmid:7811263" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 448,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 448,
+  "n" : "pmid",
+  "v" : [ "8670897" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 448,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8670897" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 450,
+  "n" : "pmid",
+  "v" : [ "8670897" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 450,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8670897" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "pmid",
+  "v" : [ "10727460" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10727460" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "pmid",
+  "v" : [ "12530983" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12530983" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "pmid",
+  "v" : [ "19481264" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19481264" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 188,
+  "n" : "pmid",
+  "v" : [ "17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 188,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "pmid",
+  "v" : [ "8814252" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8814252" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "pmid",
+  "v" : [ "10562325" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10562325" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 507,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 507,
+  "n" : "pmid",
+  "v" : [ "15623513" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 507,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15623513" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 504,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 504,
+  "n" : "pmid",
+  "v" : [ "12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 504,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 500,
+  "n" : "pmid",
+  "v" : [ "14988727" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14988727" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 502,
+  "n" : "pmid",
+  "v" : [ "14988727" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 502,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14988727" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 547,
+  "n" : "pmid",
+  "v" : [ "9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 547,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "pmid",
+  "v" : [ "19706536" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19706536" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "pmid",
+  "v" : [ "12154360" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12154360" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 543,
+  "n" : "pmid",
+  "v" : [ "8235613" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 543,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8235613" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 545,
+  "n" : "pmid",
+  "v" : [ "9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 545,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 192,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 192,
+  "n" : "pmid",
+  "v" : [ "15684388" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 192,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15684388" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 491,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 491,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "pmid",
+  "v" : [ "14638696" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14638696" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "pmid",
+  "v" : [ "12154360", "18829987" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12154360", "pmid:18829987" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 489,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 489,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 532,
+  "n" : "pmid",
+  "v" : [ "17658605" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 532,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17658605" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 528,
+  "n" : "pmid",
+  "v" : [ "14702343" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 528,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14702343" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 343,
+  "n" : "pmid",
+  "v" : [ "17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 343,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "pmid",
+  "v" : [ "10940929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10940929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "pmid",
+  "v" : [ "10940929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10940929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 498,
+  "n" : "pmid",
+  "v" : [ "7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 498,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 332,
+  "n" : "pmid",
+  "v" : [ "10657606" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 332,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10657606" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 334,
+  "n" : "pmid",
+  "v" : [ "16217039", "21188463" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 334,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16217039", "pmid:21188463" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 336,
+  "n" : "pmid",
+  "v" : [ "16217039", "21188463" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 336,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16217039", "pmid:21188463" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 557,
+  "n" : "pmid",
+  "v" : [ "9880255" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 557,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9880255" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "pmid",
+  "v" : [ "9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 199,
+  "n" : "pmid",
+  "v" : [ "19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 199,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 197,
+  "n" : "pmid",
+  "v" : [ "19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 197,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 201,
+  "n" : "pmid",
+  "v" : [ "19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 201,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19915002" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 358,
+  "n" : "pmid",
+  "v" : [ "8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 358,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 483,
+  "n" : "pmid",
+  "v" : [ "8631904" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 483,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8631904" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "pmid",
+  "v" : [ "15699074" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15699074" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 526,
+  "n" : "pmid",
+  "v" : [ "11909961" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 526,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11909961" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 566,
+  "n" : "pmid",
+  "v" : [ "8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 566,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 568,
+  "n" : "pmid",
+  "v" : [ "8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 568,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "pmid",
+  "v" : [ "8146197", "8183372" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8146197", "pmid:8183372" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "pmid",
+  "v" : [ "2164219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 80,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2164219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "pmid",
+  "v" : [ "8146197", "8183372" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8146197", "pmid:8183372" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 320,
+  "n" : "pmid",
+  "v" : [ "7529871", "8235613" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 320,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7529871", "pmid:8235613" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "pmid",
+  "v" : [ "9091579" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9091579" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 307,
+  "n" : "pmid",
+  "v" : [ "10811803", "12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 307,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10811803", "pmid:12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 304,
+  "n" : "pmid",
+  "v" : [ "10636929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 304,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10636929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 313,
+  "n" : "pmid",
+  "v" : [ "7791764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 313,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7791764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 311,
+  "n" : "pmid",
+  "v" : [ "7791764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 311,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7791764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 329,
+  "n" : "pmid",
+  "v" : [ "7629168", "7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 329,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7629168", "pmid:7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 302,
+  "n" : "pmid",
+  "v" : [ "17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 302,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 325,
+  "n" : "pmid",
+  "v" : [ "14764585", "7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 325,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14764585", "pmid:7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "pmid",
+  "v" : [ "7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 327,
+  "n" : "pmid",
+  "v" : [ "14764585" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 327,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14764585" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 309,
+  "n" : "pmid",
+  "v" : [ "11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 309,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 322,
+  "n" : "pmid",
+  "v" : [ "12171928" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 322,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12171928" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 298,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 298,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 292,
+  "n" : "pmid",
+  "v" : [ "12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 292,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 294,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 294,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 300,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 300,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 290,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 290,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 452,
+  "n" : "pmid",
+  "v" : [ "10072079", "18439422" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 452,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10072079", "pmid:18439422" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "pmid",
+  "v" : [ "12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "pmid",
+  "v" : [ "10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "pmid",
+  "v" : [ "9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 365,
+  "n" : "pmid",
+  "v" : [ "9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 365,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "pmid",
+  "v" : [ "12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 361,
+  "n" : "pmid",
+  "v" : [ "10811803" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 361,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10811803" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "pmid",
+  "v" : [ "10811803", "9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10811803", "pmid:9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "pmid",
+  "v" : [ "11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 353,
+  "n" : "pmid",
+  "v" : [ "10586033", "20519342" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10586033", "pmid:20519342" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 347,
+  "n" : "pmid",
+  "v" : [ "12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12186560" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "pmid",
+  "v" : [ "10556826", "10636929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10556826", "pmid:10636929" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 114,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "pmid",
+  "v" : [ "14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "pmid",
+  "v" : [ "7528772", "8366117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7528772", "pmid:8366117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 108,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 100,
+  "n" : "pmid",
+  "v" : [ "12110186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 100,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12110186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "pmid",
+  "v" : [ "11115514" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11115514" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 104,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 104,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 539,
+  "n" : "pmid",
+  "v" : [ "12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 539,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 541,
+  "n" : "pmid",
+  "v" : [ "12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 541,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 91,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 91,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 95,
+  "n" : "pmid",
+  "v" : [ "2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 95,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2138083" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "pmid",
+  "v" : [ "9655484" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9655484" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 340,
+  "n" : "pmid",
+  "v" : [ "15128824" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15128824" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "pmid",
+  "v" : [ "16341093" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16341093" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 510,
+  "n" : "pmid",
+  "v" : [ "14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 510,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 512,
+  "n" : "pmid",
+  "v" : [ "12530983", "14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 512,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12530983", "pmid:14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "pmid",
+  "v" : [ "7807015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7807015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 169,
+  "n" : "pmid",
+  "v" : [ "7807015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 169,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7807015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 469,
+  "n" : "pmid",
+  "v" : [ "9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 469,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 467,
+  "n" : "pmid",
+  "v" : [ "9755165", "9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 467,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9755165", "pmid:9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 456,
+  "n" : "pmid",
+  "v" : [ "11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 456,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 454,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 454,
+  "n" : "pmid",
+  "v" : [ "19706536" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 454,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19706536" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 195,
+  "n" : "pmid",
+  "v" : [ "12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 195,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "pmid",
+  "v" : [ "14729663" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14729663" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 141,
+  "n" : "pmid",
+  "v" : [ "15128824" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15128824" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 561,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 561,
+  "n" : "pmid",
+  "v" : [ "15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 561,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 559,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 559,
+  "n" : "pmid",
+  "v" : [ "12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 559,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "pmid",
+  "v" : [ "15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 477,
+  "n" : "pmid",
+  "v" : [ "15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 477,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 570,
+  "n" : "pmid",
+  "v" : [ "8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 570,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 572,
+  "n" : "pmid",
+  "v" : [ "8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 572,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8530437" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 205,
+  "n" : "pmid",
+  "v" : [ "12051764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 205,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12051764" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "pmid",
+  "v" : [ "8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "pmid",
+  "v" : [ "2119000", "8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:2119000", "pmid:8397339" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 275,
+  "n" : "pmid",
+  "v" : [ "11572860", "12640133", "15933714", "9885561" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 275,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572860", "pmid:12640133", "pmid:15933714", "pmid:9885561" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "pmid",
+  "v" : [ "11572860", "12640133", "17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572860", "pmid:12640133", "pmid:17043143" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 277,
+  "n" : "pmid",
+  "v" : [ "11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 277,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "pmid",
+  "v" : [ "15696170" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15696170" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 597,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 597,
+  "n" : "pmid",
+  "v" : [ "9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 597,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 585,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 585,
+  "n" : "pmid",
+  "v" : [ "11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 585,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 599,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 599,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 599,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 587,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 587,
+  "n" : "pmid",
+  "v" : [ "12186560", "12359715", "17938199", "9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 587,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12186560", "pmid:12359715", "pmid:17938199", "pmid:9489702" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 589,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 589,
+  "n" : "pmid",
+  "v" : [ "17938199", "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 589,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17938199", "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 583,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 583,
+  "n" : "pmid",
+  "v" : [ "12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 583,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12447358" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 581,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 581,
+  "n" : "pmid",
+  "v" : [ "14557276" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 581,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14557276" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 593,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 593,
+  "n" : "pmid",
+  "v" : [ "15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 593,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15143214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 591,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 591,
+  "n" : "pmid",
+  "v" : [ "14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 591,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 595,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 595,
+  "n" : "pmid",
+  "v" : [ "9169414" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 595,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9169414" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "pmid",
+  "v" : [ "11123304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11123304" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 408,
+  "n" : "pmid",
+  "v" : [ "15751964" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 408,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15751964" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 382,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 382,
+  "n" : "pmid",
+  "v" : [ "11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 382,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11572860" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 389,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 389,
+  "n" : "pmid",
+  "v" : [ "14610044" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 389,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14610044" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "pmid",
+  "v" : [ "14610044" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14610044" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 397,
+  "n" : "pmid",
+  "v" : [ "9091579", "9257837" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 397,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9091579", "pmid:9257837" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 420,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 403,
+  "n" : "pmid",
+  "v" : [ "10799879", "9169414" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10799879", "pmid:9169414" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 384,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 384,
+  "n" : "pmid",
+  "v" : [ "20519342", "9312162" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 384,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:20519342", "pmid:9312162" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 406,
+  "n" : "pmid",
+  "v" : [ "10553045" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 406,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10553045" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 401,
+  "n" : "pmid",
+  "v" : [ "12837766" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 401,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12837766" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 425,
+  "n" : "pmid",
+  "v" : [ "10318843", "7760813", "9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 425,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10318843", "pmid:7760813", "pmid:9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 423,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 423,
+  "n" : "pmid",
+  "v" : [ "9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 423,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 386,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 386,
+  "n" : "pmid",
+  "v" : [ "10477581", "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 386,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477581", "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 380,
+  "n" : "pmid",
+  "v" : [ "9398332" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9398332" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 378,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 410,
+  "n" : "pmid",
+  "v" : [ "10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 415,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 415,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 415,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 399,
+  "n" : "pmid",
+  "v" : [ "9257837" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 399,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9257837" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 413,
+  "n" : "pmid",
+  "v" : [ "9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 413,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 393,
+  "n" : "pmid",
+  "v" : [ "14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 395,
+  "n" : "pmid",
+  "v" : [ "14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 395,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 418,
+  "n" : "pmid",
+  "v" : [ "14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 418,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 530,
+  "n" : "pmid",
+  "v" : [ "7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 530,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 441,
+  "n" : "pmid",
+  "v" : [ "17353368" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 441,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17353368" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 435,
+  "n" : "pmid",
+  "v" : [ "9047237", "9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 435,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237", "pmid:9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 437,
+  "n" : "pmid",
+  "v" : [ "14757747", "15708849" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 437,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757747", "pmid:15708849" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "pmid",
+  "v" : [ "12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12084069" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 430,
+  "n" : "pmid",
+  "v" : [ "11390650", "9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 430,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11390650", "pmid:9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 428,
+  "n" : "pmid",
+  "v" : [ "9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 428,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9846482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 555,
+  "n" : "pmid",
+  "v" : [ "7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 555,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "pmid",
+  "v" : [ "11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "pmid",
+  "v" : [ "11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 165,
+  "n" : "pmid",
+  "v" : [ "10419455", "16339550" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 165,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10419455", "pmid:16339550" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "pmid",
+  "v" : [ "11418612" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11418612" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "pmid",
+  "v" : [ "11418612" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11418612" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 157,
+  "n" : "pmid",
+  "v" : [ "11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 157,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11279207" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "pmid",
+  "v" : [ "9497377" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9497377" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "pmid",
+  "v" : [ "11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 138,
+  "n" : "pmid",
+  "v" : [ "14645007" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 138,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14645007" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 577,
+  "n" : "pmid",
+  "v" : [ "12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 577,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12504004" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 473,
+  "n" : "pmid",
+  "v" : [ "9497377" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 473,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9497377" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "pmid",
+  "v" : [ "7791764", "8626404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7791764", "pmid:8626404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "pmid",
+  "v" : [ "9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "pmid",
+  "v" : [ "11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "pmid",
+  "v" : [ "10068674" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10068674" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 48,
+  "n" : "pmid",
+  "v" : [ "8663231" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 48,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8663231" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "pmid",
+  "v" : [ "8626404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8626404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "pmid",
+  "v" : [ "9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "pmid",
+  "v" : [ "8798643", "9407100" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8798643", "pmid:9407100" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "pmid",
+  "v" : [ "10497204" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10497204" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "pmid",
+  "v" : [ "10497204", "9115214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10497204", "pmid:9115214" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "pmid",
+  "v" : [ "9755858" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9755858" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 446,
+  "n" : "pmid",
+  "v" : [ "15125833", "17948050" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 446,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15125833", "pmid:17948050" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 136,
+  "n" : "pmid",
+  "v" : [ "10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 136,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10747096" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 463,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 463,
+  "n" : "pmid",
+  "v" : [ "7486667" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 463,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7486667" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 465,
+  "n" : "pmid",
+  "v" : [ "14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 465,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 535,
+  "n" : "pmid",
+  "v" : [ "15751964" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 535,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15751964" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 537,
+  "n" : "pmid",
+  "v" : [ "14757747" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 537,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757747" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 520,
+  "n" : "pmid",
+  "v" : [ "10867021" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 520,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10867021" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 514,
+  "n" : "pmid",
+  "v" : [ "9091579" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 514,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9091579" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 518,
+  "n" : "pmid",
+  "v" : [ "10867021" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 518,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10867021" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 516,
+  "n" : "pmid",
+  "v" : [ "12486027" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 516,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12486027" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "pmid",
+  "v" : [ "14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 257,
+  "n" : "pmid",
+  "v" : [ "11353545" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11353545" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "pmid",
+  "v" : [ "11353545" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11353545" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "pmid",
+  "v" : [ "8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8995379" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 233,
+  "n" : "pmid",
+  "v" : [ "14761954", "8633244" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14761954", "pmid:8633244" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "pmid",
+  "v" : [ "8633244" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8633244" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 263,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 270,
+  "n" : "pmid",
+  "v" : [ "7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 270,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7760813" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 238,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 238,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 238,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 241,
+  "n" : "pmid",
+  "v" : [ "10790433" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 241,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10790433" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 227,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 227,
+  "n" : "pmid",
+  "v" : [ "10694513" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 227,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10694513" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 243,
+  "n" : "pmid",
+  "v" : [ "10867021", "9091579", "9842930" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 243,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10867021", "pmid:9091579", "pmid:9842930" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 225,
+  "n" : "pmid",
+  "v" : [ "9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9047237" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 266,
+  "n" : "pmid",
+  "v" : [ "14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 268,
+  "n" : "pmid",
+  "v" : [ "14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 268,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 245,
+  "n" : "pmid",
+  "v" : [ "10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 254,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 229,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 229,
+  "n" : "pmid",
+  "v" : [ "10497204", "7504057", "9207119", "9671755" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 229,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10497204", "pmid:7504057", "pmid:9207119", "pmid:9671755" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "pmid",
+  "v" : [ "9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9535867" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 248,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 248,
+  "n" : "pmid",
+  "v" : [ "12171928" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 248,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12171928" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "pmid",
+  "v" : [ "12171928", "9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12171928", "pmid:9195899" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 280,
+  "n" : "pmid",
+  "v" : [ "11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 280,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11157752" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 522,
+  "n" : "pmid",
+  "v" : [ "10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 522,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10209036" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 524,
+  "n" : "pmid",
+  "v" : [ "14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 524,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14707117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 460,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 460,
+  "n" : "pmid",
+  "v" : [ "19324872" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 460,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19324872" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 458,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 458,
+  "n" : "pmid",
+  "v" : [ "19324872" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 458,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19324872" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "pmid",
+  "v" : [ "12648457" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12648457" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "pmid",
+  "v" : [ "12530983" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12530983" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "pmid",
+  "v" : [ "19710465" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:19710465" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "pmid",
+  "v" : [ "12601806", "1835265" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 120,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12601806", "pmid:1835265" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "pmid",
+  "v" : [ "10562325" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 118,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10562325" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "pmid",
+  "v" : [ "14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 122,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 124,
+  "n" : "pmid",
+  "v" : [ "10082557" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 124,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10082557" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 126,
+  "n" : "pmid",
+  "v" : [ "9378960" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 126,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9378960" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "15541654" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15541654" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "pmid",
+  "v" : [ "14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14766232" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "pmid",
+  "v" : [ "8235613", "9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8235613", "pmid:9685404" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 70,
+  "n" : "pmid",
+  "v" : [ "9880255" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 70,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9880255" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "pmid",
+  "v" : [ "7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7629168" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "pmid",
+  "v" : [ "10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10449770" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "pmid",
+  "v" : [ "14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14757743" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "pmid",
+  "v" : [ "11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11891219" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "pmid",
+  "v" : [ "16439988", "7528772", "8366117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16439988", "pmid:7528772", "pmid:8366117" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 54,
+  "n" : "pmid",
+  "v" : [ "12176041" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 54,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12176041" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 52,
+  "n" : "pmid",
+  "v" : [ "9856951" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 52,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856951" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "pmid",
+  "v" : [ "11349123" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11349123" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "pmid",
+  "v" : [ "14672952" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:14672952" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "pmid",
+  "v" : [ "9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9687533" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "pmid",
+  "v" : [ "9880255" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9880255" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15541654",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7760813",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11410591",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7811263",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12386169",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11157752",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12154360",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18829987",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14638696",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9655484",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19706536",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10022120",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12697763",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8683103",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10074432",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8626404",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9535867",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7791764",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10068674",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11891219",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8663231",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8798643",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9407100",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9856951",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12176041",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7629168",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11349123",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 28,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14672952",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 29,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8235613",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 30,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9685404",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 31,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10449770",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 32,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9880255",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 33,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9687533",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 34,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14757743",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 35,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16439988",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 36,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7528772",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 37,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8366117",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 38,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:2164219",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 39,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8146197",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 40,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8183372",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 41,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12530983",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 42,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:2138083",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 43,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12110186",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 44,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11115514",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 45,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10562325",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 46,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12601806",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 47,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1835265",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 48,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10082557",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 49,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9378960",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 50,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7545666",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 51,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11279501",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 52,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8814252",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 53,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10747096",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 54,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14645007",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 55,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15128824",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 56,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10727460",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 57,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11123304",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 58,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11279207",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 59,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12504004",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 60,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9497377",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 61,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11418612",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 62,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10419455",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 63,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16339550",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 64,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7807015",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 65,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14766232",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 66,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14729663",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 67,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12648457",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 68,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15699074",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 69,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15696170",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 70,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19481264",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 71,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17043143",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 72,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15684388",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 73,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12447358",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 74,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19915002",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 75,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12051764",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 76,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:2119000",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 77,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8397339",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 78,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10497204",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 79,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9115214",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 80,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9755858",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 81,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9047237",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 82,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10694513",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 83,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7504057",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 84,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9207119",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 85,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9671755",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8995379",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 87,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14761954",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 88,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8633244",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 89,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10790433",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 90,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10867021",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 91,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9091579",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 92,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9842930",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 93,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10209036",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 94,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12171928",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 95,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9195899",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 96,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11353545",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 97,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14707117",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 98,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11572860",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 99,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12640133",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 100,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15933714",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 101,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9885561",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 102,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10224278",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 103,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10811803",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 104,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9489702",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 105,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11313918",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 106,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12084069",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 107,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12186560",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 108,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10636929",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 109,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7529871",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 110,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14764585",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 111,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10657606",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 112,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16217039",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 113,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:21188463",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 114,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16341093",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 115,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19710465",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 116,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10556826",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 117,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10586033",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 118,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:20519342",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 119,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9398332",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 120,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9312162",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 121,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10477581",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 122,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14610044",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 123,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9257837",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 124,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12837766",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 125,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10799879",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 126,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9169414",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 127,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10553045",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 128,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15751964",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 129,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10318843",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 130,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9846482",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 131,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11390650",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 132,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14757747",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 133,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15708849",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 134,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17353368",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 135,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15125833",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 136,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17948050",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 137,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8670897",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 138,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10072079",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 139,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18439422",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 140,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:19324872",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 141,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7486667",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 142,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9755165",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 143,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15143214",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 144,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8631904",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 145,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10940929",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 146,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14988727",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 147,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15623513",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 148,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12486027",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 149,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11909961",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 150,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14702343",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 151,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17658605",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 152,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8530437",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 153,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14557276",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 154,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12359715",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 155,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17938199",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 913.7591253941177,
+  "y" : 770.012188919592
+}, {
+  "node" : 2,
+  "x" : 958.050379763472,
+  "y" : 575.6793713573538
+}, {
+  "node" : 3,
+  "x" : 1122.8739489331551,
+  "y" : 324.5585516463355
+}, {
+  "node" : 4,
+  "x" : 1550.1724831998324,
+  "y" : 1044.150915010566
+}, {
+  "node" : 5,
+  "x" : 511.1665865302904,
+  "y" : 761.6083092639816
+}, {
+  "node" : 6,
+  "x" : 815.304296773082,
+  "y" : 422.0263736088046
+}, {
+  "node" : 7,
+  "x" : 591.5965147688282,
+  "y" : 1049.1185609559884
+}, {
+  "node" : 8,
+  "x" : 1064.1840877181755,
+  "y" : 149.5600422749852
+}, {
+  "node" : 9,
+  "x" : 1514.9238860769558,
+  "y" : 622.4922010457502
+}, {
+  "node" : 10,
+  "x" : 954.8343636463812,
+  "y" : 227.16184271671037
+}, {
+  "node" : 11,
+  "x" : 1166.0865514415773,
+  "y" : 1114.186885869884
+}, {
+  "node" : 12,
+  "x" : -26.75263389297333,
+  "y" : 343.31474918767515
+}, {
+  "node" : 13,
+  "x" : 505.41883670408595,
+  "y" : 143.56920500552542
+}, {
+  "node" : 14,
+  "x" : 326.5323828411473,
+  "y" : 227.4472646089731
+}, {
+  "node" : 15,
+  "x" : 124.87739651730298,
+  "y" : 1921.6596693286983
+}, {
+  "node" : 16,
+  "x" : 1969.7733579285918,
+  "y" : 1281.5676782022895
+}, {
+  "node" : 17,
+  "x" : 330.61401645429567,
+  "y" : 614.7334101561038
+}, {
+  "node" : 18,
+  "x" : -41.59879593536759,
+  "y" : 404.74123359403455
+}, {
+  "node" : 19,
+  "x" : 2320.771339516148,
+  "y" : -321.13689569578713
+}, {
+  "node" : 20,
+  "x" : 817.768049766754,
+  "y" : 622.92638109432
+}, {
+  "node" : 21,
+  "x" : -612.049425875748,
+  "y" : 1327.2207291917116
+}, {
+  "node" : 22,
+  "x" : 689.3971869099071,
+  "y" : 335.6191704386499
+}, {
+  "node" : 23,
+  "x" : 646.4828696567861,
+  "y" : 761.506063167921
+}, {
+  "node" : 24,
+  "x" : 358.17363351361234,
+  "y" : 1801.0142340953878
+}, {
+  "node" : 25,
+  "x" : 38.65387301360457,
+  "y" : 1703.6892685444716
+}, {
+  "node" : 26,
+  "x" : 195.84686147467698,
+  "y" : 608.101934533864
+}, {
+  "node" : 27,
+  "x" : 223.66041616220002,
+  "y" : 425.18389433668153
+}, {
+  "node" : 28,
+  "x" : -0.5791829848524258,
+  "y" : 1063.471530972344
+}, {
+  "node" : 29,
+  "x" : 1740.7330125547007,
+  "y" : 865.0292717675087
+}, {
+  "node" : 30,
+  "x" : 2122.05179827076,
+  "y" : 450.71014550533
+}, {
+  "node" : 31,
+  "x" : 696.4074294086702,
+  "y" : 1489.5895582387675
+}, {
+  "node" : 32,
+  "x" : 1034.9416502565455,
+  "y" : 912.0961233344407
+}, {
+  "node" : 33,
+  "x" : 501.8353878131631,
+  "y" : 1006.9572525054457
+}, {
+  "node" : 34,
+  "x" : 1264.5823608189642,
+  "y" : 610.9242843031035
+}, {
+  "node" : 35,
+  "x" : 1558.067803323407,
+  "y" : 1446.627990720285
+}, {
+  "node" : 36,
+  "x" : 1290.3591122391672,
+  "y" : 632.6599627762376
+}, {
+  "node" : 37,
+  "x" : 894.806926435656,
+  "y" : 542.6029427811363
+}, {
+  "node" : 38,
+  "x" : 327.407881627372,
+  "y" : 567.6243078407409
+}, {
+  "node" : 39,
+  "x" : 1581.8858484458144,
+  "y" : 889.6464149325625
+}, {
+  "node" : 40,
+  "x" : 2092.707816047815,
+  "y" : 1084.526498438828
+}, {
+  "node" : 41,
+  "x" : 1553.9399280252835,
+  "y" : 930.7491182349868
+}, {
+  "node" : 42,
+  "x" : 625.6754555845883,
+  "y" : 133.8010599592184
+}, {
+  "node" : 43,
+  "x" : -189.31815722520912,
+  "y" : 1196.5261316715905
+}, {
+  "node" : 44,
+  "x" : 682.1311121519423,
+  "y" : -104.97077066786882
+}, {
+  "node" : 45,
+  "x" : 749.512597002971,
+  "y" : 310.54888127386545
+}, {
+  "node" : 46,
+  "x" : 712.0919589427118,
+  "y" : 1002.9760392761069
+}, {
+  "node" : 47,
+  "x" : 976.4532501792041,
+  "y" : 485.515573203307
+}, {
+  "node" : 48,
+  "x" : 1835.3607535588405,
+  "y" : 1132.1647168197146
+}, {
+  "node" : 49,
+  "x" : 1167.2811825178474,
+  "y" : 904.8082728296523
+}, {
+  "node" : 50,
+  "x" : 2108.9860435063983,
+  "y" : 320.8899296203613
+}, {
+  "node" : 51,
+  "x" : 72.16316635201069,
+  "y" : 1349.1447548422564
+}, {
+  "node" : 52,
+  "x" : -235.10965968082363,
+  "y" : 1151.812700441234
+}, {
+  "node" : 53,
+  "x" : 782.5778046611641,
+  "y" : 1472.1781967117574
+}, {
+  "node" : 54,
+  "x" : -10.431509580848767,
+  "y" : 887.8922492560531
+}, {
+  "node" : 55,
+  "x" : 560.469768730869,
+  "y" : 1152.3632648445946
+}, {
+  "node" : 56,
+  "x" : 257.8010795429508,
+  "y" : 281.9435906705572
+}, {
+  "node" : 57,
+  "x" : 882.416668353238,
+  "y" : 1867.8868959514446
+}, {
+  "node" : 58,
+  "x" : 918.8843938953643,
+  "y" : 1824.2679911515213
+}, {
+  "node" : 59,
+  "x" : 591.0789109470154,
+  "y" : 1099.0001623638402
+}, {
+  "node" : 60,
+  "x" : 765.8576349504668,
+  "y" : 549.3537611172574
+}, {
+  "node" : 61,
+  "x" : 607.5778108321307,
+  "y" : 1173.9012948078914
+}, {
+  "node" : 62,
+  "x" : -412.90656467163166,
+  "y" : 1238.3223541483073
+}, {
+  "node" : 63,
+  "x" : 893.6990453763109,
+  "y" : 1062.1633476830473
+}, {
+  "node" : 64,
+  "x" : 1742.686427298283,
+  "y" : 1041.526907882354
+}, {
+  "node" : 65,
+  "x" : 343.3570397291963,
+  "y" : 1108.4972803193377
+}, {
+  "node" : 66,
+  "x" : 843.1770089322532,
+  "y" : 572.6997998831886
+}, {
+  "node" : 67,
+  "x" : 751.7161036794273,
+  "y" : 1274.4517609523266
+}, {
+  "node" : 68,
+  "x" : 184.29605186186546,
+  "y" : 23.645724538173695
+}, {
+  "node" : 69,
+  "x" : 797.2000099336952,
+  "y" : 601.3391733286088
+}, {
+  "node" : 70,
+  "x" : 652.7612683011799,
+  "y" : 392.95111317029114
+}, {
+  "node" : 71,
+  "x" : 948.8000027807037,
+  "y" : 1461.4255889408691
+}, {
+  "node" : 72,
+  "x" : 185.56862820821274,
+  "y" : 1864.4457114695715
+}, {
+  "node" : 73,
+  "x" : 528.6296823537697,
+  "y" : 1068.3887001335552
+}, {
+  "node" : 74,
+  "x" : 381.14836405939485,
+  "y" : 1583.342477729432
+}, {
+  "node" : 75,
+  "x" : 863.2874794860693,
+  "y" : 227.02017794188694
+}, {
+  "node" : 76,
+  "x" : 120.3231949067206,
+  "y" : 1835.6495341422456
+}, {
+  "node" : 77,
+  "x" : 1205.0342774408748,
+  "y" : 2361.8199397499916
+}, {
+  "node" : 78,
+  "x" : 317.1617209895599,
+  "y" : 473.3895981921627
+}, {
+  "node" : 79,
+  "x" : 1100.667482168307,
+  "y" : 2193.6114334531694
+}, {
+  "node" : 80,
+  "x" : 2146.2727786482196,
+  "y" : -230.49860261570555
+}, {
+  "node" : 81,
+  "x" : 1023.726003782956,
+  "y" : 1456.4192032086037
+}, {
+  "node" : 82,
+  "x" : 1230.3188728024852,
+  "y" : 882.695206005867
+}, {
+  "node" : 83,
+  "x" : -14.824462003168621,
+  "y" : 830.7880831889858
+}, {
+  "node" : 84,
+  "x" : 1134.006614701745,
+  "y" : 56.947822420436765
+}, {
+  "node" : 85,
+  "x" : 858.5509468533385,
+  "y" : 400.40834917045186
+}, {
+  "node" : 86,
+  "x" : 1089.2040498653182,
+  "y" : 688.2253017549384
+}, {
+  "node" : 87,
+  "x" : 1137.6467760687847,
+  "y" : 625.6468600115758
+}, {
+  "node" : 88,
+  "x" : 1174.4141096720375,
+  "y" : 583.577259994926
+}, {
+  "node" : 89,
+  "x" : 148.60317637791178,
+  "y" : 575.7650702875993
+}, {
+  "node" : 90,
+  "x" : 706.2375102012354,
+  "y" : 647.5099527117478
+}, {
+  "node" : 91,
+  "x" : 2266.9702236615153,
+  "y" : 1200.1457377179088
+}, {
+  "node" : 92,
+  "x" : 1101.578937158577,
+  "y" : 617.5102252480958
+}, {
+  "node" : 93,
+  "x" : 922.5556335855189,
+  "y" : 1104.0691227142697
+}, {
+  "node" : 94,
+  "x" : 722.158114396781,
+  "y" : 866.8044210840907
+}, {
+  "node" : 95,
+  "x" : 1592.34764467641,
+  "y" : 1357.907682109723
+}, {
+  "node" : 96,
+  "x" : 689.7204020793818,
+  "y" : 1592.737776727787
+}, {
+  "node" : 97,
+  "x" : 1430.1151249542677,
+  "y" : 606.3952090861944
+}, {
+  "node" : 98,
+  "x" : 1168.996595892631,
+  "y" : 674.7156204150303
+}, {
+  "node" : 99,
+  "x" : 1330.3953319464624,
+  "y" : 246.29035840919744
+}, {
+  "node" : 100,
+  "x" : 1048.3554387597862,
+  "y" : 953.9260194283783
+}, {
+  "node" : 101,
+  "x" : 1039.7481766311903,
+  "y" : 1179.0462115011226
+}, {
+  "node" : 102,
+  "x" : 2130.317822970118,
+  "y" : 385.09830351708155
+}, {
+  "node" : 103,
+  "x" : 857.090072408483,
+  "y" : 857.0328190509883
+}, {
+  "node" : 104,
+  "x" : 77.0690892129516,
+  "y" : 116.62776992658068
+}, {
+  "node" : 105,
+  "x" : 725.6471137150644,
+  "y" : 929.5293297823933
+}, {
+  "node" : 106,
+  "x" : 196.25559295708567,
+  "y" : 346.0450340920285
+}, {
+  "node" : 107,
+  "x" : 765.9546970676224,
+  "y" : 1035.706666558305
+}, {
+  "node" : 108,
+  "x" : 1544.8251800137914,
+  "y" : -450.9089680988468
+}, {
+  "node" : 109,
+  "x" : 1198.7968503209488,
+  "y" : 428.80356657144864
+}, {
+  "node" : 110,
+  "x" : 567.6199071404557,
+  "y" : 745.5763422940942
+}, {
+  "node" : 111,
+  "x" : 5.8506086106952715,
+  "y" : 936.7977815129419
+}, {
+  "node" : 112,
+  "x" : 1224.8171797625027,
+  "y" : -996.7554284371821
+}, {
+  "node" : 113,
+  "x" : 944.9887435931552,
+  "y" : 315.0401301731609
+}, {
+  "node" : 114,
+  "x" : 1394.7636531716923,
+  "y" : 196.10802352303216
+}, {
+  "node" : 115,
+  "x" : 1193.895307807596,
+  "y" : -890.4337232455364
+}, {
+  "node" : 116,
+  "x" : 478.6706427603963,
+  "y" : -102.05805103067935
+}, {
+  "node" : 117,
+  "x" : -231.15164887979927,
+  "y" : 1089.3511713604287
+}, {
+  "node" : 118,
+  "x" : 1694.4463240824412,
+  "y" : 137.56987548746045
+}, {
+  "node" : 119,
+  "x" : 1486.9912973076555,
+  "y" : -239.60622091643611
+}, {
+  "node" : 120,
+  "x" : 929.1716911765382,
+  "y" : 1241.5461500479298
+}, {
+  "node" : 121,
+  "x" : 1913.953510026808,
+  "y" : 411.98902036221216
+}, {
+  "node" : 122,
+  "x" : -17.914065473108145,
+  "y" : 212.0543775631348
+}, {
+  "node" : 123,
+  "x" : 802.7156429490617,
+  "y" : 1854.8852726158673
+}, {
+  "node" : 124,
+  "x" : 1848.9659522554566,
+  "y" : 5.676285961768723
+}, {
+  "node" : 125,
+  "x" : 110.7061480801129,
+  "y" : 718.2273225065065
+}, {
+  "node" : 126,
+  "x" : 1623.9232522540024,
+  "y" : 725.439447707847
+}, {
+  "node" : 127,
+  "x" : 1171.2155370825153,
+  "y" : -710.411340278486
+}, {
+  "node" : 128,
+  "x" : 970.3204538296079,
+  "y" : 910.3035882846774
+}, {
+  "node" : 129,
+  "x" : 1015.6140123689291,
+  "y" : 590.6500194181797
+}, {
+  "node" : 130,
+  "x" : 952.6384632793385,
+  "y" : 614.411502413217
+}, {
+  "node" : 131,
+  "x" : 1418.1998524847272,
+  "y" : 1281.4450873509843
+}, {
+  "node" : 132,
+  "x" : 989.6552915255967,
+  "y" : 776.2993757647774
+}, {
+  "node" : 133,
+  "x" : 1127.940013377032,
+  "y" : 710.8107318045999
+}, {
+  "node" : 134,
+  "x" : 399.1132138538405,
+  "y" : 182.4013147138026
+}, {
+  "node" : 135,
+  "x" : 1146.4250139004293,
+  "y" : -996.9695641321887
+}, {
+  "node" : 136,
+  "x" : 1056.6577518943704,
+  "y" : 502.88548875732346
+}, {
+  "node" : 137,
+  "x" : 1049.212506696165,
+  "y" : 1030.0590694813507
+}, {
+  "node" : 138,
+  "x" : 1681.8441499048815,
+  "y" : 546.3582761780235
+}, {
+  "node" : 139,
+  "x" : 1971.8357994669782,
+  "y" : -89.47986402164088
+}, {
+  "node" : 140,
+  "x" : 431.64033980054234,
+  "y" : 585.4625650767202
+}, {
+  "node" : 141,
+  "x" : 680.2389610533422,
+  "y" : 934.8734310882575
+}, {
+  "node" : 142,
+  "x" : 2274.179521990457,
+  "y" : -381.59847572775806
+}, {
+  "node" : 143,
+  "x" : 1248.8386713698044,
+  "y" : 348.39004177885397
+}, {
+  "node" : 144,
+  "x" : 495.41345162778,
+  "y" : 870.687623194576
+}, {
+  "node" : 145,
+  "x" : 518.9245941433177,
+  "y" : 1228.8473500705065
+}, {
+  "node" : 146,
+  "x" : 292.4002002415349,
+  "y" : -44.57276042418309
+}, {
+  "node" : 147,
+  "x" : 1851.6274599598025,
+  "y" : 726.2884495303247
+}, {
+  "node" : 148,
+  "x" : 354.4831686078749,
+  "y" : 1402.816649260567
+}, {
+  "node" : 149,
+  "x" : 257.27180625974285,
+  "y" : 918.7767827816976
+}, {
+  "node" : 150,
+  "x" : 34.2679519910901,
+  "y" : 832.4949635805598
+}]}, {"cyVisualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#EDEDF5",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true"
+  }
+}, {
+  "properties_of" : "nodes:default",
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "false"
+  },
+  "properties" : {
+    "NODE_FILL_COLOR" : "#FFFFFF",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_BORDER_WIDTH" : "2.0",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_LABEL_COLOR" : "#003366",
+    "NODE_SELECTED" : "false",
+    "NODE_WIDTH" : "60.0",
+    "NODE_SHAPE" : "ELLIPSE",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "0.0",
+    "NODE_SELECTED_PAINT" : "#FFFF00",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "0.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "0.0",
+    "NODE_BORDER_PAINT" : "#003366",
+    "NODE_LABEL_FONT_FACE" : "SansSerif.plain,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_HEIGHT" : "40.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_TRANSPARENCY" : "255",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  },
+  "mappings" : {
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    }
+  }
+}, {
+  "properties_of" : "edges:default",
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "properties" : {
+    "EDGE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_WIDTH" : "2.5",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#000000",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_CURVED" : "true",
+    "EDGE_SELECTED" : "false",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "SansSerif.plain,plain,10",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FFFF00",
+    "EDGE_LINE_TYPE" : "SOLID"
+  },
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#00CC33,K=1=controls-state-change-of,V=1=#0000CC,K=2=controls-phosphorylation-of,V=2=#0066FF,K=3=in-complex-with,V=3=#006633,K=4=neighbor-of,V=4=#666666",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=ARROW",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=shared interaction,T=string,K=0=neighbor-of,V=0=EQUAL_DASH",
+      "type" : "DISCRETE"
+    }
+  }
+}]},{"status":[{"error":"","success":true}]}]

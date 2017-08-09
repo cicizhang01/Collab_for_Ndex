@@ -1,0 +1,1003 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1501881325864,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1501881327635,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":15,"idCounter":14,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":105,"idCounter":104,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":4,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":105,"name":"edgeAttributes","properties":[],"version":"1.0"}]},{"ndexStatus":[{"externalId":"08bbc3fc-795a-11e7-a1d1-0660b7976219","creationTime":1501881325864,"modificationTime":1501881325864,"visibility":"PRIVATE","published":false,"nodeCount":15,"edgeCount":105,"owner":"mikeyu_testacct2","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":null,"startedAtTime":1501881325864,"endedAtTime":1501881325864,"eventType":"Program Upload in CX","properties":[{"name":"user","value":"Michael Yu"},{"name":"user name","value":"mikeyu_testacct2"}]},"uri":"http://dev2.ndexbio.org/v2/network/08bbc3fc-795a-11e7-a1d1-0660b7976219/summary","properties":[{"name":"edge count","value":"105"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Brugada syndrome supporting network for CLIXO:25"}]}}]}, {"nodes":[{
+  "@id" : 0,
+  "n" : "KCNE3"
+}, {
+  "@id" : 1,
+  "n" : "KCND3"
+}, {
+  "@id" : 2,
+  "n" : "KCNJ8"
+}, {
+  "@id" : 3,
+  "n" : "SCN5A"
+}, {
+  "@id" : 4,
+  "n" : "CACNB2"
+}, {
+  "@id" : 5,
+  "n" : "CACNA1C"
+}, {
+  "@id" : 6,
+  "n" : "HCN4"
+}, {
+  "@id" : 7,
+  "n" : "SCN10A"
+}, {
+  "@id" : 8,
+  "n" : "SLMAP"
+}, {
+  "@id" : 9,
+  "n" : "SCN1B"
+}, {
+  "@id" : 10,
+  "n" : "TRPM4"
+}, {
+  "@id" : 11,
+  "n" : "GPD1L"
+}, {
+  "@id" : 12,
+  "n" : "CACNA2D1"
+}, {
+  "@id" : 13,
+  "n" : "HEY2"
+}, {
+  "@id" : 14,
+  "n" : "SCN3B"
+}]}, {"edges":[{
+  "@id" : 0,
+  "s" : 0,
+  "t" : 1
+}, {
+  "@id" : 1,
+  "s" : 0,
+  "t" : 2
+}, {
+  "@id" : 2,
+  "s" : 0,
+  "t" : 3
+}, {
+  "@id" : 3,
+  "s" : 0,
+  "t" : 4
+}, {
+  "@id" : 4,
+  "s" : 0,
+  "t" : 5
+}, {
+  "@id" : 5,
+  "s" : 0,
+  "t" : 6
+}, {
+  "@id" : 6,
+  "s" : 0,
+  "t" : 7
+}, {
+  "@id" : 7,
+  "s" : 0,
+  "t" : 8
+}, {
+  "@id" : 8,
+  "s" : 0,
+  "t" : 9
+}, {
+  "@id" : 9,
+  "s" : 0,
+  "t" : 10
+}, {
+  "@id" : 10,
+  "s" : 0,
+  "t" : 11
+}, {
+  "@id" : 11,
+  "s" : 0,
+  "t" : 12
+}, {
+  "@id" : 12,
+  "s" : 0,
+  "t" : 13
+}, {
+  "@id" : 13,
+  "s" : 0,
+  "t" : 14
+}, {
+  "@id" : 14,
+  "s" : 1,
+  "t" : 2
+}, {
+  "@id" : 15,
+  "s" : 1,
+  "t" : 3
+}, {
+  "@id" : 16,
+  "s" : 1,
+  "t" : 4
+}, {
+  "@id" : 17,
+  "s" : 1,
+  "t" : 5
+}, {
+  "@id" : 18,
+  "s" : 1,
+  "t" : 6
+}, {
+  "@id" : 19,
+  "s" : 1,
+  "t" : 7
+}, {
+  "@id" : 20,
+  "s" : 1,
+  "t" : 8
+}, {
+  "@id" : 21,
+  "s" : 1,
+  "t" : 9
+}, {
+  "@id" : 22,
+  "s" : 1,
+  "t" : 10
+}, {
+  "@id" : 23,
+  "s" : 1,
+  "t" : 11
+}, {
+  "@id" : 24,
+  "s" : 1,
+  "t" : 12
+}, {
+  "@id" : 25,
+  "s" : 1,
+  "t" : 13
+}, {
+  "@id" : 26,
+  "s" : 1,
+  "t" : 14
+}, {
+  "@id" : 27,
+  "s" : 2,
+  "t" : 3
+}, {
+  "@id" : 28,
+  "s" : 2,
+  "t" : 4
+}, {
+  "@id" : 29,
+  "s" : 2,
+  "t" : 5
+}, {
+  "@id" : 30,
+  "s" : 2,
+  "t" : 6
+}, {
+  "@id" : 31,
+  "s" : 2,
+  "t" : 7
+}, {
+  "@id" : 32,
+  "s" : 2,
+  "t" : 8
+}, {
+  "@id" : 33,
+  "s" : 2,
+  "t" : 9
+}, {
+  "@id" : 34,
+  "s" : 2,
+  "t" : 10
+}, {
+  "@id" : 35,
+  "s" : 2,
+  "t" : 11
+}, {
+  "@id" : 36,
+  "s" : 2,
+  "t" : 12
+}, {
+  "@id" : 37,
+  "s" : 2,
+  "t" : 13
+}, {
+  "@id" : 38,
+  "s" : 2,
+  "t" : 14
+}, {
+  "@id" : 39,
+  "s" : 3,
+  "t" : 4
+}, {
+  "@id" : 40,
+  "s" : 3,
+  "t" : 5
+}, {
+  "@id" : 41,
+  "s" : 3,
+  "t" : 6
+}, {
+  "@id" : 42,
+  "s" : 3,
+  "t" : 7
+}, {
+  "@id" : 43,
+  "s" : 3,
+  "t" : 8
+}, {
+  "@id" : 44,
+  "s" : 3,
+  "t" : 9
+}, {
+  "@id" : 45,
+  "s" : 3,
+  "t" : 10
+}, {
+  "@id" : 46,
+  "s" : 3,
+  "t" : 11
+}, {
+  "@id" : 47,
+  "s" : 3,
+  "t" : 12
+}, {
+  "@id" : 48,
+  "s" : 3,
+  "t" : 13
+}, {
+  "@id" : 49,
+  "s" : 3,
+  "t" : 14
+}, {
+  "@id" : 50,
+  "s" : 4,
+  "t" : 5
+}, {
+  "@id" : 51,
+  "s" : 4,
+  "t" : 6
+}, {
+  "@id" : 52,
+  "s" : 4,
+  "t" : 7
+}, {
+  "@id" : 53,
+  "s" : 4,
+  "t" : 8
+}, {
+  "@id" : 54,
+  "s" : 4,
+  "t" : 9
+}, {
+  "@id" : 55,
+  "s" : 4,
+  "t" : 10
+}, {
+  "@id" : 56,
+  "s" : 4,
+  "t" : 11
+}, {
+  "@id" : 57,
+  "s" : 4,
+  "t" : 12
+}, {
+  "@id" : 58,
+  "s" : 4,
+  "t" : 13
+}, {
+  "@id" : 59,
+  "s" : 4,
+  "t" : 14
+}, {
+  "@id" : 60,
+  "s" : 5,
+  "t" : 6
+}, {
+  "@id" : 61,
+  "s" : 5,
+  "t" : 7
+}, {
+  "@id" : 62,
+  "s" : 5,
+  "t" : 8
+}, {
+  "@id" : 63,
+  "s" : 5,
+  "t" : 9
+}, {
+  "@id" : 64,
+  "s" : 5,
+  "t" : 10
+}, {
+  "@id" : 65,
+  "s" : 5,
+  "t" : 11
+}, {
+  "@id" : 66,
+  "s" : 5,
+  "t" : 12
+}, {
+  "@id" : 67,
+  "s" : 5,
+  "t" : 13
+}, {
+  "@id" : 68,
+  "s" : 5,
+  "t" : 14
+}, {
+  "@id" : 69,
+  "s" : 6,
+  "t" : 7
+}, {
+  "@id" : 70,
+  "s" : 6,
+  "t" : 8
+}, {
+  "@id" : 71,
+  "s" : 6,
+  "t" : 9
+}, {
+  "@id" : 72,
+  "s" : 6,
+  "t" : 10
+}, {
+  "@id" : 73,
+  "s" : 6,
+  "t" : 11
+}, {
+  "@id" : 74,
+  "s" : 6,
+  "t" : 12
+}, {
+  "@id" : 75,
+  "s" : 6,
+  "t" : 13
+}, {
+  "@id" : 76,
+  "s" : 6,
+  "t" : 14
+}, {
+  "@id" : 77,
+  "s" : 7,
+  "t" : 8
+}, {
+  "@id" : 78,
+  "s" : 7,
+  "t" : 9
+}, {
+  "@id" : 79,
+  "s" : 7,
+  "t" : 10
+}, {
+  "@id" : 80,
+  "s" : 7,
+  "t" : 11
+}, {
+  "@id" : 81,
+  "s" : 7,
+  "t" : 12
+}, {
+  "@id" : 82,
+  "s" : 7,
+  "t" : 13
+}, {
+  "@id" : 83,
+  "s" : 7,
+  "t" : 14
+}, {
+  "@id" : 84,
+  "s" : 8,
+  "t" : 9
+}, {
+  "@id" : 85,
+  "s" : 8,
+  "t" : 10
+}, {
+  "@id" : 86,
+  "s" : 8,
+  "t" : 11
+}, {
+  "@id" : 87,
+  "s" : 8,
+  "t" : 12
+}, {
+  "@id" : 88,
+  "s" : 8,
+  "t" : 13
+}, {
+  "@id" : 89,
+  "s" : 8,
+  "t" : 14
+}, {
+  "@id" : 90,
+  "s" : 9,
+  "t" : 10
+}, {
+  "@id" : 91,
+  "s" : 9,
+  "t" : 11
+}, {
+  "@id" : 92,
+  "s" : 9,
+  "t" : 12
+}, {
+  "@id" : 93,
+  "s" : 9,
+  "t" : 13
+}, {
+  "@id" : 94,
+  "s" : 9,
+  "t" : 14
+}, {
+  "@id" : 95,
+  "s" : 10,
+  "t" : 11
+}, {
+  "@id" : 96,
+  "s" : 10,
+  "t" : 12
+}, {
+  "@id" : 97,
+  "s" : 10,
+  "t" : 13
+}, {
+  "@id" : 98,
+  "s" : 10,
+  "t" : 14
+}, {
+  "@id" : 99,
+  "s" : 11,
+  "t" : 12
+}, {
+  "@id" : 100,
+  "s" : 11,
+  "t" : 13
+}, {
+  "@id" : 101,
+  "s" : 11,
+  "t" : 14
+}, {
+  "@id" : 102,
+  "s" : 12,
+  "t" : 13
+}, {
+  "@id" : 103,
+  "s" : 12,
+  "t" : 14
+}, {
+  "@id" : 104,
+  "s" : 13,
+  "t" : 14
+}]}, {"networkAttributes":[{
+  "n" : "similarity max",
+  "v" : "2.78939245267"
+}, {
+  "n" : "similarity min",
+  "v" : "-1.77364534414"
+}, {
+  "n" : "name",
+  "v" : "Brugada syndrome supporting network for CLIXO:25"
+}, {
+  "n" : "Description",
+  "v" : "Brugada syndrome supporting network for CLIXO:25"
+}]}, {"edgeAttributes":[{
+  "po" : 0,
+  "n" : "similarity",
+  "v" : "-0.8613889581740694",
+  "d" : "double"
+}, {
+  "po" : 1,
+  "n" : "similarity",
+  "v" : "-0.8536816774646092",
+  "d" : "double"
+}, {
+  "po" : 2,
+  "n" : "similarity",
+  "v" : "-1.223935248371897",
+  "d" : "double"
+}, {
+  "po" : 3,
+  "n" : "similarity",
+  "v" : "-1.4867212127172247",
+  "d" : "double"
+}, {
+  "po" : 4,
+  "n" : "similarity",
+  "v" : "-0.8150863960422958",
+  "d" : "double"
+}, {
+  "po" : 5,
+  "n" : "similarity",
+  "v" : "-0.8837845897704044",
+  "d" : "double"
+}, {
+  "po" : 6,
+  "n" : "similarity",
+  "v" : "-1.4309054637661285",
+  "d" : "double"
+}, {
+  "po" : 7,
+  "n" : "similarity",
+  "v" : "-0.8864125534144343",
+  "d" : "double"
+}, {
+  "po" : 8,
+  "n" : "similarity",
+  "v" : "-0.5991267144344229",
+  "d" : "double"
+}, {
+  "po" : 9,
+  "n" : "similarity",
+  "v" : "0.0864896329652605",
+  "d" : "double"
+}, {
+  "po" : 10,
+  "n" : "similarity",
+  "v" : "-0.5633913069875888",
+  "d" : "double"
+}, {
+  "po" : 11,
+  "n" : "similarity",
+  "v" : "-0.7901230051579384",
+  "d" : "double"
+}, {
+  "po" : 12,
+  "n" : "similarity",
+  "v" : "-1.1328435387186093",
+  "d" : "double"
+}, {
+  "po" : 13,
+  "n" : "similarity",
+  "v" : "-1.112283205553686",
+  "d" : "double"
+}, {
+  "po" : 14,
+  "n" : "similarity",
+  "v" : "0.5270105519949809",
+  "d" : "double"
+}, {
+  "po" : 15,
+  "n" : "similarity",
+  "v" : "0.26426062854430876",
+  "d" : "double"
+}, {
+  "po" : 16,
+  "n" : "similarity",
+  "v" : "0.2969105652041462",
+  "d" : "double"
+}, {
+  "po" : 17,
+  "n" : "similarity",
+  "v" : "0.7366619362963143",
+  "d" : "double"
+}, {
+  "po" : 18,
+  "n" : "similarity",
+  "v" : "0.4668478731398317",
+  "d" : "double"
+}, {
+  "po" : 19,
+  "n" : "similarity",
+  "v" : "-0.4070209318744585",
+  "d" : "double"
+}, {
+  "po" : 20,
+  "n" : "similarity",
+  "v" : "-1.0857577783134822",
+  "d" : "double"
+}, {
+  "po" : 21,
+  "n" : "similarity",
+  "v" : "0.30191702718258784",
+  "d" : "double"
+}, {
+  "po" : 22,
+  "n" : "similarity",
+  "v" : "-1.017317868561535",
+  "d" : "double"
+}, {
+  "po" : 23,
+  "n" : "similarity",
+  "v" : "-0.13453847029827393",
+  "d" : "double"
+}, {
+  "po" : 24,
+  "n" : "similarity",
+  "v" : "0.6992852561012373",
+  "d" : "double"
+}, {
+  "po" : 25,
+  "n" : "similarity",
+  "v" : "-0.3693305283002976",
+  "d" : "double"
+}, {
+  "po" : 26,
+  "n" : "similarity",
+  "v" : "-0.17400847452644586",
+  "d" : "double"
+}, {
+  "po" : 27,
+  "n" : "similarity",
+  "v" : "0.49939960519773574",
+  "d" : "double"
+}, {
+  "po" : 28,
+  "n" : "similarity",
+  "v" : "0.5418729879444922",
+  "d" : "double"
+}, {
+  "po" : 29,
+  "n" : "similarity",
+  "v" : "0.6099234071868789",
+  "d" : "double"
+}, {
+  "po" : 30,
+  "n" : "similarity",
+  "v" : "0.4311625598244516",
+  "d" : "double"
+}, {
+  "po" : 31,
+  "n" : "similarity",
+  "v" : "-0.5939833763603707",
+  "d" : "double"
+}, {
+  "po" : 32,
+  "n" : "similarity",
+  "v" : "-0.7585010919828133",
+  "d" : "double"
+}, {
+  "po" : 33,
+  "n" : "similarity",
+  "v" : "0.370074679303316",
+  "d" : "double"
+}, {
+  "po" : 34,
+  "n" : "similarity",
+  "v" : "-0.8454709950962167",
+  "d" : "double"
+}, {
+  "po" : 35,
+  "n" : "similarity",
+  "v" : "-0.013660914444677546",
+  "d" : "double"
+}, {
+  "po" : 36,
+  "n" : "similarity",
+  "v" : "0.6058891525844194",
+  "d" : "double"
+}, {
+  "po" : 37,
+  "n" : "similarity",
+  "v" : "-0.11801146859592633",
+  "d" : "double"
+}, {
+  "po" : 38,
+  "n" : "similarity",
+  "v" : "-0.2809176611987202",
+  "d" : "double"
+}, {
+  "po" : 39,
+  "n" : "similarity",
+  "v" : "1.7325196118226303",
+  "d" : "double"
+}, {
+  "po" : 40,
+  "n" : "similarity",
+  "v" : "2.284604388798828",
+  "d" : "double"
+}, {
+  "po" : 41,
+  "n" : "similarity",
+  "v" : "1.3631104420277165",
+  "d" : "double"
+}, {
+  "po" : 42,
+  "n" : "similarity",
+  "v" : "1.8619780552335883",
+  "d" : "double"
+}, {
+  "po" : 43,
+  "n" : "similarity",
+  "v" : "-1.2593763792877777",
+  "d" : "double"
+}, {
+  "po" : 44,
+  "n" : "similarity",
+  "v" : "2.7290279825900767",
+  "d" : "double"
+}, {
+  "po" : 45,
+  "n" : "similarity",
+  "v" : "2.038055715866653",
+  "d" : "double"
+}, {
+  "po" : 46,
+  "n" : "similarity",
+  "v" : "-0.05602916177508079",
+  "d" : "double"
+}, {
+  "po" : 47,
+  "n" : "similarity",
+  "v" : "1.6120931305453052",
+  "d" : "double"
+}, {
+  "po" : 48,
+  "n" : "similarity",
+  "v" : "-0.6151195969751074",
+  "d" : "double"
+}, {
+  "po" : 49,
+  "n" : "similarity",
+  "v" : "0.5016924781372365",
+  "d" : "double"
+}, {
+  "po" : 50,
+  "n" : "similarity",
+  "v" : "2.789392452674745",
+  "d" : "double"
+}, {
+  "po" : 51,
+  "n" : "similarity",
+  "v" : "0.30765567552725753",
+  "d" : "double"
+}, {
+  "po" : 52,
+  "n" : "similarity",
+  "v" : "-0.7614595798645526",
+  "d" : "double"
+}, {
+  "po" : 53,
+  "n" : "similarity",
+  "v" : "-1.298422093108986",
+  "d" : "double"
+}, {
+  "po" : 54,
+  "n" : "similarity",
+  "v" : "0.5675830348501203",
+  "d" : "double"
+}, {
+  "po" : 55,
+  "n" : "similarity",
+  "v" : "0.24899017628761294",
+  "d" : "double"
+}, {
+  "po" : 56,
+  "n" : "similarity",
+  "v" : "-0.11351308906126803",
+  "d" : "double"
+}, {
+  "po" : 57,
+  "n" : "similarity",
+  "v" : "2.20073085349129",
+  "d" : "double"
+}, {
+  "po" : 58,
+  "n" : "similarity",
+  "v" : "-0.11997606009275125",
+  "d" : "double"
+}, {
+  "po" : 59,
+  "n" : "similarity",
+  "v" : "0.27769531583959534",
+  "d" : "double"
+}, {
+  "po" : 60,
+  "n" : "similarity",
+  "v" : "0.7741091839982045",
+  "d" : "double"
+}, {
+  "po" : 61,
+  "n" : "similarity",
+  "v" : "1.6288837588947376",
+  "d" : "double"
+}, {
+  "po" : 62,
+  "n" : "similarity",
+  "v" : "-1.0950010471070046",
+  "d" : "double"
+}, {
+  "po" : 63,
+  "n" : "similarity",
+  "v" : "0.24584821354951558",
+  "d" : "double"
+}, {
+  "po" : 64,
+  "n" : "similarity",
+  "v" : "1.705717658945838",
+  "d" : "double"
+}, {
+  "po" : 65,
+  "n" : "similarity",
+  "v" : "-0.8226709460403101",
+  "d" : "double"
+}, {
+  "po" : 66,
+  "n" : "similarity",
+  "v" : "2.2007667090436738",
+  "d" : "double"
+}, {
+  "po" : 67,
+  "n" : "similarity",
+  "v" : "-0.17553234924952188",
+  "d" : "double"
+}, {
+  "po" : 68,
+  "n" : "similarity",
+  "v" : "-0.3292161174829177",
+  "d" : "double"
+}, {
+  "po" : 69,
+  "n" : "similarity",
+  "v" : "0.539245498557869",
+  "d" : "double"
+}, {
+  "po" : 70,
+  "n" : "similarity",
+  "v" : "-1.0691658370621198",
+  "d" : "double"
+}, {
+  "po" : 71,
+  "n" : "similarity",
+  "v" : "0.22167832559608278",
+  "d" : "double"
+}, {
+  "po" : 72,
+  "n" : "similarity",
+  "v" : "1.3109075821617984",
+  "d" : "double"
+}, {
+  "po" : 73,
+  "n" : "similarity",
+  "v" : "-0.9241783714708941",
+  "d" : "double"
+}, {
+  "po" : 74,
+  "n" : "similarity",
+  "v" : "0.42231502007139643",
+  "d" : "double"
+}, {
+  "po" : 75,
+  "n" : "similarity",
+  "v" : "-0.43540800700114923",
+  "d" : "double"
+}, {
+  "po" : 76,
+  "n" : "similarity",
+  "v" : "-0.2620132998857862",
+  "d" : "double"
+}, {
+  "po" : 77,
+  "n" : "similarity",
+  "v" : "-1.1453037368739247",
+  "d" : "double"
+}, {
+  "po" : 78,
+  "n" : "similarity",
+  "v" : "-0.1747113045153066",
+  "d" : "double"
+}, {
+  "po" : 79,
+  "n" : "similarity",
+  "v" : "1.2707098274706135",
+  "d" : "double"
+}, {
+  "po" : 80,
+  "n" : "similarity",
+  "v" : "-1.7736453441387903",
+  "d" : "double"
+}, {
+  "po" : 81,
+  "n" : "similarity",
+  "v" : "-0.29524995518797403",
+  "d" : "double"
+}, {
+  "po" : 82,
+  "n" : "similarity",
+  "v" : "-0.7980186594951661",
+  "d" : "double"
+}, {
+  "po" : 83,
+  "n" : "similarity",
+  "v" : "-0.28999370991109297",
+  "d" : "double"
+}, {
+  "po" : 84,
+  "n" : "similarity",
+  "v" : "-0.9312132296865309",
+  "d" : "double"
+}, {
+  "po" : 85,
+  "n" : "similarity",
+  "v" : "-0.8048018875264176",
+  "d" : "double"
+}, {
+  "po" : 86,
+  "n" : "similarity",
+  "v" : "-0.3937723318298531",
+  "d" : "double"
+}, {
+  "po" : 87,
+  "n" : "similarity",
+  "v" : "-0.6163774427469261",
+  "d" : "double"
+}, {
+  "po" : 88,
+  "n" : "similarity",
+  "v" : "-0.8719368033307795",
+  "d" : "double"
+}, {
+  "po" : 89,
+  "n" : "similarity",
+  "v" : "-1.1087537652789814",
+  "d" : "double"
+}, {
+  "po" : 90,
+  "n" : "similarity",
+  "v" : "1.1578970866532137",
+  "d" : "double"
+}, {
+  "po" : 91,
+  "n" : "similarity",
+  "v" : "-0.12570920078267794",
+  "d" : "double"
+}, {
+  "po" : 92,
+  "n" : "similarity",
+  "v" : "0.6747635104583789",
+  "d" : "double"
+}, {
+  "po" : 93,
+  "n" : "similarity",
+  "v" : "-0.35124796030235345",
+  "d" : "double"
+}, {
+  "po" : 94,
+  "n" : "similarity",
+  "v" : "1.80064268503965",
+  "d" : "double"
+}, {
+  "po" : 95,
+  "n" : "similarity",
+  "v" : "-0.5832669660123274",
+  "d" : "double"
+}, {
+  "po" : 96,
+  "n" : "similarity",
+  "v" : "0.7793169063800863",
+  "d" : "double"
+}, {
+  "po" : 97,
+  "n" : "similarity",
+  "v" : "-0.8959919578626523",
+  "d" : "double"
+}, {
+  "po" : 98,
+  "n" : "similarity",
+  "v" : "-0.5763040636718862",
+  "d" : "double"
+}, {
+  "po" : 99,
+  "n" : "similarity",
+  "v" : "-0.5339220887883468",
+  "d" : "double"
+}, {
+  "po" : 100,
+  "n" : "similarity",
+  "v" : "-0.8320965379473856",
+  "d" : "double"
+}, {
+  "po" : 101,
+  "n" : "similarity",
+  "v" : "-0.19528377336438557",
+  "d" : "double"
+}, {
+  "po" : 102,
+  "n" : "similarity",
+  "v" : "-0.5843137929028069",
+  "d" : "double"
+}, {
+  "po" : 103,
+  "n" : "similarity",
+  "v" : "0.46161708822731107",
+  "d" : "double"
+}, {
+  "po" : 104,
+  "n" : "similarity",
+  "v" : "-0.4900543544625266",
+  "d" : "double"
+}]},{"status":[{"error":"","success":true}]}]

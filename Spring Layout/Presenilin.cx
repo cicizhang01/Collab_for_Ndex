@@ -1,0 +1,2921 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075632723,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075632745,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":45,"idCounter":45,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":166,"idCounter":268,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":90,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":209,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":17,"idCounter":17,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":45,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"f51de83a-6194-11e5-8ac5-06603eb7f303","creationTime":1442972810011,"modificationTime":1500075632723,"visibility":"PUBLIC","published":false,"nodeCount":45,"edgeCount":166,"owner":"nci-pid","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442972810011,"endedAtTime":1442972810011,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Presenilin action in Notch and Wnt signaling.sif"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]}],"startedAtTime":1443031016341,"endedAtTime":1443031016341,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031135332,"endedAtTime":1443031135332,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031299138,"endedAtTime":1443031299138,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084562516,"endedAtTime":1482084562516,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]}],"startedAtTime":1482084562499,"endedAtTime":1482084562499,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"120"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442972810011,"endedAtTime":1442972810011,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Presenilin action in Notch and Wnt signaling.sif"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]}],"startedAtTime":1443031016341,"endedAtTime":1443031016341,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031135332,"endedAtTime":1443031135332,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031299138,"endedAtTime":1443031299138,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/f51de83a-6194-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"266"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084562516,"endedAtTime":1482084562516,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]}],"startedAtTime":1482084562499,"endedAtTime":1482084562499,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"120"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"}]}],"startedAtTime":1497387639928,"endedAtTime":1497387639928,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"120"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499810455590,"endedAtTime":1499810455590,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499812326191,"endedAtTime":1499812326191,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499813220188,"endedAtTime":1499813220188,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499981772118,"endedAtTime":1499981772118,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499989304714,"endedAtTime":1499989304714,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1500075632724,"endedAtTime":1500075632724,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/f51de83a-6194-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"166"},{"name":"node count","value":"45"},{"name":"dc:title","value":"Presenilin action in Notch and Wnt signaling"},{"name":"description","value":"<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}}]}, {"@context":[{
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "MAP3K7"
+}, {
+  "@id" : 2,
+  "n" : "DLL1"
+}, {
+  "@id" : 3,
+  "n" : "MAPK1"
+}, {
+  "@id" : 4,
+  "n" : "NOTCH1"
+}, {
+  "@id" : 5,
+  "n" : "DKK1"
+}, {
+  "@id" : 6,
+  "n" : "APH1B"
+}, {
+  "@id" : 7,
+  "n" : "AES"
+}, {
+  "@id" : 8,
+  "n" : "HNF1A"
+}, {
+  "@id" : 9,
+  "n" : "HDAC1"
+}, {
+  "@id" : 10,
+  "n" : "PPARD"
+}, {
+  "@id" : 11,
+  "n" : "FZD1"
+}, {
+  "@id" : 12,
+  "n" : "PSENEN"
+}, {
+  "@id" : 13,
+  "n" : "CSNK2A1"
+}, {
+  "@id" : 14,
+  "n" : "AXIN1"
+}, {
+  "@id" : 15,
+  "n" : "LRP6"
+}, {
+  "@id" : 16,
+  "n" : "ADAM10"
+}, {
+  "@id" : 17,
+  "n" : "BTRC"
+}, {
+  "@id" : 18,
+  "n" : "MAPK3"
+}, {
+  "@id" : 19,
+  "n" : "RBPJ"
+}, {
+  "@id" : 20,
+  "n" : "WIF1"
+}, {
+  "@id" : 21,
+  "n" : "CTNNB1"
+}, {
+  "@id" : 22,
+  "n" : "JUN"
+}, {
+  "@id" : 23,
+  "n" : "DTX1"
+}, {
+  "@id" : 24,
+  "n" : "CCND1"
+}, {
+  "@id" : 25,
+  "n" : "CSNK1A1"
+}, {
+  "@id" : 26,
+  "n" : "DVL1"
+}, {
+  "@id" : 27,
+  "n" : "CTBP1"
+}, {
+  "@id" : 28,
+  "n" : "NCSTN"
+}, {
+  "@id" : 29,
+  "n" : "DKK2"
+}, {
+  "@id" : 30,
+  "n" : "GSK3B"
+}, {
+  "@id" : 31,
+  "n" : "FOS"
+}, {
+  "@id" : 32,
+  "n" : "NKD1"
+}, {
+  "@id" : 33,
+  "n" : "FBXW11"
+}, {
+  "@id" : 34,
+  "n" : "KREMEN2"
+}, {
+  "@id" : 35,
+  "n" : "TLE1"
+}, {
+  "@id" : 36,
+  "n" : "PPP2R5D"
+}, {
+  "@id" : 37,
+  "n" : "APC"
+}, {
+  "@id" : 38,
+  "n" : "TAB1"
+}, {
+  "@id" : 39,
+  "n" : "NLK"
+}, {
+  "@id" : 40,
+  "n" : "APH1A"
+}, {
+  "@id" : 41,
+  "n" : "WNT1"
+}, {
+  "@id" : 42,
+  "n" : "CREBBP"
+}, {
+  "@id" : 43,
+  "n" : "FRAT1"
+}, {
+  "@id" : 44,
+  "n" : "PSEN1"
+}, {
+  "@id" : 45,
+  "n" : "MYC"
+}]}, {"edges":[{
+  "@id" : 214,
+  "s" : 1,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 212,
+  "s" : 1,
+  "t" : 39,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 144,
+  "s" : 2,
+  "t" : 4,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 143,
+  "s" : 2,
+  "t" : 23,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 218,
+  "s" : 3,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 217,
+  "s" : 3,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 219,
+  "s" : 3,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 216,
+  "s" : 3,
+  "t" : 22,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 215,
+  "s" : 3,
+  "t" : 31,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 244,
+  "s" : 4,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 245,
+  "s" : 4,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 251,
+  "s" : 4,
+  "t" : 19,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 246,
+  "s" : 4,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 248,
+  "s" : 4,
+  "t" : 22,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 247,
+  "s" : 4,
+  "t" : 31,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 135,
+  "s" : 5,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 134,
+  "s" : 5,
+  "t" : 29,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 137,
+  "s" : 5,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 59,
+  "s" : 6,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 62,
+  "s" : 6,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 64,
+  "s" : 6,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 66,
+  "s" : 6,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 57,
+  "s" : 6,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 60,
+  "s" : 6,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 34,
+  "s" : 7,
+  "t" : 35,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 27,
+  "s" : 7,
+  "t" : 8,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 18,
+  "s" : 7,
+  "t" : 42,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 29,
+  "s" : 7,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 30,
+  "s" : 7,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 24,
+  "s" : 7,
+  "t" : 21,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 20,
+  "s" : 7,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 21,
+  "s" : 7,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 22,
+  "s" : 7,
+  "t" : 27,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 32,
+  "s" : 7,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 33,
+  "s" : 7,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 191,
+  "s" : 8,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 195,
+  "s" : 8,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 196,
+  "s" : 8,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 197,
+  "s" : 8,
+  "t" : 35,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 192,
+  "s" : 8,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 193,
+  "s" : 8,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 187,
+  "s" : 9,
+  "t" : 8,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 189,
+  "s" : 9,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 185,
+  "s" : 9,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 186,
+  "s" : 9,
+  "t" : 27,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 184,
+  "s" : 9,
+  "t" : 7,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 257,
+  "s" : 10,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 175,
+  "s" : 11,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 174,
+  "s" : 11,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 179,
+  "s" : 11,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 176,
+  "s" : 11,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 255,
+  "s" : 12,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 254,
+  "s" : 12,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 253,
+  "s" : 12,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 97,
+  "s" : 13,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 94,
+  "s" : 13,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 96,
+  "s" : 13,
+  "t" : 11,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 99,
+  "s" : 13,
+  "t" : 41,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 98,
+  "s" : 13,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 68,
+  "s" : 14,
+  "t" : 21,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 210,
+  "s" : 15,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 208,
+  "s" : 15,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 12,
+  "s" : 16,
+  "t" : 2,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 16,
+  "s" : 16,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 14,
+  "s" : 16,
+  "t" : 23,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 222,
+  "s" : 18,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 223,
+  "s" : 18,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 221,
+  "s" : 18,
+  "t" : 22,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 220,
+  "s" : 18,
+  "t" : 31,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 266,
+  "s" : 20,
+  "t" : 41,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 264,
+  "s" : 20,
+  "t" : 11,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 265,
+  "s" : 20,
+  "t" : 15,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 117,
+  "s" : 21,
+  "t" : 33,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 132,
+  "s" : 21,
+  "t" : 35,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 121,
+  "s" : 21,
+  "t" : 8,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 129,
+  "s" : 21,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 130,
+  "s" : 21,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 123,
+  "s" : 21,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 124,
+  "s" : 21,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 115,
+  "s" : 21,
+  "t" : 17,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 113,
+  "s" : 21,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 146,
+  "s" : 23,
+  "t" : 4,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 92,
+  "s" : 24,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 93,
+  "s" : 24,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 90,
+  "s" : 24,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 91,
+  "s" : 24,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 205,
+  "s" : 25,
+  "t" : 41,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 203,
+  "s" : 25,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 204,
+  "s" : 25,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 157,
+  "s" : 26,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 152,
+  "s" : 26,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 148,
+  "s" : 26,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 149,
+  "s" : 26,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 150,
+  "s" : 26,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 151,
+  "s" : 26,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 158,
+  "s" : 26,
+  "t" : 4,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 154,
+  "s" : 26,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 111,
+  "s" : 27,
+  "t" : 35,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 104,
+  "s" : 27,
+  "t" : 8,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 109,
+  "s" : 27,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 110,
+  "s" : 27,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 106,
+  "s" : 27,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 107,
+  "s" : 27,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 101,
+  "s" : 27,
+  "t" : 21,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 100,
+  "s" : 27,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 228,
+  "s" : 28,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 226,
+  "s" : 28,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 225,
+  "s" : 28,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 230,
+  "s" : 28,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 139,
+  "s" : 29,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 141,
+  "s" : 29,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 181,
+  "s" : 30,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 182,
+  "s" : 30,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 183,
+  "s" : 30,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 164,
+  "s" : 31,
+  "t" : 22,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 235,
+  "s" : 32,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 232,
+  "s" : 32,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 234,
+  "s" : 32,
+  "t" : 22,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 233,
+  "s" : 32,
+  "t" : 31,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 162,
+  "s" : 33,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 161,
+  "s" : 33,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 163,
+  "s" : 33,
+  "t" : 44,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 206,
+  "s" : 34,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 261,
+  "s" : 35,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 263,
+  "s" : 35,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 262,
+  "s" : 35,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 11,
+  "s" : 36,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 1,
+  "s" : 36,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 8,
+  "s" : 36,
+  "t" : 43,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 3,
+  "s" : 36,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 5,
+  "s" : 36,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 9,
+  "s" : 36,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 36,
+  "s" : 37,
+  "t" : 14,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 38,
+  "s" : 37,
+  "t" : 21,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 260,
+  "s" : 38,
+  "t" : 39,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 242,
+  "s" : 39,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 236,
+  "s" : 39,
+  "t" : 7,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 240,
+  "s" : 39,
+  "t" : 8,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 237,
+  "s" : 39,
+  "t" : 42,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 239,
+  "s" : 39,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 238,
+  "s" : 39,
+  "t" : 27,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 48,
+  "s" : 40,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 51,
+  "s" : 40,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 44,
+  "s" : 40,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 55,
+  "s" : 40,
+  "t" : 44,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 53,
+  "s" : 40,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 46,
+  "s" : 40,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 49,
+  "s" : 40,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 268,
+  "s" : 41,
+  "t" : 26,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 88,
+  "s" : 42,
+  "t" : 35,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 81,
+  "s" : 42,
+  "t" : 8,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 86,
+  "s" : 42,
+  "t" : 10,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 87,
+  "s" : 42,
+  "t" : 10,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 83,
+  "s" : 42,
+  "t" : 45,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 84,
+  "s" : 42,
+  "t" : 45,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 78,
+  "s" : 42,
+  "t" : 21,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 74,
+  "s" : 42,
+  "t" : 24,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 75,
+  "s" : 42,
+  "t" : 24,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 76,
+  "s" : 42,
+  "t" : 27,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 173,
+  "s" : 43,
+  "t" : 30,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 170,
+  "s" : 43,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 171,
+  "s" : 43,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 172,
+  "s" : 43,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 259,
+  "s" : 44,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 258,
+  "s" : 44,
+  "t" : 21,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 224,
+  "s" : 45,
+  "t" : 35,
+  "i" : "neighbor-of"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Presenilin action in Notch and Wnt signaling"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Shiva Krupa"
+}, {
+  "n" : "reviewers",
+  "v" : "Sashidhara, Pallavi Kshetrapal"
+}, {
+  "n" : "labels",
+  "v" : "ps1pathway"
+}, {
+  "n" : "version",
+  "v" : "27-Jul-2015"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}, {
+  "n" : "description",
+  "v" : "<i>Presenilin action in Notch and Wnt signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RE27", "uniprot knowledgebase:E1P523", "uniprot knowledgebase:O43317", "uniprot knowledgebase:O43318", "uniprot knowledgebase:O43319", "uniprot knowledgebase:Q5TDN2", "uniprot knowledgebase:Q5TDN3", "uniprot knowledgebase:Q5TDT7", "uniprot knowledgebase:Q9NTR3", "uniprot knowledgebase:Q9NZ70" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RAK7", "uniprot knowledgebase:B5M0B3", "uniprot knowledgebase:O00548", "uniprot knowledgebase:Q9NU41", "uniprot knowledgebase:Q9UJV2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8CZ64", "uniprot knowledgebase:P28482" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P46531", "uniprot knowledgebase:Q59ED8", "uniprot knowledgebase:Q5SXM3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RC19", "uniprot knowledgebase:O94907" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K589", "uniprot knowledgebase:Q564N3", "uniprot knowledgebase:Q6UWQ1", "uniprot knowledgebase:Q8WW43", "uniprot knowledgebase:Q9H0S0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RBL0", "uniprot knowledgebase:Q08117", "uniprot knowledgebase:Q12808", "uniprot knowledgebase:Q14CJ1", "uniprot knowledgebase:Q96TG9", "uniprot knowledgebase:Q9UDY9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A5Z2R8", "uniprot knowledgebase:E0YMJ5", "uniprot knowledgebase:E0YMK0", "uniprot knowledgebase:E0YMK1", "uniprot knowledgebase:E2I9R4", "uniprot knowledgebase:E2I9R5", "uniprot knowledgebase:F5H5U3", "uniprot knowledgebase:P20823", "uniprot knowledgebase:Q2M3H2", "uniprot knowledgebase:Q99861" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q13547", "uniprot knowledgebase:Q92534" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K6J6", "uniprot knowledgebase:B4E3V3", "uniprot knowledgebase:B6ZGS1", "uniprot knowledgebase:B7Z3W1", "uniprot knowledgebase:E9PE18", "uniprot knowledgebase:Q03181", "uniprot knowledgebase:Q5D1P0", "uniprot knowledgebase:Q7Z5K0", "uniprot knowledgebase:Q9BUD4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4D1E8", "uniprot knowledgebase:O94815", "uniprot knowledgebase:Q549T8", "uniprot knowledgebase:Q9UP38" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R5L9", "uniprot knowledgebase:Q9NZ42" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DYS6", "uniprot knowledgebase:D3DVV8", "uniprot knowledgebase:P19138", "uniprot knowledgebase:P20426", "uniprot knowledgebase:P68400", "uniprot knowledgebase:Q14013", "uniprot knowledgebase:Q5U065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O15169", "uniprot knowledgebase:Q4TT26", "uniprot knowledgebase:Q4TT27", "uniprot knowledgebase:Q86YA7", "uniprot knowledgebase:Q8WVW6", "uniprot knowledgebase:Q96S28" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O75581", "uniprot knowledgebase:Q17RZ2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DU28", "uniprot knowledgebase:O14672", "uniprot knowledgebase:Q10742", "uniprot knowledgebase:Q92650" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5MD49", "uniprot knowledgebase:Q5W141", "uniprot knowledgebase:Q5W142", "uniprot knowledgebase:Q9Y213", "uniprot knowledgebase:Q9Y297" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8CZ58", "uniprot knowledgebase:B0LPG3", "uniprot knowledgebase:P27361", "uniprot knowledgebase:Q8NHX1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DY22", "uniprot knowledgebase:Q06330", "uniprot knowledgebase:Q5XKH9", "uniprot knowledgebase:Q6P1N3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q6UXI1", "uniprot knowledgebase:Q8WVG4", "uniprot knowledgebase:Q9Y5W5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K1L7", "uniprot knowledgebase:P35222", "uniprot knowledgebase:Q8NEW9", "uniprot knowledgebase:Q8NI94", "uniprot knowledgebase:Q9H391" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P05412", "uniprot knowledgebase:Q6FHM7", "uniprot knowledgebase:Q96G93" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O60630", "uniprot knowledgebase:Q86Y01", "uniprot knowledgebase:Q9BS04" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P24385", "uniprot knowledgebase:Q6LEF0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DQG0", "uniprot knowledgebase:D3DQG1", "uniprot knowledgebase:P48729", "uniprot knowledgebase:Q4JJA0", "uniprot knowledgebase:Q5U046", "uniprot knowledgebase:Q5U047", "uniprot knowledgebase:Q6FGA2", "uniprot knowledgebase:Q71TU5", "uniprot knowledgebase:Q96HD2", "uniprot knowledgebase:Q9UDK3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O14640", "uniprot knowledgebase:Q5TA33", "uniprot knowledgebase:Q5TA35" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q13363", "uniprot knowledgebase:Q4W5N3", "uniprot knowledgebase:Q7Z2Q5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q5T207", "uniprot knowledgebase:Q5T208", "uniprot knowledgebase:Q86VV5", "uniprot knowledgebase:Q92542" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A0AVE9", "uniprot knowledgebase:B2R6S7", "uniprot knowledgebase:Q9UBU2", "uniprot knowledgebase:Q9UIU3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DN89", "uniprot knowledgebase:P49841", "uniprot knowledgebase:Q9BWH3", "uniprot knowledgebase:Q9UL47" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K4E2", "uniprot knowledgebase:B4DQ65", "uniprot knowledgebase:P01100", "uniprot knowledgebase:P18849" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RC39", "uniprot knowledgebase:Q8WZ08", "uniprot knowledgebase:Q969G9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RC98", "uniprot knowledgebase:Q9P2S8", "uniprot knowledgebase:Q9P2S9", "uniprot knowledgebase:Q9UKB1", "uniprot knowledgebase:Q9Y4C6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DXF6", "uniprot knowledgebase:I3L2S2", "uniprot knowledgebase:Q8N2J4", "uniprot knowledgebase:Q8NCW0", "uniprot knowledgebase:Q8NCW1", "uniprot knowledgebase:Q96GL8", "uniprot knowledgebase:Q9BTP9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K495", "uniprot knowledgebase:Q04724", "uniprot knowledgebase:Q5T3G4", "uniprot knowledgebase:Q969V9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K3I9", "uniprot knowledgebase:B5BUA6", "uniprot knowledgebase:O00494", "uniprot knowledgebase:O00696", "uniprot knowledgebase:Q14738", "uniprot knowledgebase:Q15171", "uniprot knowledgebase:Q5TC39" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DT03", "uniprot knowledgebase:P25054", "uniprot knowledgebase:Q15162", "uniprot knowledgebase:Q15163", "uniprot knowledgebase:Q93042" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q15750", "uniprot knowledgebase:Q2PP09", "uniprot knowledgebase:Q8IZW2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RCX1", "uniprot knowledgebase:Q2PNI9", "uniprot knowledgebase:Q6P2A3", "uniprot knowledgebase:Q9UBE8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DQK0", "uniprot knowledgebase:Q5TB22", "uniprot knowledgebase:Q5TB23", "uniprot knowledgebase:Q969R6", "uniprot knowledgebase:Q96BI3", "uniprot knowledgebase:Q9BVG0", "uniprot knowledgebase:Q9Y386" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 41,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P04628", "uniprot knowledgebase:Q5U0N2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 42,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DUC9", "uniprot knowledgebase:O00147", "uniprot knowledgebase:Q16376", "uniprot knowledgebase:Q4LE28", "uniprot knowledgebase:Q92793" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 43,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q5JTI1", "uniprot knowledgebase:Q8NE74", "uniprot knowledgebase:Q8TDW9", "uniprot knowledgebase:Q92837" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 44,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R6D3", "uniprot knowledgebase:O95465", "uniprot knowledgebase:P49768", "uniprot knowledgebase:Q14762", "uniprot knowledgebase:Q15719", "uniprot knowledgebase:Q15720", "uniprot knowledgebase:Q96P33", "uniprot knowledgebase:Q9UIF0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 45,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8WFE7", "uniprot knowledgebase:P01106", "uniprot knowledgebase:P01107", "uniprot knowledgebase:Q14026" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 214,
+  "n" : "pmid",
+  "v" : [ "10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 214,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 212,
+  "n" : "pmid",
+  "v" : [ "10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "pmid",
+  "v" : [ "12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 217,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 217,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 219,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 216,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 215,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 215,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 244,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 245,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 246,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 248,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 248,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 248,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 247,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "pmid",
+  "v" : [ "11357136" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11357136" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 62,
+  "n" : "pmid",
+  "v" : [ "10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 62,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 57,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 57,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 20,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 32,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 191,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 195,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 192,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 187,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 189,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 185,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 186,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 184,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 175,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 175,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 174,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 254,
+  "n" : "pmid",
+  "v" : [ "10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 253,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 253,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 253,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 94,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 94,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 94,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 96,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 96,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 99,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 99,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 98,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 208,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 12,
+  "n" : "pmid",
+  "v" : [ "12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 16,
+  "n" : "pmid",
+  "v" : [ "12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 14,
+  "n" : "pmid",
+  "v" : [ "12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12794186" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 222,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 222,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 223,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 221,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 220,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 220,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 220,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 264,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 265,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 129,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 123,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 113,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 205,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 205,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 203,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 203,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 204,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 204,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 152,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 152,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 149,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 149,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 149,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 150,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 150,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 150,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 151,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 151,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 151,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 154,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 154,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 109,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 106,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 100,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 226,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 226,
+  "n" : "pmid",
+  "v" : [ "10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 226,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 225,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 225,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 181,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 181,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 181,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 182,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 183,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 183,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 183,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 232,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 234,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 234,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 234,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 233,
+  "n" : "pmid",
+  "v" : [ "11739397", "15757900", "16197369", "16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11739397", "pmid:15757900", "pmid:16197369", "pmid:16474180" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 263,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 262,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 1,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 5,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 260,
+  "n" : "pmid",
+  "v" : [ "10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10391247" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 242,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 236,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 240,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 237,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 239,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 238,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 48,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 48,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 51,
+  "n" : "pmid",
+  "v" : [ "10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 46,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 268,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 268,
+  "n" : "pmid",
+  "v" : [ "15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 268,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:15747065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 83,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 74,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 173,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 173,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 170,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 171,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 171,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 172,
+  "n" : "pmid",
+  "v" : [ "12554650", "15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12554650", "pmid:15327768" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 259,
+  "n" : "pmid",
+  "v" : [ "10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10882062" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 258,
+  "n" : "pmid",
+  "v" : [ "11266469" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11266469" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12554650",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15327768",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12794186",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11921277",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10882062",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11266469",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15747065",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15292388",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11357136",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8923452",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11739397",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15757900",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16197369",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16474180",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12857724",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10391247",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9171444",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 34.56656428503768,
+  "y" : 406.16196208614974
+}, {
+  "node" : 2,
+  "x" : 748.3500493700791,
+  "y" : 181.50537559437507
+}, {
+  "node" : 3,
+  "x" : 170.04884951742068,
+  "y" : -23.46496137122932
+}, {
+  "node" : 4,
+  "x" : 271.8379662812136,
+  "y" : 77.23310914041252
+}, {
+  "node" : 5,
+  "x" : -533.1211295274976,
+  "y" : 1340.8341673348625
+}, {
+  "node" : 6,
+  "x" : -2.5887425046303916,
+  "y" : 177.96315745256203
+}, {
+  "node" : 7,
+  "x" : 802.0638552445932,
+  "y" : 697.109703817542
+}, {
+  "node" : 8,
+  "x" : 665.6879589703382,
+  "y" : 756.9237147385766
+}, {
+  "node" : 9,
+  "x" : 445.82703231393816,
+  "y" : 648.0678316160033
+}, {
+  "node" : 10,
+  "x" : 866.243140277876,
+  "y" : 453.8988787256346
+}, {
+  "node" : 11,
+  "x" : -552.5286398468818,
+  "y" : 788.7359295472233
+}, {
+  "node" : 12,
+  "x" : -48.51342441791841,
+  "y" : 252.66320046387708
+}, {
+  "node" : 13,
+  "x" : -363.1371844253878,
+  "y" : 607.2257515566544
+}, {
+  "node" : 14,
+  "x" : 374.4948345274283,
+  "y" : 329.5940364066024
+}, {
+  "node" : 15,
+  "x" : -503.43007180947643,
+  "y" : 1101.5291511473263
+}, {
+  "node" : 16,
+  "x" : 398.76538908105,
+  "y" : 147.4074887718016
+}, {
+  "node" : 17,
+  "x" : 460.4646133995983,
+  "y" : 527.7422689290482
+}, {
+  "node" : 18,
+  "x" : 167.1072114977225,
+  "y" : 58.07327413223851
+}, {
+  "node" : 19,
+  "x" : 295.7531597706513,
+  "y" : -98.59928895888542
+}, {
+  "node" : 20,
+  "x" : -454.98776096203693,
+  "y" : 580.0083453743464
+}, {
+  "node" : 21,
+  "x" : 362.8242228661362,
+  "y" : 447.82394837042233
+}, {
+  "node" : 22,
+  "x" : 517.2631351144648,
+  "y" : 108.9227226789111
+}, {
+  "node" : 23,
+  "x" : 782.9817744433237,
+  "y" : 100.0612272232533
+}, {
+  "node" : 24,
+  "x" : 888.6050527239518,
+  "y" : 529.8432692842167
+}, {
+  "node" : 25,
+  "x" : -314.2493102174146,
+  "y" : 676.4271464315484
+}, {
+  "node" : 26,
+  "x" : -67.04858699848276,
+  "y" : 575.1153504709197
+}, {
+  "node" : 27,
+  "x" : 695.9218460855951,
+  "y" : 583.5688338550217
+}, {
+  "node" : 28,
+  "x" : -146.36794521063192,
+  "y" : 224.6213997086151
+}, {
+  "node" : 29,
+  "x" : -574.6170621978637,
+  "y" : 1276.9752232867643
+}, {
+  "node" : 30,
+  "x" : 154.73916124472723,
+  "y" : 444.8883583909617
+}, {
+  "node" : 31,
+  "x" : 492.91981147555407,
+  "y" : 21.185018406173675
+}, {
+  "node" : 32,
+  "x" : 164.00625200297856,
+  "y" : 190.6570527611991
+}, {
+  "node" : 33,
+  "x" : -211.8473146668003,
+  "y" : 82.74526623705295
+}, {
+  "node" : 34,
+  "x" : -633.5799110418092,
+  "y" : 1310.8091969494844
+}, {
+  "node" : 35,
+  "x" : 770.5919192928865,
+  "y" : 624.2220801589245
+}, {
+  "node" : 36,
+  "x" : 220.75691930972096,
+  "y" : 338.0654059298615
+}, {
+  "node" : 37,
+  "x" : 433.99520842731386,
+  "y" : 372.9339927843216
+}, {
+  "node" : 38,
+  "x" : 81.47211314833294,
+  "y" : 379.24267870086663
+}, {
+  "node" : 39,
+  "x" : 325.3441183297183,
+  "y" : 576.9219945016874
+}, {
+  "node" : 40,
+  "x" : -118.14488685523146,
+  "y" : 304.8842320968534
+}, {
+  "node" : 41,
+  "x" : -458.23837335469904,
+  "y" : 857.2031084555637
+}, {
+  "node" : 42,
+  "x" : 745.7803331736161,
+  "y" : 754.8495433355326
+}, {
+  "node" : 43,
+  "x" : 136.94201979681873,
+  "y" : 525.5144121571223
+}, {
+  "node" : 44,
+  "x" : -85.97596805881417,
+  "y" : 143.91582111599652
+}, {
+  "node" : 45,
+  "x" : 786.3162710102174,
+  "y" : 457.46740507462863
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "nodes:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_SELECTED" : "false",
+    "NODE_WIDTH" : "75.0",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SIZE" : "35.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "edges:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]

@@ -1,0 +1,784 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075847437,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1500075847457,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":16,"idCounter":16,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":36,"idCounter":57,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":32,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":22,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":6,"idCounter":6,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":16,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"5fb983a4-6196-11e5-8ac5-06603eb7f303","creationTime":1442973418365,"modificationTime":1500075847437,"visibility":"PUBLIC","published":false,"nodeCount":16,"edgeCount":36,"owner":"nci-pid","ndexServerURI":"http://dev2.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973418365,"endedAtTime":1442973418365,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Validated nuclear estrogen receptor beta network.sif"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1443031010556,"endedAtTime":1443031010556,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031141290,"endedAtTime":1443031141290,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031292952,"endedAtTime":1443031292952,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084572245,"endedAtTime":1482084572245,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1482084572205,"endedAtTime":1482084572205,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973418365,"endedAtTime":1442973418365,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Validated nuclear estrogen receptor beta network.sif"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1443031010556,"endedAtTime":1443031010556,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031141290,"endedAtTime":1443031141290,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031292952,"endedAtTime":1443031292952,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084572245,"endedAtTime":1482084572245,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1482084572205,"endedAtTime":1482084572205,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1497387485044,"endedAtTime":1497387485044,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973418365,"endedAtTime":1442973418365,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Validated nuclear estrogen receptor beta network.sif"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1443031010556,"endedAtTime":1443031010556,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031141290,"endedAtTime":1443031141290,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031292952,"endedAtTime":1443031292952,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084572245,"endedAtTime":1482084572245,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1482084572205,"endedAtTime":1482084572205,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]},{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":[{"creationEvent":{"inputs":null,"startedAtTime":1442973418365,"endedAtTime":1442973418365,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Validated nuclear estrogen receptor beta network.sif"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1443031010556,"endedAtTime":1443031010556,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031141290,"endedAtTime":1443031141290,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031292952,"endedAtTime":1443031292952,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"uri":"http://public.ndexbio.org/network/5fb983a4-6196-11e5-8ac5-06603eb7f303","properties":[{"name":"edge count","value":"58"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"creationEvent":{"inputs":null,"startedAtTime":1482084572245,"endedAtTime":1482084572245,"eventType":"Created by NDEx EBS network converter","properties":null},"uri":null,"properties":[{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1482084572205,"endedAtTime":1482084572205,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"}]}],"startedAtTime":1497387485044,"endedAtTime":1497387485044,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1497387601414,"endedAtTime":1497387601414,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"24"},{"name":"node count","value":"15"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499810654036,"endedAtTime":1499810654036,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499812495479,"endedAtTime":1499812495479,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499813389413,"endedAtTime":1499813389413,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499981971655,"endedAtTime":1499981971655,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499989472599,"endedAtTime":1499989472599,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1500075847438,"endedAtTime":1500075847438,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"uri":"http://dev2.ndexbio.org/v2/network/5fb983a4-6196-11e5-8ac5-06603eb7f303/summary","properties":[{"name":"edge count","value":"36"},{"name":"node count","value":"16"},{"name":"dc:title","value":"Validated nuclear estrogen receptor beta network"},{"name":"description","value":"<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}}]}, {"@context":[{
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "SMARCE1"
+}, {
+  "@id" : 2,
+  "n" : "NEDD8"
+}, {
+  "@id" : 3,
+  "n" : "UBA3"
+}, {
+  "@id" : 4,
+  "n" : "DDX54"
+}, {
+  "@id" : 5,
+  "n" : "NR0B2"
+}, {
+  "@id" : 6,
+  "n" : "NCOA1"
+}, {
+  "@id" : 7,
+  "n" : "NR0B1"
+}, {
+  "@id" : 8,
+  "n" : "C3"
+}, {
+  "@id" : 9,
+  "n" : "E2"
+}, {
+  "@id" : 10,
+  "n" : "NCOA3"
+}, {
+  "@id" : 11,
+  "n" : "ESR2"
+}, {
+  "@id" : 12,
+  "n" : "ZNF14"
+}, {
+  "@id" : 13,
+  "n" : "UBE2M"
+}, {
+  "@id" : 14,
+  "n" : "SMARCB1"
+}, {
+  "@id" : 15,
+  "n" : "SMARCA4"
+}, {
+  "@id" : 16,
+  "n" : "NCOA2"
+}]}, {"edges":[{
+  "@id" : 53,
+  "s" : 1,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 51,
+  "s" : 1,
+  "t" : 14,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 41,
+  "s" : 2,
+  "t" : 3,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 43,
+  "s" : 2,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 57,
+  "s" : 3,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 3,
+  "s" : 4,
+  "t" : 8,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 4,
+  "s" : 4,
+  "t" : 11,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 2,
+  "s" : 8,
+  "t" : 11,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 1,
+  "s" : 8,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 12,
+  "s" : 9,
+  "t" : 2,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 14,
+  "s" : 9,
+  "t" : 3,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 7,
+  "s" : 9,
+  "t" : 4,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 9,
+  "s" : 9,
+  "t" : 6,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 13,
+  "s" : 9,
+  "t" : 7,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 6,
+  "s" : 9,
+  "t" : 8,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 11,
+  "s" : 9,
+  "t" : 10,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 8,
+  "s" : 9,
+  "t" : 11,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 15,
+  "s" : 9,
+  "t" : 13,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 10,
+  "s" : 9,
+  "t" : 16,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 31,
+  "s" : 11,
+  "t" : 1,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 23,
+  "s" : 11,
+  "t" : 2,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 35,
+  "s" : 11,
+  "t" : 3,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 27,
+  "s" : 11,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 17,
+  "s" : 11,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 25,
+  "s" : 11,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 16,
+  "s" : 11,
+  "t" : 8,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 21,
+  "s" : 11,
+  "t" : 10,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 39,
+  "s" : 11,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 37,
+  "s" : 11,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 33,
+  "s" : 11,
+  "t" : 14,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 29,
+  "s" : 11,
+  "t" : 15,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 19,
+  "s" : 11,
+  "t" : 16,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 55,
+  "s" : 14,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 45,
+  "s" : 15,
+  "t" : 1,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 49,
+  "s" : 15,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 47,
+  "s" : 15,
+  "t" : 14,
+  "i" : "in-complex-with"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Validated nuclear estrogen receptor beta network"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Kira Anthony"
+}, {
+  "n" : "reviewers",
+  "v" : "Ann M Nardulli, Julie M Hall"
+}, {
+  "n" : "labels",
+  "v" : "erb_genomic_pathway"
+}, {
+  "n" : "version",
+  "v" : "27-Jul-2015"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}, {
+  "n" : "description",
+  "v" : "<i>Validated nuclear estrogen receptor beta network</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KMC1", "uniprot knowledgebase:B4DFR4", "uniprot knowledgebase:C0IMW4", "uniprot knowledgebase:C0IMW5", "uniprot knowledgebase:C0IMW7", "uniprot knowledgebase:H7C3F6", "uniprot knowledgebase:O43539", "uniprot knowledgebase:Q969G3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q15843", "uniprot knowledgebase:Q3SXN8", "uniprot knowledgebase:Q6LES6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NLB5", "uniprot knowledgebase:A8K027", "uniprot knowledgebase:O76088", "uniprot knowledgebase:Q8TBC4", "uniprot knowledgebase:Q9NTU3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q86YT8", "uniprot knowledgebase:Q8TDD1", "uniprot knowledgebase:Q9BRZ1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:F1D8P5", "uniprot knowledgebase:Q15466", "uniprot knowledgebase:Q5QP36" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O00150", "uniprot knowledgebase:O43792", "uniprot knowledgebase:O43793", "uniprot knowledgebase:Q13071", "uniprot knowledgebase:Q13420", "uniprot knowledgebase:Q15788", "uniprot knowledgebase:Q2T9G5", "uniprot knowledgebase:Q53SX3", "uniprot knowledgebase:Q6GVI5", "uniprot knowledgebase:Q7KYV3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P51843", "uniprot knowledgebase:Q96F69" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A7E236", "uniprot knowledgebase:P01024" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "cas:50-28-2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A4LAZ5", "uniprot knowledgebase:Q0VF45", "uniprot knowledgebase:Q5JYD9", "uniprot knowledgebase:Q5JYE0", "uniprot knowledgebase:Q9BR49", "uniprot knowledgebase:Q9UPC9", "uniprot knowledgebase:Q9UPG4", "uniprot knowledgebase:Q9UPG7", "uniprot knowledgebase:Q9Y6Q9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K8K5", "uniprot knowledgebase:G3V5M5", "uniprot knowledgebase:O60608", "uniprot knowledgebase:O60685", "uniprot knowledgebase:O60702", "uniprot knowledgebase:O60703", "uniprot knowledgebase:O75583", "uniprot knowledgebase:O75584", "uniprot knowledgebase:Q0MWT5", "uniprot knowledgebase:Q0MWT6", "uniprot knowledgebase:Q86Z31", "uniprot knowledgebase:Q92731", "uniprot knowledgebase:Q9UEV6", "uniprot knowledgebase:Q9UHD3", "uniprot knowledgebase:Q9UQK9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B9EGA4", "uniprot knowledgebase:P17017", "uniprot knowledgebase:Q9ULZ5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O76069", "uniprot knowledgebase:P61081", "uniprot knowledgebase:Q8VC50" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O75784", "uniprot knowledgebase:O95474", "uniprot knowledgebase:Q12824", "uniprot knowledgebase:Q17S11", "uniprot knowledgebase:Q38GA1", "uniprot knowledgebase:Q76N08", "uniprot knowledgebase:Q9UBH2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B1A8Z4", "uniprot knowledgebase:B1A8Z5", "uniprot knowledgebase:B1A8Z6", "uniprot knowledgebase:B1A8Z7", "uniprot knowledgebase:E9PBR8", "uniprot knowledgebase:O95052", "uniprot knowledgebase:P51532", "uniprot knowledgebase:Q9HBD3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q14CD2", "uniprot knowledgebase:Q15596" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 3,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "pmid",
+  "v" : [ "12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 14,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 7,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 9,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 13,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 6,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 6,
+  "n" : "pmid",
+  "v" : [ "12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 8,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 15,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 10,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 16,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 16,
+  "n" : "pmid",
+  "v" : [ "12466272" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12466272" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12466272",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11795381",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11818503",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11053406",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10648597",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:18981223",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 319.7549342793181,
+  "y" : -231.38194477122087
+}, {
+  "node" : 2,
+  "x" : 531.847304207778,
+  "y" : 227.1512582042325
+}, {
+  "node" : 3,
+  "x" : 459.1401145445758,
+  "y" : 290.42782847265806
+}, {
+  "node" : 4,
+  "x" : 95.37209412923515,
+  "y" : 117.22200512439922
+}, {
+  "node" : 5,
+  "x" : 169.24271872353182,
+  "y" : -71.41142474681155
+}, {
+  "node" : 6,
+  "x" : 284.9211210076838,
+  "y" : 152.8814533722341
+}, {
+  "node" : 7,
+  "x" : 349.7641509411335,
+  "y" : 155.31330412592393
+}, {
+  "node" : 8,
+  "x" : 133.49646481342305,
+  "y" : 268.5707344691304
+}, {
+  "node" : 9,
+  "x" : 111.29301457276216,
+  "y" : 197.4112171997755
+}, {
+  "node" : 10,
+  "x" : 327.3909693512771,
+  "y" : 208.88216795294656
+}, {
+  "node" : 11,
+  "x" : 251.26570171799594,
+  "y" : -6.106800342853499
+}, {
+  "node" : 12,
+  "x" : 250.68502733385327,
+  "y" : -194.50365251175145
+}, {
+  "node" : 13,
+  "x" : 523.3623313649857,
+  "y" : 130.8845889882886
+}, {
+  "node" : 14,
+  "x" : 243.88287746726903,
+  "y" : -271.74344261438597
+}, {
+  "node" : 15,
+  "x" : 174.53657394406085,
+  "y" : -228.08982475874595
+}, {
+  "node" : 16,
+  "x" : 269.7596449807214,
+  "y" : 208.28884192716905
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "nodes:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_SELECTED" : "false",
+    "NODE_WIDTH" : "75.0",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SIZE" : "35.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "properties_of" : "edges:default",
+  "applies_to" : 351,
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]
