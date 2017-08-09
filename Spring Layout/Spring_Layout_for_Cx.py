@@ -25,10 +25,30 @@ iterBegin = 100
 #1000 50 and 200
 maxLoops = 500
 #EGF, FanGO, FanGO3, Direct
-cxFile = 'Hedgehog2.cx'
+cxFile = 'Hedgehog.cx'
+sourceXLock = 100
+targetXLock = 300
 
 
 # for key, value in d.iteritems():
+def categorizing():
+    for node, properties in node_list.iteritems():
+        in_count = 0
+        out_count = 0
+        for edge in edge_list:
+            if node == edge.get("source"):
+                out_count = out_count + 1
+            if node == edge.get("target"):
+                in_count = in_count + 1
+        if in_count > 0 and out_count == 0:
+            properties["category"] = "Target"
+            properties["x"] = targetXLock
+        elif out_count > 0 and in_count == 0:
+            properties["category"] = "Source"
+            properties["x"] = sourceXLock
+        elif in_count > 0 and out_count > 0:
+            properties["category"] = "Middle"
+
 
 def loader(file):
     #start_loading = time.time()
@@ -232,8 +252,9 @@ def loop():
 
         #print node_list
 
-#loader(cxFile)
+loader(cxFile)
+categorizing()
 #print edge_list
-#print node_list
-loop()
-exportToNetwork(cxFile)
+print node_list
+#loop()
+#exportToNetwork(cxFile)
