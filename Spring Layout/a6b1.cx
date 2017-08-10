@@ -1,0 +1,5831 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371117429,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371117431,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":51,"idCounter":51,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":317,"idCounter":503,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":100,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":512,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":86,"idCounter":86,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":51,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"73d1a893-6186-11e5-8ac5-06603eb7f303","creationTime":1442966580130,"modificationTime":1499371117429,"visibility":"PUBLIC","published":false,"nodeCount":51,"edgeCount":317,"owner":"nci-pid","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442966580130,"endedAtTime":1442966580130,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/a6b1 and a6b4 Integrin signaling.sif"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]}],"startedAtTime":1443031030831,"endedAtTime":1443031030831,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031121055,"endedAtTime":1443031121055,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031313767,"endedAtTime":1443031313767,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281921220,"endedAtTime":1482281921220,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]}],"startedAtTime":1482281921352,"endedAtTime":1482281921352,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"175"},{"name":"node count","value":"43"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]},{"uri":"http://public.ndexbio.org/v2/network/73d1a893-6186-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/73d1a893-6186-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442966580130,"endedAtTime":1442966580130,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/a6b1 and a6b4 Integrin signaling.sif"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]}],"startedAtTime":1443031030831,"endedAtTime":1443031030831,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031121055,"endedAtTime":1443031121055,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031313767,"endedAtTime":1443031313767,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"365"},{"name":"node count","value":"49"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281921220,"endedAtTime":1482281921220,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]}],"startedAtTime":1482281921352,"endedAtTime":1482281921352,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"175"},{"name":"node count","value":"43"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"}]}],"startedAtTime":1497388146798,"endedAtTime":1497388146798,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"175"},{"name":"node count","value":"43"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1497567166115,"endedAtTime":1497567166115,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"317"},{"name":"node count","value":"51"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1498849064282,"endedAtTime":1498849064282,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[]}],"startedAtTime":1498849381726,"endedAtTime":1498849381726,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"317"},{"name":"node count","value":"51"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499114375680,"endedAtTime":1499114375680,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"317"},{"name":"node count","value":"51"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499115177626,"endedAtTime":1499115177626,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"317"},{"name":"node count","value":"51"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499115537045,"endedAtTime":1499115537045,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"317"},{"name":"node count","value":"51"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499371117415,"endedAtTime":1499371117415,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"},{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]},"properties":[{"name":"dc:title","value":"a6b1 and a6b4 Integrin signaling"},{"name":"description","value":"<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]}}]}, {"@context":[{
+  "KEGG REACTION" : "http://identifiers.org/kegg.reaction/",
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "PROTEIN DATA BANK" : "http://identifiers.org/pdb/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "RXRs"
+}, {
+  "@id" : 2,
+  "n" : "GTP"
+}, {
+  "@id" : 3,
+  "n" : "RXRG"
+}, {
+  "@id" : 4,
+  "n" : "1433E"
+}, {
+  "@id" : 5,
+  "n" : "LAMB1"
+}, {
+  "@id" : 6,
+  "n" : "LAMA1"
+}, {
+  "@id" : 7,
+  "n" : "LAMC1"
+}, {
+  "@id" : 8,
+  "n" : "LAMA4"
+}, {
+  "@id" : 9,
+  "n" : "GDP"
+}, {
+  "@id" : 10,
+  "n" : "CADH1"
+}, {
+  "@id" : 11,
+  "n" : "ITB1"
+}, {
+  "@id" : 12,
+  "n" : "ITB4"
+}, {
+  "@id" : 13,
+  "n" : "HGFL"
+}, {
+  "@id" : 14,
+  "n" : "P85A"
+}, {
+  "@id" : 15,
+  "n" : "1433Z"
+}, {
+  "@id" : 16,
+  "n" : "RXRA"
+}, {
+  "@id" : 17,
+  "n" : "GRB2"
+}, {
+  "@id" : 18,
+  "n" : "LAMA2"
+}, {
+  "@id" : 19,
+  "n" : "CASP7"
+}, {
+  "@id" : 20,
+  "n" : "RAC1"
+}, {
+  "@id" : 21,
+  "n" : "LAMA5"
+}, {
+  "@id" : 22,
+  "n" : "EGFR"
+}, {
+  "@id" : 23,
+  "n" : "CD9"
+}, {
+  "@id" : 24,
+  "n" : "RASH"
+}, {
+  "@id" : 25,
+  "n" : "LAMB3"
+}, {
+  "@id" : 26,
+  "n" : "AKT1"
+}, {
+  "@id" : 27,
+  "n" : "1433G"
+}, {
+  "@id" : 28,
+  "n" : "RON"
+}, {
+  "@id" : 29,
+  "n" : "PK3CA"
+}, {
+  "@id" : 30,
+  "n" : "CASP3"
+}, {
+  "@id" : 31,
+  "n" : "ERBB3"
+}, {
+  "@id" : 32,
+  "n" : "RXRB"
+}, {
+  "@id" : 33,
+  "n" : "MET"
+}, {
+  "@id" : 34,
+  "n" : "COHA1"
+}, {
+  "@id" : 35,
+  "n" : "1433T"
+}, {
+  "@id" : 36,
+  "n" : "KS6B1"
+}, {
+  "@id" : 37,
+  "n" : "ITA6"
+}, {
+  "@id" : 38,
+  "n" : "LAMC2"
+}, {
+  "@id" : 39,
+  "n" : "KPCA"
+}, {
+  "@id" : 40,
+  "n" : "LAMB2"
+}, {
+  "@id" : 41,
+  "n" : "PMP22"
+}, {
+  "@id" : 42,
+  "n" : "9cRA"
+}, {
+  "@id" : 43,
+  "n" : "EGF"
+}, {
+  "@id" : 44,
+  "n" : "1433B"
+}, {
+  "@id" : 45,
+  "n" : "IL1A"
+}, {
+  "@id" : 46,
+  "n" : "1433F"
+}, {
+  "@id" : 47,
+  "n" : "1433S"
+}, {
+  "@id" : 48,
+  "n" : "DNA"
+}, {
+  "@id" : 49,
+  "n" : "SHC1"
+}, {
+  "@id" : 50,
+  "n" : "LAMA3"
+}, {
+  "@id" : 51,
+  "n" : "ERBB2"
+}]}, {"edges":[{
+  "@id" : 503,
+  "s" : 1,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 276,
+  "s" : 2,
+  "t" : 24,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 275,
+  "s" : 2,
+  "t" : 20,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 502,
+  "s" : 3,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 501,
+  "s" : 3,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 26,
+  "s" : 4,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 31,
+  "s" : 4,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 36,
+  "s" : 4,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 40,
+  "s" : 4,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 25,
+  "s" : 4,
+  "t" : 47,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 33,
+  "s" : 4,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 29,
+  "s" : 4,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 23,
+  "s" : 4,
+  "t" : 46,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 27,
+  "s" : 4,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 24,
+  "s" : 4,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 42,
+  "s" : 4,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 38,
+  "s" : 4,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 455,
+  "s" : 5,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 453,
+  "s" : 5,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 451,
+  "s" : 5,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 461,
+  "s" : 5,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 457,
+  "s" : 5,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 463,
+  "s" : 5,
+  "t" : 49,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 452,
+  "s" : 5,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 448,
+  "s" : 5,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 450,
+  "s" : 5,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 459,
+  "s" : 5,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 409,
+  "s" : 6,
+  "t" : 49,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 395,
+  "s" : 6,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 401,
+  "s" : 6,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 399,
+  "s" : 6,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 393,
+  "s" : 6,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 407,
+  "s" : 6,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 391,
+  "s" : 6,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 403,
+  "s" : 6,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 397,
+  "s" : 6,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 392,
+  "s" : 6,
+  "t" : 50,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 394,
+  "s" : 6,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 398,
+  "s" : 6,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 388,
+  "s" : 6,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 390,
+  "s" : 6,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 405,
+  "s" : 6,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 471,
+  "s" : 7,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 433,
+  "s" : 8,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 439,
+  "s" : 8,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 437,
+  "s" : 8,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 435,
+  "s" : 8,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 432,
+  "s" : 8,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 436,
+  "s" : 8,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 265,
+  "s" : 9,
+  "t" : 37,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 263,
+  "s" : 9,
+  "t" : 43,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 266,
+  "s" : 9,
+  "t" : 12,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 267,
+  "s" : 9,
+  "t" : 14,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 264,
+  "s" : 9,
+  "t" : 51,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 269,
+  "s" : 9,
+  "t" : 20,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 262,
+  "s" : 9,
+  "t" : 22,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 270,
+  "s" : 9,
+  "t" : 24,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 268,
+  "s" : 9,
+  "t" : 29,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 158,
+  "s" : 10,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 162,
+  "s" : 10,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 159,
+  "s" : 10,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 163,
+  "s" : 10,
+  "t" : 14,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 160,
+  "s" : 10,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 164,
+  "s" : 10,
+  "t" : 29,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 161,
+  "s" : 10,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 323,
+  "s" : 11,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 331,
+  "s" : 11,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 325,
+  "s" : 11,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 335,
+  "s" : 11,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 329,
+  "s" : 11,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 322,
+  "s" : 11,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 328,
+  "s" : 11,
+  "t" : 50,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 333,
+  "s" : 11,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 327,
+  "s" : 11,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 330,
+  "s" : 11,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 334,
+  "s" : 11,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 336,
+  "s" : 11,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 356,
+  "s" : 12,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 341,
+  "s" : 12,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 365,
+  "s" : 12,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 349,
+  "s" : 12,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 343,
+  "s" : 12,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 347,
+  "s" : 12,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 361,
+  "s" : 12,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 353,
+  "s" : 12,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 345,
+  "s" : 12,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 357,
+  "s" : 12,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 351,
+  "s" : 12,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 346,
+  "s" : 12,
+  "t" : 50,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 348,
+  "s" : 12,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 363,
+  "s" : 12,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 352,
+  "s" : 12,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 338,
+  "s" : 12,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 340,
+  "s" : 12,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 354,
+  "s" : 12,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 359,
+  "s" : 12,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 277,
+  "s" : 13,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 487,
+  "s" : 14,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 482,
+  "s" : 14,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 485,
+  "s" : 14,
+  "t" : 20,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 483,
+  "s" : 14,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 121,
+  "s" : 15,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 126,
+  "s" : 15,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 123,
+  "s" : 15,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 119,
+  "s" : 15,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 130,
+  "s" : 15,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 132,
+  "s" : 15,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 128,
+  "s" : 15,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 495,
+  "s" : 16,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 497,
+  "s" : 16,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 496,
+  "s" : 16,
+  "t" : 3,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 494,
+  "s" : 16,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 273,
+  "s" : 17,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 272,
+  "s" : 17,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 271,
+  "s" : 17,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 413,
+  "s" : 18,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 420,
+  "s" : 18,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 418,
+  "s" : 18,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 411,
+  "s" : 18,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 415,
+  "s" : 18,
+  "t" : 40,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 410,
+  "s" : 18,
+  "t" : 50,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 412,
+  "s" : 18,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 417,
+  "s" : 18,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 184,
+  "s" : 19,
+  "t" : 38,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 178,
+  "s" : 19,
+  "t" : 12,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 176,
+  "s" : 19,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 180,
+  "s" : 19,
+  "t" : 6,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 182,
+  "s" : 19,
+  "t" : 5,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 442,
+  "s" : 21,
+  "t" : 40,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 444,
+  "s" : 21,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 440,
+  "s" : 21,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 447,
+  "s" : 21,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 445,
+  "s" : 21,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 208,
+  "s" : 22,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 210,
+  "s" : 22,
+  "t" : 37,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 218,
+  "s" : 22,
+  "t" : 6,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 216,
+  "s" : 22,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 205,
+  "s" : 22,
+  "t" : 43,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 212,
+  "s" : 22,
+  "t" : 12,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 214,
+  "s" : 22,
+  "t" : 12,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 207,
+  "s" : 22,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 226,
+  "s" : 22,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 224,
+  "s" : 22,
+  "t" : 38,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 221,
+  "s" : 22,
+  "t" : 5,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 188,
+  "s" : 23,
+  "t" : 11,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 186,
+  "s" : 23,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 469,
+  "s" : 25,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 468,
+  "s" : 25,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 145,
+  "s" : 26,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 141,
+  "s" : 26,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 146,
+  "s" : 26,
+  "t" : 15,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 140,
+  "s" : 26,
+  "t" : 44,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 148,
+  "s" : 26,
+  "t" : 13,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 142,
+  "s" : 26,
+  "t" : 46,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 144,
+  "s" : 26,
+  "t" : 47,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 155,
+  "s" : 26,
+  "t" : 28,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 143,
+  "s" : 26,
+  "t" : 27,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 65,
+  "s" : 27,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 70,
+  "s" : 27,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 75,
+  "s" : 27,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 79,
+  "s" : 27,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 72,
+  "s" : 27,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 68,
+  "s" : 27,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 66,
+  "s" : 27,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 64,
+  "s" : 27,
+  "t" : 47,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 81,
+  "s" : 27,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 77,
+  "s" : 27,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 492,
+  "s" : 29,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 489,
+  "s" : 29,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 490,
+  "s" : 29,
+  "t" : 20,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 166,
+  "s" : 30,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 174,
+  "s" : 30,
+  "t" : 38,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 168,
+  "s" : 30,
+  "t" : 12,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 165,
+  "s" : 30,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 170,
+  "s" : 30,
+  "t" : 6,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 172,
+  "s" : 30,
+  "t" : 5,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 259,
+  "s" : 31,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 257,
+  "s" : 31,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 261,
+  "s" : 31,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 258,
+  "s" : 31,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 256,
+  "s" : 31,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 254,
+  "s" : 31,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 260,
+  "s" : 31,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 500,
+  "s" : 32,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 499,
+  "s" : 32,
+  "t" : 3,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 498,
+  "s" : 32,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 194,
+  "s" : 34,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 191,
+  "s" : 34,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 190,
+  "s" : 34,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 192,
+  "s" : 34,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 193,
+  "s" : 34,
+  "t" : 5,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 105,
+  "s" : 35,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 110,
+  "s" : 35,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 107,
+  "s" : 35,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 103,
+  "s" : 35,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 101,
+  "s" : 35,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 114,
+  "s" : 35,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 116,
+  "s" : 35,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 112,
+  "s" : 35,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 319,
+  "s" : 37,
+  "t" : 1,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 284,
+  "s" : 37,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 318,
+  "s" : 37,
+  "t" : 3,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 298,
+  "s" : 37,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 292,
+  "s" : 37,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 302,
+  "s" : 37,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 296,
+  "s" : 37,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 285,
+  "s" : 37,
+  "t" : 11,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 287,
+  "s" : 37,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 306,
+  "s" : 37,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 307,
+  "s" : 37,
+  "t" : 14,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 316,
+  "s" : 37,
+  "t" : 16,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 294,
+  "s" : 37,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 297,
+  "s" : 37,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 314,
+  "s" : 37,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 301,
+  "s" : 37,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 281,
+  "s" : 37,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 283,
+  "s" : 37,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 309,
+  "s" : 37,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 310,
+  "s" : 37,
+  "t" : 29,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 317,
+  "s" : 37,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 305,
+  "s" : 37,
+  "t" : 33,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 290,
+  "s" : 37,
+  "t" : 36,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 303,
+  "s" : 37,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 300,
+  "s" : 37,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 312,
+  "s" : 37,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 320,
+  "s" : 37,
+  "t" : 49,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 295,
+  "s" : 37,
+  "t" : 50,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 479,
+  "s" : 38,
+  "t" : 41,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 472,
+  "s" : 38,
+  "t" : 26,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 474,
+  "s" : 38,
+  "t" : 26,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 477,
+  "s" : 38,
+  "t" : 29,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 475,
+  "s" : 38,
+  "t" : 14,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 481,
+  "s" : 38,
+  "t" : 49,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 372,
+  "s" : 39,
+  "t" : 35,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 368,
+  "s" : 39,
+  "t" : 4,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 375,
+  "s" : 39,
+  "t" : 37,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 380,
+  "s" : 39,
+  "t" : 6,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 386,
+  "s" : 39,
+  "t" : 38,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 373,
+  "s" : 39,
+  "t" : 15,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 376,
+  "s" : 39,
+  "t" : 12,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 378,
+  "s" : 39,
+  "t" : 12,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 367,
+  "s" : 39,
+  "t" : 44,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 369,
+  "s" : 39,
+  "t" : 46,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 371,
+  "s" : 39,
+  "t" : 47,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 370,
+  "s" : 39,
+  "t" : 27,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 383,
+  "s" : 39,
+  "t" : 5,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 464,
+  "s" : 40,
+  "t" : 25,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 467,
+  "s" : 40,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 465,
+  "s" : 40,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 137,
+  "s" : 42,
+  "t" : 32,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 136,
+  "s" : 42,
+  "t" : 16,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 138,
+  "s" : 42,
+  "t" : 3,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 135,
+  "s" : 42,
+  "t" : 37,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 139,
+  "s" : 42,
+  "t" : 1,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 134,
+  "s" : 42,
+  "t" : 48,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 229,
+  "s" : 43,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 231,
+  "s" : 43,
+  "t" : 37,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 239,
+  "s" : 43,
+  "t" : 6,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 237,
+  "s" : 43,
+  "t" : 39,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 233,
+  "s" : 43,
+  "t" : 12,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 235,
+  "s" : 43,
+  "t" : 12,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 228,
+  "s" : 43,
+  "t" : 51,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 247,
+  "s" : 43,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 245,
+  "s" : 43,
+  "t" : 38,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 242,
+  "s" : 43,
+  "t" : 5,
+  "i" : "controls-transport-of"
+}, {
+  "@id" : 5,
+  "s" : 44,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 1,
+  "s" : 44,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 10,
+  "s" : 44,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 15,
+  "s" : 44,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 19,
+  "s" : 44,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 4,
+  "s" : 44,
+  "t" : 47,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 12,
+  "s" : 44,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 8,
+  "s" : 44,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 2,
+  "s" : 44,
+  "t" : 46,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 6,
+  "s" : 44,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 3,
+  "s" : 44,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 21,
+  "s" : 44,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 17,
+  "s" : 44,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 280,
+  "s" : 45,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 279,
+  "s" : 45,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 46,
+  "s" : 46,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 51,
+  "s" : 46,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 56,
+  "s" : 46,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 60,
+  "s" : 46,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 45,
+  "s" : 46,
+  "t" : 47,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 53,
+  "s" : 46,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 49,
+  "s" : 46,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 47,
+  "s" : 46,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 44,
+  "s" : 46,
+  "t" : 27,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 62,
+  "s" : 46,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 58,
+  "s" : 46,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 83,
+  "s" : 47,
+  "t" : 35,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 88,
+  "s" : 47,
+  "t" : 37,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 93,
+  "s" : 47,
+  "t" : 6,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 90,
+  "s" : 47,
+  "t" : 12,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 86,
+  "s" : 47,
+  "t" : 13,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 84,
+  "s" : 47,
+  "t" : 15,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 97,
+  "s" : 47,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 99,
+  "s" : 47,
+  "t" : 28,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 95,
+  "s" : 47,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 197,
+  "s" : 48,
+  "t" : 16,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 199,
+  "s" : 48,
+  "t" : 32,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 201,
+  "s" : 48,
+  "t" : 3,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 195,
+  "s" : 48,
+  "t" : 37,
+  "i" : "controls-expression-of"
+}, {
+  "@id" : 196,
+  "s" : 48,
+  "t" : 37,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 203,
+  "s" : 48,
+  "t" : 1,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 423,
+  "s" : 50,
+  "t" : 5,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 430,
+  "s" : 50,
+  "t" : 38,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 428,
+  "s" : 50,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 421,
+  "s" : 50,
+  "t" : 8,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 425,
+  "s" : 50,
+  "t" : 40,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 422,
+  "s" : 50,
+  "t" : 21,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 426,
+  "s" : 50,
+  "t" : 25,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 252,
+  "s" : 51,
+  "t" : 24,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 249,
+  "s" : 51,
+  "t" : 2,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 251,
+  "s" : 51,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 250,
+  "s" : 51,
+  "t" : 37,
+  "i" : "neighbor-of"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "a6b1 and a6b4 Integrin signaling"
+}, {
+  "n" : "description",
+  "v" : "<i>a6b1 and a6b4 Integrin signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}, {
+  "n" : "version",
+  "v" : "APR-2017"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Shiva Krupa"
+}, {
+  "n" : "reviewers",
+  "v" : "Arthur Mercurio,"
+}, {
+  "n" : "labels",
+  "v" : "a6b1_a6b4_integrin_pathway"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "cas:86-01-1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NIP1", "uniprot knowledgebase:P48443", "uniprot knowledgebase:Q6IBU7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 4,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KY71", "uniprot knowledgebase:D3DTH5", "uniprot knowledgebase:P29360", "uniprot knowledgebase:P42655", "uniprot knowledgebase:P62258", "uniprot knowledgebase:Q4VJB6", "uniprot knowledgebase:Q53XZ5", "uniprot knowledgebase:Q63631", "uniprot knowledgebase:Q7M4R4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P07942", "uniprot knowledgebase:Q14D91" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P25391" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P11047", "uniprot knowledgebase:Q5VYE7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q14731", "uniprot knowledgebase:Q14735", "uniprot knowledgebase:Q15335", "uniprot knowledgebase:Q16363", "uniprot knowledgebase:Q4LE44", "uniprot knowledgebase:Q5SZG8", "uniprot knowledgebase:Q9BTB8", "uniprot knowledgebase:Q9UE18", "uniprot knowledgebase:Q9UJN9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "cas:146-91-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K1U7", "uniprot knowledgebase:P12830", "uniprot knowledgebase:Q13799", "uniprot knowledgebase:Q14216", "uniprot knowledgebase:Q15855", "uniprot knowledgebase:Q16194", "uniprot knowledgebase:Q4PJ14", "uniprot knowledgebase:Q9UII8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K6N2", "uniprot knowledgebase:D3DRX9", "uniprot knowledgebase:D3DRY3", "uniprot knowledgebase:D3DRY4", "uniprot knowledgebase:D3DRY5", "uniprot knowledgebase:P05556", "uniprot knowledgebase:P78466", "uniprot knowledgebase:P78467", "uniprot knowledgebase:Q13089", "uniprot knowledgebase:Q13090", "uniprot knowledgebase:Q13091", "uniprot knowledgebase:Q13212", "uniprot knowledgebase:Q14622", "uniprot knowledgebase:Q14647", "uniprot knowledgebase:Q29RW2", "uniprot knowledgebase:Q7Z3V1", "uniprot knowledgebase:Q8WUM6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A0AVL6", "uniprot knowledgebase:O14690", "uniprot knowledgebase:O14691", "uniprot knowledgebase:O15339", "uniprot knowledgebase:O15340", "uniprot knowledgebase:O15341", "uniprot knowledgebase:P16144", "uniprot knowledgebase:Q0VF97", "uniprot knowledgebase:Q9UIQ4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NLA3", "uniprot knowledgebase:A8MSX3", "uniprot knowledgebase:P26927", "uniprot knowledgebase:Q13350", "uniprot knowledgebase:Q14870", "uniprot knowledgebase:Q6GTN4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KT19", "uniprot knowledgebase:D3DWA0", "uniprot knowledgebase:E7EX19", "uniprot knowledgebase:P27986", "uniprot knowledgebase:Q15747", "uniprot knowledgebase:Q4VBZ7", "uniprot knowledgebase:Q53EM6", "uniprot knowledgebase:Q8IXA2", "uniprot knowledgebase:Q8N1C5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K1N0", "uniprot knowledgebase:B7Z465", "uniprot knowledgebase:P29213", "uniprot knowledgebase:P29312", "uniprot knowledgebase:P63104", "uniprot knowledgebase:Q32P43", "uniprot knowledgebase:Q5XJ08", "uniprot knowledgebase:Q6GPI2", "uniprot knowledgebase:Q6IN74", "uniprot knowledgebase:Q6NUR9", "uniprot knowledgebase:Q6P3U9", "uniprot knowledgebase:Q86V33" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B3KY83", "uniprot knowledgebase:P19793", "uniprot knowledgebase:Q2NL52", "uniprot knowledgebase:Q2V504" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P29354", "uniprot knowledgebase:P62993", "uniprot knowledgebase:Q14450", "uniprot knowledgebase:Q63057", "uniprot knowledgebase:Q63059" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P24043", "uniprot knowledgebase:Q14736", "uniprot knowledgebase:Q5VUM2", "uniprot knowledgebase:Q93022" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DQU7", "uniprot knowledgebase:B5BU45", "uniprot knowledgebase:D3DRB8", "uniprot knowledgebase:P55210", "uniprot knowledgebase:Q13364", "uniprot knowledgebase:Q53YD5", "uniprot knowledgebase:Q5SVL0", "uniprot knowledgebase:Q5SVL3", "uniprot knowledgebase:Q96BA0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O95501", "uniprot knowledgebase:P15154", "uniprot knowledgebase:P63000", "uniprot knowledgebase:Q3Y4D3", "uniprot knowledgebase:Q5JAA8", "uniprot knowledgebase:Q9BTB4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O15230", "uniprot knowledgebase:Q5U4N9", "uniprot knowledgebase:Q8TDF8", "uniprot knowledgebase:Q8WZA7", "uniprot knowledgebase:Q9H1P1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O00688", "uniprot knowledgebase:O00732", "uniprot knowledgebase:P00533", "uniprot knowledgebase:P06268", "uniprot knowledgebase:Q14225", "uniprot knowledgebase:Q68GS5", "uniprot knowledgebase:Q92795", "uniprot knowledgebase:Q9BZS2", "uniprot knowledgebase:Q9GZX1", "uniprot knowledgebase:Q9H2C9", "uniprot knowledgebase:Q9H3C9", "uniprot knowledgebase:Q9UMD7", "uniprot knowledgebase:Q9UMD8", "uniprot knowledgebase:Q9UMG5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DUQ9", "uniprot knowledgebase:P21926", "uniprot knowledgebase:Q5J7W6", "uniprot knowledgebase:Q96ES4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5BUA0", "uniprot knowledgebase:P01112", "uniprot knowledgebase:Q14080", "uniprot knowledgebase:Q6FHV9", "uniprot knowledgebase:Q9BR65", "uniprot knowledgebase:Q9UCE2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DT88", "uniprot knowledgebase:O14947", "uniprot knowledgebase:Q13751", "uniprot knowledgebase:Q14733", "uniprot knowledgebase:Q9UJK4", "uniprot knowledgebase:Q9UJL1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RAM5", "uniprot knowledgebase:B7Z5R1", "uniprot knowledgebase:P31749", "uniprot knowledgebase:Q9BWB6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O70457", "uniprot knowledgebase:P35214", "uniprot knowledgebase:P61981", "uniprot knowledgebase:Q6FH52", "uniprot knowledgebase:Q9UDP2", "uniprot knowledgebase:Q9UN99" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5A944", "uniprot knowledgebase:B5A945", "uniprot knowledgebase:B5A946", "uniprot knowledgebase:B5A947", "uniprot knowledgebase:Q04912" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P42336", "uniprot knowledgebase:Q14CW1", "uniprot knowledgebase:Q99762" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K5M2", "uniprot knowledgebase:D3DP53", "uniprot knowledgebase:P42574", "uniprot knowledgebase:Q96AN1", "uniprot knowledgebase:Q96KP2" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K6L6", "uniprot knowledgebase:B4DIK7", "uniprot knowledgebase:B4DV32", "uniprot knowledgebase:E9PDT8", "uniprot knowledgebase:P21860", "uniprot knowledgebase:Q9BUD7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P28702", "uniprot knowledgebase:P28703", "uniprot knowledgebase:Q59G65", "uniprot knowledgebase:Q5JP92", "uniprot knowledgebase:Q5STQ1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A1L467", "uniprot knowledgebase:B5A932", "uniprot knowledgebase:E7EQ94", "uniprot knowledgebase:O60366", "uniprot knowledgebase:P08581", "uniprot knowledgebase:Q12875", "uniprot knowledgebase:Q9UDX7", "uniprot knowledgebase:Q9UPL8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q02802", "uniprot knowledgebase:Q5JV36", "uniprot knowledgebase:Q99018", "uniprot knowledgebase:Q9NQK9", "uniprot knowledgebase:Q9UC14", "uniprot knowledgebase:Q9UMD9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D6W4Z5", "uniprot knowledgebase:P27348", "uniprot knowledgebase:Q567U5", "uniprot knowledgebase:Q5TZU8", "uniprot knowledgebase:Q9UP48" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R779", "uniprot knowledgebase:B4DLT4", "uniprot knowledgebase:B4DTG1", "uniprot knowledgebase:E7ESB8", "uniprot knowledgebase:F6UYM1", "uniprot knowledgebase:P23443", "uniprot knowledgebase:Q7Z721" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RMU9", "uniprot knowledgebase:B4DG69", "uniprot knowledgebase:B4DKB8", "uniprot knowledgebase:C4AM96", "uniprot knowledgebase:G5E9H1", "uniprot knowledgebase:P23229", "uniprot knowledgebase:Q08443", "uniprot knowledgebase:Q0MRC7", "uniprot knowledgebase:Q14646", "uniprot knowledgebase:Q16508", "uniprot knowledgebase:Q53RX7", "uniprot knowledgebase:Q59HB7", "uniprot knowledgebase:Q86VL6", "uniprot knowledgebase:Q9UCT1", "uniprot knowledgebase:Q9UN03" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q02536", "uniprot knowledgebase:Q02537", "uniprot knowledgebase:Q13752", "uniprot knowledgebase:Q13753", "uniprot knowledgebase:Q14941", "uniprot knowledgebase:Q14DF7", "uniprot knowledgebase:Q2M1N2", "uniprot knowledgebase:Q5VYE8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5BU22", "uniprot knowledgebase:P17252", "uniprot knowledgebase:Q15137", "uniprot knowledgebase:Q32M72", "uniprot knowledgebase:Q96RE4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P55268", "uniprot knowledgebase:Q16321" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 41,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q01453", "uniprot knowledgebase:Q8WV01" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 42,
+  "n" : "alias",
+  "v" : [ "cas:5300-03-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 42,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 43,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DRK7", "uniprot knowledgebase:E7EVD2", "uniprot knowledgebase:E9PBF0", "uniprot knowledgebase:P01133", "uniprot knowledgebase:Q52LZ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 43,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 44,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K9K2", "uniprot knowledgebase:E1P616", "uniprot knowledgebase:P31946" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 45,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P01583", "uniprot knowledgebase:Q53QF9", "uniprot knowledgebase:Q7RU02" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 46,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q04917" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 47,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P31947", "uniprot knowledgebase:Q6FH30", "uniprot knowledgebase:Q6FH51", "uniprot knowledgebase:Q96DH0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 48,
+  "n" : "type",
+  "v" : "Rna"
+}, {
+  "po" : 49,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5BU19", "uniprot knowledgebase:D3DV78", "uniprot knowledgebase:O15290", "uniprot knowledgebase:P29353", "uniprot knowledgebase:Q5T180", "uniprot knowledgebase:Q5T183", "uniprot knowledgebase:Q5T184", "uniprot knowledgebase:Q5T185", "uniprot knowledgebase:Q5T186", "uniprot knowledgebase:Q8N4K5", "uniprot knowledgebase:Q96CL1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 49,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 50,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B0YJ33", "uniprot knowledgebase:Q13679", "uniprot knowledgebase:Q13680", "uniprot knowledgebase:Q16787", "uniprot knowledgebase:Q6VU67", "uniprot knowledgebase:Q6VU68", "uniprot knowledgebase:Q6VU69", "uniprot knowledgebase:Q76E14", "uniprot knowledgebase:Q96TG0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 51,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RZG3", "uniprot knowledgebase:B4DHN3", "uniprot knowledgebase:P04626", "uniprot knowledgebase:Q14256", "uniprot knowledgebase:Q6LDV1", "uniprot knowledgebase:Q9UMK4", "uniprot knowledgebase:X5D2V5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 51,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 503,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 503,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 503,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 276,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 275,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 502,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 502,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 501,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 501,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 501,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 451,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 451,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 457,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 457,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 457,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 463,
+  "n" : "pmid",
+  "v" : [ "7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 463,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 452,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 452,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 448,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 448,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 448,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 450,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 450,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 450,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 459,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 459,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 459,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 409,
+  "n" : "pmid",
+  "v" : [ "7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 409,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 393,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 391,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 403,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 403,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 397,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 397,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 392,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 392,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 394,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 394,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 398,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 398,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 388,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 388,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 388,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 390,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 390,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 390,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 405,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 405,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 405,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 471,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 439,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 435,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 435,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 432,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 436,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 436,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 265,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 265,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 263,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 266,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 267,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 267,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 264,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 264,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 269,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 262,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 262,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 270,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 268,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 268,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 158,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 158,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 162,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 159,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 163,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 160,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 160,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 164,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 164,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 161,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 323,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 323,
+  "n" : "pmid",
+  "v" : [ "10849422", "9488728" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 323,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10849422", "pmid:9488728" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 335,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 335,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 329,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 329,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 328,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 328,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 333,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 333,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 327,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 327,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 330,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 330,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 334,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 334,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 356,
+  "n" : "pmid",
+  "v" : [ "11733063" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 356,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11733063" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 341,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 341,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 341,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 347,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 353,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 345,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 357,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 357,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 357,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 351,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 346,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 346,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 348,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 348,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 363,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 363,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 352,
+  "n" : "pmid",
+  "v" : [ "1757471", "1883873", "1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 352,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:1757471", "pmid:1883873", "pmid:1959558" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 338,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 338,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 340,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 340,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 359,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 359,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 359,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 482,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 482,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 482,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 485,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 485,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 485,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 495,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 495,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 497,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 497,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 496,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 494,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 494,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "pmid",
+  "v" : [ "7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 272,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 271,
+  "n" : "pmid",
+  "v" : [ "7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 271,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 420,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 411,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 411,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 410,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 412,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 412,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 417,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 417,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 184,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 184,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 178,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 178,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 176,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 176,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 180,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 180,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 182,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 182,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 444,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 447,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 447,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 208,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 208,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 210,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 210,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 218,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 218,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 216,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 212,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 212,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 214,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 214,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 214,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 207,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 207,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 226,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 226,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 226,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 224,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 224,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 224,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 221,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 221,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 468,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 468,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 145,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 141,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 141,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 146,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 140,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 148,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 148,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 142,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 142,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 144,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 155,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 143,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 489,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 489,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 489,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 490,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 490,
+  "n" : "pmid",
+  "v" : [ "16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 490,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16339173" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 166,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 166,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 166,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 174,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 174,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 168,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 168,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 168,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 165,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 165,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 170,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 170,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 172,
+  "n" : "pmid",
+  "v" : [ "17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 172,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:17178732" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 259,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 257,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 261,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 258,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 256,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 256,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 256,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 254,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 254,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 260,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 500,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 499,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 499,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 498,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 498,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 498,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 194,
+  "n" : "pmid",
+  "v" : [ "9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 194,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 191,
+  "n" : "pmid",
+  "v" : [ "9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 191,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 190,
+  "n" : "pmid",
+  "v" : [ "9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 190,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 192,
+  "n" : "pmid",
+  "v" : [ "9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 192,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 193,
+  "n" : "pmid",
+  "v" : [ "9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 193,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:9856810" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 101,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 101,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 319,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 319,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 284,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 284,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 318,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 302,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 302,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 296,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 306,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 306,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 306,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 316,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 294,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 294,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 297,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 297,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 314,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 314,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 314,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 301,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 301,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 281,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 281,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 281,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 283,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 283,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 283,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 309,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 309,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 309,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 317,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 317,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 305,
+  "n" : "pmid",
+  "v" : [ "11733063" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 305,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11733063" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 290,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 290,
+  "n" : "pmid",
+  "v" : [ "10849422", "9488728" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 290,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10849422", "pmid:9488728" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 300,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 300,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 295,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 295,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 472,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 472,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 472,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 474,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 474,
+  "n" : "pmid",
+  "v" : [ "10766839", "10982827", "11241670", "12147684", "12181443", "12393431", "12525482", "14557412", "14666721", "15928312", "17308105", "8524413", "8617294", "8978681", "9065430", "9108028", "9109420", "9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 474,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10766839", "pmid:10982827", "pmid:11241670", "pmid:12147684", "pmid:12181443", "pmid:12393431", "pmid:12525482", "pmid:14557412", "pmid:14666721", "pmid:15928312", "pmid:17308105", "pmid:8524413", "pmid:8617294", "pmid:8978681", "pmid:9065430", "pmid:9108028", "pmid:9109420", "pmid:9162082" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 477,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 477,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 477,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 475,
+  "n" : "pmid",
+  "v" : [ "10329736", "10497192", "10751417", "11000521", "11002419", "11313948", "11340169", "11438544", "11445578", "11532940", "11886862", "11896055", "12538620", "12817007", "1375946", "1381348", "15142256", "15351743", "15569713", "16076871", "16339173", "16418218", "1718989", "17881575", "7499247", "7513258", "8383963", "8385105", "8534912", "8744948", "9428518", "9668053", "9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 475,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10329736", "pmid:10497192", "pmid:10751417", "pmid:11000521", "pmid:11002419", "pmid:11313948", "pmid:11340169", "pmid:11438544", "pmid:11445578", "pmid:11532940", "pmid:11886862", "pmid:11896055", "pmid:12538620", "pmid:12817007", "pmid:1375946", "pmid:1381348", "pmid:15142256", "pmid:15351743", "pmid:15569713", "pmid:16076871", "pmid:16339173", "pmid:16418218", "pmid:1718989", "pmid:17881575", "pmid:7499247", "pmid:7513258", "pmid:8383963", "pmid:8385105", "pmid:8534912", "pmid:8744948", "pmid:9428518", "pmid:9668053", "pmid:9693375" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 481,
+  "n" : "pmid",
+  "v" : [ "7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 481,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:7556090" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 372,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 372,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 372,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 368,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 368,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 368,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 375,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 375,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 380,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 380,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 386,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 386,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 386,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 373,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 373,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 376,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 376,
+  "n" : "pmid",
+  "v" : [ "10477766", "12919677", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 376,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:12919677", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 378,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 378,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 367,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 367,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 369,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 369,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 371,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 371,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 370,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 370,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 370,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 383,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 383,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 383,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 464,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 464,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 467,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 467,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 137,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 136,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 138,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 135,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 135,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 139,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 134,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 229,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 229,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 229,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 231,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 231,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 239,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 239,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 239,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 237,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 237,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 233,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 233,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 235,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 235,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 228,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 228,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 247,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 247,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 245,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 245,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 242,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 242,
+  "n" : "pmid",
+  "v" : [ "10477766", "8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 242,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10477766", "pmid:8698818" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 4,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 280,
+  "n" : "pmid",
+  "v" : [ "16504015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 280,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16504015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 279,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 279,
+  "n" : "pmid",
+  "v" : [ "16504015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 279,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16504015" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 46,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 45,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "pmid",
+  "v" : [ "12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 84,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12919677" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 195,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 195,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 195,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 196,
+  "n" : "pmid",
+  "v" : [ "8609714", "8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 196,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:8609714", "pmid:8738575" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 421,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 421,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 425,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 425,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 422,
+  "n" : "pmid",
+  "v" : [ "11098055", "1533398", "1757471", "1883873", "1959558", "8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 422,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11098055", "pmid:1533398", "pmid:1757471", "pmid:1883873", "pmid:1959558", "pmid:8143784" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 252,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 252,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 249,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 249,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 249,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 251,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 251,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "pmid",
+  "v" : [ "10499514", "11551902", "12087092", "12865436", "15486046", "16510594", "7806540", "7809106", "7983051", "8114695", "8144662", "8196603" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 250,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10499514", "pmid:11551902", "pmid:12087092", "pmid:12865436", "pmid:15486046", "pmid:16510594", "pmid:7806540", "pmid:7809106", "pmid:7983051", "pmid:8114695", "pmid:8144662", "pmid:8196603" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12919677",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8609714",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8738575",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10766839",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10982827",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11241670",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12147684",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12181443",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12393431",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12525482",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14557412",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14666721",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15928312",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17308105",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8524413",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8617294",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8978681",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9065430",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9108028",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9109420",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9162082",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16339173",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17178732",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10321801",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10694273",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9856810",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10477766",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 28,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10499514",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 29,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11551902",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 30,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12087092",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 31,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12865436",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 32,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15486046",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 33,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16510594",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 34,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7806540",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 35,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7809106",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 36,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7983051",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 37,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8114695",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 38,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8144662",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 39,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8196603",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 40,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8698818",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 41,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7556090",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 42,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16504015",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 43,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10849422",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 44,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11098055",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 45,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12584562",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 46,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1533398",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 47,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1959558",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 48,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8143784",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 49,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9488728",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 50,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10329736",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 51,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10497192",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 52,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10751417",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 53,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11000521",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 54,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11002419",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 55,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11044453",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 56,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11313948",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 57,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11340169",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 58,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11438544",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 59,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11445578",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 60,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11532940",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 61,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11733063",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 62,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11886862",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 63,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11896055",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 64,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12538620",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 65,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12817007",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 66,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1375946",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 67,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1381348",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 68,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15142256",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 69,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15351743",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 70,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15569713",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 71,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16076871",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 72,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16418218",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 73,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16436605",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 74,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1718989",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 75,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1757471",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 76,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17881575",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 77,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:1883873",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 78,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7499247",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 79,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:7513258",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 80,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8383963",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 81,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8385105",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 82,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8534912",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 83,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:8744948",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 84,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9428518",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 85,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9668053",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 86,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:9693375",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 71.59262337357906,
+  "y" : -398.4930746554643
+}, {
+  "node" : 2,
+  "x" : 418.2598762616698,
+  "y" : 28.97407558038915
+}, {
+  "node" : 3,
+  "x" : 162.17829694972912,
+  "y" : -297.4491346703487
+}, {
+  "node" : 4,
+  "x" : 545.2994316791675,
+  "y" : 540.5106555565584
+}, {
+  "node" : 5,
+  "x" : 251.98786008261098,
+  "y" : 538.2446688291355
+}, {
+  "node" : 6,
+  "x" : 258.0957939735715,
+  "y" : 583.7951081582622
+}, {
+  "node" : 7,
+  "x" : -53.34572915686215,
+  "y" : 655.4701072527736
+}, {
+  "node" : 8,
+  "x" : -113.21674846264081,
+  "y" : 605.6611711844607
+}, {
+  "node" : 9,
+  "x" : 298.3185529771931,
+  "y" : 124.38309820315273
+}, {
+  "node" : 10,
+  "x" : 381.47225782632967,
+  "y" : 685.812997483409
+}, {
+  "node" : 11,
+  "x" : 115.41185562458635,
+  "y" : 488.5230217037584
+}, {
+  "node" : 12,
+  "x" : 207.40891365459026,
+  "y" : 443.40370545451117
+}, {
+  "node" : 13,
+  "x" : 846.9494763353024,
+  "y" : 503.5831857647025
+}, {
+  "node" : 14,
+  "x" : 399.4130776512438,
+  "y" : 314.8944442587932
+}, {
+  "node" : 15,
+  "x" : 633.3887527800634,
+  "y" : 444.1090025595313
+}, {
+  "node" : 16,
+  "x" : -85.00251853350548,
+  "y" : -336.2656108322636
+}, {
+  "node" : 17,
+  "x" : 16.664247795721916,
+  "y" : 245.32762468470725
+}, {
+  "node" : 18,
+  "x" : 33.51293567925071,
+  "y" : 670.896375542949
+}, {
+  "node" : 19,
+  "x" : -136.2313754289516,
+  "y" : 466.2804159235188
+}, {
+  "node" : 20,
+  "x" : 745.0487693272098,
+  "y" : 157.55626700976595
+}, {
+  "node" : 21,
+  "x" : -1.7045605651198206,
+  "y" : 801.4056983083385
+}, {
+  "node" : 22,
+  "x" : 198.4729862577724,
+  "y" : 233.4444342998415
+}, {
+  "node" : 23,
+  "x" : -4.4515493103808765,
+  "y" : 393.5896254672663
+}, {
+  "node" : 24,
+  "x" : 510.1151225711497,
+  "y" : 149.60380534571988
+}, {
+  "node" : 25,
+  "x" : 88.23015059957606,
+  "y" : 785.5804850459989
+}, {
+  "node" : 26,
+  "x" : 498.6692735818499,
+  "y" : 625.1353708053641
+}, {
+  "node" : 27,
+  "x" : 559.9031853376887,
+  "y" : 420.28780624861434
+}, {
+  "node" : 28,
+  "x" : 845.4475454116247,
+  "y" : 426.18709976776233
+}, {
+  "node" : 29,
+  "x" : 398.61608702117934,
+  "y" : 248.97746416246522
+}, {
+  "node" : 30,
+  "x" : -145.28818074886328,
+  "y" : 391.9543986820438
+}, {
+  "node" : 31,
+  "x" : 26.18551668072495,
+  "y" : 515.8712094853889
+}, {
+  "node" : 32,
+  "x" : 170.632334014038,
+  "y" : -383.300623722141
+}, {
+  "node" : 33,
+  "x" : 68.26008658658542,
+  "y" : 336.6281258754905
+}, {
+  "node" : 34,
+  "x" : 319.61205834088634,
+  "y" : 849.1324495562093
+}, {
+  "node" : 35,
+  "x" : 607.1966280217956,
+  "y" : 382.18585937636584
+}, {
+  "node" : 36,
+  "x" : 495.46852752655053,
+  "y" : 351.0557988625211
+}, {
+  "node" : 37,
+  "x" : 173.09550841392087,
+  "y" : 325.5233504504799
+}, {
+  "node" : 38,
+  "x" : 222.3495855336495,
+  "y" : 564.1842752625723
+}, {
+  "node" : 39,
+  "x" : 360.73482237626786,
+  "y" : 433.43950402477026
+}, {
+  "node" : 40,
+  "x" : -125.05904583661327,
+  "y" : 686.9105924530553
+}, {
+  "node" : 41,
+  "x" : 209.934206843604,
+  "y" : 868.675199855943
+}, {
+  "node" : 42,
+  "x" : -45.4815140258988,
+  "y" : -95.75547939773978
+}, {
+  "node" : 43,
+  "x" : 258.22945385912317,
+  "y" : 269.6575746872113
+}, {
+  "node" : 44,
+  "x" : 537.9936087244445,
+  "y" : 478.6127977004675
+}, {
+  "node" : 45,
+  "x" : -62.34687059767141,
+  "y" : 328.1466831629392
+}, {
+  "node" : 46,
+  "x" : 619.4001107540531,
+  "y" : 502.908592076169
+}, {
+  "node" : 47,
+  "x" : 603.0751320848972,
+  "y" : 562.9405755559386
+}, {
+  "node" : 48,
+  "x" : 0.811961063018642,
+  "y" : -313.67425579946655
+}, {
+  "node" : 49,
+  "x" : 100.76518892232842,
+  "y" : 221.38481902547977
+}, {
+  "node" : 50,
+  "x" : -72.87778257694214,
+  "y" : 756.1627430968036
+}, {
+  "node" : 51,
+  "x" : 150.41567064515948,
+  "y" : 91.4271676878119
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "properties_of" : "nodes:default",
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SELECTED" : "false",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_SIZE" : "35.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_WIDTH" : "75.0",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "properties_of" : "edges:default",
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=shared interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]

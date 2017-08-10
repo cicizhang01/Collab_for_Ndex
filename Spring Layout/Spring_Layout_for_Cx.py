@@ -10,24 +10,24 @@ node_list = {}
 edge_list = []
 
 #200
-natLength = 100
+natLength = 200
 #0.3
 ks = 0.03
 #90
-kg = 90
+kg = 600
 #300
-maxRepulsion = 350
+maxRepulsion = 500
 #500
-maxZ = 300
+maxZ = 500
 ZDecreaser = 1
 #200
-iterBegin = 100
+iterBegin = 400
 #1000 50 and 200
-maxLoops = 500
+maxLoops = 1000
 #EGF, FanGO, FanGO3, Direct
 cxFile = 'EGF.cx'
-sourceXLock = 0
-targetXLock = 500
+#sourceXLock = -500
+#targetXLock = 500
 
 
 # for key, value in d.iteritems():
@@ -42,13 +42,14 @@ def categorizing():
                 in_count = in_count + 1
         if in_count > 0 and out_count == 0:
             properties["category"] = "Target"
-            properties["x"] = targetXLock
+            properties["x"] = len(node_list) * 10
         elif out_count > 0 and in_count == 0:
             properties["category"] = "Source"
-            properties["x"] = sourceXLock
+            properties["x"] = -len(node_list) * 10
         elif in_count > 0 and out_count > 0:
             properties["category"] = "Middle"
-
+        properties["degree"] = in_count + out_count
+    print "Range is negative to positive " + str(len(node_list)*10)
 
 def loader(file):
     #start_loading = time.time()
@@ -151,7 +152,11 @@ def coulombsLaw(a,b):
     if d2 == 0 or d3 >= maxRepulsion:
         return [0,0,0]
     if d2 != 0 and d3 < maxRepulsion:
-        force = kg/(d3*d3)
+        if a.get("degree") / 2 < b.get("degree") and a.get("degree") > 5:
+            constant = kg * math.sqrt(a.get("degree"))
+        else:
+            constant = kg
+        force = constant / (d3 * d3)
         return [-force*xdist,-force*ydist,-force*zdist]
 
 def distanceBtw(a,b):
@@ -255,7 +260,7 @@ def loop():
         #print node_list
 
 #loader(cxFile)
-categorizing()
+#categorizing()
 #print edge_list
 #print node_list
 loop()
