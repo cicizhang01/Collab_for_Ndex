@@ -18,16 +18,16 @@ kg = 90
 #300
 maxRepulsion = 350
 #500
-maxZ = 500
+maxZ = 300
 ZDecreaser = 1
 #200
 iterBegin = 100
 #1000 50 and 200
 maxLoops = 500
 #EGF, FanGO, FanGO3, Direct
-cxFile = 'Hedgehog.cx'
-sourceXLock = 100
-targetXLock = 300
+cxFile = 'EGF.cx'
+sourceXLock = 0
+targetXLock = 500
 
 
 # for key, value in d.iteritems():
@@ -73,7 +73,7 @@ def loader(file):
                     node_list[str(node.get("@id"))] = nodeProperties
     #elapsed_loading = time.time() - start_loading
     #print elapsed_loading
-
+    categorizing()
 
 def exportToNetwork(file):
     #start_export = time.time()
@@ -170,9 +170,9 @@ def totalEnergy():
 def scaleFactoring():
     numNodes = len(node_list)
     springConstant = ks
-    if numNodes < 150:
+    if numNodes < 140:
         return springConstant
-    if numNodes >= 100:
+    if numNodes >= 140:
         factor = springConstant/math.sqrt(numNodes)
         return factor
 
@@ -241,6 +241,8 @@ def loop():
                                 #print elapsed_hookes
                                 #print forceHArray
             #print str(netForceX) + " and "+ str(netForceY)+ " and " + str(netForceZ) + " in " + node1
+            if properties1.get("category") == "Source" or properties1.get("category") == "Target":
+                netForceX = 0
             move(netForceX, netForceY, netForceZ, node1, maxed, startedIter)
             numLoops = numLoops + 1
         if startedIter and maxed != 0:
@@ -252,9 +254,9 @@ def loop():
 
         #print node_list
 
-loader(cxFile)
+#loader(cxFile)
 categorizing()
 #print edge_list
-print node_list
-#loop()
-#exportToNetwork(cxFile)
+#print node_list
+loop()
+exportToNetwork(cxFile)

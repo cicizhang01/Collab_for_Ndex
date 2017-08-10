@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4e29ad-024e-4830-b3a8-f80b478f1fe2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Planar Springs-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Planar Springs-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Planar Springs.ipynb" afterPath="$PROJECT_DIR$/Planar Springs.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spring Layout/Spring_Layout_for_Cx.py" afterPath="$PROJECT_DIR$/Spring Layout/Spring_Layout_for_Cx.py" />
     </list>
@@ -19,8 +18,8 @@
       <file leaf-file-name="Spring_Layout_for_Cx.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Spring Layout/Spring_Layout_for_Cx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+            <state relative-caret-position="300">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -282,7 +281,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.336758" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336758" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336758" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -368,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spring Layout/Spring_Layout_for_Cx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
