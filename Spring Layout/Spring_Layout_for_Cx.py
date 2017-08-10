@@ -8,6 +8,7 @@ import time
 node_list = {}
 #{"source": "0", "target": "1"}
 edge_list = []
+properties_list = {}
 
 #200
 natLength = 200
@@ -25,7 +26,7 @@ iterBegin = 400
 #1000 50 and 200
 maxLoops = 1000
 #EGF, FanGO, FanGO3, Direct
-cxFile = 'EGF.cx'
+cxFile = 'a6b1.cx'
 #sourceXLock = -500
 #targetXLock = 500
 
@@ -40,16 +41,23 @@ def categorizing():
                 out_count = out_count + 1
             if node == edge.get("target"):
                 in_count = in_count + 1
+        if properties_list.get("node_width"):
+            width = float(properties_list["node_width"])
+        if not properties_list.get("node_width"):
+            width = 60
         if in_count > 0 and out_count == 0:
+            #len(node_list) * 10
             properties["category"] = "Target"
-            properties["x"] = len(node_list) * 10
+            range = math.ceil(width * math.sqrt(len(node_list)) * 2)
+            properties["x"] = range
         elif out_count > 0 and in_count == 0:
             properties["category"] = "Source"
-            properties["x"] = -len(node_list) * 10
+            range = -math.ceil(width * math.sqrt(len(node_list)) * 2)
+            properties["x"] = range
         elif in_count > 0 and out_count > 0:
             properties["category"] = "Middle"
         properties["degree"] = in_count + out_count
-    print "Range is negative to positive " + str(len(node_list)*10)
+    print "Range is negative to positive " + str(abs(range))
 
 def loader(file):
     #start_loading = time.time()
@@ -72,6 +80,14 @@ def loader(file):
                     nodeProperties["z"] = random.randint(1,maxZ)
                     nodeProperties["lock"] = False
                     node_list[str(node.get("@id"))] = nodeProperties
+            if key == "cyVisualProperties":
+                for properties in value:
+                    for name, items in properties.iteritems():
+                        if name == "properties":
+                            if items.get("NODE_WIDTH"):
+                                properties_list["node_width"] = items.get("NODE_WIDTH")
+                                print properties_list.get("node_width")
+
     #elapsed_loading = time.time() - start_loading
     #print elapsed_loading
     categorizing()
@@ -152,10 +168,12 @@ def coulombsLaw(a,b):
     if d2 == 0 or d3 >= maxRepulsion:
         return [0,0,0]
     if d2 != 0 and d3 < maxRepulsion:
-        if a.get("degree") / 2 < b.get("degree") and a.get("degree") > 5:
-            constant = kg * math.sqrt(a.get("degree"))
-        else:
-            constant = kg
+        #if a.get("degree") / 2 < b.get("degree") and a.get("degree") > 5:
+            #constant = kg * math.sqrt(a.get("degree"))
+        #else:
+            #constant = kg
+        component = (a.get("degree") + b.get("degree"))/2
+        constant = component * kg
         force = constant / (d3 * d3)
         return [-force*xdist,-force*ydist,-force*zdist]
 
