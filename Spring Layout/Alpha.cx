@@ -1,0 +1,2378 @@
+[{"numberVerification":[{"longNumber":281474976710655}]},{"metaData":[{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371117387,"name":"ndexStatus","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"lastUpdate":1499371117389,"name":"provenanceHistory","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":1,"name":"@context","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":40,"idCounter":40,"name":"nodes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":95,"idCounter":157,"name":"edges","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":8,"name":"networkAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":79,"name":"nodeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":172,"name":"edgeAttributes","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":27,"idCounter":27,"name":"citations","properties":[]},{"consistencyGroup":1,"elementCount":40,"name":"cartesianLayout","properties":[],"version":"1.0"},{"consistencyGroup":1,"elementCount":3,"name":"visualProperties","properties":[]}]},{"ndexStatus":[{"externalId":"588134bc-6187-11e5-8ac5-06603eb7f303","creationTime":1442966963802,"modificationTime":1499371117387,"visibility":"PUBLIC","published":false,"nodeCount":40,"edgeCount":95,"owner":"nci-pid","ndexServerURI":"http://public.ndexbio.org","readOnly":false}]}, {"provenanceHistory":[{"entity":{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442966963802,"endedAtTime":1442966963802,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Alpha-synuclein signaling.sif"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"}]}],"startedAtTime":1443031030437,"endedAtTime":1443031030437,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031121458,"endedAtTime":1443031121458,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031313371,"endedAtTime":1443031313371,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281921798,"endedAtTime":1482281921798,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"Alpha-synuclein signaling"}]}],"startedAtTime":1482281921815,"endedAtTime":1482281921815,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"45"},{"name":"node count","value":"34"},{"name":"dc:title","value":"Alpha-synuclein signaling"}]},{"uri":"http://public.ndexbio.org/v2/network/588134bc-6187-11e5-8ac5-06603eb7f303/summary","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":[{"uri":"http://public.ndexbio.org/network/588134bc-6187-11e5-8ac5-06603eb7f303","creationEvent":{"inputs":null,"startedAtTime":1442966963802,"endedAtTime":1442966963802,"eventType":"File Upload","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"filename","value":"pidv7-ebs/Alpha-synuclein signaling.sif"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"}]}],"startedAtTime":1443031030437,"endedAtTime":1443031030437,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"}]}],"startedAtTime":1443031121458,"endedAtTime":1443031121458,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"},{"name":"version","value":"07-MAR-2014"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]}],"startedAtTime":1443031313371,"endedAtTime":1443031313371,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"account name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"142"},{"name":"node count","value":"38"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"This network belongs to the NCI-Nature curated Pathway Interaction Database (PID) and was obtained from Pathway Commons (PC2v.7)"},{"name":"version","value":"07-MAR-2014"}]},{"uri":null,"creationEvent":{"inputs":null,"startedAtTime":1482281921798,"endedAtTime":1482281921798,"eventType":"Created by NDEx EBS network converter","properties":null},"properties":[{"name":"dc:title","value":"Alpha-synuclein signaling"}]}],"startedAtTime":1482281921815,"endedAtTime":1482281921815,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"45"},{"name":"node count","value":"34"},{"name":"dc:title","value":"Alpha-synuclein signaling"}]}],"startedAtTime":1497388144728,"endedAtTime":1497388144728,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"45"},{"name":"node count","value":"34"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1497567168192,"endedAtTime":1497567168192,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"95"},{"name":"node count","value":"40"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1498849069655,"endedAtTime":1498849069655,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[]}],"startedAtTime":1498849387842,"endedAtTime":1498849387842,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"95"},{"name":"node count","value":"40"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499114384946,"endedAtTime":1499114384946,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"95"},{"name":"node count","value":"40"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499115186163,"endedAtTime":1499115186163,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"95"},{"name":"node count","value":"40"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499115545822,"endedAtTime":1499115545822,"eventType":"CX network update","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"}]},"properties":[{"name":"edge count","value":"95"},{"name":"node count","value":"40"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"27-Jul-2015"}]}],"startedAtTime":1499371117386,"endedAtTime":1499371117386,"eventType":"Update Network Profile","properties":[{"name":"user","value":"NCI - Pathway Interaction Database (PID)"},{"name":"user name","value":"nci-pid"},{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]},"properties":[{"name":"dc:title","value":"Alpha-synuclein signaling"},{"name":"description","value":"<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."},{"name":"version","value":"APR-2017"}]}}]}, {"@context":[{
+  "KEGG REACTION" : "http://identifiers.org/kegg.reaction/",
+  "cas" : "http://identifiers.org/cas/",
+  "Mouse Genome Database" : "http://www.informatics.jax.org/accession/",
+  "PROTEIN DATA BANK" : "http://identifiers.org/pdb/",
+  "HPRD" : "http://identifiers.org/hprd/",
+  "pmid" : "https://www.ncbi.nlm.nih.gov/pubmed/",
+  "KEGG Compound" : "http://identifiers.org/kegg.compound/",
+  "KEGG Pathway" : "http://identifiers.org/kegg.pathway/"
+}]}, {"nodes":[{
+  "@id" : 1,
+  "n" : "BAD"
+}, {
+  "@id" : 2,
+  "n" : "CHIP"
+}, {
+  "@id" : 3,
+  "n" : "Eosine"
+}, {
+  "@id" : 4,
+  "n" : "Src Family Kinases"
+}, {
+  "@id" : 5,
+  "n" : "SNCAP"
+}, {
+  "@id" : 6,
+  "n" : "YES"
+}, {
+  "@id" : 7,
+  "n" : "SYUA"
+}, {
+  "@id" : 8,
+  "n" : "FAK2"
+}, {
+  "@id" : 9,
+  "n" : "CAN1"
+}, {
+  "@id" : 10,
+  "n" : "SC6A3"
+}, {
+  "@id" : 11,
+  "n" : "UB2L3"
+}, {
+  "@id" : 12,
+  "n" : "LYN"
+}, {
+  "@id" : 13,
+  "n" : "CSK21"
+}, {
+  "@id" : 14,
+  "n" : "tacrolimus (anhydrous)"
+}, {
+  "@id" : 15,
+  "n" : "PLD1"
+}, {
+  "@id" : 16,
+  "n" : "PI-4-5-P2"
+}, {
+  "@id" : 17,
+  "n" : "FGR"
+}, {
+  "@id" : 18,
+  "n" : "TOR1A"
+}, {
+  "@id" : 19,
+  "n" : "SRC"
+}, {
+  "@id" : 20,
+  "n" : "FKB1A"
+}, {
+  "@id" : 21,
+  "n" : "UCHL1"
+}, {
+  "@id" : 22,
+  "n" : "HCK"
+}, {
+  "@id" : 23,
+  "n" : "KSYK"
+}, {
+  "@id" : 24,
+  "n" : "KLK6"
+}, {
+  "@id" : 25,
+  "n" : "BLK"
+}, {
+  "@id" : 26,
+  "n" : "Dopamine"
+}, {
+  "@id" : 27,
+  "n" : "PRKN2"
+}, {
+  "@id" : 28,
+  "n" : "GRK5"
+}, {
+  "@id" : 29,
+  "n" : "PARK7"
+}, {
+  "@id" : 30,
+  "n" : "PLCB2"
+}, {
+  "@id" : 31,
+  "n" : "KPCD"
+}, {
+  "@id" : 32,
+  "n" : "LCK"
+}, {
+  "@id" : 33,
+  "n" : "TY3H"
+}, {
+  "@id" : 34,
+  "n" : "HSP74"
+}, {
+  "@id" : 35,
+  "n" : "1D-myo-inositol 1,4,5-trisphosphate"
+}, {
+  "@id" : 36,
+  "n" : "lipid"
+}, {
+  "@id" : 37,
+  "n" : "2A5D"
+}, {
+  "@id" : 38,
+  "n" : "FYN"
+}, {
+  "@id" : 39,
+  "n" : "Colchicine"
+}, {
+  "@id" : 40,
+  "n" : "PLD2"
+}]}, {"edges":[{
+  "@id" : 7,
+  "s" : 1,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 5,
+  "s" : 1,
+  "t" : 31,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 27,
+  "s" : 2,
+  "t" : 34,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 31,
+  "s" : 2,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 29,
+  "s" : 2,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 38,
+  "s" : 3,
+  "t" : 7,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 153,
+  "s" : 4,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 138,
+  "s" : 5,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 157,
+  "s" : 6,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 146,
+  "s" : 7,
+  "t" : 35,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 145,
+  "s" : 7,
+  "t" : 37,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 148,
+  "s" : 7,
+  "t" : 18,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 147,
+  "s" : 7,
+  "t" : 26,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 50,
+  "s" : 8,
+  "t" : 32,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 59,
+  "s" : 8,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 60,
+  "s" : 8,
+  "t" : 6,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 44,
+  "s" : 8,
+  "t" : 38,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 53,
+  "s" : 8,
+  "t" : 12,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 41,
+  "s" : 8,
+  "t" : 17,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 56,
+  "s" : 8,
+  "t" : 19,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 47,
+  "s" : 8,
+  "t" : 22,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 39,
+  "s" : 8,
+  "t" : 25,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 21,
+  "s" : 9,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 135,
+  "s" : 10,
+  "t" : 26,
+  "i" : "controls-transport-of-chemical"
+}, {
+  "@id" : 136,
+  "s" : 10,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 154,
+  "s" : 11,
+  "t" : 7,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 112,
+  "s" : 12,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 116,
+  "s" : 12,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 117,
+  "s" : 12,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 113,
+  "s" : 12,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 32,
+  "s" : 13,
+  "t" : 28,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 33,
+  "s" : 13,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 26,
+  "s" : 14,
+  "t" : 7,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 126,
+  "s" : 15,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 120,
+  "s" : 16,
+  "t" : 35,
+  "i" : "used-to-produce"
+}, {
+  "@id" : 121,
+  "s" : 16,
+  "t" : 30,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 122,
+  "s" : 16,
+  "t" : 7,
+  "i" : "consumption-controlled-by"
+}, {
+  "@id" : 65,
+  "s" : 17,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 71,
+  "s" : 17,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 72,
+  "s" : 17,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 63,
+  "s" : 17,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 68,
+  "s" : 17,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 66,
+  "s" : 17,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 67,
+  "s" : 17,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 64,
+  "s" : 17,
+  "t" : 22,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 143,
+  "s" : 19,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 144,
+  "s" : 19,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 140,
+  "s" : 19,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 73,
+  "s" : 20,
+  "t" : 7,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 155,
+  "s" : 21,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 86,
+  "s" : 22,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 92,
+  "s" : 22,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 93,
+  "s" : 22,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 89,
+  "s" : 22,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 87,
+  "s" : 22,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 88,
+  "s" : 22,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 102,
+  "s" : 23,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 97,
+  "s" : 24,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 13,
+  "s" : 25,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 19,
+  "s" : 25,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 20,
+  "s" : 25,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 11,
+  "s" : 25,
+  "t" : 38,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 16,
+  "s" : 25,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 14,
+  "s" : 25,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 10,
+  "s" : 25,
+  "t" : 17,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 15,
+  "s" : 25,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 12,
+  "s" : 25,
+  "t" : 22,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 134,
+  "s" : 27,
+  "t" : 11,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 130,
+  "s" : 27,
+  "t" : 5,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 132,
+  "s" : 27,
+  "t" : 7,
+  "i" : "controls-state-change-of"
+}, {
+  "@id" : 83,
+  "s" : 28,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 118,
+  "s" : 29,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 123,
+  "s" : 30,
+  "t" : 35,
+  "i" : "controls-production-of"
+}, {
+  "@id" : 124,
+  "s" : 30,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 100,
+  "s" : 31,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 110,
+  "s" : 32,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 106,
+  "s" : 32,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 105,
+  "s" : 32,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 111,
+  "s" : 32,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 107,
+  "s" : 32,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 96,
+  "s" : 34,
+  "t" : 18,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 94,
+  "s" : 34,
+  "t" : 7,
+  "i" : "in-complex-with"
+}, {
+  "@id" : 24,
+  "s" : 36,
+  "t" : 5,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 25,
+  "s" : 36,
+  "t" : 7,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 2,
+  "s" : 37,
+  "t" : 33,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 75,
+  "s" : 38,
+  "t" : 32,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 81,
+  "s" : 38,
+  "t" : 4,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 82,
+  "s" : 38,
+  "t" : 6,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 78,
+  "s" : 38,
+  "t" : 7,
+  "i" : "controls-phosphorylation-of"
+}, {
+  "@id" : 76,
+  "s" : 38,
+  "t" : 12,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 77,
+  "s" : 38,
+  "t" : 19,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 74,
+  "s" : 38,
+  "t" : 22,
+  "i" : "neighbor-of"
+}, {
+  "@id" : 36,
+  "s" : 39,
+  "t" : 10,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 37,
+  "s" : 39,
+  "t" : 7,
+  "i" : "chemical-affects"
+}, {
+  "@id" : 128,
+  "s" : 40,
+  "t" : 7,
+  "i" : "in-complex-with"
+}]}, {"networkAttributes":[{
+  "n" : "name",
+  "v" : "Alpha-synuclein signaling"
+}, {
+  "n" : "description",
+  "v" : "<i>Alpha-synuclein signaling</i> was derived from the latest BioPAX3 version of the Pathway Interaction Database (PID) curated by NCI/Nature. The BioPAX was first converted to Extended Binary SIF (EBS) by the PAXTools v5 utility. It was then processed to remove redundant edges, to add a 'directed flow' layout, and to add a graphic style using Cytoscape Visual Properties. This network can be found in searches using its original PID accession id, present in the 'labels' property."
+}, {
+  "n" : "version",
+  "v" : "APR-2017"
+}, {
+  "n" : "reference",
+  "v" : ""
+}, {
+  "n" : "author",
+  "v" : "Shiva Krupa"
+}, {
+  "n" : "reviewers",
+  "v" : "Mark Cookson"
+}, {
+  "n" : "labels",
+  "v" : "alphaSynuclein_pathway"
+}, {
+  "n" : "organism",
+  "v" : "human"
+}]}, {"nodeAttributes":[{
+  "po" : 1,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O14803", "uniprot knowledgebase:Q6FH21", "uniprot knowledgebase:Q92934" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 1,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 2,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A2IDB9", "uniprot knowledgebase:O60526", "uniprot knowledgebase:Q969U2", "uniprot knowledgebase:Q9HBT1", "uniprot knowledgebase:Q9UNE7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 2,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 3,
+  "n" : "alias",
+  "v" : [ "cas:17372-87-1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 3,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 4,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 5,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DSZ1", "uniprot knowledgebase:Q05BS1", "uniprot knowledgebase:Q1PSC2", "uniprot knowledgebase:Q49AC6", "uniprot knowledgebase:Q504U9", "uniprot knowledgebase:Q6L984", "uniprot knowledgebase:Q6L985", "uniprot knowledgebase:Q6L986", "uniprot knowledgebase:Q9HC59", "uniprot knowledgebase:Q9Y6H5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 5,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 6,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NLB3", "uniprot knowledgebase:D3DUH1", "uniprot knowledgebase:P07947" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 6,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 7,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K2A4", "uniprot knowledgebase:P37840", "uniprot knowledgebase:Q13701", "uniprot knowledgebase:Q4JHI3", "uniprot knowledgebase:Q6IAU6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 7,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 8,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DST0", "uniprot knowledgebase:Q13475", "uniprot knowledgebase:Q14289", "uniprot knowledgebase:Q14290", "uniprot knowledgebase:Q16709", "uniprot knowledgebase:Q6PID4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 8,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 9,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P07384", "uniprot knowledgebase:Q2TTR0", "uniprot knowledgebase:Q6DHV4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 9,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 10,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A2RUN4", "uniprot knowledgebase:Q01959", "uniprot knowledgebase:Q14996" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 11,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R4A7", "uniprot knowledgebase:B4DDG1", "uniprot knowledgebase:B4DSZ4", "uniprot knowledgebase:E7EWS7", "uniprot knowledgebase:P51966", "uniprot knowledgebase:P68036", "uniprot knowledgebase:P70653", "uniprot knowledgebase:Q9HAV1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 12,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A0AVQ5", "uniprot knowledgebase:P07948" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 13,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B4DYS6", "uniprot knowledgebase:D3DVV8", "uniprot knowledgebase:P19138", "uniprot knowledgebase:P20426", "uniprot knowledgebase:P68400", "uniprot knowledgebase:Q14013", "uniprot knowledgebase:Q5U065" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 14,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:61049" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 15,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:Q13393" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 16,
+  "n" : "alias",
+  "v" : [ "cas:245126-95-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 17,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DPL7", "uniprot knowledgebase:P09769", "uniprot knowledgebase:Q9UIQ3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 17,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 18,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2RB58", "uniprot knowledgebase:O14656", "uniprot knowledgebase:Q53Y64", "uniprot knowledgebase:Q96CA0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 18,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 19,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:E1P5V4", "uniprot knowledgebase:P12931", "uniprot knowledgebase:Q76P87", "uniprot knowledgebase:Q86VB9", "uniprot knowledgebase:Q9H5A8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 20,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DVW6", "uniprot knowledgebase:P20071", "uniprot knowledgebase:P62942", "uniprot knowledgebase:Q4VC47", "uniprot knowledgebase:Q6FGD9", "uniprot knowledgebase:Q6LEU3", "uniprot knowledgebase:Q9H103", "uniprot knowledgebase:Q9H566" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 21,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P09936", "uniprot knowledgebase:Q4W5K6", "uniprot knowledgebase:Q71UM0" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 22,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K1I1", "uniprot knowledgebase:B4DQB6", "uniprot knowledgebase:E1P5M2", "uniprot knowledgebase:P08631", "uniprot knowledgebase:Q29RX1", "uniprot knowledgebase:Q2VPE2", "uniprot knowledgebase:Q504R5", "uniprot knowledgebase:Q5T7K1", "uniprot knowledgebase:Q5T7K2", "uniprot knowledgebase:Q96CC0", "uniprot knowledgebase:Q9H5Y5", "uniprot knowledgebase:Q9NUA4", "uniprot knowledgebase:Q9UMJ5" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 22,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 23,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P43405" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 23,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 24,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A6NJA1", "uniprot knowledgebase:A8MW09", "uniprot knowledgebase:Q6H301", "uniprot knowledgebase:Q92876" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 25,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:P51451", "uniprot knowledgebase:Q16291", "uniprot knowledgebase:Q96IN1" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 25,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 26,
+  "n" : "alias",
+  "v" : [ "cas:51-61-6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 27,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A3FG77", "uniprot knowledgebase:A8K975", "uniprot knowledgebase:D3JZW7", "uniprot knowledgebase:D3K2X0", "uniprot knowledgebase:O60260", "uniprot knowledgebase:Q5TFV8", "uniprot knowledgebase:Q5VVX4", "uniprot knowledgebase:Q6Q2I6", "uniprot knowledgebase:Q8NI41", "uniprot knowledgebase:Q8NI43", "uniprot knowledgebase:Q8NI44", "uniprot knowledgebase:Q8WW07" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 27,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 28,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DRD0", "uniprot knowledgebase:P34947", "uniprot knowledgebase:Q5T059" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 28,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 29,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B2R4Z1", "uniprot knowledgebase:O14805", "uniprot knowledgebase:Q6DR95", "uniprot knowledgebase:Q7LFU2", "uniprot knowledgebase:Q99497" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 29,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 30,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K6J2", "uniprot knowledgebase:B9EGH5", "uniprot knowledgebase:Q00722" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 30,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 31,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B0KZ81", "uniprot knowledgebase:B2R834", "uniprot knowledgebase:Q05655", "uniprot knowledgebase:Q15144", "uniprot knowledgebase:Q86XJ6" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 31,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 32,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:D3DPP8", "uniprot knowledgebase:P06239", "uniprot knowledgebase:P07100", "uniprot knowledgebase:Q12850", "uniprot knowledgebase:Q13152", "uniprot knowledgebase:Q5TDH8", "uniprot knowledgebase:Q5TDH9", "uniprot knowledgebase:Q7RTZ3", "uniprot knowledgebase:Q96DW4", "uniprot knowledgebase:Q9NYT8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 33,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B7ZL70", "uniprot knowledgebase:B7ZL73", "uniprot knowledgebase:P07101", "uniprot knowledgebase:Q0PWM2", "uniprot knowledgebase:Q0PWM3", "uniprot knowledgebase:Q15585", "uniprot knowledgebase:Q15588", "uniprot knowledgebase:Q15589", "uniprot knowledgebase:Q2M3B4" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 34,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:O95756", "uniprot knowledgebase:P34932", "uniprot knowledgebase:Q2TAL4", "uniprot knowledgebase:Q9BUK9" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 34,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 35,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:16595" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 35,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 36,
+  "n" : "alias",
+  "v" : [ "chebi:CHEBI:18059" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 37,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:A8K3I9", "uniprot knowledgebase:B5BUA6", "uniprot knowledgebase:O00494", "uniprot knowledgebase:O00696", "uniprot knowledgebase:Q14738", "uniprot knowledgebase:Q15171", "uniprot knowledgebase:Q5TC39" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 38,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:B5BU57", "uniprot knowledgebase:E1P557", "uniprot knowledgebase:H0UI48", "uniprot knowledgebase:P06241", "uniprot knowledgebase:Q16248", "uniprot knowledgebase:Q5R3A6", "uniprot knowledgebase:Q5R3A7", "uniprot knowledgebase:Q8N5D7" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "type",
+  "v" : "Protein"
+}, {
+  "po" : 39,
+  "n" : "alias",
+  "v" : [ "cas:64-86-8" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "type",
+  "v" : "SmallMolecule"
+}, {
+  "po" : 40,
+  "n" : "alias",
+  "v" : [ "uniprot knowledgebase:I3L2C9", "uniprot knowledgebase:O14939", "uniprot knowledgebase:O43540", "uniprot knowledgebase:O43579", "uniprot knowledgebase:O43580", "uniprot knowledgebase:Q6PGR0", "uniprot knowledgebase:Q96BY3" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 40,
+  "n" : "type",
+  "v" : "Protein"
+}]}, {"edgeAttributes":[{
+  "po" : 38,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 38,
+  "n" : "pmid",
+  "v" : [ "11744621" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 38,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11744621" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 153,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 153,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 157,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 157,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 157,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 146,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 145,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 145,
+  "n" : "pmid",
+  "v" : [ "16030137" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 145,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:16030137" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 147,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 50,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 50,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 50,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 59,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 60,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 60,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 60,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 44,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 44,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 53,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 53,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 41,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 41,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 56,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 56,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 47,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 47,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 39,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 39,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 21,
+  "n" : "pmid",
+  "v" : [ "12887682" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 21,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12887682" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 135,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 154,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 154,
+  "n" : "pmid",
+  "v" : [ "11431533", "11588587", "15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 154,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11431533", "pmid:11588587", "pmid:15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 112,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 116,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 117,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 113,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 113,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "pmid",
+  "v" : [ "10852916", "14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 32,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10852916", "pmid:14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 33,
+  "n" : "pmid",
+  "v" : [ "10852916", "14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 33,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10852916", "pmid:14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 26,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 120,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 65,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 65,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 71,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 72,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 63,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 68,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 68,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 66,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 67,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 64,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 143,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 144,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 140,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 140,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 155,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 86,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 86,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 92,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 93,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 89,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 89,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 87,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 87,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 88,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 102,
+  "n" : "pmid",
+  "v" : [ "11744621" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 102,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11744621" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 97,
+  "n" : "pmid",
+  "v" : [ "12928483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 97,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:12928483" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 13,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 19,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 20,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 11,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 16,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 16,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 14,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 10,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 15,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 12,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "pmid",
+  "v" : [ "11431533", "11588587", "15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 134,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11431533", "pmid:11588587", "pmid:15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 130,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 130,
+  "n" : "pmid",
+  "v" : [ "11590439" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 130,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11590439" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 132,
+  "n" : "pmid",
+  "v" : [ "11431533", "11588587", "15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 132,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11431533", "pmid:11588587", "pmid:15944382" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 83,
+  "n" : "pmid",
+  "v" : [ "10852916", "14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 83,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:10852916", "pmid:14645218" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 123,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 110,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 110,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 106,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 105,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 105,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 111,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 107,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 107,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 107,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 24,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 25,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 2,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 75,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 75,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "pmid",
+  "v" : [ "11160627", "11230698", "11709084", "11726541", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 81,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 82,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 78,
+  "n" : "pmid",
+  "v" : [ "11078745", "12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 78,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:12096713" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 76,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 77,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 77,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "pmid",
+  "v" : [ "11078745", "11160627", "11230698", "11709084", "11726541", "12096713", "17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 74,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11078745", "pmid:11160627", "pmid:11230698", "pmid:11709084", "pmid:11726541", "pmid:12096713", "pmid:17349748" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 36,
+  "n" : "pmid",
+  "v" : [ "11292651" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 36,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11292651" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "directed",
+  "v" : "true",
+  "d" : "boolean"
+}, {
+  "po" : 37,
+  "n" : "pmid",
+  "v" : [ "11292651" ],
+  "d" : "list_of_string"
+}, {
+  "po" : 37,
+  "n" : "ndex:citation",
+  "v" : [ "pmid:11292651" ],
+  "d" : "list_of_string"
+}]}, {"citations":[{
+  "@id" : 1,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16030137",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 2,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15978696",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 3,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11160627",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 4,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11230698",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 5,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11709084",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 6,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11726541",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 7,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:17349748",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 8,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11078745",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 9,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12096713",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 10,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12887682",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 11,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15671022",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 12,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15845543",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 13,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:10852916",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 14,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14645218",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 15,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11292651",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 16,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11744621",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 17,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12928483",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 18,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15935068",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 19,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:16403519",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 20,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11821392",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 21,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11590439",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 22,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11431533",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 23,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:11588587",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 24,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:15944382",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 25,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12551928",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 26,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:14991825",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}, {
+  "@id" : 27,
+  "dc:title" : null,
+  "dc:contributor" : null,
+  "dc:identifier" : "pmid:12421356",
+  "dc:type" : null,
+  "dc:description" : null,
+  "attributes" : [ ]
+}]}, {"cartesianLayout":[{
+  "node" : 1,
+  "x" : 216.86082812104866,
+  "y" : 168.30584823320333
+}, {
+  "node" : 2,
+  "x" : 245.357523645118,
+  "y" : 664.8357114603771
+}, {
+  "node" : 3,
+  "x" : -49.28767526263975,
+  "y" : 358.66275649466314
+}, {
+  "node" : 4,
+  "x" : -369.400530163971,
+  "y" : 1081.557183127516
+}, {
+  "node" : 5,
+  "x" : 532.4092381135079,
+  "y" : 340.02578797036534
+}, {
+  "node" : 6,
+  "x" : -327.47982478563085,
+  "y" : 817.3795618013067
+}, {
+  "node" : 7,
+  "x" : 157.97661455082059,
+  "y" : 415.2389820587795
+}, {
+  "node" : 8,
+  "x" : -273.9219735191969,
+  "y" : 704.2166355917692
+}, {
+  "node" : 9,
+  "x" : -64.36572620245992,
+  "y" : 314.2341305093156
+}, {
+  "node" : 10,
+  "x" : 341.5119739931819,
+  "y" : 258.84230546668664
+}, {
+  "node" : 11,
+  "x" : -15.793531803531225,
+  "y" : 400.8263416748028
+}, {
+  "node" : 12,
+  "x" : -270.861906613798,
+  "y" : 927.6464265001354
+}, {
+  "node" : 13,
+  "x" : -120.70690161898106,
+  "y" : 274.46536422554556
+}, {
+  "node" : 14,
+  "x" : -6.256590578997026,
+  "y" : 311.06355764212174
+}, {
+  "node" : 15,
+  "x" : 301.2142017205532,
+  "y" : 431.8390180863143
+}, {
+  "node" : 16,
+  "x" : 272.8427898873451,
+  "y" : 20.722691296091263
+}, {
+  "node" : 17,
+  "x" : -82.64266107981112,
+  "y" : 950.8861170487203
+}, {
+  "node" : 18,
+  "x" : 348.66570095554164,
+  "y" : 610.742202781644
+}, {
+  "node" : 19,
+  "x" : -222.09706962049253,
+  "y" : 839.8389486773486
+}, {
+  "node" : 20,
+  "x" : 213.65750503130835,
+  "y" : 268.1059577202726
+}, {
+  "node" : 21,
+  "x" : 38.642412846164476,
+  "y" : 331.9072422108835
+}, {
+  "node" : 22,
+  "x" : -351.64350231218,
+  "y" : 894.4963833092419
+}, {
+  "node" : 23,
+  "x" : -42.31580528902172,
+  "y" : 263.3295210950022
+}, {
+  "node" : 24,
+  "x" : 24.928085423062374,
+  "y" : 266.3516581129911
+}, {
+  "node" : 25,
+  "x" : -140.47393045941448,
+  "y" : 1011.4516666107714
+}, {
+  "node" : 26,
+  "x" : 506.35504877303237,
+  "y" : 293.3907165161309
+}, {
+  "node" : 27,
+  "x" : 81.02917427645507,
+  "y" : 501.76446185383554
+}, {
+  "node" : 28,
+  "x" : -132.71239091930155,
+  "y" : 337.7502456152248
+}, {
+  "node" : 29,
+  "x" : 279.63737191452475,
+  "y" : 320.75009854588706
+}, {
+  "node" : 30,
+  "x" : 362.26464145017763,
+  "y" : 76.87190680943952
+}, {
+  "node" : 31,
+  "x" : 140.73026157142746,
+  "y" : 155.03372507531208
+}, {
+  "node" : 32,
+  "x" : -220.2111529404916,
+  "y" : 993.4986100608425
+}, {
+  "node" : 33,
+  "x" : 673.5072366374443,
+  "y" : 337.4724983904376
+}, {
+  "node" : 34,
+  "x" : 314.2498035166773,
+  "y" : 670.2507450320586
+}, {
+  "node" : 35,
+  "x" : 652.0042392789289,
+  "y" : 259.0184929717204
+}, {
+  "node" : 36,
+  "x" : 190.40702154694716,
+  "y" : 325.85272267692255
+}, {
+  "node" : 37,
+  "x" : 463.5032674601096,
+  "y" : 409.36554132143846
+}, {
+  "node" : 38,
+  "x" : -147.6431239753941,
+  "y" : 890.6782742782872
+}, {
+  "node" : 39,
+  "x" : 113.65855758911785,
+  "y" : 273.751977860946
+}, {
+  "node" : 40,
+  "x" : 240.0115502287159,
+  "y" : 521.6780717396219
+}]}, {"visualProperties":[{
+  "properties_of" : "network",
+  "properties" : {
+    "NETWORK_DEPTH" : "0.0",
+    "NETWORK_WIDTH" : "550.0",
+    "NETWORK_EDGE_SELECTION" : "true",
+    "NETWORK_BACKGROUND_PAINT" : "#CCCCCC",
+    "NETWORK_CENTER_X_LOCATION" : "0.0",
+    "NETWORK_HEIGHT" : "400.0",
+    "NETWORK_CENTER_Z_LOCATION" : "0.0",
+    "NETWORK_SCALE_FACTOR" : "1.0",
+    "NETWORK_CENTER_Y_LOCATION" : "0.0",
+    "NETWORK_NODE_SELECTION" : "true",
+    "NETWORK_SIZE" : "550.0"
+  },
+  "applies_to" : 351
+}, {
+  "properties_of" : "nodes:default",
+  "dependencies" : {
+    "nodeCustomGraphicsSizeSync" : "true",
+    "nodeSizeLocked" : "true"
+  },
+  "mappings" : {
+    "NODE_TOOLTIP" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=Other,K=1=Small Molecule,V=1=Small Molecule,K=2=SmallMolecule,V=2=Small Molecule,K=3=Protein,V=3=Protein",
+      "type" : "DISCRETE"
+    },
+    "NODE_LABEL" : {
+      "definition" : "COL=name,T=string",
+      "type" : "PASSTHROUGH"
+    },
+    "NODE_FILL_COLOR" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=#99CCFF,K=1=Small Molecule,V=1=#FF9900,K=2=SmallMolecule,V=2=#FF9900",
+      "type" : "DISCRETE"
+    },
+    "NODE_SHAPE" : {
+      "definition" : "COL=type,T=string,K=0=Small Molecule,V=0=OCTAGON,K=1=SmallMolecule,V=1=OCTAGON,K=2=Protein,V=2=ELLIPSE",
+      "type" : "DISCRETE"
+    },
+    "NODE_SIZE" : {
+      "definition" : "COL=type,T=string,K=0=,V=0=25.0,K=1=Small Molecule,V=1=25.0,K=2=SmallMolecule,V=2=25.0,K=3=Protein,V=3=35.0",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "NODE_FILL_COLOR" : "#00CCCC",
+    "NODE_NESTED_NETWORK_IMAGE_VISIBLE" : "true",
+    "NODE_LABEL_TRANSPARENCY" : "255",
+    "NODE_CUSTOMPAINT_1" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)",
+    "NODE_BORDER_WIDTH" : "2.5",
+    "NODE_CUSTOMPAINT_3" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)",
+    "NODE_CUSTOMPAINT_2" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)",
+    "NODE_CUSTOMPAINT_5" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)",
+    "NODE_CUSTOMPAINT_4" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)",
+    "NODE_CUSTOMPAINT_7" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)",
+    "NODE_CUSTOMPAINT_6" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)",
+    "NODE_CUSTOMPAINT_9" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)",
+    "NODE_CUSTOMPAINT_8" : "DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)",
+    "NODE_CUSTOMGRAPHICS_2" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "COMPOUND_NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_SELECTED" : "false",
+    "NODE_CUSTOMGRAPHICS_POSITION_9" : "C,C,c,0.00,0.00",
+    "NODE_SHAPE" : "ROUND_RECTANGLE",
+    "NODE_CUSTOMGRAPHICS_SIZE_9" : "50.0",
+    "NODE_BORDER_TRANSPARENCY" : "255",
+    "NODE_CUSTOMGRAPHICS_SIZE_8" : "50.0",
+    "NODE_SIZE" : "35.0",
+    "NODE_SELECTED_PAINT" : "#FF0000",
+    "NODE_CUSTOMGRAPHICS_SIZE_1" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_2" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_3" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_4" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_5" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_6" : "50.0",
+    "NODE_CUSTOMGRAPHICS_SIZE_7" : "50.0",
+    "COMPOUND_NODE_PADDING" : "10.0",
+    "NODE_BORDER_PAINT" : "#FFFFFF",
+    "NODE_LABEL_FONT_FACE" : "Eras Medium ITC,plain,12",
+    "NODE_CUSTOMGRAPHICS_POSITION_2" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_3" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_1" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_6" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_7" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_4" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_5" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_POSITION_8" : "C,C,c,0.00,0.00",
+    "NODE_WIDTH" : "75.0",
+    "NODE_X_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_8" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_DEPTH" : "0.0",
+    "NODE_LABEL_WIDTH" : "200.0",
+    "NODE_LABEL_FONT_SIZE" : "12",
+    "NODE_CUSTOMGRAPHICS_9" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_Y_LOCATION" : "0.0",
+    "NODE_CUSTOMGRAPHICS_5" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_4" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_BORDER_STROKE" : "SOLID",
+    "NODE_CUSTOMGRAPHICS_6" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_1" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_CUSTOMGRAPHICS_3" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_LABEL_COLOR" : "#000000",
+    "NODE_HEIGHT" : "35.0",
+    "NODE_Z_LOCATION" : "0.0",
+    "NODE_PAINT" : "#1E90FF",
+    "NODE_TRANSPARENCY" : "255",
+    "NODE_LABEL_POSITION" : "C,C,c,0.00,0.00",
+    "NODE_CUSTOMGRAPHICS_7" : "org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ],",
+    "NODE_VISIBLE" : "true"
+  }
+}, {
+  "properties_of" : "edges:default",
+  "dependencies" : {
+    "arrowColorMatchesEdge" : "true"
+  },
+  "mappings" : {
+    "EDGE_UNSELECTED_PAINT" : {
+      "definition" : "COL=shared interaction,T=string,K=0=interacts-with,V=0=#999999,K=1=chemical-affects,V=1=#FF9900,K=2=controls-state-change-of,V=2=#0099FF,K=3=controls-transport-of,V=3=#009933,K=4=consumption-controled-by,V=4=#990099,K=5=reacts-with,V=5=#999999,K=6=neighbor-of,V=6=#999999,K=7=controls-expression-of,V=7=#0099FF,K=8=controls-phosphorylation-of,V=8=#0099FF,K=9=controls-transport-of-chemical,V=9=#009933,K=10=interacts with,V=10=#999999,K=11=used-to-produce,V=11=#990099,K=12=controls-production-of,V=12=#990099,K=13=in-complex-with,V=13=#999999,K=14=catalysis-precedes,V=14=#000000",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TARGET_ARROW_SHAPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=true,V=0=DELTA",
+      "type" : "DISCRETE"
+    },
+    "EDGE_TOOLTIP" : {
+      "definition" : "COL=shared interaction,T=string,K=0=chemical-affects,V=0=chemical affects,K=1=interacts-with,V=1=interacts with,K=2=controls-state-change-of,V=2=controls state change of,K=3=consumption-controled-by,V=3=consumption controlled by,K=4=controls-transport-of,V=4=controls transport of,K=5=reacts-with,V=5=reacts with,K=6=neighbor-of,V=6=neighbor of,K=7=controls-expression-of,V=7=controls expression of,K=8=controls-phosphorylation-of,V=8=controls phosphorilation of,K=9=controls-transport-of-chemical,V=9=controls transport of chemical,K=10=interacts with,V=10=interacts with,K=11=used-to-produce,V=11=used to produce,K=12=controls-production-of,V=12=controls production of,K=13=in-complex-with,V=13=in complex with,K=14=catalysis-precedes,V=14=catalysis precedes",
+      "type" : "DISCRETE"
+    },
+    "EDGE_LINE_TYPE" : {
+      "definition" : "COL=directed,T=boolean,K=0=false,V=0=LONG_DASH,K=1=true,V=1=SOLID",
+      "type" : "DISCRETE"
+    }
+  },
+  "applies_to" : 351,
+  "properties" : {
+    "EDGE_PAINT" : "#323232",
+    "EDGE_TARGET_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_CURVED" : "true",
+    "EDGE_TARGET_ARROW_SELECTED_PAINT" : "#FF0000",
+    "EDGE_STROKE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_LABEL_FONT_FACE" : "Dialog.plain,plain,10",
+    "EDGE_LINE_TYPE" : "LONG_DASH",
+    "EDGE_TARGET_ARROW_SHAPE" : "NONE",
+    "EDGE_LABEL_COLOR" : "#000000",
+    "EDGE_SELECTED" : "false",
+    "EDGE_SELECTED_PAINT" : "#FF0000",
+    "EDGE_VISIBLE" : "true",
+    "EDGE_LABEL_FONT_SIZE" : "10",
+    "EDGE_SOURCE_ARROW_SHAPE" : "NONE",
+    "EDGE_WIDTH" : "2.0",
+    "EDGE_STROKE_UNSELECTED_PAINT" : "#848484",
+    "EDGE_LABEL_TRANSPARENCY" : "255",
+    "EDGE_LABEL_WIDTH" : "200.0",
+    "EDGE_UNSELECTED_PAINT" : "#404040",
+    "EDGE_SOURCE_ARROW_UNSELECTED_PAINT" : "#000000",
+    "EDGE_TRANSPARENCY" : "255",
+    "EDGE_SOURCE_ARROW_SELECTED_PAINT" : "#FF0000"
+  }
+}]},{"status":[{"error":"","success":true}]}]

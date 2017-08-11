@@ -160,6 +160,10 @@ def move(forceX,forceY,forceZ,node_id,maxZ,startedIter,range):
         newyPos = range * 2.5
     if newyPos < -range * 2.5:
         newyPos = -range * 2.5
+    if newxPos > range * 2.5:
+        newxPos = range * 2.5
+    if newxPos < -range * 2.5:
+        newxPos = -range * 2.5
     node["x"] = newxPos
     node["y"] = newyPos
     node["z"] = newzPos
