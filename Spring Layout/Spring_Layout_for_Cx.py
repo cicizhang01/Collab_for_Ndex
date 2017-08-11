@@ -9,15 +9,17 @@ node_list = {}
 #{"source": "0", "target": "1"}
 edge_list = []
 properties_list = {}
+#"true" and "false" are strings
+edge_properties = {}
 
 #200
 natLength = 200
 #0.3
 ks = 0.03
-#90
+#90, 600
 kg = 600
 #300
-maxRepulsion = 500
+maxRepulsion = 300
 #500
 maxZ = 500
 ZDecreaser = 1
@@ -26,38 +28,44 @@ iterBegin = 400
 #1000 50 and 200
 maxLoops = 1000
 #EGF, FanGO, FanGO3, Direct
-cxFile = 'a6b1.cx'
+cxFile = 'C-MYB.cx'
 #sourceXLock = -500
 #targetXLock = 500
 
 
 # for key, value in d.iteritems():
 def categorizing():
+    if properties_list.get("node_width"):
+        width = float(properties_list["node_width"])
+    if not properties_list.get("node_width"):
+        width = 60
+    range = math.ceil(width * math.sqrt(len(node_list)) * 2.5)
     for node, properties in node_list.iteritems():
         in_count = 0
         out_count = 0
         for edge in edge_list:
-            if node == edge.get("source"):
-                out_count = out_count + 1
-            if node == edge.get("target"):
-                in_count = in_count + 1
-        if properties_list.get("node_width"):
-            width = float(properties_list["node_width"])
-        if not properties_list.get("node_width"):
-            width = 60
+            id = edge.get("id")
+            if edge_properties.get(id):
+                directed = edge_properties.get(id).get("directed")
+            else:
+                directed = "none"
+            if directed == "true":
+                if node == edge.get("source"):
+                    out_count = out_count + 1
+                if node == edge.get("target"):
+                    in_count = in_count + 1
         if in_count > 0 and out_count == 0:
             #len(node_list) * 10
             properties["category"] = "Target"
-            range = math.ceil(width * math.sqrt(len(node_list)) * 2)
             properties["x"] = range
         elif out_count > 0 and in_count == 0:
             properties["category"] = "Source"
-            range = -math.ceil(width * math.sqrt(len(node_list)) * 2)
-            properties["x"] = range
+            properties["x"] = -range
         elif in_count > 0 and out_count > 0:
             properties["category"] = "Middle"
         properties["degree"] = in_count + out_count
-    print "Range is negative to positive " + str(abs(range))
+    print "Range is negative to positive " + str(float(range))
+    return range
 
 def loader(file):
     #start_loading = time.time()
@@ -70,6 +78,7 @@ def loader(file):
                     edgeDict = {}
                     edgeDict["source"] = str(edge["s"])
                     edgeDict["target"] = str(edge["t"])
+                    edgeDict["id"] = str(edge["@id"])
                     edge_list.append(edgeDict)
             if key == "nodes":
                 for node in value:
@@ -87,10 +96,17 @@ def loader(file):
                             if items.get("NODE_WIDTH"):
                                 properties_list["node_width"] = items.get("NODE_WIDTH")
                                 print properties_list.get("node_width")
+            if key == "edgeAttributes":
+                for properties in value:
+                    dict = {}
+                    if properties.get("n") == "directed":
+                        dict["directed"] = properties.get("v")
+                        edge_properties[str(properties.get("po"))] = dict
+
 
     #elapsed_loading = time.time() - start_loading
     #print elapsed_loading
-    categorizing()
+    return categorizing()
 
 def exportToNetwork(file):
     #start_export = time.time()
@@ -126,7 +142,7 @@ def exportToNetwork(file):
     #elapsed_export = time.time() - start_export
     #print elapsed_export
 
-def move(forceX,forceY,forceZ,node_id,maxZ,startedIter):
+def move(forceX,forceY,forceZ,node_id,maxZ,startedIter,range):
     maxed = maxZ
     node = node_list.get(node_id)
     xPos = node.get("x")
@@ -140,6 +156,10 @@ def move(forceX,forceY,forceZ,node_id,maxZ,startedIter):
             newzPos = maxed
         if newzPos < -maxed:
             newzPos = -maxed
+    if newyPos > range * 2.5:
+        newyPos = range * 2.5
+    if newyPos < -range * 2.5:
+        newyPos = -range * 2.5
     node["x"] = newxPos
     node["y"] = newyPos
     node["z"] = newzPos
@@ -159,7 +179,7 @@ def hookesLaw(a,b,constant):
         return [xdist*force, ydist*force,zdist*force ]
 
 
-def coulombsLaw(a,b):
+def coulombsLaw(a,b, range):
     xdist = b.get("x")-a.get("x")
     ydist = b.get("y")-a.get("y")
     zdist = b.get("z")-a.get("z")
@@ -173,6 +193,10 @@ def coulombsLaw(a,b):
         #else:
             #constant = kg
         component = (a.get("degree") + b.get("degree"))/2
+        if component > range:
+            component = range
+        if component < -range:
+            component = -range
         constant = component * kg
         force = constant / (d3 * d3)
         return [-force*xdist,-force*ydist,-force*zdist]
@@ -204,7 +228,7 @@ def loop():
     numLoops = 0
     startedIter = False
     maxed = maxZ
-    loader(cxFile)
+    rangeX = loader(cxFile)
     springConstant = scaleFactoring()
     numHookes = 0
     numCoulombs = 0
@@ -222,7 +246,7 @@ def loop():
                 for node2, properties2 in node_list.iteritems():
                     if node1 != node2:
                         start_coulomb = time.time()
-                        forceCArray = coulombsLaw(properties1, properties2)
+                        forceCArray = coulombsLaw(properties1, properties2, rangeX)
                         addedXCForce = forceCArray[0]
                         addedYCForce = forceCArray[1]
                         addedZCForce = forceCArray[2]
@@ -266,7 +290,7 @@ def loop():
             #print str(netForceX) + " and "+ str(netForceY)+ " and " + str(netForceZ) + " in " + node1
             if properties1.get("category") == "Source" or properties1.get("category") == "Target":
                 netForceX = 0
-            move(netForceX, netForceY, netForceZ, node1, maxed, startedIter)
+            move(netForceX, netForceY, netForceZ, node1, maxed, startedIter,rangeX)
             numLoops = numLoops + 1
         if startedIter and maxed != 0:
             maxed = maxed - ZDecreaser
