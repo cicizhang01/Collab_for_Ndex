@@ -11,6 +11,8 @@ edge_list = []
 properties_list = {}
 #"true" and "false" are strings
 edge_properties = {}
+#included are avg repulsion, avg spring, avg edge len, avg total force, and nat edge len
+diagnostic = {}
 
 #200
 natLength = 200
@@ -19,16 +21,17 @@ ks = 0.03
 #90, 600
 kg = 600
 #300
-maxRepulsion = 300
+maxRepulsion = 350
 #500
 maxZ = 500
 ZDecreaser = 1
 #200
-iterBegin = 400
+iterBegin = 200
 #1000 50 and 200
 maxLoops = 1000
+sourceTargetPosts = False
 #EGF, FanGO, FanGO3, Direct
-cxFile = 'C-MYB.cx'
+cxFile = 'Hedgehog.cx'
 #sourceXLock = -500
 #targetXLock = 500
 
@@ -54,14 +57,14 @@ def categorizing():
                     out_count = out_count + 1
                 if node == edge.get("target"):
                     in_count = in_count + 1
-        if in_count > 0 and out_count == 0:
+        if in_count > 0 and out_count == 0 and sourceTargetPosts:
             #len(node_list) * 10
             properties["category"] = "Target"
             properties["x"] = range
-        elif out_count > 0 and in_count == 0:
+        elif out_count > 0 and in_count == 0 and sourceTargetPosts:
             properties["category"] = "Source"
             properties["x"] = -range
-        elif in_count > 0 and out_count > 0:
+        elif in_count > 0 and out_count > 0 and sourceTargetPosts:
             properties["category"] = "Middle"
         properties["degree"] = in_count + out_count
     print "Range is negative to positive " + str(float(range))
@@ -95,7 +98,7 @@ def loader(file):
                         if name == "properties":
                             if items.get("NODE_WIDTH"):
                                 properties_list["node_width"] = items.get("NODE_WIDTH")
-                                print properties_list.get("node_width")
+                                #print properties_list.get("node_width")
             if key == "edgeAttributes":
                 for properties in value:
                     dict = {}
@@ -180,7 +183,11 @@ def hookesLaw(a,b,constant):
         return [0,0,0]
     if d2 != 0:
         force = constant*distance/d3
-        return [xdist*force, ydist*force,zdist*force ]
+        if diagnostic.get("avgSpring"):
+            diagnostic["avgSpring"] = diagnostic.get("avgSpring") + abs(xdist*force) + abs(ydist*force) + abs(zdist*force)
+        else:
+            diagnostic["avgSpring"] = abs(xdist*force) + abs(ydist*force) + abs(zdist*force)
+        return [xdist*force, ydist*force, zdist*force]
 
 
 def coulombsLaw(a,b, range):
@@ -196,13 +203,18 @@ def coulombsLaw(a,b, range):
             #constant = kg * math.sqrt(a.get("degree"))
         #else:
             #constant = kg
-        component = (a.get("degree") + b.get("degree"))/2
-        if component > range:
-            component = range
-        if component < -range:
-            component = -range
+        if abs(a.get("degree") + b.get("degree")) == 0:
+            component = 0.5
+        else:
+            component = math.log10(abs(a.get("degree") + b.get("degree")))
+            #print component
         constant = component * kg
+        #print constant
         force = constant / (d3 * d3)
+        if diagnostic.get("avgRepulsion"):
+            diagnostic["avgRepulsion"] = diagnostic.get("avgRepulsion") + abs(force*xdist) + abs(force*ydist) + abs(force*zdist)
+        else:
+            diagnostic["avgRepulsion"] = abs(force * xdist) + abs(force * ydist) + abs(force * zdist)
         return [-force*xdist,-force*ydist,-force*zdist]
 
 def distanceBtw(a,b):
@@ -212,11 +224,32 @@ def distanceBtw(a,b):
     d2 = xdist*xdist+ydist*ydist+zdist*zdist
     return math.sqrt(d2)
 
+def avgEdgeLen():
+    sumEdgeLen = 0
+    for edge in edge_list:
+        source = node_list.get(edge.get("source"))
+        target = node_list.get(edge.get("target"))
+        sumEdgeLen = sumEdgeLen + distanceBtw(source,target)
+    return sumEdgeLen/len(edge_list)
+
 def totalEnergy():
     totalEnergy = 0
     for edge in edge_list:
         totalEnergy = abs(edge.get("length") - natLength) + totalEnergy
     return totalEnergy
+
+def diagnosing():
+    diagnostic["totalEnergy"] = totalEnergy()
+    diagnostic["avgEdgeLen"] = avgEdgeLen()
+    diagnostic["natLen"] = natLength
+    diagnostic["avgRepulsion"] = diagnostic.get("avgRepulsion")/len(edge_list)
+    diagnostic["avgSpring"] = diagnostic.get("avgSpring") / len(edge_list)
+    print "Total Energy = " + str(diagnostic["totalEnergy"]) +\
+          "  Average Edge Length= " + str(diagnostic["avgEdgeLen"]) + \
+          "  Natural Length= " + str(diagnostic["natLen"]) + \
+          "  Average Repulsion= " + str(diagnostic["avgRepulsion"]) + \
+          "  Average String= " + str(diagnostic["avgSpring"])
+
 
 def scaleFactoring():
     numNodes = len(node_list)
@@ -292,14 +325,26 @@ def loop():
                                 #print elapsed_hookes
                                 #print forceHArray
             #print str(netForceX) + " and "+ str(netForceY)+ " and " + str(netForceZ) + " in " + node1
-            if properties1.get("category") == "Source" or properties1.get("category") == "Target":
+            if properties1.get("category") == "Source" or properties1.get("category") == "Target" and sourceTargetPosts:
                 netForceX = 0
+            if netForceX > rangeX*3/4:
+                netForceX = rangeX*3/4
+            if netForceX < -rangeX*3/4:
+                netForceX = -rangeX*3/4
+            if netForceY > rangeX*3/4:
+                netForceY = rangeX*3/4
+            if netForceY < -rangeX*3/4:
+                netForceY = -rangeX*3/4
+            #if netForceZ > rangeX/2:
+                #netForceZ = rangeX/2
+            #if netForceZ < -rangeX/2:
+                #netForceZ = -rangeX/2
             move(netForceX, netForceY, netForceZ, node1, maxed, startedIter,rangeX)
             numLoops = numLoops + 1
         if startedIter and maxed != 0:
             maxed = maxed - ZDecreaser
     elapsed_loop = time.time() - start_loop
-    print elapsed_loop
+    print "Time passed: " + str(elapsed_loop)
     print "Hookes calls: " + str(numHookes)
     print "Coulomb calls: " + str(numCoulombs)
 
@@ -311,3 +356,4 @@ def loop():
 #print node_list
 loop()
 exportToNetwork(cxFile)
+diagnosing()
