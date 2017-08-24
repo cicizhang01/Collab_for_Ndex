@@ -9,7 +9,7 @@ node_list = {}
 #{"source": "0", "target": "1"}
 edge_list = []
 properties_list = {}
-#"true" and "false" are strings
+#"true" and "false" are strings,
 edge_properties = {}
 #included are avg repulsion, avg spring, avg edge len, avg total force, and nat edge len
 diagnostic = {}
@@ -29,14 +29,16 @@ ZDecreaser = 1
 iterBegin = 200
 #1000 50 and 200
 maxLoops = 1000
-sourceTargetPosts = False
-#EGF, FanGO, FanGO3, Direct
+#turns on the source/target pulling
+sourceTargetPosts = True
+#only edges with directed = true will be calculated with
+useDirectedOnly = False
 cxFile = 'Hedgehog.cx'
-#sourceXLock = -500
-#targetXLock = 500
 
 
 # for key, value in d.iteritems():
+
+#sorts nodes into sources and targets
 def categorizing():
     if properties_list.get("node_width"):
         width = float(properties_list["node_width"])
@@ -52,7 +54,7 @@ def categorizing():
                 directed = edge_properties.get(id).get("directed")
             else:
                 directed = "none"
-            if directed == "true":
+            if directed == "true" or useDirectedOnly == False:
                 if node == edge.get("source"):
                     out_count = out_count + 1
                 if node == edge.get("target"):
@@ -70,6 +72,7 @@ def categorizing():
     print "Range is negative to positive " + str(float(range))
     return range
 
+#takes cx file and loads information into node_list and edge_list
 def loader(file):
     #start_loading = time.time()
     with open(file) as data_file:
@@ -111,6 +114,7 @@ def loader(file):
     #print elapsed_loading
     return categorizing()
 
+#takes the positions and loads it into cx file then exports into NDEx
 def exportToNetwork(file):
     #start_export = time.time()
     exists = False
@@ -141,10 +145,11 @@ def exportToNetwork(file):
         data.append(coords)
 
     G = NdexGraph(data)
-    G.upload_to('http://www.ndexbio.org/', 'cc.zhang', 'piggyzhang')
+    G.upload_to('http://www.ndexbio.org/', 'user', 'pass')
     #elapsed_export = time.time() - start_export
     #print elapsed_export
 
+#takes force and moves node
 def move(forceX,forceY,forceZ,node_id,maxZ,startedIter,range):
     maxed = maxZ
     node = node_list.get(node_id)
@@ -355,5 +360,6 @@ def loop():
 #print edge_list
 #print node_list
 loop()
-exportToNetwork(cxFile)
+#exportToNetwork(cxFile)
+print node_list
 diagnosing()
